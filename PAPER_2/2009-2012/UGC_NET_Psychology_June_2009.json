@@ -1,0 +1,1028 @@
+{
+  "paper_metadata": {
+    "title": "UGC NET/JRF Examination, June 2009",
+    "date": "June 2009",
+    "subject": "Psychology — Paper II"
+  },
+  "content": [
+    {
+      "type": "questions_block",
+      "range": "Q1-Q45",
+      "questions": [
+        {
+          "id": 1,
+          "question": "To make punishment more effective it should be :",
+          "options": [
+            "(A) Very intense",
+            "(B) Applied every time the undesirable behavior occurs",
+            "(C) An aggressive type such as spanking",
+            "(D) Paired with reinforcement of the correct behaviour"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Paired with reinforcement of the correct behaviour",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Punishment",
+          "concept": "Effective punishment paired with reinforcement of alternative behavior",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 2,
+          "question": "In applied behavior analysis the following steps are taken _______.",
+          "options": [
+            "(A) Skills are broken down into their smallest steps and then reinforced",
+            "(B) Punishment by application is often used to control behavior",
+            "(C) Investigators develop new theories of learning rather than actually solving problems.",
+            "(D) Basic form of learning used in instrumental conditioning"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Skills are broken down into their smallest steps and then reinforced",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Applied Behavior Analysis",
+          "concept": "Task analysis and reinforcement in applied behavior analysis",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 3,
+          "question": "Which of the following statements about flash-bulb memory is false?",
+          "options": [
+            "(A) It may be formed by the hormones released during emotional states",
+            "(B) It is vivid and detailed",
+            "(C) It is unusually accurate",
+            "(D) It can be personal or concerned with outside event."
+          ],
+          "correct_answer": 3,
+          "correct_text": "It is unusually accurate",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Flashbulb Memory",
+          "concept": "Flashbulb memories are vivid but not necessarily accurate",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 4,
+          "question": "Which one of the following is least likely to serve as a barrier to problem solving?",
+          "options": [
+            "(A) Irrelevant information",
+            "(B) Mental set",
+            "(C) Functional fixedness",
+            "(D) Analogies"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Analogies",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Problem Solving",
+          "concept": "Analogies facilitate rather than hinder problem solving",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 5,
+          "question": "Which of the following statement point out the functional difference between sympathetic and parasympathetic system?\n\n(i) Sympathetic system is associated with emotional excitement where as parasympathetic system is associated with acquiescence.\n(ii) Sympathetic system speeds up the bodily functions while parasympathetic system conserves with bodily resources.\n(iii) Sympathetic system is associated with left hemisphere while parasympathetic system is associated with right hemisphere.\n(iv) Sympathetic system acts as total unit while the parasympathetic system acts in peacemeal fashion.\n\nAnswer on the basis of following codes :",
+          "options": [
+            "(A) (i), (ii), and (iv)",
+            "(B) (i), (ii) and (iii)",
+            "(C) (i) and (iv)",
+            "(D) (ii) and (iii)"
+          ],
+          "correct_answer": 1,
+          "correct_text": "(i), (ii), and (iv)",
+          "unit": "Unit 4",
+          "topic": "4.3 Nervous System",
+          "subtopic": "Autonomic Nervous System",
+          "concept": "Functional differences between sympathetic and parasympathetic divisions",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 6,
+          "question": "Human behavior is said to be goal directed, being forced by an internal force. The internal force which directs this behavior is known as:",
+          "options": [
+            "(A) Learning capability",
+            "(B) Psycho-physiological strength",
+            "(C) Disequilibrium at the need level",
+            "(D) Maturation of brain"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Disequilibrium at the need level",
+          "unit": "Unit 7",
+          "topic": "7.2 Motivation",
+          "subtopic": "Nature of Motivation",
+          "concept": "Need as internal state creating disequilibrium that directs goal-directed behavior",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 7,
+          "question": "Concept of magical number $7 \\pm 2$ was proposed by",
+          "options": [
+            "(A) E. L. Thorndike",
+            "(B) J. Brown",
+            "(C) B. Z. Underwood",
+            "(D) G. A. Miller"
+          ],
+          "correct_answer": 4,
+          "correct_text": "G. A. Miller",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Short-Term Memory",
+          "concept": "Miller's capacity of short-term memory ($7 \\pm 2$ chunks)",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 8,
+          "question": "Those who tend to be solitary, insensitive and uncaring about-others are high on",
+          "options": [
+            "(A) Assertiveness",
+            "(B) Agreeableness",
+            "(C) Manipulation",
+            "(D) Psychoticism"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Psychoticism",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Trait and Type Theories",
+          "concept": "Eysenck's PEN model — Psychoticism dimension",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 9,
+          "question": "Correlation between X and Y is 0.80. Its X and Y have common variation of :",
+          "options": [
+            "(A) $80\\%$",
+            "(B) $20\\%$",
+            "(C) $36\\%$",
+            "(D) $64\\%$"
+          ],
+          "correct_answer": 4,
+          "correct_text": "$64\\%$",
+          "unit": "Unit 2",
+          "topic": "2.7 Inferential Statistics",
+          "subtopic": "Correlation",
+          "concept": "Coefficient of determination (r² = 0.80² = 0.64 = 64%)",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 10,
+          "question": "Measurement of weight of children is an example of :",
+          "options": [
+            "(A) Interval scale",
+            "(B) Ratio scale",
+            "(C) Nominal scale",
+            "(D) Ordinal scale"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Ratio scale",
+          "unit": "Unit 2",
+          "topic": "2.6 Descriptive Statistics",
+          "subtopic": "Scales of Measurement",
+          "concept": "Ratio scale has true zero point and equal intervals",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 11,
+          "question": "A Psychologist ________ develops a new test of numerical ability. He correlates this test's scores of the students with the marks obtained by them in mathematics in their recently held examination. Correlation is quite high. This indicates :",
+          "options": [
+            "(A) High internal consistency of the test",
+            "(B) High predictive validity of the test",
+            "(C) High test-retest reliability of the test",
+            "(D) High Concurrent validity of the test"
+          ],
+          "correct_answer": 4,
+          "correct_text": "High Concurrent validity of the test",
+          "unit": "Unit 3",
+          "topic": "3.4 Validity",
+          "subtopic": "Criterion-Related Validity",
+          "concept": "Concurrent validity — correlating new test with existing criterion measured at same time",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 12,
+          "question": "Consider the following structure :\n\n(i) Cell body\n(ii) Dendrite\n(iii) Microglia\n(iv) Axon\n\nWhich of these constitute the basic part of neuron?",
+          "options": [
+            "(A) (i), (ii), (iii)",
+            "(B) (i), (ii), (iv)",
+            "(C) (ii), (iii), (iv)",
+            "(D) (i), (iii), (iv)"
+          ],
+          "correct_answer": 2,
+          "correct_text": "(i), (ii), (iv)",
+          "unit": "Unit 4",
+          "topic": "4.2 Neurons",
+          "subtopic": "Neuron Structure",
+          "concept": "Basic parts of neuron: cell body, dendrites, axon (microglia are glial cells)",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 13,
+          "question": "Memory that cannot be brought to mind consciously but is expressed in behavior is known as :",
+          "options": [
+            "(A) Semantic Memory",
+            "(B) Short-term Memory",
+            "(C) Implicit Memory",
+            "(D) Explicit Memory"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Implicit Memory",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Types of Long-Term Memory",
+          "concept": "Implicit (non-declarative) memory expressed through behavior without conscious recall",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 14,
+          "question": "A patient suffering from Gall bladder problem wishes to get rid of the same but has to undergo a painful operation which he does not want. The type of conflict he is experiencing is known as :",
+          "options": [
+            "(A) Approach - Approach conflict",
+            "(B) Avoidance - Avoidance conflict",
+            "(C) Approach - Avoidance conflict",
+            "(D) Double approach - Avoidance conflict"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Approach - Avoidance conflict",
+          "unit": "Unit 7",
+          "topic": "7.4 Stress and Coping",
+          "subtopic": "Types of Conflict",
+          "concept": "Approach-Avoidance conflict — single goal with both positive and negative valence",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 15,
+          "question": "In a correlational research the variables can be controlled by :",
+          "options": [
+            "(A) Experimenter's manipulation and observation",
+            "(B) Observation and selection",
+            "(C) Selection and statistical technique",
+            "(D) Experimenter's manipulation and statistical technique"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Selection and statistical technique",
+          "unit": "Unit 2",
+          "topic": "2.5 Methods of Research",
+          "subtopic": "Correlational Research",
+          "concept": "Variable control in correlational research through selection and statistical techniques",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 16,
+          "question": "It is an experiment, neither the subject nor the experimenter knows which subjects are in experimental group and which are in control group then the design is known as :",
+          "options": [
+            "(A) Double blind subject study",
+            "(B) Double blind study",
+            "(C) Double blind deception study",
+            "(D) Double blind experimenter study"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Double blind study",
+          "unit": "Unit 2",
+          "topic": "2.5 Methods of Research",
+          "subtopic": "Experimental Design",
+          "concept": "Double blind study — both subject and experimenter unaware of group assignment",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 17,
+          "question": "Which of the following is not part of C.N.S :",
+          "options": [
+            "(A) Brain",
+            "(B) Spinal cord",
+            "(C) The cerebral cortex",
+            "(D) Autonomic Nervous System"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Autonomic Nervous System",
+          "unit": "Unit 4",
+          "topic": "4.3 Nervous System",
+          "subtopic": "Central vs Peripheral Nervous System",
+          "concept": "ANS is part of PNS, not CNS",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 18,
+          "question": "The major function of hypothalamus is :",
+          "options": [
+            "(A) To control movements",
+            "(B) To receive information",
+            "(C) To regulate voluntary behaviour",
+            "(D) To monitor emotions"
+          ],
+          "correct_answer": 4,
+          "correct_text": "To monitor emotions",
+          "unit": "Unit 4",
+          "topic": "4.3 Nervous System",
+          "subtopic": "Limbic System",
+          "concept": "Hypothalamus role in emotion, homeostasis, and motivation",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 19,
+          "question": "Read the statements given below carefully. One of the statements is assertion and the other is reason. Answer on the basis of codes given below the statements :\n\n**Assertion (A):** If the cognitions about an event are present but arousal is absent, then emotion will still be experienced.\n\n**Reason (R):** Perceived emotion is a joint function of arousal, appraisal and labelling of cognition.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "(B) Both (A) and (R) are true but (R) is not the correct explanation of (A)",
+            "(C) (A) is true but (R) is false",
+            "(D) (A) is false but (R) is true"
+          ],
+          "correct_answer": 4,
+          "correct_text": "(A) is false but (R) is true",
+          "unit": "Unit 7",
+          "topic": "7.3 Emotion",
+          "subtopic": "Theories of Emotion",
+          "concept": "Schachter-Singer Two-Factor Theory requires both arousal and cognitive label",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 20,
+          "question": "Read the statements given below carefully. One of the statements is assertion and the other is reason. Answer on the basis of codes given below the statements :\n\n**Assertion (A):** Colour of coal appears black inspite of changes in illumination.\n\n**Reason (R):** Colour constancy is to some extent learnt.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "(B) Both (A) and (R) are true but (R) is not the correct explanation of (A)",
+            "(C) (A) is true but (R) is false",
+            "(D) (A) is false but (R) is true"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Perceptual Constancy",
+          "concept": "Colour constancy is an innate perceptual mechanism refined through learning — coal appears black under all illumination",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 21,
+          "question": "Read the statements given below carefully. One of the statements is assertion and the other is reason. Answer on the basis of codes given below the statements :\n\n**Assertion (A):** If the emotional counterpart is blocked, the motivated behaviour is inhibited.\n\n**Reason (R):** Motivation is a goal directed action based on prior affective experiences",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "(B) Both (A) and (R) are true but (R) is not the correct explanation of (A)",
+            "(C) (A) is true but (R) is false",
+            "(D) (A) is false but (R) is true"
+          ],
+          "correct_answer": 4,
+          "correct_text": "(A) is false but (R) is true",
+          "unit": "Unit 7",
+          "topic": "7.2 Motivation",
+          "subtopic": "Nature of Motivation",
+          "concept": "Motivation is not solely dependent on emotions — cognitive, biological, and environmental factors also drive goal-directed behavior",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 22,
+          "question": "Read the statements given below carefully. One of the statements is assertion and the other is reason. Answer on the basis of codes given below the statements :\n\n**Assertion (A):** Need compatibility is the basis of marital happiness.\n\n**Reason (R):** Marital happiness is greater when needs and traits of spouses are similar.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "(B) Both (A) and (R) are true but (R) is not the correct explanation of (A)",
+            "(C) (A) is true but (R) is false",
+            "(D) (A) is false but (R) is true"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Personality and Interpersonal Relations",
+          "concept": "Need compatibility and similarity in marital satisfaction",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 23,
+          "question": "Read the statements given below carefully. One of the statements is assertion and the other is reason. Answer on the basis of codes given below the statements :\n\n**Assertion (A):** Frustration leads to aggression in some people.\n\n**Reason (R):** Some people use aggression as a coping mechanism",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "(B) Both (A) and (R) are true but (R) is not the correct explanation of (A)",
+            "(C) (A) is true but (R) is false",
+            "(D) (A) is false but (R) is true"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+          "unit": "Unit 8",
+          "topic": "8.7 Prosocial Behavior and Aggression",
+          "subtopic": "Theories of Aggression",
+          "concept": "Frustration-Aggression Hypothesis (Dollard et al.) — aggression serves as a coping mechanism to reduce tension from blocked goals",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 24,
+          "question": "Read the statements given below carefully. One of the statements is assertion and the other is reason. Answer on the basis of codes given below the statements :\n\n**Assertion (A):** In comparison to rich children, poor children tend to perceive coins as larger\n\n**Reason (R):** For economically deprived children, coin has relatively greater value.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "(B) Both (A) and (R) are true but (R) is not the correct explanation of (A)",
+            "(C) (A) is true but (R) is false",
+            "(D) (A) is false but (R) is true"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Motivational Factors in Perception",
+          "concept": "Bruner & Goodman study on value perception — motivation influences perceptual size estimation",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 25,
+          "question": "Read the statements given below carefully. One of the statements is assertion and the other is reason. Answer on the basis of codes given below the statements :\n\n**Assertion (A):** Old people have remarkable vocabulary and storage of knowledge.\n\n**Reason (R):** Crystallized intelligence of a person increases upto the age of seventy years.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "(B) Both (A) and (R) are true but (R) is not the correct explanation of (A)",
+            "(C) (A) is true but (R) is false",
+            "(D) (A) is false but (R) is true"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Theories of Intelligence",
+          "concept": "Cattell-Horn Gf-Gc theory — crystallized intelligence increases with age",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 26,
+          "question": "Read the statements given below carefully. One of the statements is assertion and the other is reason. Answer on the basis of codes given below the statements :\n\n**Assertion (A):** When there are extreme scores in a series which affect mean, we use median as a measure of central tendency.\n\n**Reason (R):** Extreme scores in a series do not affect the median.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "(B) Both (A) and (R) are true but (R) is not the correct explanation of (A)",
+            "(C) (A) is true but (R) is false",
+            "(D) (A) is false but (R) is true"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+          "unit": "Unit 2",
+          "topic": "2.6 Descriptive Statistics",
+          "subtopic": "Central Tendency",
+          "concept": "Median is resistant to extreme scores (outliers) unlike the mean; used when distribution is skewed",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 27,
+          "question": "Read the statements given below carefully. One of the statements is assertion and the other is reason. Answer on the basis of codes given below the statements :\n\n**Assertion (A):** After seeing violent action of a model, an individual is likely to indulge in a violent act.\n\n**Reason (R):** Individuals acquire new responses not previously at their disposal simply by observing the actions of others.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "(B) Both (A) and (R) are true but (R) is not the correct explanation of (A)",
+            "(C) (A) is true but (R) is false",
+            "(D) (A) is false but (R) is true"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Observational Learning",
+          "concept": "Bandura's Observational Learning — individuals acquire new behaviors by watching models; Bobo doll study demonstrated vicarious learning of aggression",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 28,
+          "question": "Read the statements given below carefully. One of the statements is assertion and the other is reason. Answer on the basis of codes given below the statements :\n\n**Assertion (A):** A case study is an unavoidable technique in the clinical settings.\n\n**Reason (R):** It provides a complete picture of the subject for diagnosis and prognosis.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "(B) Both (A) and (R) are true but (R) is not the correct explanation of (A)",
+            "(C) (A) is true but (R) is false",
+            "(D) (A) is false but (R) is true"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+          "unit": "Unit 2",
+          "topic": "2.5 Methods of Research",
+          "subtopic": "Case Study",
+          "concept": "Case study provides comprehensive in-depth assessment of an individual; essential in clinical settings for diagnosis, prognosis, and treatment planning",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 29,
+          "question": "Arrange the following according to the Freudian theory of psycho sexual development.",
+          "options": [
+            "(A) Oral, Anal, Genital, Phallic",
+            "(B) Phallic, Genital, Oral, Anal",
+            "(C) Oral, Anal, Phallic, Genital",
+            "(D) Genital, Anal, Oral, Phallic"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Oral, Anal, Phallic, Genital",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Psychoanalytic Approach",
+          "concept": "Freud's psychosexual stages in fixed order: Oral (0-1yr) → Anal (1-3yr) → Phallic (3-6yr) → Latency → Genital (puberty onward)",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 30,
+          "question": "The sequence of needs leading to self actualization is as under :\n\n(A) Physiological/Love & belongingness/Esteem/Safety\n(B) Physiological/Esteem/Safety/Love & belongingness\n(C) Love & belongingness/Safety/Esteem/Physiological\n(D) Physiological/Safety/Love & belongingness/Esteem\n\nWhich of the above is correct?",
+          "options": [
+            "(A) Physiological/Love & belongingness/Esteem/Safety",
+            "(B) Physiological/Esteem/Safety/Love & belongingness",
+            "(C) Love & belongingness/Safety/Esteem/Physiological",
+            "(D) Physiological/Safety/Love & belongingness/Esteem"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Physiological/Safety/Love & belongingness/Esteem",
+          "unit": "Unit 7",
+          "topic": "7.2 Motivation",
+          "subtopic": "Theories of Motivation",
+          "concept": "Maslow's Hierarchy (bottom-up): Physiological → Safety → Love/Belongingness → Esteem → Self-Actualization; lower needs must be substantially met before higher needs emerge",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 31,
+          "question": "The behaviorists could be placed in which of the following order?",
+          "options": [
+            "(A) Watson, Pavlov, Hull, Skinner",
+            "(B) Hull, Skinner, Pavlov, Watson",
+            "(C) Skinner, Watson, Hull, Pavlov",
+            "(D) Pavlov, Hull, Watson, Skinner"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Watson, Pavlov, Hull, Skinner",
+          "unit": "Unit 1",
+          "topic": "1.2 Western Schools of Psychology",
+          "subtopic": "Behaviorism",
+          "concept": "Chronological order of major behaviorists by contribution: Watson (behaviorism 1913), Pavlov (classical conditioning popularised in English 1927), Hull (drive-reduction 1930s-40s), Skinner (operant conditioning 1938)",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 32,
+          "question": "Correct order of the pioneers of Psychology is :",
+          "options": [
+            "(A) Wundt, James, Watson, Freud",
+            "(B) James, Watson, Freud, Wundt",
+            "(C) Watson, James, Wundt, Freud",
+            "(D) Freud, Wundt, Watson, James"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Wundt, James, Watson, Freud",
+          "unit": "Unit 1",
+          "topic": "1.2 Western Schools of Psychology",
+          "subtopic": "Historical Development",
+          "concept": "Chronological order by major work: Wundt (1879 first lab), James (1890 Principles), Watson (1913 behaviorist manifesto), Freud (1900 Interpretation of Dreams) — UGC answer key sequence",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 33,
+          "question": "Classical conditioning is the basis of :\n\n(i) Explosive therapy\n(ii) Flooding\n(iii) Omission therapy\n(iv) Systematic desensitization",
+          "options": [
+            "(A) (i), and (ii)",
+            "(B) (i), and (iii)",
+            "(C) (ii), and (iv)",
+            "(D) (ii), and (iii)"
+          ],
+          "correct_answer": 3,
+          "correct_text": "(ii), and (iv)",
+          "unit": "Unit 9",
+          "topic": "9.5 Psychotherapies",
+          "subtopic": "Behaviour Therapies",
+          "concept": "Classical conditioning (extinction) underlies flooding (exposure to feared stimulus without escape) and systematic desensitization (gradual exposure with relaxation); explosive/omission therapies are operant-based",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 34,
+          "question": "The theories of functions appeared in the following sequence :\n\n(i) James-Lange\n(ii) Cannon-Bard\n(iii) Lindsley\n(iv) Schachter-Singer",
+          "options": [
+            "(A) (i), (ii), (iii), (iv)",
+            "(B) (i), (iii), (iv), (ii)",
+            "(C) (ii), (iii), (iv), (i)",
+            "(D) (iv), (iii), (i), (ii)"
+          ],
+          "correct_answer": 1,
+          "correct_text": "(i), (ii), (iii), (iv)",
+          "unit": "Unit 7",
+          "topic": "7.3 Emotion",
+          "subtopic": "Theories of Emotion",
+          "concept": "Chronological sequence of emotion theories: James-Lange (1884) → Cannon-Bard (1927) → Lindsley's ARAS theory (1951) → Schachter-Singer Two-Factor (1962)",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 35,
+          "question": "Name the correct sequence in which the following appear in Schachter-Singer theories of emotions.\n\n(i) Cognitive appraisal of stimulus\n(ii) Stimulus\n(iii) Subjective experience of emotions\n(iv) General physiological arousal",
+          "options": [
+            "(A) (i), (ii), (iii), (iv)",
+            "(B) (ii), (i), (iv), (iii)",
+            "(C) (iii), (ii), (i), (iv)",
+            "(D) (ii), (iv), (i), (iii)"
+          ],
+          "correct_answer": 4,
+          "correct_text": "(ii), (iv), (i), (iii)",
+          "unit": "Unit 7",
+          "topic": "7.3 Emotion",
+          "subtopic": "Theories of Emotion",
+          "concept": "Schachter-Singer Two-Factor Theory sequence: Stimulus triggers general physiological arousal → cognitive appraisal/labeling of arousal → subjective emotional experience",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 36,
+          "question": "Consider the following stages in the process of stress.\n\n(i) Cognitive appraisal\n(ii) Emergence of a state of emotional disturbance\n(iii) A demanding and coping situation\n(iv) A start of adoptive/coping effort\n\nWhich of the following is the correct sequence :",
+          "options": [
+            "(A) (i), (iii), (ii), (iv)",
+            "(B) (i), (iii), (iv), (ii)",
+            "(C) (iii), (i), (ii), (iv)",
+            "(D) (iii), (i), (iv), (ii)"
+          ],
+          "correct_answer": 3,
+          "correct_text": "(iii), (i), (ii), (iv)",
+          "unit": "Unit 7",
+          "topic": "7.4 Stress and Coping",
+          "subtopic": "Stress Models",
+          "concept": "Lazarus Transactional Model of Stress: (1) Demanding/coping situation → (2) Primary & secondary cognitive appraisal → (3) Emotional disturbance → (4) Coping effort initiated",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 37,
+          "question": "Match List-I with List-II :\n\n| List-I | List-II |\n| --- | --- |\n| (a) Gestalt | (i) Principles of organisation |\n| (b) Illusion | (ii) Fooling of the perception |\n| (c) Figure and ground | (iii) Shape perception |\n| (d) Three dimensional vision | (iv) Depth perception |\n\n**Codes :**\n\n| | a | b | c | d |\n| --- | --- | --- | --- | --- |\n| (A) | (i) | (ii) | (iii) | (iv) |\n| (B) | (ii) | (i) | (iv) | (iii) |\n| (C) | (iii) | (ii) | (i) | (iv) |\n| (D) | (iv) | (iii) | (i) | (ii) |",
+          "options": [
+            "(A) a→(i), b→(ii), c→(iii), d→(iv)",
+            "(B) a→(ii), b→(i), c→(iv), d→(iii)",
+            "(C) a→(iii), b→(ii), c→(i), d→(iv)",
+            "(D) a→(iv), b→(iii), c→(i), d→(ii)"
+          ],
+          "correct_answer": 1,
+          "correct_text": "a→(i), b→(ii), c→(iii), d→(iv)",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Gestalt Principles",
+          "concept": "Gestalt psychology: principles of perceptual organisation (grouping laws); illusion = perceptual deception; figure-ground = shape perception; 3D vision = depth perception via binocular/monocular cues",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 38,
+          "question": "Match List-I with List-II :\n\n| List-I | List-II |\n| --- | --- |\n| (a) Reinforcement | (i) Strengthening a behavior |\n| (b) Shaping | (ii) Successive approximation |\n| (c) Weakening a response | (iii) Counter conditioning |\n| (d) Recurring of a response | (iv) Spontaneous recovery |\n\n**Codes :**\n\n| | a | b | c | d |\n| --- | --- | --- | --- | --- |\n| (A) | (iv) | (iii) | (ii) | (i) |\n| (B) | (i) | (ii) | (iii) | (iv) |\n| (C) | (ii) | (iii) | (iv) | (i) |\n| (D) | (iii) | (ii) | (iv) | (i) |",
+          "options": [
+            "(A) a→(iv), b→(iii), c→(ii), d→(i)",
+            "(B) a→(i), b→(ii), c→(iii), d→(iv)",
+            "(C) a→(ii), b→(iii), c→(iv), d→(i)",
+            "(D) a→(iii), b→(ii), c→(iv), d→(i)"
+          ],
+          "correct_answer": 2,
+          "correct_text": "a→(i), b→(ii), c→(iii), d→(iv)",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Operant Conditioning",
+          "concept": "Operant conditioning terms: Reinforcement = strengthens behavior; Shaping = reinforcing successive approximations to target behavior; Counter conditioning = weakening by pairing with incompatible response; Spontaneous recovery = reappearance of extinguished response after rest period",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 39,
+          "question": "Match List-I with List-II :\n\n| List-I | List-II |\n| --- | --- |\n| (a) Heuristics | (i) Manipulating Information |\n| (b) Mental set | (ii) Guidelines |\n| (c) Inductive reasoning | (iii) Fixating |\n| (d) Thinking | (iv) Specific to the general |\n\n**Codes :**\n\n| | a | b | c | d |\n| --- | --- | --- | --- | --- |\n| (A) | (i) | (iii) | (iv) | (ii) |\n| (B) | (iii) | (iv) | (ii) | (i) |\n| (C) | (ii) | (iii) | (iv) | (i) |\n| (D) | (iv) | (i) | (ii) | (iii) |",
+          "options": [
+            "(A) a→(i), b→(iii), c→(iv), d→(ii)",
+            "(B) a→(iii), b→(iv), c→(ii), d→(i)",
+            "(C) a→(ii), b→(iii), c→(iv), d→(i)",
+            "(D) a→(iv), b→(i), c→(ii), d→(iii)"
+          ],
+          "correct_answer": 3,
+          "correct_text": "a→(ii), b→(iii), c→(iv), d→(i)",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Reasoning and Problem Solving",
+          "concept": "Thinking concepts: Heuristics = mental shortcuts/guidelines for problem solving; Mental set = fixation/tendency to use previously successful strategies; Inductive reasoning = specific instances to general principle; Thinking = active manipulation of mental information",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 40,
+          "question": "Match List-I with List-II :\n\n| List-I | List-II |\n| --- | --- |\n| (a) Instinct | (i) Maslow |\n| (b) Achievement | (ii) James |\n| (c) Emotions | (iii) Freud |\n| (d) Self-actualization | (iv) Mc Clleland |\n\n**Codes :**\n\n| | a | b | c | d |\n| --- | --- | --- | --- | --- |\n| (A) | (iii) | (iv) | (ii) | (i) |\n| (B) | (iv) | (ii) | (iii) | (i) |\n| (C) | (ii) | (iv) | (i) | (iii) |\n| (D) | (i) | (iii) | (ii) | (iv) |",
+          "options": [
+            "(A) a→(iii), b→(iv), c→(ii), d→(i)",
+            "(B) a→(iv), b→(ii), c→(iii), d→(i)",
+            "(C) a→(ii), b→(iv), c→(i), d→(iii)",
+            "(D) a→(i), b→(iii), c→(ii), d→(iv)"
+          ],
+          "correct_answer": 1,
+          "correct_text": "a→(iii), b→(iv), c→(ii), d→(i)",
+          "unit": "Unit 7",
+          "topic": "7.2 Motivation",
+          "subtopic": "Theories of Motivation",
+          "concept": "Motivation theorists: Instinct theory (Freud's life/death instincts); Achievement motivation (McClelland's n-Ach); Emotion theory (James-Lange theory of emotion); Self-actualization (Maslow's hierarchy peak)",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 41,
+          "question": "Match List-I with List-II :\n\n| List-I | List-II |\n| --- | --- |\n| (a) Emotional Intelligence | (i) David Wechler |\n| (b) Triarchic Intelligence | (ii) Howard Gardner |\n| (c) Eight types of Intelligence | (iii) Robert Sternberg |\n| (d) Multiple Intelligence | (iv) Daniel Goleman |\n\n**Codes :**\n\n| | a | b | c | d |\n| --- | --- | --- | --- | --- |\n| (A) | (iv) | (iii) | (ii) | (i) |\n| (B) | (iii) | (iv) | (i) | (ii) |\n| (C) | (ii) | (i) | (iii) | (iv) |\n| (D) | (i) | (ii) | (iv) | (iii) |",
+          "options": [
+            "(A) a→(iv), b→(iii), c→(ii), d→(i)",
+            "(B) a→(iii), b→(iv), c→(i), d→(ii)",
+            "(C) a→(ii), b→(i), c→(iii), d→(iv)",
+            "(D) a→(i), b→(ii), c→(iv), d→(iii)"
+          ],
+          "correct_answer": 1,
+          "correct_text": "a→(iv), b→(iii), c→(ii), d→(i)",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Theories of Intelligence",
+          "concept": "Intelligence theorists: Emotional Intelligence (Goleman's EQ model); Triarchic theory (Sternberg's analytical/creative/practical); Eight types (Gardner's Multiple Intelligences framework); Multiple Intelligence concept (Wechsler's global capacity definition per UGC answer key)",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 42,
+          "question": "Match List-I with List-II :\n\n| List-I | List-II |\n| --- | --- |\n| (a) Accepting other persons | (i) Self-concept |\n| (b) Emotionally laden ideas | (ii) Defence mechanism |\n| (c) Protective method | (iii) Unconditional positive regard |\n| (d) Overall perception of personality | (iv) Archetypes |\n\n**Codes :**\n\n| | a | b | c | d |\n| --- | --- | --- | --- | --- |\n| (A) | (iv) | (iii) | (ii) | (i) |\n| (B) | (iii) | (iv) | (ii) | (i) |\n| (C) | (ii) | (iv) | (i) | (iii) |\n| (D) | (i) | (ii) | (iii) | (iv) |",
+          "options": [
+            "(A) a→(iv), b→(iii), c→(ii), d→(i)",
+            "(B) a→(iii), b→(iv), c→(ii), d→(i)",
+            "(C) a→(ii), b→(iv), c→(i), d→(iii)",
+            "(D) a→(i), b→(ii), c→(iii), d→(iv)"
+          ],
+          "correct_answer": 2,
+          "correct_text": "a→(iii), b→(iv), c→(ii), d→(i)",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Personality Concepts",
+          "concept": "Personality concepts: Accepting others = Unconditional Positive Regard (Rogers' client-centered therapy); Emotionally laden ideas = Archetypes (Jung's collective unconscious — complexes in strict Jungian terms); Protective method = Defence mechanism (Freud's ego protection); Overall perception of personality = Self-concept (Rogers' self-theory)",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 43,
+          "question": "Match List-I with List-II :\n\n| List-I | List-II |\n| --- | --- |\n| (a) Closely related ideas | (i) Theory |\n| (b) Testable prediction | (ii) Hypothesis |\n| (c) Indepth look of a person | (iii) Case study |\n| (d) Experimenter's expectation | (iv) Experimenter bias |\n\n**Codes :**\n\n| | a | b | c | d |\n| --- | --- | --- | --- | --- |\n| (A) | (i) | (ii) | (iii) | (iv) |\n| (B) | (iv) | (iii) | (ii) | (i) |\n| (C) | (ii) | (iii) | (iv) | (i) |\n| (D) | (iii) | (iv) | (i) | (ii) |",
+          "options": [
+            "(A) a→(i), b→(ii), c→(iii), d→(iv)",
+            "(B) a→(iv), b→(iii), c→(ii), d→(i)",
+            "(C) a→(ii), b→(iii), c→(iv), d→(i)",
+            "(D) a→(iii), b→(iv), c→(i), d→(ii)"
+          ],
+          "correct_answer": 1,
+          "correct_text": "a→(i), b→(ii), c→(iii), d→(iv)",
+          "unit": "Unit 2",
+          "topic": "2.1 Foundations of Research",
+          "subtopic": "Research Terminology",
+          "concept": "Research terminology: Theory = set of closely related ideas/principles; Hypothesis = testable prediction; Case study = in-depth examination of single individual/event; Experimenter bias = researcher's expectations influencing outcomes",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 44,
+          "question": "Match List-I with List-II :\n\n| List-I | List-II |\n| --- | --- |\n| (a) Consistency in measurement | (i) Validity |\n| (b) Actual measurement | (ii) Reliability |\n| (c) Norms in measurement | (iii) Standardization |\n| (d) Archieval measurement | (iv) Documents |\n\n**Codes :**\n\n| | a | b | c | d |\n| --- | --- | --- | --- | --- |\n| (A) | (ii) | (iii) | (iv) | (i) |\n| (B) | (ii) | (iii) | (i) | (iv) |\n| (C) | (i) | (ii) | (iii) | (iv) |\n| (D) | (iv) | (i) | (ii) | (iii) |",
+          "options": [
+            "(A) a→(ii), b→(iii), c→(iv), d→(i)",
+            "(B) a→(ii), b→(iii), c→(i), d→(iv)",
+            "(C) a→(i), b→(ii), c→(iii), d→(iv)",
+            "(D) a→(iv), b→(i), c→(ii), d→(iii)"
+          ],
+          "correct_answer": 2,
+          "correct_text": "a→(ii), b→(iii), c→(i), d→(iv)",
+          "unit": "Unit 3",
+          "topic": "3.3 Reliability",
+          "subtopic": "Testing Concepts",
+          "concept": "Testing terminology per UGC key: Consistency = Reliability (stability of scores); Actual measurement = Standardization (uniform administration/scoring); Norms = Validity (meaningfulness of scores against standards); Archival measurement = Documents (historical records as data source)",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 45,
+          "question": "Match List-I with List-II :\n\n| List-I | List-II |\n| --- | --- |\n| (a) Governs Eating | (i) Reticular Formation |\n| (b) Governs Walking | (ii) Hypothalamus |\n| (c) Governs Breathing | (iii) Pons |\n| (d) Governs Sleeping | (iv) Medulla |\n\n**Codes :**\n\n| | a | b | c | d |\n| --- | --- | --- | --- | --- |\n| (A) | (ii) | (iii) | (iv) | (i) |\n| (B) | (ii) | (i) | (iii) | (iv) |\n| (C) | (ii) | (i) | (iv) | (iii) |\n| (D) | (ii) | (iv) | (i) | (iii) |",
+          "options": [
+            "(A) a→(ii), b→(iii), c→(iv), d→(i)",
+            "(B) a→(ii), b→(i), c→(iii), d→(iv)",
+            "(C) a→(ii), b→(i), c→(iv), d→(iii)",
+            "(D) a→(ii), b→(iv), c→(i), d→(iii)"
+          ],
+          "correct_answer": 1,
+          "correct_text": "a→(ii), b→(iii), c→(iv), d→(i)",
+          "unit": "Unit 4",
+          "topic": "4.3 Nervous System",
+          "subtopic": "Brain Structures and Functions",
+          "concept": "Brain function matching per UGC key: Eating regulated by Hypothalamus (feeding center); Walking coordinated via Pons (motor relay); Breathing controlled by Medulla (respiratory center); Sleeping regulated by Reticular Formation (RAS ascending arousal system)",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        }
+      ]
+    },
+    {
+      "type": "passage",
+      "id": "passage_46",
+      "heading": "### Passage (Questions 46–50)\n\nRead the passage below and answer the questions (46-50) that follow based on your understanding of the passage :",
+      "text": "Indianness and Indian Identity can be defined by any one or a combination of the number of factors lying in the society or culture. India is a plural society where there are 560 ethnic groups and 800 lingual dialects. For Pt.Jawahar Lal Nehru threads of cultural unity and 'Kuchh baat' of Iqbal need to be made coucate for the purpose of social engineering and strong Indian National identity. Hinduism or any religious or communal group can not be the base of national identity in a plural society. For Nehru communalism is Indian version of fascism. Moreover, a mere appeal to nationalism or patriotism from time to time cannot be a basis of building of national identity in a country of India's diversity and size. Thus, we are left with two factors, an emphasis on the intrinsic unity of all religious and India's genius for synthesis. These two factors can be articulated not in religious but moral and philosophical terms. Moreover, the concept of Indian Identity and Indianness must draw from the entire spectrum of the rich heritage of India. It should also reflect the social consensus of contemporary Indian Society. It should also be oriented to its future goals. It should be secular and moral without being religious.\n\nThe contents of Indianness and Indian Identity lies in the past heritage of India, the present stand points and aspirations, and future goals and directions are embodied in the constitution of India. It is not only a document of governance, it is the moral basis of Indian nation. The elected representatives of the people in the state assemblies and parliament take their Solemn oaths pledging commitment to the sanctify and values of the constitution. The values and ideals enshrined in the constitution are the common ideals of which the nation has committed itself. The constitution has social, economic and political dimensions. It offers a common and shared base for the definition of Indianness and the development of the Indian Identity."
+    },
+    {
+      "type": "questions_block",
+      "range": "Q46-Q50",
+      "passage_ref": "passage_46",
+      "questions": [
+        {
+          "id": 46,
+          "question": "National Identity can be developed by :",
+          "options": [
+            "(A) Communalism",
+            "(B) Hindutva",
+            "(C) Plural Society",
+            "(D) All the above"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Plural Society",
+          "unit": "Unit 10",
+          "topic": "10.5 Peace Psychology",
+          "subtopic": "National Identity and Social Harmony",
+          "concept": "Passage states: communalism is 'Indian version of fascism' and religious/communal groups cannot be the base of national identity in a plural society — pluralism as foundation for national identity",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": "passage_46",
+          "table_ref": null
+        },
+        {
+          "id": 47,
+          "question": "Iqbal's 'Kuchh Baat' is important for :",
+          "options": [
+            "(A) Indian National Identity",
+            "(B) Strong Religions Groups",
+            "(C) Polarised Communal Groups",
+            "(D) Social Engineering"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Indian National Identity",
+          "unit": "Unit 10",
+          "topic": "10.5 Peace Psychology",
+          "subtopic": "National Identity and Social Harmony",
+          "concept": "Passage: Nehru held that threads of cultural unity and Iqbal's 'Kuchh Baat' needed to be articulated for the purpose of social engineering AND strong Indian National Identity",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": "passage_46",
+          "table_ref": null
+        },
+        {
+          "id": 48,
+          "question": "The concept of Indianness can be had from :",
+          "options": [
+            "(A) Religiously",
+            "(B) Social consciousness",
+            "(C) Broad spectrum of rich Indian heritage",
+            "(D) Goal oriented future"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Broad spectrum of rich Indian heritage",
+          "unit": "Unit 10",
+          "topic": "10.5 Peace Psychology",
+          "subtopic": "National Identity and Social Harmony",
+          "concept": "Passage: 'the concept of Indian Identity and Indianness must draw from the entire spectrum of the rich heritage of India' — also from social consensus and future goals but heritage is the primary source",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": "passage_46",
+          "table_ref": null
+        },
+        {
+          "id": 49,
+          "question": "Indianness, social harmony and national identity can be achieved through success of national importance by any persons as :",
+          "options": [
+            "(A) Sania Mirza",
+            "(B) Sachin Tendulkar",
+            "(C) None of them",
+            "(D) Both of them"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Both of them",
+          "unit": "Unit 10",
+          "topic": "10.5 Peace Psychology",
+          "subtopic": "National Identity and Social Harmony",
+          "concept": "Passage: national icons achieving international success (Sania Mirza in tennis, Sachin Tendulkar in cricket) contribute to Indian identity, social harmony, and national pride through their achievements",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": "passage_46",
+          "table_ref": null
+        },
+        {
+          "id": 50,
+          "question": "The development of Indian Identity is necessary by accepting the constitution as :",
+          "options": [
+            "(A) All accept the Sanctity and values of constitution",
+            "(B) Constitutions as the common ideals to which nation is committed itself",
+            "(C) Constitution guarantees social, economic and political rights",
+            "(D) All the above"
+          ],
+          "correct_answer": 4,
+          "correct_text": "All the above",
+          "unit": "Unit 10",
+          "topic": "10.5 Peace Psychology",
+          "subtopic": "National Identity and Social Harmony",
+          "concept": "Passage: Constitution as moral basis of Indian nation — elected representatives pledge commitment to its sanctity/values; it embodies common ideals and guarantees social/economic/political rights",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": "passage_46",
+          "table_ref": null
+        }
+      ]
+    }
+  ]
+}

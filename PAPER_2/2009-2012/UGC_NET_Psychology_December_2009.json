@@ -1,0 +1,1028 @@
+{
+  "paper_metadata": {
+    "title": "UGC NET/JRF Examination, December 2009",
+    "date": "December 2009",
+    "subject": "Psychology — Paper II"
+  },
+  "content": [
+    {
+      "type": "questions_block",
+      "range": "Q1–Q45",
+      "questions": [
+        {
+          "id": 1,
+          "question": "When a test is applied to two equivalent groups of subjects and the two sets of scores are matching, we get",
+          "options": [
+            "(A) cross-validation",
+            "(B) test-retest reliability",
+            "(C) equivalent form reliability",
+            "(D) rational equivalence reliability"
+          ],
+          "correct_answer": 3,
+          "correct_text": "equivalent form reliability",
+          "unit": "Unit 3",
+          "topic": "3.3 Reliability",
+          "subtopic": "Parallel (Alternate) forms",
+          "concept": "Equivalent forms reliability using two equivalent groups with matching scores",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 2,
+          "question": "When the information is not being transmitted, the inside of a neuron, as compared to the outside, is",
+          "options": [
+            "(A) slightly positive",
+            "(B) largely positive",
+            "(C) slightly negative",
+            "(D) largely negative"
+          ],
+          "correct_answer": 3,
+          "correct_text": "slightly negative",
+          "unit": "Unit 4",
+          "topic": "4.2 Neurons",
+          "subtopic": "Action potential",
+          "concept": "Resting membrane potential — inside of neuron is slightly negative (~-70mV)",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 3,
+          "question": "Which one of the following is not the component of Goleman's Concept of Emotional Intelligence ?",
+          "options": [
+            "(A) Knowing our own emotions",
+            "(B) Managing our own emotions",
+            "(C) Analytical ability",
+            "(D) Interpersonal skills"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Analytical ability",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Emotional Intelligence",
+          "concept": "Goleman's EI components: knowing, managing own emotions, motivating oneself, recognizing others' emotions, interpersonal skills",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 4,
+          "question": "For a scale, norms were developed using T scores (Mean = 50, S.D. = 10). A subject got a T score of 60. What would be his PR ?",
+          "options": [
+            "(A) 16",
+            "(B) 34",
+            "(C) 60",
+            "(D) 84"
+          ],
+          "correct_answer": 4,
+          "correct_text": "84",
+          "unit": "Unit 3",
+          "topic": "3.5 Norms and Standardization",
+          "subtopic": "Derived scores",
+          "concept": "T-score to percentile rank conversion: T=60 means z=+1, which corresponds to PR=84",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 5,
+          "question": "Match List-I with List-II\n\n| List-I | List-II |\n| --- | --- |\n| (a) Aptitude | (1) Two factor theory of intelligence |\n| (b) Hereditary | (2) WAIS |\n| (c) Spearman | (3) Special ability |\n| (d) Measurement of Intelligence | (4) Genes |\n\n| | a | b | c | d |\n| --- | --- | --- | --- | --- |\n| (A) | 3 | 4 | 1 | 2 |\n| (B) | 4 | 3 | 2 | 1 |\n| (C) | 3 | 1 | 2 | 4 |\n| (D) | 1 | 2 | 3 | 4 |",
+          "options": [
+            "(A) a-3, b-4, c-1, d-2",
+            "(B) a-4, b-3, c-2, d-1",
+            "(C) a-3, b-1, c-2, d-4",
+            "(D) a-1, b-2, c-3, d-4"
+          ],
+          "correct_answer": 1,
+          "correct_text": "a-3, b-4, c-1, d-2",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Theories of Intelligence",
+          "concept": "Matching: Aptitude=Special ability, Hereditary=Genes, Spearman=Two factor theory, Measurement of Intelligence=WAIS",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 6,
+          "question": "According to Atkinson's theory, the tendency to approach an achievement task is a function of",
+          "options": [
+            "(A) The motive for success.",
+            "(B) The subjective probability of success on the task.",
+            "(C) The incentive value of reaching the goal.",
+            "(D) All of the above."
+          ],
+          "correct_answer": 4,
+          "correct_text": "All of the above.",
+          "unit": "Unit 7",
+          "topic": "7.2 Motivation",
+          "subtopic": "Need for Achievement",
+          "concept": "Atkinson's achievement motivation model: Ts = Ms × Ps × Is (motive, probability, incentive)",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 7,
+          "question": "Match List-I with List-II and select the correct answer using the codes given below the list.\n\n| List-I (EEG Record) | List-II (State of the individual) |\n| --- | --- |\n| (a) Alpha | (1) Deep sleep |\n| (b) Beta | (2) Alert |\n| (c) Delta | (3) Emotional state |\n| (d) Theta | (4) Relaxed |\n\n**Codes:**\n\n| | a | b | c | d |\n| --- | --- | --- | --- | --- |\n| (A) | 3 | 1 | 2 | 4 |\n| (B) | 4 | 2 | 1 | 3 |\n| (C) | 1 | 2 | 3 | 4 |\n| (D) | 4 | 1 | 2 | 3 |",
+          "options": [
+            "(A) a-3, b-1, c-2, d-4",
+            "(B) a-4, b-2, c-1, d-3",
+            "(C) a-1, b-2, c-3, d-4",
+            "(D) a-4, b-1, c-2, d-3"
+          ],
+          "correct_answer": 2,
+          "correct_text": "a-4, b-2, c-1, d-3",
+          "unit": "Unit 4",
+          "topic": "4.4 Methods of Physiological Psychology",
+          "subtopic": "EEG",
+          "concept": "EEG wave patterns: Alpha=relaxed, Beta=alert, Delta=deep sleep, Theta=emotional/drowsy state",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 8,
+          "question": "Memories of historical facts are to ______ memory, as memories of your breakfast this morning are to ______ memory.",
+          "options": [
+            "(A) episodic ; procedural",
+            "(B) semantic ; episodic",
+            "(C) procedural ; semantic",
+            "(D) long-term ; short term"
+          ],
+          "correct_answer": 2,
+          "correct_text": "semantic ; episodic",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Stages and Types",
+          "concept": "Semantic memory (general facts/knowledge) vs. Episodic memory (personal events/experiences)",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 9,
+          "question": "According to Tulving the 3 systems of memory are",
+          "options": [
+            "(A) Immediate memory, short term memory and long term memory.",
+            "(B) Working memory, meta memory and short term memory.",
+            "(C) Procedural memory, semantic memory and episodic memory.",
+            "(D) Sensory memory, mnemonics and secondary memory."
+          ],
+          "correct_answer": 3,
+          "correct_text": "Procedural memory, semantic memory and episodic memory.",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Stages and Types",
+          "concept": "Tulving's three memory systems: Procedural, Semantic, and Episodic",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 10,
+          "question": "Match List-I (training in) with List-II (Helps in learning) and select the correct answer using the codes given below :\n\n| List-I | List-II |\n| --- | --- |\n| (a) Piano | (1) Rote memory |\n| (b) Sanskrit | (2) English |\n| (c) Latin | (3) Typing |\n| (d) Recitation | (4) Hindi |\n\n**Codes:**\n\n| | a | b | c | d |\n| --- | --- | --- | --- | --- |\n| (A) | 3 | 4 | 2 | 1 |\n| (B) | 3 | 4 | 1 | 2 |\n| (C) | 4 | 3 | 1 | 2 |\n| (D) | 4 | 3 | 2 | 1 |",
+          "options": [
+            "(A) a-3, b-4, c-2, d-1",
+            "(B) a-3, b-4, c-1, d-2",
+            "(C) a-4, b-3, c-1, d-2",
+            "(D) a-4, b-3, c-2, d-1"
+          ],
+          "correct_answer": 1,
+          "correct_text": "a-3, b-4, c-2, d-1",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Transfer of learning",
+          "concept": "Transfer of training: Piano→typing (motor), Sanskrit→Hindi (linguistic), Latin→English (linguistic), Recitation→rote memory",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 11,
+          "question": "Who provided for the first time the powerful set of pictorial cues?",
+          "options": [
+            "(A) Koffka",
+            "(B) Wertheimer",
+            "(C) Kohler",
+            "(D) Gibson"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Koffka",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Depth Perception",
+          "concept": "Koffka (Gestalt psychologist) — first to systematically introduce pictorial cues as part of visual perception research",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 12,
+          "question": "Sohan met with a head injury in a road accident. Since the accident, Sohan is unable to form new memories. He remembers many things which he did before accident but he cannot remember what he said fifteen minutes ago. The part of Sohan's brain, which was most probably injured was",
+          "options": [
+            "(A) brain stem",
+            "(B) hippocampus",
+            "(C) spinal cord",
+            "(D) reticular formation"
+          ],
+          "correct_answer": 2,
+          "correct_text": "hippocampus",
+          "unit": "Unit 4",
+          "topic": "4.3 Nervous System",
+          "subtopic": "Brain structures",
+          "concept": "Hippocampus role in memory consolidation — damage causes anterograde amnesia (HM case study)",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 13,
+          "question": "The depressed spot in the retina which occupies the center of the visual field in which images are focussed most sharply is called",
+          "options": [
+            "(A) fovea",
+            "(B) cornea",
+            "(C) iris",
+            "(D) optic nerve"
+          ],
+          "correct_answer": 1,
+          "correct_text": "fovea",
+          "unit": "Unit 4",
+          "topic": "4.1 Sensory Systems",
+          "subtopic": "Vision",
+          "concept": "Fovea — central retinal area with highest concentration of cones for sharpest vision",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 14,
+          "question": "A psychologist developed a new test of numerical ability. He correlated the new test with an established test of numerical ability using a sample of 400 subjects. The obtained correlation of 0.28 between the two tests is statistically significant at 0.01 level. For the new test, this provides an evidence of",
+          "options": [
+            "(A) Satisfactory concurrent validity",
+            "(B) Unsatisfactory concurrent validity",
+            "(C) Satisfactory predictive validity",
+            "(D) Unsatisfactory predictive validity"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Satisfactory concurrent validity",
+          "unit": "Unit 3",
+          "topic": "3.4 Validity",
+          "subtopic": "Criterion-related validity",
+          "concept": "Concurrent validity — statistically significant correlation (p<0.01) with established test provides evidence of satisfactory concurrent validity, regardless of moderate r=0.28",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 15,
+          "question": "Match List-I (psychologists) with list-II (theories) and select the correct answer using the codes given below the list.\n\n| List-I (Psychologists) | List-II (Theories) |\n| --- | --- |\n| (a) Sternberg | (1) Sampling Theory of Intelligence |\n| (b) Jensen | (2) Level I and Level II Theory of Intelligence |\n| (c) J.P. Das | (3) Pass Model of Intelligence |\n| (d) Thomson | (4) Triarchic Theory of Intelligence |\n\n**Codes:**\n\n| | a | b | c | d |\n| --- | --- | --- | --- | --- |\n| (A) | 3 | 2 | 4 | 1 |\n| (B) | 1 | 4 | 2 | 3 |\n| (C) | 4 | 2 | 3 | 1 |\n| (D) | 2 | 4 | 1 | 3 |",
+          "options": [
+            "(A) a-3, b-2, c-4, d-1",
+            "(B) a-1, b-4, c-2, d-3",
+            "(C) a-4, b-2, c-3, d-1",
+            "(D) a-2, b-4, c-1, d-3"
+          ],
+          "correct_answer": 3,
+          "correct_text": "a-4, b-2, c-3, d-1",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Theories of Intelligence",
+          "concept": "Matching: Sternberg=Triarchic, Jensen=Level I & II, J.P. Das=PASS Model, Thomson=Sampling Theory",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 16,
+          "question": "Which of the following represents thinking process?",
+          "options": [
+            "(A) Tension",
+            "(B) Imitation",
+            "(C) Sub-vocal speech",
+            "(D) Debate"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Sub-vocal speech",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Nature and Types",
+          "concept": "Watson's behaviorist view of thinking as implicit/sub-vocal speech (implicit language behavior)",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 17,
+          "question": "Which theory of emotion implies that people can change their emotions simply by changing the way they label their arousal?",
+          "options": [
+            "(A) The James-Lange Theory",
+            "(B) The Cannon-Bard Theory",
+            "(C) Schachter's two-Factor Theory",
+            "(D) Opponent-Process Theory"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Schachter's two-Factor Theory",
+          "unit": "Unit 7",
+          "topic": "7.3 Emotion",
+          "subtopic": "Theories of Emotion",
+          "concept": "Schachter-Singer Two-Factor Theory: physiological arousal + cognitive label = emotion",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 18,
+          "question": "Training designed to improve problem solving ability emphasizes",
+          "options": [
+            "(A) Putting two and two-together",
+            "(B) Implicit categorizing",
+            "(C) Solution of multiple choice problem.",
+            "(D) Ideational flexibility"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Ideational flexibility",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Problem Solving",
+          "concept": "Ideational flexibility as key to improving problem-solving ability",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 19,
+          "question": "Problems that require a common object to be used in an unusual way may be difficult to solve because of",
+          "options": [
+            "(A) Mental set",
+            "(B) Irrelevant information",
+            "(C) Unnecessary constraints",
+            "(D) Functional fixedness"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Functional fixedness",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Problem Solving",
+          "concept": "Functional fixedness — inability to see novel uses for familiar objects (Duncker candle problem)",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 20,
+          "question": "When persons first see something in their environment, such as a tree, this image first enters",
+          "options": [
+            "(A) echoic memory",
+            "(B) iconic memory",
+            "(C) short term memory",
+            "(D) long term memory"
+          ],
+          "correct_answer": 2,
+          "correct_text": "iconic memory",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Sensory Memory",
+          "concept": "Iconic memory — visual sensory store holding brief visual images (~250ms)",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 21,
+          "question": "For conditioning to occur, the proper order of events is",
+          "options": [
+            "(A) US - UR - CR",
+            "(B) CS - CR - UR",
+            "(C) CS - US - UR",
+            "(D) UR - US - CS"
+          ],
+          "correct_answer": 3,
+          "correct_text": "CS - US - UR",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Classical Conditioning",
+          "concept": "Classical conditioning sequence: CS presented before/before-and-during US which elicits UR, eventually CS alone elicits CR",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 22,
+          "question": "When the light is seen to travel from one point to another, even though there was no stimulation in the intervening region, is not called",
+          "options": [
+            "(A) Stroboscopic movement",
+            "(B) Phi phenomenon",
+            "(C) Apparent movement",
+            "(D) Induced movement"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Induced movement",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Motion Perception",
+          "concept": "Induced movement (one object moves, another appears to move) vs. phi/stroboscopic/apparent movement (light appears to travel between points)",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 23,
+          "question": "Location in Rorschach test is concerned with",
+          "options": [
+            "(A) Whole/part",
+            "(B) Fantasy/emotion",
+            "(C) Colour/movement",
+            "(D) Figure/landscape"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Whole/part",
+          "unit": "Unit 3",
+          "topic": "3.6 Types of Tests by Domain",
+          "subtopic": "Personality Tests",
+          "concept": "Rorschach scoring: Location refers to which part of inkblot is used (Whole, Detail, White space)",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 24,
+          "question": "Choose the correct order in which human needs are to be satisfied.\n\n1. Esteem needs\n2. Need for self actualization\n3. Love and belongingness needs\n4. Aesthetic needs\n\n**Codes:**",
+          "options": [
+            "(A) 4, 3, 2, 1",
+            "(B) 3, 1, 4, 2",
+            "(C) 1, 3, 4, 2",
+            "(D) 3, 2, 4, 1"
+          ],
+          "correct_answer": 2,
+          "correct_text": "3, 1, 4, 2",
+          "unit": "Unit 7",
+          "topic": "7.2 Motivation",
+          "subtopic": "Maslow's Hierarchy",
+          "concept": "Maslow's expanded hierarchy: Love/belonging (3) → Esteem (1) → Aesthetic (4) → Self-actualization (2)",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 25,
+          "question": "Dinner Plates on a table are seen as round even though from the angle of viewing they are oval. This is an example of",
+          "options": [
+            "(A) Size constancy",
+            "(B) Shape constancy",
+            "(C) Brightness constancy",
+            "(D) Colour constancy"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Shape constancy",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Perceptual Constancy",
+          "concept": "Shape constancy — perceiving object's shape as constant despite varying retinal images",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 26,
+          "question": "A procedure by which the application or removal of a stimulus decreases the strength of a behaviour are both examples of",
+          "options": [
+            "(A) Negative reinforcement",
+            "(B) Punishment",
+            "(C) Positive reinforcement",
+            "(D) Secondary reinforcement"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Punishment",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Punishment",
+          "concept": "Punishment: application (positive punishment) or removal (negative punishment) of stimulus to decrease behavior",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 27,
+          "question": "The theory which attempted to explain both the structure as well as processes of long term memory is known as",
+          "options": [
+            "(A) TLC theory of Quillian",
+            "(B) ACT theory of Anderson",
+            "(C) Information processing theory of Atkinson and Shiffrin",
+            "(D) Dual coding theory of Paivio."
+          ],
+          "correct_answer": 2,
+          "correct_text": "ACT theory of Anderson",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Memory Models",
+          "concept": "Anderson's ACT (Adaptive Control of Thought) theory — explains structure and processes of long-term memory",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 28,
+          "question": "Match the items on List-I with the items on List-II.\n\n| List-I | List-II |\n| --- | --- |\n| (a) Iconic memory | (1) Baddeley |\n| (b) Schema theory | (2) Muller & Pilzecker |\n| (c) Working memory | (3) Sperling |\n| (d) Consolidation theory | (4) Bartlett |\n\n**Codes:**\n\n| | a | b | c | d |\n| --- | --- | --- | --- | --- |\n| (A) | 1 | 3 | 4 | 2 |\n| (B) | 3 | 4 | 1 | 2 |\n| (C) | 2 | 3 | 1 | 4 |\n| (D) | 4 | 1 | 2 | 3 |",
+          "options": [
+            "(A) a-1, b-3, c-4, d-2",
+            "(B) a-3, b-4, c-1, d-2",
+            "(C) a-2, b-3, c-1, d-4",
+            "(D) a-4, b-1, c-2, d-3"
+          ],
+          "correct_answer": 2,
+          "correct_text": "a-3, b-4, c-1, d-2",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Memory Models",
+          "concept": "Matching: Iconic memory=Sperling, Schema theory=Bartlett, Working memory=Baddeley, Consolidation theory=Müller & Pilzecker",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 29,
+          "question": "Stages in creative thinking are",
+          "options": [
+            "(A) Preparation, incubation, illumination, evaluation, revision.",
+            "(B) Incubation, preparation, illumination, evaluation, revision.",
+            "(C) Preparation, illumination, incubation, evaluation, revision.",
+            "(D) Illumination, preparation, incubation, revision, evaluation"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Preparation, incubation, illumination, evaluation, revision.",
+          "unit": "Unit 6",
+          "topic": "6.3 Creativity",
+          "subtopic": "Wallas's Stages",
+          "concept": "Wallas's four stages of creative thinking: Preparation → Incubation → Illumination → Verification (with evaluation/revision)",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 30,
+          "question": "Which one of the following is the correct sequence of motivational set?",
+          "options": [
+            "(A) Goal-directed behaviour, attainment of goal, drive, satisfaction.",
+            "(B) Drive, satisfaction, attainment of goal, goal directed behaviour.",
+            "(C) Drive, goal-directed behaviour, attainment of goal, satisfaction",
+            "(D) Goal-directed behaviour, drive, satisfaction, attainment of goal"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Drive, goal-directed behaviour, attainment of goal, satisfaction",
+          "unit": "Unit 7",
+          "topic": "7.2 Motivation",
+          "subtopic": "Drive-Reduction Theory",
+          "concept": "Motivational sequence: Drive → Goal-directed behaviour → Attainment of goal → Satisfaction (Hull's drive reduction)",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 31,
+          "question": "Evidence for hereditary influence can be gathered from",
+          "options": [
+            "(A) Twin studies",
+            "(B) Adoption studies",
+            "(C) Socio-economic status",
+            "(D) Study of biological parents and children"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Twin studies",
+          "unit": "Unit 4",
+          "topic": "4.6 Genetics and Behavior",
+          "subtopic": "Twin studies",
+          "concept": "Twin studies (MZ vs DZ comparison) as primary evidence for hereditary influence on behavior",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 32,
+          "question": "In the neuron, which one of the following carries information away from the cell body?",
+          "options": [
+            "(A) Glial cells",
+            "(B) Dendrite",
+            "(C) Astrocyte",
+            "(D) Axon"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Axon",
+          "unit": "Unit 4",
+          "topic": "4.2 Neurons",
+          "subtopic": "Structure",
+          "concept": "Axon carries electrical impulses away from cell body; dendrites carry signals toward cell body",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 33,
+          "question": "Which one of the following concepts is not part of Behaviouristic theories of personality?",
+          "options": [
+            "(A) Reciprocal Determinism",
+            "(B) Self Efficacy",
+            "(C) Collective Unconscious",
+            "(D) Reinforcement/Punishment"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Collective Unconscious",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Neo-Freudian Theories",
+          "concept": "Collective Unconscious is Jung's concept (analytical psychology), not behavioristic",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 34,
+          "question": "Which one of the following is not a trait theory of personality proposed through factor analysis?",
+          "options": [
+            "(A) Eysenck's theory",
+            "(B) Cattell's theory",
+            "(C) McCrae and Costa's theory",
+            "(D) Allport's theory"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Allport's theory",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Trait and Type Theories",
+          "concept": "Allport used morphogenic/lexical approach; Eysenck, Cattell, and Costa & McCrae used factor analysis",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 35,
+          "question": "Two schedules of reinforcement that produce the highest rates of response are",
+          "options": [
+            "(A) Continuous and fixed interval",
+            "(B) Fixed interval and variable interval",
+            "(C) Variable interval and variable ratio",
+            "(D) Fixed ratio and variable ratio"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Fixed ratio and variable ratio",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Schedules of reinforcement",
+          "concept": "Ratio schedules (FR and VR) produce highest response rates — reinforcement tied to number of responses, not passage of time; VR highest and steadiest, FR high with brief post-reinforcement pause",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 36,
+          "question": "Procedural memory would be affected by damage to the",
+          "options": [
+            "(A) Cerebrum",
+            "(B) Cerebellum",
+            "(C) Motor cortex",
+            "(D) Limbic system"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Cerebellum",
+          "unit": "Unit 4",
+          "topic": "4.3 Nervous System",
+          "subtopic": "Brain structures",
+          "concept": "Cerebellum is critical for procedural memory (skills, habits, motor learning)",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 37,
+          "question": "In the familiar Carrot and Stick notion, which one of the following theories of motivation focuses more directly on carrot ?",
+          "options": [
+            "(A) Equity theory",
+            "(B) Arousal theory",
+            "(C) Expectancy theory",
+            "(D) Needs hierarchy theory"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Expectancy theory",
+          "unit": "Unit 7",
+          "topic": "7.2 Motivation",
+          "subtopic": "Vroom's Expectancy Theory",
+          "concept": "Carrot=reward/incentive; Vroom's Expectancy Theory (Motivation = Expectancy × Instrumentality × Valence) directly emphasizes expected rewards/outcomes as motivators",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 38,
+          "question": "The procedure which is frequently used in concept learning of children involves",
+          "options": [
+            "(A) Card sorting task",
+            "(B) Ravan's Progressive matrices",
+            "(C) Children's apperception test",
+            "(D) Differential aptitude test"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Card sorting task",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Concept Learning",
+          "concept": "Card sorting tasks as classic paradigm for studying concept formation in children",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 39,
+          "question": "Which one of the following sub-tests is not part of Wechsler Adult Intelligence Scale?",
+          "options": [
+            "(A) Information",
+            "(B) Vocabulary",
+            "(C) Creativity",
+            "(D) Digit symbol"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Creativity",
+          "unit": "Unit 3",
+          "topic": "3.6 Types of Tests by Domain",
+          "subtopic": "Intelligence Tests",
+          "concept": "WAIS subtests include Information, Vocabulary, Digit Symbol but NOT Creativity",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 40,
+          "question": "Match List-I with List-II and select the correct answer using the codes given below the lists.\n\n| List-I (Brain functions) | List-II (Brain parts) |\n| --- | --- |\n| (p) Controls body balance | (1) Pons |\n| (q) Maintains breathing and heart beat | (2) Medulla |\n| (r) Co-ordinates the muscle movement | (3) Reticular formation |\n| (s) Activates the brain to produce arousal | (4) Cerebellum |\n\n**Codes:**\n\n| | p | q | r | s |\n| --- | --- | --- | --- | --- |\n| (A) | 1 | 4 | 2 | 3 |\n| (B) | 2 | 4 | 1 | 3 |\n| (C) | 3 | 4 | 2 | 1 |\n| (D) | 4 | 2 | 1 | 3 |",
+          "options": [
+            "(A) p-1, q-4, r-2, s-3",
+            "(B) p-2, q-4, r-1, s-3",
+            "(C) p-3, q-4, r-2, s-1",
+            "(D) p-4, q-2, r-1, s-3"
+          ],
+          "correct_answer": 4,
+          "correct_text": "p-4, q-2, r-1, s-3",
+          "unit": "Unit 4",
+          "topic": "4.3 Nervous System",
+          "subtopic": "Brain structures",
+          "concept": "Cerebellum=balance, Medulla=breathing/heartbeat, Pons=muscle coordination, Reticular formation=arousal",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 41,
+          "question": "Instructions for Qn. Nos. 41 to 45: There are a pair of statements labelled as Assertion (A) and Reason (R).\n\nRead the pair of statements and answer the questions using the following codes:\n\n(A) Both (A) and (R) are true and (R) is the correct explanation of (A).\n(B) Both (A) and (R) are true but (R) is not the correct explanation of (A).\n(C) (A) is true but (R) is false.\n(D) (A) is false (R) is true.\n\n**Assertion (A):** Fixation is a kind of behavioural disorder.\n\n**Reason (R):** Fixation originates from unresolved conflicts during childhood.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true but (R) is not the correct explanation of (A).",
+            "(C) (A) is true but (R) is false.",
+            "(D) (A) is false (R) is true."
+          ],
+          "correct_answer": 4,
+          "correct_text": "(A) is false (R) is true.",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Psychoanalytic Approach",
+          "concept": "Fixation is a defense mechanism (psychoanalytic concept), not a behavioral disorder; it does originate from unresolved childhood conflicts",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 42,
+          "question": "**Assertion (A):** Paired comparison scaling is not suitable for scaling large number of items.\n\n**Reason (R):** With large number of items, the number of possible pairs of items would be very large and experimentally inconvenient.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true but (R) is not the correct explanation of (A).",
+            "(C) (A) is true but (R) is false.",
+            "(D) (A) is false (R) is true."
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+          "unit": "Unit 3",
+          "topic": "3.2 Test Construction",
+          "subtopic": "Scaling methods",
+          "concept": "Paired comparison limitation: n(n-1)/2 pairs become impractical with large item sets",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 43,
+          "question": "**Assertion (A):** The phenomena of perceptual organisation, movement, depth, and perceptual constancies support what we see, but not how to explain.\n\n**Reason (R):** Perceptual ability is innate, we are designed to perceive the way we do.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true but (R) is not the correct explanation of (A).",
+            "(C) (A) is true but (R) is false.",
+            "(D) (A) is false (R) is true."
+          ],
+          "correct_answer": 2,
+          "correct_text": "Both (A) and (R) are true but (R) is not the correct explanation of (A).",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Gestalt Principles",
+          "concept": "Perceptual phenomena describe what we see; innate perceptual ability is a separate theoretical claim",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 44,
+          "question": "**Assertion (A):** Personality disturbances are due to the exposure of children to unhealthy role models.\n\n**Reason (R):** This happens because children's behaviour/personality is shaped through observational learning.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true but (R) is not the correct explanation of (A).",
+            "(C) (A) is true but (R) is false.",
+            "(D) (A) is false (R) is true."
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Social-Cognitive Approach",
+          "concept": "Bandura's observational learning: exposure to unhealthy role models leads to personality disturbances through modeling",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 45,
+          "question": "**Assertion (A):** Edward's Personality Preference Schedule uses the forced-choice format.\n\n**Reason (R):** Forced-choice format prevents acquiescence response set.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true but (R) is not the correct explanation of (A).",
+            "(C) (A) is true but (R) is false.",
+            "(D) (A) is false (R) is true."
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+          "unit": "Unit 3",
+          "topic": "3.6 Types of Tests by Domain",
+          "subtopic": "Personality Tests",
+          "concept": "EPPS forced-choice format: pairs of equally socially desirable statements to control acquiescence bias",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": null,
+          "table_ref": null
+        }
+      ]
+    },
+    {
+      "type": "passage",
+      "id": "passage_46",
+      "heading": "### Passage (Questions 46–50)",
+      "text": "A researcher hypothesized that a given drug would adversely affect the reaction time. Forty subjects were tested for discriminatory reaction time. Each subject was then given a prescribed drug dosage (5 mg/kg body weight) and after appropriate time gap, the subject was retested for discriminatory reaction time. The time-interval between a 'ready signal' and actual presentation of the stimulus was randomly varied from half a second to three seconds. For evaluating the mean difference on the reaction time, the researcher considered various statistical options like the t test, analysis of variance, chi-square test etc. and employed the appropriate technique/s. The mean difference was statistically significant (Mean without drug condition = 240 m.s., SD = 20; and mean with drug condition = 210 m.s., SD = 18). The statistical examination further revealed that the difference between the two standard deviations was insignificant. During the course of research, the researcher suspected that the effect of drug dosage would be different for discriminatory and simple reaction times. For this purpose researcher considered the different experimental designs options such as matched two-group design, factorial design, analysis of covariance design, quasi-experimental design etc. Finally researcher selected the appropriate design to carry out the new investigation."
+    },
+    {
+      "type": "questions_block",
+      "range": "Q46–Q50",
+      "questions": [
+        {
+          "id": 46,
+          "question": "On the basis of above information, what can you conclude about the researcher's hypothesis?",
+          "options": [
+            "(A) The researcher's hypothesis is rejected.",
+            "(B) The researcher's hypothesis is partially verified.",
+            "(C) The researcher's hypothesis is accepted.",
+            "(D) The data are inadequate to evaluate the researcher's hypothesis."
+          ],
+          "correct_answer": 1,
+          "correct_text": "The researcher's hypothesis is rejected.",
+          "unit": "Unit 2",
+          "topic": "2.7 Inferential Statistics",
+          "subtopic": "Hypothesis testing",
+          "concept": "Hypothesis was drug would adversely affect RT, but RT decreased (improved) from 240ms to 210ms — opposite of prediction",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": "passage_46",
+          "table_ref": null
+        },
+        {
+          "id": 47,
+          "question": "For evaluating the mean differences, which of the following techniques would be appropriate?\n\n1. t test for independent samples.\n2. Repeated measures ANOVA\n3. Chi-square test\n4. Paired samples t test.",
+          "options": [
+            "(A) 4 only",
+            "(B) 2 and 4 only",
+            "(C) 1, 2 and 3 only",
+            "(D) 2, 3 and 4 only"
+          ],
+          "correct_answer": 2,
+          "correct_text": "2 and 4 only",
+          "unit": "Unit 2",
+          "topic": "2.7 Inferential Statistics",
+          "subtopic": "Parametric Tests",
+          "concept": "Repeated measures design (same subjects, two conditions): paired t-test and repeated measures ANOVA are appropriate; chi-square is for categorical data",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": "passage_46",
+          "table_ref": null
+        },
+        {
+          "id": 48,
+          "question": "Which of the following variable/s is/are not controlled variables?\n\n1. Drug to body weight ratio.\n2. Foreperiod\n3. Type of reaction\n4. Reaction time",
+          "options": [
+            "(A) 4 only",
+            "(B) 1 and 4 only",
+            "(C) 2 and 4 only",
+            "(D) 1, 2 and 4 only"
+          ],
+          "correct_answer": 3,
+          "correct_text": "2 and 4 only",
+          "unit": "Unit 2",
+          "topic": "2.1 Foundations of Research",
+          "subtopic": "Variables",
+          "concept": "Drug-body weight ratio is controlled; foreperiod was varied systematically; type of reaction is manipulated IV; reaction time is DV (not controlled)",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": "passage_46",
+          "table_ref": null
+        },
+        {
+          "id": 49,
+          "question": "On the basis of above passage, what would you conclude about the variance?",
+          "options": [
+            "(A) The two conditions have homogeneity of variance.",
+            "(B) The two conditions have heterogeneity of variance.",
+            "(C) We cannot conclude about the homogeneity of variance from the above data.",
+            "(D) It is necessary to apply an additional test to infer about homogeneity of variance."
+          ],
+          "correct_answer": 1,
+          "correct_text": "The two conditions have homogeneity of variance.",
+          "unit": "Unit 2",
+          "topic": "2.7 Inferential Statistics",
+          "subtopic": "Assumptions of parametric tests",
+          "concept": "Passage states difference between SDs was insignificant → homogeneity of variance (homoscedasticity)",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": "passage_46",
+          "table_ref": null
+        },
+        {
+          "id": 50,
+          "question": "For studying whether the effect of drug would be different for discriminatory and simple reactions, the appropriate design would be",
+          "options": [
+            "(A) Quasi-experimental design",
+            "(B) Matched two-group design",
+            "(C) Analysis of covariance design",
+            "(D) Factorial design"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Factorial design",
+          "unit": "Unit 2",
+          "topic": "2.5 Methods of Research",
+          "subtopic": "Experimental designs",
+          "concept": "Factorial design: studying drug effect × type of reaction (interaction) requires 2+ IVs in factorial arrangement",
+          "era": "UGC",
+          "year": 2009,
+          "passage_ref": "passage_46",
+          "table_ref": null
+        }
+      ],
+      "passage_ref": "passage_46"
+    }
+  ]
+}

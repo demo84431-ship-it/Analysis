@@ -1,0 +1,1034 @@
+{
+  "paper_metadata": {
+    "title": "UGC NET/JRF Examination, December 2005",
+    "date": "December 2005",
+    "subject": "Psychology — Paper II"
+  },
+  "content": [
+    {
+      "type": "questions_block",
+      "range": "Q1–Q40",
+      "questions": [
+        {
+          "id": 1,
+          "question": "The theory of Level I and Level II intelligence was propounded by",
+          "options": [
+            "(A) Jensen",
+            "(B) Guilford",
+            "(C) Torrance",
+            "(D) Eysenck"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Jensen",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Theories of Intelligence",
+          "concept": "Jensen's two-level theory: Level I (associative/rote learning, memory-based) and Level II (conceptual/abstract reasoning, problem-solving)",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 2,
+          "question": "According to Adler, the master motive underlying human behaviour is:",
+          "options": [
+            "(A) Sex",
+            "(B) Aggression",
+            "(C) Power",
+            "(D) Superiority"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Superiority",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Neo-Freudian Theories",
+          "concept": "Adler's Individual Psychology: striving for superiority (compensation for inferiority feelings) is the fundamental human motive; unlike Freud's emphasis on sex, Adler saw social interest and the will to power/superiority as the master drive",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 3,
+          "question": "Match List-I (Concept) with List-II (Theorist associated) and select the correct answer using the codes given below:\n\n| List-I (Concept) | List-II (Theorists associated) |\n|---|---|\n| A. Aggressive instinct | (i) Miller and Dollard |\n| B. Needs hierarchy | (ii) Freud |\n| C. Achievement | (iii) Maslow |\n| D. Frustration-aggressive hypothesis | (iv) Mc Clelland |\n\n**Codes:**\n\n| | A | B | C | D |\n|---|---|---|---|---|\n| (A) | ii | iii | i | iv |\n| (B) | iii | ii | i | iv |\n| (C) | iii | ii | iv | i |\n| (D) | ii | iii | iv | i |",
+          "options": [
+            "(A) ii, iii, i, iv",
+            "(B) iii, ii, i, iv",
+            "(C) iii, ii, iv, i",
+            "(D) ii, iii, iv, i"
+          ],
+          "correct_answer": 4,
+          "correct_text": "ii, iii, iv, i",
+          "unit": "Unit 7",
+          "topic": "7.2 Motivation",
+          "subtopic": "Theories of Motivation",
+          "concept": "Aggressive instinct-Freud, Needs hierarchy-Maslow, Achievement-McClelland, Frustration-aggression-Miller & Dollard",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 4,
+          "question": "Which one of the following does not belong to this group?",
+          "options": [
+            "(A) Algorithmic method",
+            "(B) Heuristic method",
+            "(C) Hypothesis testing",
+            "(D) Mnemonics"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Mnemonics",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Problem Solving",
+          "concept": "Mnemonics is a memory strategy, not a problem-solving method",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 5,
+          "question": "Trait of personality was developed by:",
+          "options": [
+            "(A) Freud",
+            "(B) Kurt Lewin",
+            "(C) Eysenck",
+            "(D) Allport"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Allport",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Trait and Type Theories",
+          "concept": "Gordon Allport is regarded as the founder of trait theory; he distinguished cardinal, central, and secondary traits and emphasized the uniqueness of the individual",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 6,
+          "question": "In Simon-Binet test of intelligence, a person of 40 years of C.A. has M.A. of 20 years. The person is intellectually",
+          "options": [
+            "(A) Below average",
+            "(B) Average",
+            "(C) Above average",
+            "(D) Genius"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Below average",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Measurement of Intelligence",
+          "concept": "IQ = (MA/CA) × 100 = (20/40) × 100 = 50 (below average)",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 7,
+          "question": "Body temperature is controlled by:",
+          "options": [
+            "(A) Thalamus",
+            "(B) Hypothalamus",
+            "(C) Cerebellum",
+            "(D) Cortex"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Hypothalamus",
+          "unit": "Unit 4",
+          "topic": "4.3 Nervous System",
+          "subtopic": "Hypothalamus",
+          "concept": "Hypothalamus is the brain's master regulator of homeostasis: controls body temperature, hunger, thirst, sleep-wake cycles, and links nervous system to endocrine system via pituitary",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 8,
+          "question": "The motivation, emotion and other internal forces which underlie behaviour is known as:",
+          "options": [
+            "(A) Personality dynamics",
+            "(B) Personality trait",
+            "(C) Personality type",
+            "(D) Multiple personality"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Personality dynamics",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Personality Concepts",
+          "concept": "Personality dynamics refers to the motivational, emotional, and internal forces (drives, conflicts, adjustments) that activate and direct behaviour, as distinct from stable traits or types",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 9,
+          "question": "Similarity, Contrast and Contiguity are the laws of:",
+          "options": [
+            "(A) Learning",
+            "(B) Psycho-physics",
+            "(C) Emotion",
+            "(D) Reasoning"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Learning",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Classical Conditioning",
+          "concept": "Aristotle's Laws of Association (similarity, contrast, contiguity) form the foundation of associationism and learning theory",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 10,
+          "question": "Weschler's adult intelligence scale measures:",
+          "options": [
+            "(A) Abstract intelligence",
+            "(B) Global intelligence",
+            "(C) Social intelligence",
+            "(D) Emotional intelligence"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Global intelligence",
+          "unit": "Unit 3",
+          "topic": "3.6 Types of Tests by Domain",
+          "subtopic": "Intelligence Tests",
+          "concept": "WAIS (Wechsler Adult Intelligence Scale) yields Verbal IQ, Performance IQ, and Full Scale IQ, measuring global intelligence rather than a single narrow ability",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 11,
+          "question": "In conditioning experiments the extinction of conditioned response takes place due to:",
+          "options": [
+            "(A) lack of motivation",
+            "(B) inhibition",
+            "(C) excitation",
+            "(D) absence of unconditioned stimulus"
+          ],
+          "correct_answer": 4,
+          "correct_text": "absence of unconditioned stimulus",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Classical Conditioning",
+          "concept": "Extinction in classical conditioning occurs when the CS is repeatedly presented without the UCS, causing the CR to weaken and eventually disappear (not merely forgetting but active unlearning)",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 12,
+          "question": "Flight or fight reaction during fear or rage is controlled by:",
+          "options": [
+            "(A) Central nervous system",
+            "(B) Adrenal glands",
+            "(C) Visual sense organs",
+            "(D) Pituitary glands"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Adrenal glands",
+          "unit": "Unit 4",
+          "topic": "4.5 Endocrine System",
+          "subtopic": "Adrenal Glands",
+          "concept": "Fight-or-flight is mediated by the sympathetic nervous system activating the adrenal medulla to release epinephrine (adrenaline) and norepinephrine, preparing the body for emergency action",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 13,
+          "question": "According to Tulving the 3 system of memory are",
+          "options": [
+            "(A) Immediate memory, Short-term memory and Long-term memory",
+            "(B) Working memory, Long-term memory and meta memory",
+            "(C) Procedural memory, semantic memory and episodic memory",
+            "(D) Iconic memory, echoic memory and secondary memory"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Procedural memory, semantic memory and episodic memory",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Types of Memory",
+          "concept": "Tulving's (1972) three long-term memory systems: procedural (knowing how, skills), semantic (facts/knowledge), and episodic (personal experiences/events in time and place)",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 14,
+          "question": "The place on the retina where the axons of all the ganglion cells come together to leave the eye is called the:",
+          "options": [
+            "(A) fovea",
+            "(B) blind spot",
+            "(C) optic chiasm",
+            "(D) visual cortex"
+          ],
+          "correct_answer": 2,
+          "correct_text": "blind spot",
+          "unit": "Unit 4",
+          "topic": "4.1 Sensory Systems",
+          "subtopic": "Visual System",
+          "concept": "Blind spot (optic disc): the point where retinal ganglion cell axons converge to form the optic nerve and exit the eye; no photoreceptors (rods/cones), hence no vision at that location",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 15,
+          "question": "The parts of the endocrine system that play major role in preparing the body to deal with threats are:",
+          "options": [
+            "(A) the thyroid and parathyroid",
+            "(B) the thyroid and the pituitary gland",
+            "(C) the adrenal cortex and the adrenal medulla",
+            "(D) the posterior pituitary and the anterior pituitary"
+          ],
+          "correct_answer": 3,
+          "correct_text": "the adrenal cortex and the adrenal medulla",
+          "unit": "Unit 4",
+          "topic": "4.5 Endocrine System",
+          "subtopic": "Adrenal Glands",
+          "concept": "Adrenal glands have two parts: adrenal medulla (releases epinephrine/norepinephrine for immediate fight-or-flight via SAM axis) and adrenal cortex (releases cortisol for sustained stress response via HPA axis); both prepare the body to deal with threats",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 16,
+          "question": "The occurrence of phi-phenomenon is observed in:",
+          "options": [
+            "(A) Meditation",
+            "(B) Piece of music",
+            "(C) Violent mob",
+            "(D) Cinema"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Cinema",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Phi Phenomenon",
+          "concept": "Phi phenomenon: apparent movement (cinema uses rapid succession of still images)",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 17,
+          "question": "Which one of the following is the correct sequence of motivational set?",
+          "options": [
+            "(A) Goal–directed behaviour, attainment of goal, drive, satisfaction",
+            "(B) Drive, satisfaction, attainment of goal, goal–directed behaviour",
+            "(C) Drive, goal–directed behaviour, attainment of goal, satisfaction",
+            "(D) Goal–directed behaviour, drive, satisfaction, attainment of goal"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Drive, goal–directed behaviour, attainment of goal, satisfaction",
+          "unit": "Unit 7",
+          "topic": "7.2 Motivation",
+          "subtopic": "Concepts of Motivation",
+          "concept": "Motivational sequence: Drive → Goal-directed behaviour → Goal attainment → Satisfaction",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 18,
+          "question": "Although the left and right hemispheres of the brain are specialized, they are normally in close communication through the:",
+          "options": [
+            "(A) mid brain",
+            "(B) temporal lobe",
+            "(C) corpus callosum",
+            "(D) cerebellum"
+          ],
+          "correct_answer": 3,
+          "correct_text": "corpus callosum",
+          "unit": "Unit 4",
+          "topic": "4.3 Nervous System",
+          "subtopic": "Lateralization",
+          "concept": "Corpus callosum is a thick band of commissural fibers connecting the left and right cerebral hemispheres, enabling interhemispheric communication and integration of lateralized functions",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 19,
+          "question": "Match the item in the columns given below:\n\n| Column-I | Column-II |\n|---|---|\n| A. Iconic memory | (i) Baddeley |\n| B. Schema theory | (ii) Muller and Pilzecker |\n| C. Working memory | (iii) Sperling |\n| D. Consolidation theory | (iv) Bartlett |\n\n**Codes:**\n\n| | A | B | C | D |\n|---|---|---|---|---|\n| (A) | i | iii | iv | ii |\n| (B) | iii | iv | i | ii |\n| (C) | ii | iii | i | iv |\n| (D) | iv | i | ii | iii |",
+          "options": [
+            "(A) i, iii, iv, ii",
+            "(B) iii, iv, i, ii",
+            "(C) ii, iii, i, iv",
+            "(D) iv, i, ii, iii"
+          ],
+          "correct_answer": 2,
+          "correct_text": "iii, iv, i, ii",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Memory Models",
+          "concept": "Iconic memory-Sperling, Schema theory-Bartlett, Working memory-Baddeley, Consolidation-Müller & Pilzecker",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 20,
+          "question": "In a normal healthy person under relaxed condition, the rate of respiration and heart beat per minute are usually",
+          "options": [
+            "(A) 10 and 32",
+            "(B) 18 and 72",
+            "(C) 72 and 22",
+            "(D) 50 and 100"
+          ],
+          "correct_answer": 2,
+          "correct_text": "18 and 72",
+          "unit": "Unit 4",
+          "topic": "4.3 Nervous System",
+          "subtopic": "Autonomic Nervous System",
+          "concept": "Normal resting: ~18 breaths/min, ~72 heartbeats/min",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 21,
+          "question": "Norms are developed when a psychological test is:",
+          "options": [
+            "(A) translated",
+            "(B) constructed",
+            "(C) standardized",
+            "(D) administered"
+          ],
+          "correct_answer": 3,
+          "correct_text": "standardized",
+          "unit": "Unit 3",
+          "topic": "3.5 Norms and Standardization",
+          "subtopic": "Standardization",
+          "concept": "Standardization is the process of administering a test to a large representative sample under uniform conditions to establish norms (average scores, percentiles, etc.) that allow meaningful interpretation of individual scores; test construction produces items, administration collects responses, but norms emerge only through standardization",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 22,
+          "question": "Some important tools of thinking are:",
+          "options": [
+            "(A) Perception, learning and memory",
+            "(B) Objects, concepts and symbols",
+            "(C) Memory, symbols and perception",
+            "(D) Objects, learning and concepts"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Objects, concepts and symbols",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Nature and Types",
+          "concept": "Tools/elements of thinking include objects (concrete referents), concepts (mental categories), and symbols (abstract representations like language, signs); perception, learning, and memory are cognitive processes, not tools",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 23,
+          "question": "Match the following terms and their definitions:\n\n| Term | Definition |\n|---|---|\n| I. Sensory projection areas | A. areas in the brain where response messages originate and then travel to muscles and glands |\n| II. Association areas | B. areas in the brain where messages from the sense receptors are registered |\n| III. Motor projection areas | C. areas in the brain where incoming messages from the separate senses are combined into meaningful impressions and outgoing messages from the motor areas are integrated |\n\n**Codes:**\n\n| | I | II | III |\n|---|---|---|---|\n| (A) | A | B | C |\n| (B) | C | A | B |\n| (C) | B | C | A |\n| (D) | A | C | B |",
+          "options": [
+            "(A) A, B, C",
+            "(B) C, A, B",
+            "(C) B, C, A",
+            "(D) A, C, B"
+          ],
+          "correct_answer": 3,
+          "correct_text": "B, C, A",
+          "unit": "Unit 4",
+          "topic": "4.3 Nervous System",
+          "subtopic": "Cerebral Cortex",
+          "concept": "Sensory areas (register messages), Association areas (integration), Motor areas (response messages)",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 24,
+          "question": "Facial expression of emotion depicts:",
+          "options": [
+            "(A) Instrumental behaviour",
+            "(B) Substitute behaviour",
+            "(C) Undesired behaviour",
+            "(D) Maladaptive behaviour"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Instrumental behaviour",
+          "unit": "Unit 7",
+          "topic": "7.3 Emotion",
+          "subtopic": "Behavioural Component",
+          "concept": "Facial expressions of emotion are the behavioural (expressive) component of emotion, serving a communicative and social function by signaling internal emotional states. They are considered instrumental in the functional sense: they influence others' responses, regulate social interaction, and have adaptive/survival value — hence classified here as instrumental behaviour among the given options",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 25,
+          "question": "In item analysis, item discrimination takes into account:",
+          "options": [
+            "(A) Upper 50% and lower 50% of the subjects",
+            "(B) Upper 20% and lower 20% of the subjects",
+            "(C) Upper 27% and lower 27% of the subjects",
+            "(D) Upper 10% and lower 10% of the subjects"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Upper 27% and lower 27% of the subjects",
+          "unit": "Unit 3",
+          "topic": "3.2 Test Construction",
+          "subtopic": "Item Analysis",
+          "concept": "Item discrimination index uses upper and lower 27% (Kelley's criterion)",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 26,
+          "question": "Three basis elements of Guilford's model of intelligence:",
+          "options": [
+            "(A) Learning, motivation and thinking",
+            "(B) Conditioning, Imagination and concept",
+            "(C) Operation, content and product",
+            "(D) Product, operation and learning"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Operation, content and product",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Theories of Intelligence",
+          "concept": "Guilford's SOI model: Operations × Content × Products",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 27,
+          "question": "When a researcher wants to validate a new test against an established theory he is aiming at:",
+          "options": [
+            "(A) content validity",
+            "(B) concurrent validity",
+            "(C) construct validity",
+            "(D) factorial validity"
+          ],
+          "correct_answer": 3,
+          "correct_text": "construct validity",
+          "unit": "Unit 3",
+          "topic": "3.4 Validity",
+          "subtopic": "Construct Validity",
+          "concept": "Construct validity: validation against theoretical constructs",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 28,
+          "question": "Emotional thoughts and actions are controlled by:",
+          "options": [
+            "(A) Autonomic nervous system",
+            "(B) Limbic system",
+            "(C) Digestive system",
+            "(D) Temperament"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Limbic system",
+          "unit": "Unit 4",
+          "topic": "4.3 Nervous System",
+          "subtopic": "Limbic System",
+          "concept": "Limbic system (amygdala, hippocampus) controls emotions and emotional thoughts",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 29,
+          "question": "In problem solving task, the solver may use any of the following methods:\n1. Algorithmic\n2. Means-end analysis\n3. Hypothesis testing\n4. Heuristic\n\nChoose the correct order from the code:",
+          "options": [
+            "(A) 1, 2, 3, 4",
+            "(B) 2, 3, 4, 1",
+            "(C) 3, 1, 2, 4",
+            "(D) 1, 3, 4, 2"
+          ],
+          "correct_answer": 1,
+          "correct_text": "1, 2, 3, 4",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Problem Solving",
+          "concept": "Ordered from most structured to most flexible: Algorithmic (step-by-step guaranteed solution) → Means-end analysis (sub-goal reduction) → Hypothesis testing (formulate and test) → Heuristic (mental shortcut/rule of thumb)",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 30,
+          "question": "Item analysis of an attitude scale requires measures of:",
+          "options": [
+            "(A) Item discrimination, Item reliability and Item validity",
+            "(B) Item analysis, Item validity and Item difficulty",
+            "(C) Item reliability, Item validity and Item difficulty",
+            "(D) Item validity, Item difficulty and Item discrimination"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Item validity, Item difficulty and Item discrimination",
+          "unit": "Unit 3",
+          "topic": "3.2 Test Construction",
+          "subtopic": "Item Analysis",
+          "concept": "The three standard measures of item analysis are item validity (construct relevance), item difficulty (proportion endorsing/correct), and item discrimination (differentiation between high and low scorers on the overall scale)",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 31,
+          "question": "Match List-I with List-II and select the correct answer using the codes given below the list:\n\n| List-I (EEG record) | List-II (State of the individual) |\n|---|---|\n| A. Alpha | (i) Deep Sleep |\n| B. Beta | (ii) Alert |\n| C. Delta | (iii) Emotional state |\n| D. Theta | (iv) Relaxed |\n\n**Codes:**\n\n| | A | B | C | D |\n|---|---|---|---|---|\n| (A) | iii | i | ii | iv |\n| (B) | iv | ii | i | iii |\n| (C) | i | ii | iii | iv |\n| (D) | iv | i | ii | iii |",
+          "options": [
+            "(A) iii, i, ii, iv",
+            "(B) iv, ii, i, iii",
+            "(C) i, ii, iii, iv",
+            "(D) iv, i, ii, iii"
+          ],
+          "correct_answer": 2,
+          "correct_text": "iv, ii, i, iii",
+          "unit": "Unit 4",
+          "topic": "4.4 Methods of Physiological Psychology",
+          "subtopic": "EEG",
+          "concept": "Alpha (relaxed), Beta (alert), Delta (deep sleep), Theta (emotional state)",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 32,
+          "question": "Match List-I with List-II and select the correct answer using the codes given below the list:\n\n| List-I | List-II |\n|---|---|\n| A. Simple concept | (i) Joint presence of two or more features of objects or events |\n| B. Conjunctive concept | (ii) \"More than\" or \"heavier than\" aspect among objects or events |\n| C. Disjunctive concept | (iii) Presence of a single property in event of objects |\n| D. Relational concept | (iv) Any one of the several properties put the object or event in one category |\n\n**Codes:**\n\n| | A | B | C | D |\n|---|---|---|---|---|\n| (A) | ii | i | iv | iii |\n| (B) | iii | iv | i | ii |\n| (C) | iv | ii | iii | i |\n| (D) | iii | i | iv | ii |",
+          "options": [
+            "(A) ii, i, iv, iii",
+            "(B) iii, iv, i, ii",
+            "(C) iv, ii, iii, i",
+            "(D) iii, i, iv, ii"
+          ],
+          "correct_answer": 4,
+          "correct_text": "iii, i, iv, ii",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Concept Formation",
+          "concept": "Simple (single property), Conjunctive (two+ features), Disjunctive (any one property), Relational (comparative)",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 33,
+          "question": "When a test is applied to two equivalent groups of subjects and the 2 sets scores are correlated we get:",
+          "options": [
+            "(A) Cross-validation",
+            "(B) Test-retest reliability",
+            "(C) Equivalent form reliability",
+            "(D) Rational equivalency reliability"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Equivalent form reliability",
+          "unit": "Unit 3",
+          "topic": "3.3 Reliability",
+          "subtopic": "Parallel Forms Reliability",
+          "concept": "Equivalent (parallel/alternate) forms reliability: two equivalent versions of a test administered to the same or equivalent groups, with scores correlated to determine consistency across forms — controls for practice/memory effects from repeated identical items",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 34,
+          "question": "The distribution of emotional arousal and its effect on performance will depict a:",
+          "options": [
+            "(A) S-shaped curve",
+            "(B) J-shaped curve",
+            "(C) U-shaped curve",
+            "(D) Inverted U-shaped curve"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Inverted U-shaped curve",
+          "unit": "Unit 7",
+          "topic": "7.2 Motivation",
+          "subtopic": "Arousal Theory",
+          "concept": "Yerkes-Dodson Law: inverted U — optimal arousal for best performance",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 35,
+          "question": "Which of the following parts are correctly matched?\n\n1. Motivation is an expression of unconscious wish — Psychoanalytic approach\n2. Motivation is a search for self-realization — Cognitive approach\n3. Motivation comes into process because of perceptual defects — Humanistic approach\n4. Motivation arises from internal physiological imbalance — Homeostatic approach\n\nChoose the correct answer using the codes given below:",
+          "options": [
+            "(A) 1 and 4",
+            "(B) 2 and 3",
+            "(C) 1 and 3",
+            "(D) 2 and 4"
+          ],
+          "correct_answer": 1,
+          "correct_text": "1 and 4",
+          "unit": "Unit 7",
+          "topic": "7.2 Motivation",
+          "subtopic": "Theories of Motivation",
+          "concept": "Correct: #1 (unconscious wish → Psychoanalytic/Freud) and #4 (physiological imbalance → Homeostatic/drive-reduction). Incorrect: #2 (self-realization is Humanistic/Maslow, not Cognitive) and #3 (perceptual defects motivation is not a Humanistic concept)",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        }
+      ]
+    },
+    {
+      "type": "passage",
+      "id": "passage_36",
+      "heading": "Passage (Questions 36–40)",
+      "text": "Memory is a cognitive ability to encode, store and retrieve information from the environment. According to information theory, the amount of information per item is simply the logarithm (to the base 2) of the number of choices. George Miller in 1956 suggested that human ability to process information is the magical number 7 ± 2. It is therefore possible to calculate the number of 'bits' of information that a subject can hold when he correctly reports 5 or 6 or 7 or 8 or 9 digits. For example each digit is drawn from 10 equally likely alternatives and therefore each decimal digit contains 3.32 bits of information (2^3.32 = 10). Similarly each binary digit (0,1) contains 1 bit of information (2^1 = 2). Each english alphabet contains 4.7 bits of information (2^4.7 = 26). Therefore from information theory point of view if the span of memory of a subject for decimal digit is 7, then he stores 3.32 × 7 = 23.24 bits of information approximately. 'Bit' which is contraction of binary digit is the amount of information needed to distinguish between two equally likely alternatives. Thus N bits is the number of 'bits' required to distinguish among 2^N equally likely alternatives. This measurement of information contained in any stimulus was initially propounded by Shannon and Weaver."
+    },
+    {
+      "type": "questions_block",
+      "range": "Q36–Q40",
+      "passage_ref": "passage_36",
+      "questions": [
+        {
+          "id": 36,
+          "question": "Memory span for digits is magic at number 7 ± 2 was suggested by:",
+          "options": [
+            "(A) Ebbinghaus",
+            "(B) D.E. Broadbent",
+            "(C) G. Miller",
+            "(D) L. Postman"
+          ],
+          "correct_answer": 3,
+          "correct_text": "G. Miller",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Short-Term Memory",
+          "concept": "Miller's magical number 7 ± 2 (1956)",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": "passage_36",
+          "table_ref": null
+        },
+        {
+          "id": 37,
+          "question": "If the memory span for english alphabets of a subject is 6 letters, he can store:",
+          "options": [
+            "(A) 6 bits of information",
+            "(B) 12 bits of information",
+            "(C) 18 bits of information",
+            "(D) 28 bits of information"
+          ],
+          "correct_answer": 4,
+          "correct_text": "28 bits of information",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Information Processing",
+          "concept": "6 letters × 4.7 bits = 28.2 ≈ 28 bits",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": "passage_36",
+          "table_ref": null
+        },
+        {
+          "id": 38,
+          "question": "Measurement regarding the amount of information in a given stimulus was proposed by:",
+          "options": [
+            "(A) Atkinson and Shiffrin",
+            "(B) Shannon and Weaver",
+            "(C) Craik and Lockhart",
+            "(D) Tulving and Watkins"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Shannon and Weaver",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Information Processing",
+          "concept": "Shannon and Weaver's information theory",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": "passage_36",
+          "table_ref": null
+        },
+        {
+          "id": 39,
+          "question": "Linguists believe that there are approximately 1024 monosyllabic words in english language. From information theory point of view each word contains:",
+          "options": [
+            "(A) 10 bits of information",
+            "(B) 12 bits of information",
+            "(C) 15 bits of information",
+            "(D) 20 bits of information"
+          ],
+          "correct_answer": 1,
+          "correct_text": "10 bits of information",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Information Processing",
+          "concept": "2^10 = 1024, so each word contains 10 bits",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": "passage_36",
+          "table_ref": null
+        },
+        {
+          "id": 40,
+          "question": "'Bit' being contraction of 'binary digit' 4 'bits' is the number of bits which distinguish X number of equally likely alternatives, where X is equal to:",
+          "options": [
+            "(A) 8",
+            "(B) 16",
+            "(C) 32",
+            "(D) 64"
+          ],
+          "correct_answer": 2,
+          "correct_text": "16",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Information Processing",
+          "concept": "4 bits = 2^4 = 16 alternatives",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": "passage_36",
+          "table_ref": null
+        }
+      ]
+    },
+    {
+      "type": "questions_block",
+      "range": "Q41–Q50",
+      "questions": [
+        {
+          "id": 41,
+          "question": "**Assertion (A):** If things are arranged in such a way that with eye movement the stimulus also moves and consequently the same point of retina are continuously stimulated, then there is no illusion.\n\n**Reason (R):** Stable perception of form becomes possible if and when stimuli are stable.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "(B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+            "(C) (A) is true but (R) is false",
+            "(D) (A) is false but (R) is true"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Visual Illusions",
+          "concept": "Both true: stabilized retinal image (stimulus moves with eye) eliminates motion illusion (corollary discharge theory). Stable perception indeed requires stable stimuli, but R does not directly explain A's mechanism",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 42,
+          "question": "**Assertion (A):** Imagination is a necessary element of creative thinking in art and literature.\n\n**Reason (R):** Imagination helps the individual to think of a fancy dream.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "(B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+            "(C) (A) is true but (R) is false",
+            "(D) (A) is false but (R) is true"
+          ],
+          "correct_answer": 3,
+          "correct_text": "(A) is true but (R) is false",
+          "unit": "Unit 6",
+          "topic": "6.3 Creativity",
+          "subtopic": "Creativity",
+          "concept": "A is true: imagination is essential for creative thinking in arts/literature. R is false: imagination is not merely 'fancy dreams'; it involves constructive, goal-directed mental activity beyond simple fantasy",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 43,
+          "question": "**Assertion (A):** Children cry when they are hungry or hurt and laugh when they are happy.\n\n**Reason (R):** Expression of emotion is innate.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "(B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+            "(C) (A) is true but (R) is false",
+            "(D) (A) is false but (R) is true"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+          "unit": "Unit 7",
+          "topic": "7.3 Emotion",
+          "subtopic": "Nature of Emotion",
+          "concept": "Innate emotional expressions (Darwin, Ekman: universal emotions)",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 44,
+          "question": "**Assertion (A):** Collection of data and information from natural environment is a component of field study.\n\n**Reason (R):** Field study is not a reliable and valid method of research.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "(B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+            "(C) (A) is true but (R) is false",
+            "(D) (A) is false but (R) is true"
+          ],
+          "correct_answer": 3,
+          "correct_text": "(A) is true but (R) is false",
+          "unit": "Unit 2",
+          "topic": "2.5 Methods of Research",
+          "subtopic": "Field Study",
+          "concept": "Field study collects data from natural environment; it CAN be reliable and valid",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 45,
+          "question": "**Assertion (A):** During recall in verbal learning transposition errors occur both in free learning and serial learning.\n\n**Reason (R):** A major cause of committing errors in verbal learning is interference or inhibition.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "(B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+            "(C) (A) is true but (R) is false",
+            "(D) (A) is false but (R) is true"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+          "unit": "Unit 5",
+          "topic": "5.5 Forgetting",
+          "subtopic": "Interference Theory",
+          "concept": "Transposition errors: items correctly identified but recalled in wrong serial order (swapping adjacent positions), most characteristic of serial learning. Both A and R are true independently — interference causes forgetting, but transposition errors specifically arise from order-encoding failures rather than interference per se",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 46,
+          "question": "**Assertion (A):** By using SPSS programme by computer many statistical analyses of data can be performed.\n\n**Reason (R):** Thinking is a higher mental process which involves signs, symbol and language.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "(B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+            "(C) (A) is true but (R) is false",
+            "(D) (A) is false but (R) is true"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+          "unit": "Unit 2",
+          "topic": "2.7 Inferential Statistics",
+          "subtopic": "Statistical Software",
+          "concept": "SPSS for statistical analysis; both statements true but unrelated",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 47,
+          "question": "**Assertion (A):** In divided attention efficiency in complex task performance is reduced.\n\n**Reason (R):** Parallel processing of information is comparatively easy than serial processing.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "(B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+            "(C) (A) is true but (R) is false",
+            "(D) (A) is false but (R) is true"
+          ],
+          "correct_answer": 3,
+          "correct_text": "(A) is true but (R) is false",
+          "unit": "Unit 5",
+          "topic": "5.1 Attention",
+          "subtopic": "Divided Attention",
+          "concept": "Divided attention reduces efficiency; parallel processing is NOT always easier than serial",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 48,
+          "question": "**Assertion (A):** Intelligence quotient (I.Q.) changes rapidly throughout one's life span.\n\n**Reason (R):** Life expectancy depends basically on heredity factor and also on quality of life.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "(B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+            "(C) (A) is true but (R) is false",
+            "(D) (A) is false but (R) is true"
+          ],
+          "correct_answer": 4,
+          "correct_text": "(A) is false but (R) is true",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Measurement of Intelligence",
+          "concept": "IQ is relatively stable, does NOT change rapidly; (R) is true but unrelated",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 49,
+          "question": "**Assertion (A):** Limbic system is a group of structures in the cardiovascular.\n\n**Reason (R):** Limbic system is involved in the expression of motivation and emotion.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "(B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+            "(C) (A) is true but (R) is false",
+            "(D) (A) is false but (R) is true"
+          ],
+          "correct_answer": 4,
+          "correct_text": "(A) is false but (R) is true",
+          "unit": "Unit 4",
+          "topic": "4.3 Nervous System",
+          "subtopic": "Limbic System",
+          "concept": "Limbic system is in the BRAIN (not cardiovascular); it IS involved in motivation and emotion",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 50,
+          "question": "**Assertion (A):** Language development is dependent on certain cognitive information processing and multirational disposition.\n\n**Reason (R):** Language is also acquired through imitation of models.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "(B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+            "(C) (A) is true but (R) is false",
+            "(D) (A) is false but (R) is true"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+          "unit": "Unit 9",
+          "topic": "9.2 Major Developmental Theories",
+          "subtopic": "Language Development",
+          "concept": "Language depends on cognitive processing AND imitation; both true but R doesn't explain A",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        }
+      ]
+    }
+  ]
+}

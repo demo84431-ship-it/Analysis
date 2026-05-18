@@ -1,0 +1,1034 @@
+{
+  "paper_metadata": {
+    "title": "UGC NET/JRF Examination, December 2006",
+    "date": "December 2006",
+    "subject": "Psychology — Paper II"
+  },
+  "content": [
+    {
+      "type": "questions_block",
+      "range": "Q1–Q44",
+      "questions": [
+        {
+          "id": 1,
+          "question": "A binocular depth cue resulting from the movement of the eye muscles is:",
+          "options": [
+            "(A) accommodation",
+            "(B) retinal disparity",
+            "(C) convergence",
+            "(D) stereoscopic cue"
+          ],
+          "correct_answer": 3,
+          "correct_text": "convergence",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Depth Perception",
+          "concept": "Binocular cues — convergence (eye muscle movement)",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 2,
+          "question": "During concept formation when we process as many hypotheses as possible at the same time it is known as:",
+          "options": [
+            "(A) Focus gambling",
+            "(B) Successive scanning",
+            "(C) Simultaneous scanning",
+            "(D) Global focussing"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Simultaneous scanning",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Concept Formation",
+          "concept": "Bruner's hypothesis testing — simultaneous scanning",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 3,
+          "question": "Learning and maturation lead to development is an accepted proposition. However, the relationship between the two is a matter of debate. Which one of the following positions is the majority view?",
+          "options": [
+            "(A) Maturation is more important until childhood, then learning becomes more important",
+            "(B) Learning and maturation interact and this results in development",
+            "(C) Learning and maturation work together",
+            "(D) Neither is criticized for development"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Learning and maturation interact and this results in development",
+          "unit": "Unit 9",
+          "topic": "9.1 Principles of Development",
+          "subtopic": "Maturation and learning interaction",
+          "concept": "Interactionist position on maturation and learning",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 4,
+          "question": "The research strategy in which psychologists try to discover a relationship between two factors by measuring each factor separately and then comparing results is called:",
+          "options": [
+            "(A) Observation",
+            "(B) Correlation",
+            "(C) Experimentation",
+            "(D) Unobstrusive study"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Correlation",
+          "unit": "Unit 2",
+          "topic": "2.5 Methods of Research",
+          "subtopic": "Correlational",
+          "concept": "Correlational research method",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 5,
+          "question": "In free recall the probability of recall of the items in a list can be organized in the following order:",
+          "options": [
+            "(A) last item, first item, middle items",
+            "(B) first item, last item, middle items",
+            "(C) last item, middle items, first item",
+            "(D) first item, middle items, last item"
+          ],
+          "correct_answer": 1,
+          "correct_text": "last item, first item, middle items",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Retrieval",
+          "concept": "Serial position effect — primacy and recency in free recall",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 6,
+          "question": "Arrange the following in the order in which they were developed:\n\n1. Bar On's EQ questionnaire\n2. Binet's test of intelligence\n3. Eysenck's Personality Inventory\n4. Thematic Apperception Test\n\n**Codes:**",
+          "options": [
+            "(A) 1 2 4 3",
+            "(B) 3 1 2 4",
+            "(C) 2 4 3 1",
+            "(D) 4 3 1 2"
+          ],
+          "correct_answer": 3,
+          "correct_text": "2 4 3 1",
+          "unit": "Unit 3",
+          "topic": "3.6 Types of Tests by Domain",
+          "subtopic": "Intelligence Tests",
+          "concept": "Chronological development of psychological tests",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 7,
+          "question": "**Assertion (A):** Individuals commit suicide because they find their emotional distress intolerable.\n\n**Reason (R):** The suicide attempt is a cry for help.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "(B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+            "(C) (A) is true but (R) is false",
+            "(D) (A) is false but (R) is true"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+          "unit": "Unit 10",
+          "topic": "10.7 Health Psychology",
+          "subtopic": "Chronic diseases",
+          "concept": "Suicide — emotional distress and cry for help",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 8,
+          "question": "The auditory signals pass through:\n\n1. Oval window\n2. Organ of corti\n3. Ear drum\n4. Anvil, hammer, stirrup\n5. Auditory Canal\n\n**Codes:**",
+          "options": [
+            "(A) 1 2 3 4 5",
+            "(B) 2 1 5 3 4",
+            "(C) 5 3 4 1 2",
+            "(D) 3 4 1 2 5"
+          ],
+          "correct_answer": 3,
+          "correct_text": "5 3 4 1 2",
+          "unit": "Unit 4",
+          "topic": "4.1 Sensory Systems",
+          "subtopic": "Auditory system",
+          "concept": "Pathway of auditory signal: Auditory canal → Ear drum → Ossicles (hammer, anvil, stirrup) → Oval window → Organ of Corti",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 9,
+          "question": "A problem concerned with probabilities is easier to solve when it is represented in the form of:",
+          "options": [
+            "(A) Symbols",
+            "(B) Hierachical Tree",
+            "(C) Matrices",
+            "(D) Visual representation"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Visual representation",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Problem Solving",
+          "concept": "Representation and problem solving — visual representation aids probability problems",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 10,
+          "question": "Which of the followings is not a part of heuristic strategy?",
+          "options": [
+            "(A) Random search",
+            "(B) Means end analysis",
+            "(C) Planning strategy",
+            "(D) Backwards searching"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Random search",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Problem Solving",
+          "concept": "Heuristic strategies — means-ends analysis, planning, backward search vs. random search",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 11,
+          "question": "Arrange the following stages of counselling process in which these are followed:\n\n(i) Establishing empathic understanding\n(ii) Termination and follow up\n(iii) Initial procedures\n(iv) Intervention strategies\n\n**Codes:**",
+          "options": [
+            "(A) (iv) (iii) (ii) (i)",
+            "(B) (ii) (iv) (i) (iii)",
+            "(C) (i) (ii) (iii) (iv)",
+            "(D) (iii) (i) (iv) (ii)"
+          ],
+          "correct_answer": 4,
+          "correct_text": "(iii) (i) (iv) (ii)",
+          "unit": "Unit 9",
+          "topic": "9.4 Guidance and Counseling",
+          "subtopic": "Counseling process",
+          "concept": "Stages of counselling: Initial procedures → Empathic understanding → Intervention → Termination",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 12,
+          "question": "A research study has been conducted on Population Control on the basis of the results, the researcher draws certain conclusion. This type of reasoning is known as:",
+          "options": [
+            "(A) Deductive",
+            "(B) Conductive",
+            "(C) Inductive",
+            "(D) Reductive"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Inductive",
+          "unit": "Unit 2",
+          "topic": "2.5 Methods of Research",
+          "subtopic": "Survey Research",
+          "concept": "Inductive reasoning — drawing conclusions from observed results",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 13,
+          "question": "Which one of the following threshold values is critical for an action potential to occur?",
+          "options": [
+            "(A) –70 to about –50 millivolts",
+            "(B) –50 to about +40 millivolts",
+            "(C) –50 millivolts",
+            "(D) +20 millivolt"
+          ],
+          "correct_answer": 3,
+          "correct_text": "–50 millivolts",
+          "unit": "Unit 4",
+          "topic": "4.2 Neurons",
+          "subtopic": "Action potential",
+          "concept": "Threshold potential for action potential (~-50 mV)",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 14,
+          "question": "**Assertion (A):** All factor analytically based tests are psychometrically sound.\n\n**Reason (R):** Factor analysis is one of the best ways of establishing construct validity.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "(B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+            "(C) (A) is true but (R) is false",
+            "(D) (A) is false but (R) is true"
+          ],
+          "correct_answer": 4,
+          "correct_text": "(A) is false but (R) is true",
+          "unit": "Unit 3",
+          "topic": "3.4 Validity",
+          "subtopic": "Construct validity",
+          "concept": "Factor analysis and construct validity",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 15,
+          "question": "To standardize a test the researcher has to pay more attention to:\n\n(i) Item construct\n(ii) Reliability\n(iii) Validity\n(iv) Norms",
+          "options": [
+            "(A) (i), (ii) and (iii) are correct",
+            "(B) (i), (ii) and (iv) are correct",
+            "(C) (i), (iii) and (iv) are correct",
+            "(D) (ii), (iii) and (iv) are correct"
+          ],
+          "correct_answer": 4,
+          "correct_text": "(ii), (iii) and (iv) are correct",
+          "unit": "Unit 3",
+          "topic": "3.5 Norms and Standardization",
+          "subtopic": "Standardization",
+          "concept": "Requirements for test standardization — reliability, validity, norms",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 16,
+          "question": "**Assertion (A):** People form attitudes by practicing self deception.\n\n**Reason (R):** Bem's self perception theory proposes that we infer our own attitudes by observing our own behaviour.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "(B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+            "(C) (A) is true but (R) is false",
+            "(D) (A) is false but (R) is true"
+          ],
+          "correct_answer": 4,
+          "correct_text": "(A) is false but (R) is true",
+          "unit": "Unit 8",
+          "topic": "8.3 Attitudes",
+          "subtopic": "Attitude Formation",
+          "concept": "Bem's Self-Perception Theory",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 17,
+          "question": "All or none law governs the activity of:",
+          "options": [
+            "(A) Synapse",
+            "(B) Dendrite",
+            "(C) Neuron",
+            "(D) Axen"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Neuron",
+          "unit": "Unit 4",
+          "topic": "4.2 Neurons",
+          "subtopic": "Action potential",
+          "concept": "All-or-none law of nerve impulse",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 18,
+          "question": "Match List-I with List-II.\n\n| List-I | List-II |\n|---|---|\n| A. Carl Rogers | 1. Token economy |\n| B. Albert Ellis | 2. Phenomenological reality |\n| C. Eric Berne | 3. Disputing |\n| D. Albert Bandura | 4. Life space |\n| E. Kurt Lewin | 5. Rackets and games |\n\n**Codes:**\n\n| | A | B | C | D | E |\n|---|---|---|---|---|---|\n| (A) | 3 | 4 | 1 | 5 | 2 |\n| (B) | 2 | 1 | 5 | 3 | 4 |\n| (C) | 5 | 3 | 4 | 1 | 2 |\n| (D) | 2 | 3 | 5 | 1 | 4 |",
+          "options": [
+            "(A) A=3, B=4, C=1, D=5, E=2",
+            "(B) A=2, B=1, C=5, D=3, E=4",
+            "(C) A=5, B=3, C=4, D=1, E=2",
+            "(D) A=2, B=3, C=5, D=1, E=4"
+          ],
+          "correct_answer": 4,
+          "correct_text": "A=2, B=3, C=5, D=1, E=4",
+          "unit": "Unit 9",
+          "topic": "9.5 Psychotherapies",
+          "subtopic": "Cognitive-Behavioural Therapies",
+          "concept": "Rogers → phenomenological reality (client-centred), Ellis → disputing (REBT), Berne → rackets & games (TA), Bandura → token economy (Principles of Behavior Modification, 1969), Lewin → life space (Field Theory)",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 19,
+          "question": "In case of relearning.\n\n1. There is no transfer from serial to paired associate learning\n2. There is positive transfer from paired associate to serial learning\n3. There is negative transfer from serial to paired associate learning\n4. There is no transfer from paired associate to serial learning.\n\nWhich of the above statements are true?",
+          "options": [
+            "(A) 1 and 4",
+            "(B) 3 and 4",
+            "(C) 1 and 2",
+            "(D) 2 and 3"
+          ],
+          "correct_answer": 4,
+          "correct_text": "2 and 3",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Cognitive Approaches",
+          "concept": "Transfer of learning — PA→Serial = positive transfer (associations aid sequencing); Serial→PA = negative transfer (sequential chains interfere with independent S–R pairs)",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 20,
+          "question": "The researcher smiles at the friendly subjects but not at the unfriendly subjects and affects the research results, the results suffer from:",
+          "options": [
+            "(A) subject bias",
+            "(B) experimental bias",
+            "(C) population bias",
+            "(D) subjective bias"
+          ],
+          "correct_answer": 2,
+          "correct_text": "experimental bias",
+          "unit": "Unit 2",
+          "topic": "2.1 Foundations of Research",
+          "subtopic": "Variables",
+          "concept": "Experimenter bias — researcher behavior affecting results",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 21,
+          "question": "**Assertion (A):** Virtually everyone, regardless of personal experience, will acquire language.\n\n**Reason (R):** The specific language a child will grow up speaking is preprogrammed in the child's brain.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "(B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+            "(C) (A) is true but (R) is false",
+            "(D) (A) is false but (R) is true"
+          ],
+          "correct_answer": 3,
+          "correct_text": "(A) is true but (R) is false",
+          "unit": "Unit 9",
+          "topic": "9.2 Major Developmental Theories",
+          "subtopic": "Language Development",
+          "concept": "Chomsky's LAD — universal grammar for language structure, not specific language preprogramming",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 22,
+          "question": "Match List-I (Type of Memory) with List-II (Researchers).\n\n| List-I | List-II |\n|---|---|\n| A. Procedural memory | 1. Craik |\n| B. Levels of processing | 2. Loftus |\n| C. Reconstructive memory | 3. Tulving |\n| D. Eye witness memory | 4. Bartlett |\n\n**Codes:**\n\n| | A | B | C | D |\n|---|---|---|---|---|\n| (A) | 1 | 3 | 2 | 4 |\n| (B) | 3 | 1 | 4 | 2 |\n| (C) | 2 | 3 | 1 | 4 |\n| (D) | 4 | 3 | 2 | 1 |",
+          "options": [
+            "(A) A=1, B=3, C=2, D=4",
+            "(B) A=3, B=1, C=4, D=2",
+            "(C) A=2, B=3, C=1, D=4",
+            "(D) A=4, B=3, C=2, D=1"
+          ],
+          "correct_answer": 2,
+          "correct_text": "A=3, B=1, C=4, D=2",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Memory Models",
+          "concept": "Tulving-procedural memory, Craik-levels of processing, Bartlett-reconstructive memory, Loftus-eyewitness memory",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 23,
+          "question": "According to Gestalt Psychologists, the following pattern would be perceived as two units based on the law of:\n\nXOX XOX",
+          "options": [
+            "(A) Similarity",
+            "(B) Contrast",
+            "(C) Closure",
+            "(D) Proximity"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Proximity",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Gestalt Principles",
+          "concept": "Law of Proximity — elements close together grouped as units",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 24,
+          "question": "A hypothesis is a:",
+          "options": [
+            "(A) Specific prediction about behaviour that can be tested systematically",
+            "(B) General feeling or hunch of the experimenter",
+            "(C) Theory of behaviour or mental processes",
+            "(D) Statement of fact about a cause or effect relationship"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Specific prediction about behaviour that can be tested systematically",
+          "unit": "Unit 2",
+          "topic": "2.2 Hypothesis",
+          "subtopic": "Hypothesis",
+          "concept": "Definition of hypothesis — testable specific prediction",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 25,
+          "question": "Which of the following concepts seem out of place?",
+          "options": [
+            "(A) Privacy",
+            "(B) Representative sample",
+            "(C) Informed Consent",
+            "(D) Deception"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Representative sample",
+          "unit": "Unit 2",
+          "topic": "2.8 Research Ethics",
+          "subtopic": "Research Ethics",
+          "concept": "Privacy, informed consent, deception are research ethics concepts; representative sample is a sampling concept",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 26,
+          "question": "In an experiment, a measured difference between groups of subjects that is highly unlikely to have come about by Chance is said to be:",
+          "options": [
+            "(A) Statistically meaningless",
+            "(B) Unreliable",
+            "(C) Statistically insignificant",
+            "(D) Statistically significant"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Statistically significant",
+          "unit": "Unit 2",
+          "topic": "2.7 Inferential Statistics",
+          "subtopic": "Parametric Tests",
+          "concept": "Statistical significance — unlikely due to chance",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 27,
+          "question": "Match List-I with List-II.\n\n| List-I | List-II |\n|---|---|\n| A. Army Beta | 1. Problem solving |\n| B. Digit Span | 2. Motivation |\n| C. Q-sort | 3. Personality |\n| D. MAT | 4. Intelligence |\n| | 5. Immediate Memory |\n\n**Codes:**\n\n| | A | B | C | D |\n|---|---|---|---|---|\n| (A) | 2 | 1 | 3 | 4 |\n| (B) | 4 | 5 | 1 | 3 |\n| (C) | 3 | 5 | 2 | 1 |\n| (D) | 4 | 5 | 3 | 2 |",
+          "options": [
+            "(A) A=2, B=1, C=3, D=4",
+            "(B) A=4, B=5, C=1, D=3",
+            "(C) A=3, B=5, C=2, D=1",
+            "(D) A=4, B=5, C=3, D=2"
+          ],
+          "correct_answer": 4,
+          "correct_text": "A=4, B=5, C=3, D=2",
+          "unit": "Unit 3",
+          "topic": "3.6 Types of Tests by Domain",
+          "subtopic": "Intelligence Tests",
+          "concept": "Army Beta-intelligence, Digit Span-immediate memory, Q-sort-personality, MAT-motivation",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 28,
+          "question": "Activity in the thalamus causes emotional feelings and bodily arousal simultaneously, is according to:",
+          "options": [
+            "(A) Cannon-Bard Theory",
+            "(B) James-Lange Theory",
+            "(C) Schachter's Cognitive Theory",
+            "(D) None of the above"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Cannon-Bard Theory",
+          "unit": "Unit 7",
+          "topic": "7.3 Emotion",
+          "subtopic": "Theories of Emotion",
+          "concept": "Cannon-Bard theory — thalamus sends simultaneous signals for emotion and arousal",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 29,
+          "question": "Match List-I with List-II.\n\n| List-I | List-II |\n|---|---|\n| A. Thomson | 1. Gf and Gc |\n| B. Jensen | 2. Primary mental abilities |\n| C. Thurstone | 3. Sampling theory |\n| D. Cattell | 4. Level I/Level II |\n\n**Codes:**\n\n| | A | B | C | D |\n|---|---|---|---|---|\n| (A) | 1 | 2 | 3 | 4 |\n| (B) | 3 | 4 | 2 | 1 |\n| (C) | 2 | 3 | 1 | 4 |\n| (D) | 3 | 4 | 1 | 2 |",
+          "options": [
+            "(A) A=1, B=2, C=3, D=4",
+            "(B) A=3, B=4, C=2, D=1",
+            "(C) A=2, B=3, C=1, D=4",
+            "(D) A=3, B=4, C=1, D=2"
+          ],
+          "correct_answer": 2,
+          "correct_text": "A=3, B=4, C=2, D=1",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Theories of Intelligence",
+          "concept": "Thomson-sampling theory, Jensen-level I/II, Thurstone-primary mental abilities, Cattell-Gf and Gc",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 30,
+          "question": "Psychological response to pain stimuli is largely determined by:",
+          "options": [
+            "(A) Cutaneous receptors",
+            "(B) Efferent nerves",
+            "(C) Afferent nerves",
+            "(D) Brain processes"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Brain processes",
+          "unit": "Unit 4",
+          "topic": "4.1 Sensory Systems",
+          "subtopic": "Sensory pathways",
+          "concept": "Gate control theory of pain — psychological/brain processes modulate pain",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 31,
+          "question": "The chemical substances present at the junction between neurons are called:",
+          "options": [
+            "(A) Synapse",
+            "(B) Neurotransmitters",
+            "(C) Neuronal impulses",
+            "(D) Chemical fluid"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Neurotransmitters",
+          "unit": "Unit 4",
+          "topic": "4.2 Neurons",
+          "subtopic": "Neurotransmitters",
+          "concept": "Neurotransmitters — chemical messengers at synaptic junctions",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 32,
+          "question": "Which of the following is more likely to be associated?\n\n| List-I | List-II |\n|---|---|\n| A. TAT | 1. Cattell |\n| B. PF test | 2. Rosenzweig |\n| C. Draw-a-man | 3. Murray |\n| D. 16 PF | 4. Bender |\n\n**Codes:**\n\n| | A | B | C | D |\n|---|---|---|---|---|\n| (A) | 4 | 1 | 2 | 3 |\n| (B) | 3 | 2 | 4 | 1 |\n| (C) | 1 | 4 | 3 | 2 |\n| (D) | 2 | 3 | 1 | 4 |",
+          "options": [
+            "(A) A=4, B=1, C=2, D=3",
+            "(B) A=3, B=2, C=4, D=1",
+            "(C) A=1, B=4, C=3, D=2",
+            "(D) A=2, B=3, C=1, D=4"
+          ],
+          "correct_answer": 2,
+          "correct_text": "A=3, B=2, C=4, D=1",
+          "unit": "Unit 3",
+          "topic": "3.6 Types of Tests by Domain",
+          "subtopic": "Personality Tests",
+          "concept": "TAT-Murray, PF test-Rosenzweig, Draw-a-man-Bender, 16PF-Cattell",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 33,
+          "question": "While relearning a list of words in reverse order:\n\n1. recall method leads to positive transfer\n2. anticipation method leads to no transfer\n3. anticipation method leads to positive transfer\n4. recall method leads to no transfer.\n\n**Codes:**",
+          "options": [
+            "(A) 1 and 2",
+            "(B) 3 and 4",
+            "(C) 1 and 3",
+            "(D) 2 and 4"
+          ],
+          "correct_answer": 1,
+          "correct_text": "1 and 2",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Verbal and Concept Learning",
+          "concept": "Reverse serial relearning: recall method → positive transfer; anticipation method → no transfer",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 34,
+          "question": "Spearman has explained intelligence as having:",
+          "options": [
+            "(A) One G factor and two S factors",
+            "(B) Two G factors and one S factor",
+            "(C) One G factor and few S factors",
+            "(D) One G factor and many S factors"
+          ],
+          "correct_answer": 4,
+          "correct_text": "One G factor and many S factors",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Theories of Intelligence",
+          "concept": "Spearman's Two-Factor Theory — g factor and multiple s factors",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 35,
+          "question": "Match List-I with List-II.\n\n| List-I | List-II |\n|---|---|\n| A. Feature analysis | 1. Decrease in sensitivity |\n| B. Top down | 2. Focusing on parts |\n| C. Adaptation | 3. Standard pattern |\n| D. Template matching | 4. Depends on expectations and experience |\n\n**Codes:**\n\n| | A | B | C | D |\n|---|---|---|---|---|\n| (A) | 3 | 1 | 4 | 2 |\n| (B) | 1 | 2 | 3 | 4 |\n| (C) | 2 | 4 | 1 | 3 |\n| (D) | 4 | 1 | 2 | 3 |",
+          "options": [
+            "(A) A=3, B=1, C=4, D=2",
+            "(B) A=1, B=2, C=3, D=4",
+            "(C) A=2, B=4, C=1, D=3",
+            "(D) A=4, B=1, C=2, D=3"
+          ],
+          "correct_answer": 3,
+          "correct_text": "A=2, B=4, C=1, D=3",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Form Perception",
+          "concept": "Feature analysis-focusing on parts, Top down-expectations, Adaptation-decrease in sensitivity, Template matching-standard pattern",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 36,
+          "question": "Rita has been disappointed over the performance in the recent entrance examination for engineering. As a result she is demotivated and doubtful about her ability to clear the test in future. This indicates low:",
+          "options": [
+            "(A) self esteem",
+            "(B) self regard",
+            "(C) self efficacy",
+            "(D) self regulation"
+          ],
+          "correct_answer": 3,
+          "correct_text": "self efficacy",
+          "unit": "Unit 7",
+          "topic": "7.2 Motivation",
+          "subtopic": "Self-Efficacy",
+          "concept": "Bandura's self-efficacy — belief in capability to perform specific tasks",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 37,
+          "question": "We see lights of different wavelengths as being of different:",
+          "options": [
+            "(A) Colours",
+            "(B) Brightness",
+            "(C) Saturation",
+            "(D) Frequencies"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Colours",
+          "unit": "Unit 4",
+          "topic": "4.1 Sensory Systems",
+          "subtopic": "Visual system",
+          "concept": "Wavelength and color perception",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 38,
+          "question": "Synaptic transmission is:",
+          "options": [
+            "(A) Electrical",
+            "(B) Chemical",
+            "(C) Electrochemical",
+            "(D) Mechanical"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Electrochemical",
+          "unit": "Unit 4",
+          "topic": "4.2 Neurons",
+          "subtopic": "Synapse",
+          "concept": "Synaptic transmission — electrochemical process",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 39,
+          "question": "Match List-I with List-II.\n\n| List-I | List-II |\n|---|---|\n| A. Experiment | 1. Naturalistic observation |\n| B. Field study | 2. Control and manipulation of variables |\n| C. Survey method | 3. Measurement of scores on two or more factors |\n| D. Correlational study | 4. Questionnaire |\n\n**Codes:**\n\n| | A | B | C | D |\n|---|---|---|---|---|\n| (A) | 1 | 4 | 3 | 2 |\n| (B) | 2 | 1 | 4 | 3 |\n| (C) | 1 | 2 | 3 | 4 |\n| (D) | 3 | 1 | 2 | 4 |",
+          "options": [
+            "(A) A=1, B=4, C=3, D=2",
+            "(B) A=2, B=1, C=4, D=3",
+            "(C) A=1, B=2, C=3, D=4",
+            "(D) A=3, B=1, C=2, D=4"
+          ],
+          "correct_answer": 2,
+          "correct_text": "A=2, B=1, C=4, D=3",
+          "unit": "Unit 2",
+          "topic": "2.5 Methods of Research",
+          "subtopic": "Experimental",
+          "concept": "Experiment-control/manipulation, Field study-naturalistic observation, Survey-questionnaire, Correlational-measurement of scores on factors",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 40,
+          "question": "Match List-I with List-II.\n\n| List-I | List-II |\n|---|---|\n| A. The Cerebellum | 1. Regulates endocrine activity |\n| B. The Hypothalamus | 2. Center of higher mental processes |\n| C. The Limbic System | 3. Controls balance and muscular coordination |\n| D. The Cerebral Cortex | 4. Satisfy basic needs and deals with emotions |\n\n**Codes:**\n\n| | A | B | C | D |\n|---|---|---|---|---|\n| (A) | 1 | 2 | 3 | 4 |\n| (B) | 2 | 4 | 1 | 3 |\n| (C) | 4 | 3 | 2 | 1 |\n| (D) | 3 | 1 | 4 | 2 |",
+          "options": [
+            "(A) A=1, B=2, C=3, D=4",
+            "(B) A=2, B=4, C=1, D=3",
+            "(C) A=4, B=3, C=2, D=1",
+            "(D) A=3, B=1, C=4, D=2"
+          ],
+          "correct_answer": 4,
+          "correct_text": "A=3, B=1, C=4, D=2",
+          "unit": "Unit 4",
+          "topic": "4.3 Nervous System",
+          "subtopic": "Brain structures",
+          "concept": "Cerebellum-balance/coordination, Hypothalamus-endocrine regulation, Limbic system-basic needs/emotions, Cerebral cortex-higher mental processes",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 41,
+          "question": "Match List-I (Scientist) with List-II (Name of Test).\n\n| List-I | List-II |\n|---|---|\n| A. Cattell | 1. Pass-along Test |\n| B. Raven | 2. Reaction Time |\n| C. Alexander | 3. Culture Free Test |\n| D. Galton | 4. Coloured Progressive Matrices |\n\n**Codes:**\n\n| | A | B | C | D |\n|---|---|---|---|---|\n| (A) | 1 | 2 | 3 | 4 |\n| (B) | 3 | 4 | 2 | 1 |\n| (C) | 3 | 4 | 1 | 2 |\n| (D) | 4 | 1 | 3 | 2 |",
+          "options": [
+            "(A) A=1, B=2, C=3, D=4",
+            "(B) A=3, B=4, C=2, D=1",
+            "(C) A=3, B=4, C=1, D=2",
+            "(D) A=4, B=1, C=3, D=2"
+          ],
+          "correct_answer": 3,
+          "correct_text": "A=3, B=4, C=1, D=2",
+          "unit": "Unit 3",
+          "topic": "3.6 Types of Tests by Domain",
+          "subtopic": "Intelligence Tests",
+          "concept": "Cattell-culture free test, Raven-Coloured Progressive Matrices, Alexander-Pass-along test, Galton-reaction time",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 42,
+          "question": "Match List-I with List-II.\n\n| List-I | List-II |\n|---|---|\n| A. Sigmund Freud | 1. Functional Autonomy |\n| B. Carl Rogers | 2. Self Actualization |\n| C. Gordon Allport | 3. Capacity to love and work |\n| D. Abraham Maslow | 4. Fully functioning person |\n\n**Codes:**\n\n| | A | B | C | D |\n|---|---|---|---|---|\n| (A) | 3 | 4 | 1 | 2 |\n| (B) | 4 | 1 | 2 | 3 |\n| (C) | 1 | 4 | 3 | 2 |\n| (D) | 3 | 2 | 4 | 1 |",
+          "options": [
+            "(A) A=3, B=4, C=1, D=2",
+            "(B) A=4, B=1, C=2, D=3",
+            "(C) A=1, B=4, C=3, D=2",
+            "(D) A=3, B=2, C=4, D=1"
+          ],
+          "correct_answer": 1,
+          "correct_text": "A=3, B=4, C=1, D=2",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Humanistic/Existential Approach",
+          "concept": "Freud-capacity to love and work, Rogers-fully functioning person, Allport-functional autonomy, Maslow-self actualization",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 43,
+          "question": "Which of the following are true in case of animal experiments regarding conditioning?\n\n1. Increase in the amount of reinforcement results in decrease in performance\n2. Latent learning takes place\n3. There is no external inhibition\n4. Extinction is difficult",
+          "options": [
+            "(A) 1 and 2",
+            "(B) 1, 3 and 4",
+            "(C) 1 and 4",
+            "(D) 3 and 4"
+          ],
+          "correct_answer": 4,
+          "correct_text": "3 and 4",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Classical Conditioning",
+          "concept": "In animal conditioning experiments: no external inhibition occurs; extinction is difficult",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 44,
+          "question": "**Assertion (A):** Executives are more prone to heart disease.\n\n**Reason (R):** Stress and health are related.",
+          "options": [
+            "(A) Both (A) and (R) are false",
+            "(B) Both (A) and (R) are true",
+            "(C) (A) is true but (R) is false",
+            "(D) (R) is true but (A) is false"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Both (A) and (R) are true",
+          "unit": "Unit 10",
+          "topic": "10.7 Health Psychology",
+          "subtopic": "Chronic diseases",
+          "concept": "Type A personality and coronary heart disease; stress-health relationship",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        }
+      ]
+    },
+    {
+      "type": "questions_block",
+      "range": "Q45",
+      "questions": [
+        {
+          "id": 45,
+          "question": "**Assertion (A):** Most psychological research with humans makes use of college students as participants, which is not representative of the population.\n\n**Reason (R):** Psychologists must request the subjects to behave in a manner consistent with that of the population.",
+          "options": [
+            "(A) Both (A) and (R) are false",
+            "(B) Both (A) and (R) are true but (R) is not the correct explanation",
+            "(C) (A) is true but (R) is false",
+            "(D) (R) is false but (A) is true"
+          ],
+          "correct_answer": 3,
+          "correct_text": "(A) is true but (R) is false",
+          "unit": "Unit 2",
+          "topic": "2.3 Sampling",
+          "subtopic": "Sampling",
+          "concept": "College student sampling bias — representativeness issue in psychological research",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        }
+      ]
+    },
+    {
+      "type": "passage",
+      "id": "passage_46",
+      "heading": "Passage (Questions 46–50)",
+      "text": "The hypothesis that is being tested can be used to predict the way the data should point. The hypothesis may state that the experimental group will perform better than the control group. By confronting the hypotheses with the dependent variable values of two groups, the experimenter can determine whether the hypothesis accurately predicted the results. But it is difficult to tell, simply by looking at unorganized data, whether the (dependent variable) values for one group are higher or lower than the values for the second group. Therefore, the data must be organized numerically to yield numbers that will provide an answer.\n\nFor example, we may complete average scores and find that the experimental group has a higher mean (say, 100) than the control group (say, 99). Although there is a difference between the groups, it is very small, and we must ask whether it is \"real\" or only a 'Chance' difference. If we conduct the experiment again, would we obtain similar results? If it is a \"real\", reliable difference the experimental group should obtain a higher mean than the control group almost every time the experiment is repeated. If there is no reliable difference between the two groups, we would expect to find each group receiving the higher score half of the time. To tell whether the difference between the two groups in a single experiment is reliable, rather than simply due to random fluctuations (chance), the experimenter resorts to a statistical test. The particular statistical test used will be determined by the type of data obtained and the design of the experiment. On the basis of such tests, it can be determined whether the difference between the two groups is likely to be \"real\" (statistically reliable) or merely \"accidental\" (due only to chance). If the difference between the dependent variable values of the groups is statistically reliable, the difference is very probably not due to random influencing the dependent variable (promoting that the extraneous variables have been properly controlled)."
+    },
+    {
+      "type": "questions_block",
+      "range": "Q46–Q50",
+      "passage_ref": "passage_46",
+      "questions": [
+        {
+          "id": 46,
+          "question": "Based on the passage, which one of the following is the correct hypothesis:",
+          "options": [
+            "(A) Performance of experimental group will be less than control group.",
+            "(B) There will be no difference in the performance of experimental and control groups.",
+            "(C) Performance of experimental group will be better than control group.",
+            "(D) Performance of control group will be better than experimental group."
+          ],
+          "correct_answer": 3,
+          "correct_text": "Performance of experimental group will be better than control group.",
+          "unit": "Unit 2",
+          "topic": "2.2 Hypothesis",
+          "subtopic": "Hypothesis",
+          "concept": "Research hypothesis — experimental group expected to perform better",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": "passage_46",
+          "table_ref": null
+        },
+        {
+          "id": 47,
+          "question": "Statistical tests could be used, if the data are:",
+          "options": [
+            "(A) Unorganised",
+            "(B) Organised",
+            "(C) Normal",
+            "(D) Variable"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Organised",
+          "unit": "Unit 2",
+          "topic": "2.7 Inferential Statistics",
+          "subtopic": "Parametric Tests",
+          "concept": "Data must be organized numerically before applying statistical tests",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": "passage_46",
+          "table_ref": null
+        },
+        {
+          "id": 48,
+          "question": "The reliable difference between two groups could be obtained, if we use:",
+          "options": [
+            "(A) Norms",
+            "(B) Validity",
+            "(C) Statistical Test",
+            "(D) Reliability"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Statistical Test",
+          "unit": "Unit 2",
+          "topic": "2.7 Inferential Statistics",
+          "subtopic": "Parametric Tests",
+          "concept": "Statistical tests determine reliable differences between groups",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": "passage_46",
+          "table_ref": null
+        },
+        {
+          "id": 49,
+          "question": "\"Statistically reliable\" difference is known as:",
+          "options": [
+            "(A) Chance difference",
+            "(B) Hypothesized difference",
+            "(C) Random difference",
+            "(D) Real difference"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Real difference",
+          "unit": "Unit 2",
+          "topic": "2.7 Inferential Statistics",
+          "subtopic": "Statistical significance",
+          "concept": "Statistically reliable difference = real difference (not due to chance)",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": "passage_46",
+          "table_ref": null
+        },
+        {
+          "id": 50,
+          "question": "Arrange the following concepts in the order in which they appeared in the passage:\n\n1. Reliable difference\n2. Hypothesis\n3. Statistical Test\n4. Random fluctuation\n\n**Codes:**",
+          "options": [
+            "(A) 3 4 2 1",
+            "(B) 2 1 3 4",
+            "(C) 1 2 4 3",
+            "(D) 4 3 1 2"
+          ],
+          "correct_answer": 2,
+          "correct_text": "2 1 3 4",
+          "unit": "Unit 2",
+          "topic": "2.2 Hypothesis",
+          "subtopic": "Hypothesis",
+          "concept": "Order of concepts in research passage: Hypothesis → Reliable difference → Statistical Test → Random fluctuation",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": "passage_46",
+          "table_ref": null
+        }
+      ]
+    }
+  ]
+}

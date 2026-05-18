@@ -1,0 +1,1027 @@
+{
+  "paper_metadata": {
+    "title": "UGC NET/JRF Examination, June 2013 (Reconducted)",
+    "date": "June 2013",
+    "subject": "Psychology — Paper II"
+  },
+  "content": [
+    {
+      "type": "questions_block",
+      "range": "Q1–Q45",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Abstract, idealized representation that captures an average or typical member of a category of things is referred to as",
+          "options": [
+            "(A) Exemplar",
+            "(B) Prototype",
+            "(C) Concept",
+            "(D) Schemas"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Prototype",
+          "unit": "Unit 5",
+          "topic": "5.3 Memory",
+          "subtopic": "Concepts and Mental Categories",
+          "concept": "A prototype is an abstract, idealized representation that captures the average or typical member of a category, as opposed to an exemplar which is a specific example from memory. Rosch's prototype theory holds that categories are represented by their most typical members.",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 2,
+          "question": "Working memory involves which of the following?",
+          "options": [
+            "(A) Storage capacity and Biographical information",
+            "(B) Semantic information and Processing capacity",
+            "(C) Storage capacity and Processing capacity",
+            "(D) Biographical information and Semantic information"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Storage capacity and Processing capacity",
+          "unit": "Unit 5",
+          "topic": "5.3 Memory",
+          "subtopic": "Working Memory",
+          "concept": "Baddeley's model of working memory involves both storage capacity (how much information can be held) and processing capacity (how much information can be manipulated simultaneously). These are the two key dimensions of working memory functioning.",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 3,
+          "question": "Match List – I with List – II and indicate your answer with the help of codes given below:\n\n| List – I (Description) | List – II (Phenomena) |\n| --- | --- |\n| p. Stimuli associated with information stored in memory that can aid in its recall. | 1. State dependent retrieval. |\n| q. Information entered into memory in one setting is easier to recall in that setting than in others. | 2. Encoding specificity principle |\n| r. Our physical states serve as retrieval cues for information stored in long term memory. | 3. Retrieval cues |\n| s. Retrieval of information is successful to the extent that the retrieval cues match the cues the learner used during learning phase. | 4. Context dependent memory |\n\n**Codes :**\n|   | p | q | r | s |\n| --- | --- | --- | --- | --- |\n| (A) | 3 | 4 | 1 | 2 |\n| (B) | 4 | 2 | 3 | 1 |\n| (C) | 1 | 3 | 4 | 2 |",
+          "options": [
+            "(A) p-3, q-4, r-1, s-2",
+            "(B) p-4, q-2, r-3, s-1",
+            "(C) p-1, q-3, r-4, s-2"
+          ],
+          "correct_answer": 1,
+          "correct_text": "p-3, q-4, r-1, s-2",
+          "unit": "Unit 5",
+          "topic": "5.3 Memory",
+          "subtopic": "Retrieval and Forgetting",
+          "concept": "Retrieval cues (p-3) are stimuli aiding recall; context dependent memory (q-4) refers to better recall in the learning setting; state dependent retrieval (r-1) involves physical states as cues; encoding specificity principle (s-2) states retrieval success depends on match between encoding and retrieval cues.",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 4,
+          "question": "Given below are two statements, the first labelled as Assertion (A) and the other labelled as Reason (R). Indicate your answer using the codes given below:\n\n**Assertion (A)** : Resolution of Oedipus Complex is the main reason for the development of Super Ego.\n\n**Reason (R)** : Resolution of Oedipus Complex involves a child's identification with the same gender parent.\n\n**Codes :**",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+          "unit": "Unit 9",
+          "topic": "9.3 Psychosexual Development",
+          "subtopic": "Oedipus Complex and Superego Formation",
+          "concept": "According to Freud, the resolution of the Oedipus complex (around age 5-6) leads to superego development. The child identifies with the same-sex parent, internalizing parental values and moral standards, which forms the superego.",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 5,
+          "question": "What are the variables affecting the stroboscopic movement perception?",
+          "options": [
+            "(A) Intensity of light flashes only.",
+            "(B) The physical distance separating light flashes and time interval between the flashes only.",
+            "(C) Both (A) and (B).",
+            "(D) Neither (A) nor (B)."
+          ],
+          "correct_answer": 2,
+          "correct_text": "The physical distance separating light flashes and time interval between the flashes only.",
+          "unit": "Unit 5",
+          "topic": "5.1 Perception",
+          "subtopic": "Perception of Motion",
+          "concept": "Stroboscopic movement (phi phenomenon) is governed by the spatial distance separating the light flashes and the time interval between them. These are the two fundamental variables initially identified by Wertheimer. If the distance is too great or the time interval too long/short, the illusion of motion breaks down. Intensity modulates the threshold but is not a primary defining variable.",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 6,
+          "question": "The relative apparent motion of objects in the visual field as the viewer moves the head is called",
+          "options": [
+            "(A) Image retina system",
+            "(B) Accommodation",
+            "(C) Motion parallax",
+            "(D) The two bond system"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Motion parallax",
+          "unit": "Unit 5",
+          "topic": "5.1 Perception",
+          "subtopic": "Depth Perception",
+          "concept": "Motion parallax is a monocular depth cue in which objects at different distances appear to move at different rates relative to the observer when the head moves. Closer objects appear to move faster and in the opposite direction of head movement.",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 7,
+          "question": "Match List – I with List – II and indicate your answer by using the codes given below:\n\n| List – I (Illusions) | List – II (Explanations) |\n|---|---|\n| p. Ames Illusion | 1. Angle of regard hypothesis. |\n| q. Muller-Layer Illusion | 2. Framing effects |\n| r. Ponzo Illusion | 3. Perspective Constancy Theory |\n| s. Moon Illusion | 4. Transactionalism |\n\n**Codes :**\n|   | p | q | r | s |\n| --- | --- | --- | --- | --- |\n| (A) | 3 | 1 | 4 | 2 |\n| (B) | 2 | 1 | 4 | 3 |\n| (C) | 4 | 3 | 2 | 1 |\n| (D) | 1 | 2 | 3 | 4 |",
+          "options": [
+            "(A) p-3, q-1, r-4, s-2",
+            "(B) p-2, q-1, r-4, s-3",
+            "(C) p-4, q-3, r-2, s-1",
+            "(D) p-1, q-2, r-3, s-4"
+          ],
+          "correct_answer": 3,
+          "correct_text": "p-4, q-3, r-2, s-1",
+          "unit": "Unit 5",
+          "topic": "5.1 Perception",
+          "subtopic": "Visual Illusions",
+          "concept": "Per the official UGC NET key: Ames Illusion → Transactionalism (p-4); Müller-Layer Illusion → Perspective Constancy Theory (q-3); Ponzo Illusion → Framing effects (r-2); Moon Illusion → Angle of regard hypothesis (s-1). Note: standard textbook pairings may differ; the official key is followed here.",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 8,
+          "question": "Out of the following, who has not explained intelligence as having more than one component at higher order level?",
+          "options": [
+            "(A) Cattell",
+            "(B) Guilford",
+            "(C) Jensen",
+            "(D) Thurston"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Thurston",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Theories of Intelligence",
+          "concept": "Thurstone proposed a multifactor theory with primary mental abilities, rejecting a single general factor. Cattell proposed gf-gc, Guilford proposed the Structure of Intellect model, and Jensen proposed hierarchical levels — all with multiple components at higher levels. Thurstone specifically argued against a higher-order g factor.",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 9,
+          "question": "Match the following items of List – I with List – II and indicate your answer with the help of given codes given below:\n\n| List – I (Neurotransmitter) | List – II (Location) |\n|---|---|\n| p. Acetylcholine | 1. Mid brain |\n| q. Serotonin | 2. Autonomic nervous system |\n| r. Adrenalin | 3. Brain Stem |\n| s. Dopamine | 4. Neuromuscular junction |\n\n**Codes :**\n|   | p | q | r | s |\n| --- | --- | --- | --- | --- |\n| (A) | 1 | 2 | 3 | 4 |\n| (B) | 4 | 3 | 2 | 1 |\n| (C) | 3 | 2 | 1 | 4 |\n| (D) | 2 | 4 | 1 | 3 |",
+          "options": [
+            "(A) p-1, q-2, r-3, s-4",
+            "(B) p-4, q-3, r-2, s-1",
+            "(C) p-3, q-2, r-1, s-4",
+            "(D) p-2, q-4, r-1, s-3"
+          ],
+          "correct_answer": 2,
+          "correct_text": "p-4, q-3, r-2, s-1",
+          "unit": "Unit 4",
+          "topic": "4.1 Biological Foundations",
+          "subtopic": "Neurotransmitters and Their Locations",
+          "concept": "Acetylcholine is found at neuromuscular junctions (p-4); Serotonin is primarily located in the brain stem (q-3); Adrenalin (epinephrine) is associated with the autonomic nervous system (r-2); Dopamine pathways originate in the midbrain (s-1).",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 10,
+          "question": "Which part of the brain is responsible for skilled movements?",
+          "options": [
+            "(A) Thalamus",
+            "(B) Prefrontal cortex",
+            "(C) Pons",
+            "(D) Cerebellum"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Cerebellum",
+          "unit": "Unit 4",
+          "topic": "4.1 Biological Foundations",
+          "subtopic": "Brain Structures and Functions",
+          "concept": "The cerebellum is responsible for coordination of skilled voluntary movements, balance, posture, and motor learning. It fine-tunes motor activity initiated by other brain areas.",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 11,
+          "question": "Match the List – I with List – II and indicate your answer with the help of codes given below:\n\n| List – I (Phenomena) | List – II (Type of Reinforcements and Punishment) |\n|---|---|\n| p. If studying is followed by a high grade on exam, then the incidence of studying before exams will increase. | 1. Punishment |\n| q. If leaving from room removes you from a noisy roommate, then the time you spend away from your room will increase. | 2. Positive reinforcement |\n| r. If your teacher embarrasses you for asking question in the class, then the likelihood of asking the questions in the class will decrease. | 3. Omission |\n| s. If your parent withholds affection whenever you watch TV, the time you spend in front of TV will decrease. | 4. Negative reinforcement |\n\n**Codes :**\n\n|   | p | q | r | s |\n| --- | --- | --- | --- | --- |\n| (A) | 2 | 4 | 3 | 1 |\n| (B) | 2 | 3 | 1 | 4 |\n| (C) | 2 | 4 | 1 | 3 |\n| (D) | 2 | 1 | 3 | 4 |",
+          "options": [
+            "(A) p-2, q-4, r-3, s-1",
+            "(B) p-2, q-3, r-1, s-4",
+            "(C) p-2, q-4, r-1, s-3",
+            "(D) p-2, q-1, r-3, s-4"
+          ],
+          "correct_answer": 3,
+          "correct_text": "p-2, q-4, r-1, s-3",
+          "unit": "Unit 5",
+          "topic": "5.2 Learning",
+          "subtopic": "Types of Reinforcement and Punishment",
+          "concept": "p-2: Adding pleasant stimulus (high grade) = positive reinforcement. q-4: Removing aversive stimulus (noisy roommate) = negative reinforcement. r-1: Adding unpleasant consequence (embarrassment) = punishment. s-3: Removing pleasant stimulus (withholding affection) = omission/extinction.",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 12,
+          "question": "In the present era of competitive marketing some of the companies are offering door-to-door sales services. In such case which kind of reinforcement schedule is practised by the company for their sales executives?",
+          "options": [
+            "(A) Fixed-ratio schedule",
+            "(B) Fixed-interval schedule",
+            "(C) Variable-ratio schedule",
+            "(D) Variable-interval schedule"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Variable-ratio schedule",
+          "unit": "Unit 5",
+          "topic": "5.2 Learning",
+          "subtopic": "Schedules of Reinforcement",
+          "concept": "In door-to-door sales, the salesperson is reinforced (makes a sale) after an unpredictable number of attempts. This is a variable-ratio schedule, which produces high and steady rates of responding resistant to extinction.",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 13,
+          "question": "Which of the following is most effective in conditioning?",
+          "options": [
+            "(A) Backward Conditioning",
+            "(B) Delayed Conditioning",
+            "(C) Simultaneous Conditioning",
+            "(D) Trace Conditioning"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Delayed Conditioning",
+          "unit": "Unit 5",
+          "topic": "5.2 Learning",
+          "subtopic": "Classical Conditioning Procedures",
+          "concept": "Delayed conditioning (CS is presented before US and overlaps with it) is the most effective procedure for establishing classical conditioning. Backward conditioning is least effective; simultaneous is less effective than delayed; trace conditioning requires a memory trace.",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 14,
+          "question": "Which one of the following explanation may be considered as relatively appropriate for determining intelligence?",
+          "options": [
+            "(A) Main contribution of genetic factors and only negligible contribution of environmental factors.",
+            "(B) Considerable contribution of genetic factors and some contribution of economic factors.",
+            "(C) Some contribution of genetic factors and main contribution of social and other factors.",
+            "(D) Major contribution of genetic factors and some contribution of environmental factors."
+          ],
+          "correct_answer": 4,
+          "correct_text": "Major contribution of genetic factors and some contribution of environmental factors.",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Heredity and Environment in Intelligence",
+          "concept": "Twin studies and adoption studies consistently show that intelligence has a substantial genetic component (heritability around 0.50-0.80), but environmental factors also play a significant role. The most balanced view is major genetic contribution with meaningful environmental contribution.",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 15,
+          "question": "Match the motivational constructs/concepts with their description and select the correct answer using the codes given below:\n\n| List – I (Concepts) | List – II (Description) |\n| --- | --- |\n| p. Instincts | 1. Expectations of desired outcome. |\n| q. Needs | 2. Push us to action. |\n| r. Drives | 3. Are innate. |\n| s. Incentives | 4. Create tension. |\n\n**Codes :**\n|   | p | q | r | s |\n| --- | --- | --- | --- | --- |\n| (A) | 1 | 2 | 3 | 4 |\n| (B) | 3 | 4 | 1 | 2 |\n| (C) | 3 | 4 | 2 | 1 |\n| (D) | 3 | 2 | 1 | 4 |",
+          "options": [
+            "(A) p-1, q-2, r-3, s-4",
+            "(B) p-3, q-4, r-1, s-2",
+            "(C) p-3, q-4, r-2, s-1",
+            "(D) p-3, q-2, r-1, s-4"
+          ],
+          "correct_answer": 3,
+          "correct_text": "p-3, q-4, r-2, s-1",
+          "unit": "Unit 7",
+          "topic": "7.2 Motivation",
+          "subtopic": "Motivational Constructs",
+          "concept": "Instincts are innate (p-3); Needs create tension/imbalance (q-4); Drives push us to action to reduce tension (r-2); Incentives are expectations of desired outcomes that pull behavior (s-1).",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 16,
+          "question": "Who among the following presented decisive experimental evidence for exploration and curiosity to be motivational concepts?",
+          "options": [
+            "(A) Fantz",
+            "(B) Lorenz",
+            "(C) Gibson",
+            "(D) Harlow"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Harlow",
+          "unit": "Unit 7",
+          "topic": "7.2 Motivation",
+          "subtopic": "Intrinsic Motivation and Curiosity",
+          "concept": "Harry Harlow provided decisive experimental evidence with his puzzle-solving experiments with monkeys, showing that monkeys worked on puzzles without any external reward, demonstrating that exploration and curiosity are intrinsic motivational concepts.",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 17,
+          "question": "Out of the following, which approach used in assessment of intelligence is oldest one?",
+          "options": [
+            "(A) Psychometric Approach",
+            "(B) Biological Approach",
+            "(C) Culture Fair",
+            "(D) Chronometric Analysis"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Chronometric Analysis",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Approaches to Intelligence Assessment",
+          "concept": "Per the official UGC NET key, the answer is Chronometric Analysis (D). Chronometric analysis measures reaction time as an index of intelligence, dating back to Galton's (1880s) and later Jensen's work — making it older than the psychometric approach (Binet, 1905).",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 18,
+          "question": "What are the immediate causes of the experience (feeling) of emotion as per James-Lange theory?\n1. Reception of sensory stimuli by the cortex\n2. Interpretation of sensory stimuli by the cortex\n3. Changes in the visceral organs via the Autonomic Nervous System\n4. Changes in the skeletal muscles via the Somatic Nervous System\n\n**Codes :**",
+          "options": [
+            "(A) 1 and 2",
+            "(B) 1 and 3",
+            "(C) 2 and 3",
+            "(D) 3 and 4"
+          ],
+          "correct_answer": 4,
+          "correct_text": "3 and 4",
+          "unit": "Unit 7",
+          "topic": "7.3 Emotion",
+          "subtopic": "Theories of Emotion - James-Lange Theory",
+          "concept": "According to the James-Lange theory, the experience of emotion is caused by awareness of physiological changes: changes in visceral organs via the ANS (3) and changes in skeletal muscles via the SNS (4). We feel emotion because we perceive our bodily responses.",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 19,
+          "question": "Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R). Indicate your answer using the codes given below:\n\n**Assertion (A)** : The colours depend on the way the visual system interprets the different wave lengths of light.\n\n**Reason (R)** : Colour is the product of the visual system and not an inherent property of the visible spectrum.\n\n**Codes :**",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+          "unit": "Unit 5",
+          "topic": "5.1 Perception",
+          "subtopic": "Colour Perception",
+          "concept": "Colour is a perceptual experience created by the visual system's interpretation of different wavelengths. It is not an inherent property of light itself — different organisms perceive colour differently. The Reason correctly explains why colours depend on visual system interpretation.",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 20,
+          "question": "Match List-I with List-II and indicate your answer by using the codes given below:\n\n| List – I (Perceptual Theory) | List – II (Explanation) |\n| --- | --- |\n| p. Spinal Gate Control Theory | 1. A theory proposed to explain motion sickness. |\n| q. Sensory Conflict Theory | 2. There are three sets of receptors that respond differently to different wavelengths. |\n| r. Information Storage size Theory | 3. Theory of pain that focuses on afferent nerve impulses transmission from the skin to the spinal cord. |\n| s. Young-Helmholtz Theory | 4. Perception of time is constructed from the amount of memory storage. |\n\n**Codes :**\n|   | p | q | r | s |\n| --- | --- | --- | --- | --- |\n| (A) | 1 | 2 | 3 | 4 |\n| (B) | 3 | 1 | 4 | 2 |\n| (C) | 4 | 3 | 2 | 1 |\n| (D) | 4 | 1 | 2 | 3 |",
+          "options": [
+            "(A) p-1, q-2, r-3, s-4",
+            "(B) p-3, q-1, r-4, s-2",
+            "(C) p-4, q-3, r-2, s-1",
+            "(D) p-4, q-1, r-2, s-3"
+          ],
+          "correct_answer": 2,
+          "correct_text": "p-3, q-1, r-4, s-2",
+          "unit": "Unit 5",
+          "topic": "5.1 Perception",
+          "subtopic": "Perceptual Theories",
+          "concept": "Gate Control Theory explains pain perception through spinal cord mechanisms (p-3); Sensory Conflict Theory explains motion sickness (q-1); Information Storage Size Theory relates time perception to memory storage (r-4); Young-Helmholtz is a trichromatic theory of colour vision (s-2).",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 21,
+          "question": "Given below are two statements, the first labelled as Assertion (A) and the other labelled as Reason (R). Indicate your answer using the codes given below:\n\n**Assertion (A)** : It is believed that function of damaged brain cells is irrecoverable.\n\n**Reason (R)** : Brain cells do not have Neurilemma.\n\n**Codes :**",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 4,
+          "correct_text": "(A) is false, but (R) is true.",
+          "unit": "Unit 4",
+          "topic": "4.1 Biological Foundations",
+          "subtopic": "Neural Regeneration",
+          "concept": "Per the official UGC NET key: (A) is false — recent research shows some brain cell recovery is possible through neuroplasticity. (R) is true — CNS neurons indeed lack neurilemma (unlike PNS neurons which have Schwann cell sheaths enabling regeneration).",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 22,
+          "question": "Which of the following concepts are related with Cattel's theory of Personality?\n\n1. Dynamic Lattice\n2. Specification Equation\n3. Orthogonal Rotation\n4. Ergs",
+          "options": [
+            "(A) 2 and 4",
+            "(B) 2, 3 and 4",
+            "(C) 1, 2 and 4",
+            "(D) 1, 2, 3 and 4"
+          ],
+          "correct_answer": 3,
+          "correct_text": "1, 2 and 4",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Cattell's Trait Theory of Personality",
+          "concept": "Per the official UGC NET key: Dynamic Lattice (1), Specification Equation (2), and Ergs (4) are Cattell's concepts. Orthogonal Rotation (3) is a statistical/factor-analytic technique, not a theoretical concept specific to Cattell's personality theory.",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 23,
+          "question": "Given below are two statements, the first labelled as Assertion (A) and the other labelled as Reason (R). Indicate your answer using the codes given below:\n\n**Assertion (A)** : The usual educational evaluation is aimed at maximizing examiner variance.\n**Reason (R)** : Examiner variance is reduced with higher inter-scorer reliability.\n\n**Codes :**",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 4,
+          "correct_text": "(A) is false, but (R) is true.",
+          "unit": "Unit 3",
+          "topic": "3.1 Psychological Testing",
+          "subtopic": "Sources of Variance in Testing",
+          "concept": "Educational evaluation aims to minimize, not maximize, examiner variance to ensure reliability. The Reason is true — higher inter-scorer reliability reduces examiner variance. But (A) is false because good testing aims to minimize examiner effects.",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 24,
+          "question": "Which of the following can be employed to assess the vocational interests of the subjects in guidance and counselling set up?\n\n1. EPPS\n2. SVIB\n3. DAT\n4. GATB",
+          "options": [
+            "(A) 2 only",
+            "(B) 1 and 2 only",
+            "(C) 3 and 4 only",
+            "(D) 2, 3 and 4 only"
+          ],
+          "correct_answer": 1,
+          "correct_text": "2 only",
+          "unit": "Unit 3",
+          "topic": "3.1 Psychological Testing",
+          "subtopic": "Interest and Aptitude Tests",
+          "concept": "SVIB (Strong Vocational Interest Blank) is specifically designed to assess vocational interests. EPPS measures personality needs, DAT (Differential Aptitude Tests) measures aptitudes, and GATB (General Aptitude Test Battery) measures aptitudes — none of these directly measure vocational interests.",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 25,
+          "question": "In a multiple choice achievement test, item-remainder correlation can be best obtained through",
+          "options": [
+            "(A) Point-bi-serial correlation",
+            "(B) phi coefficient",
+            "(C) Contingency coefficient",
+            "(D) Rank difference correlation"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Point-bi-serial correlation",
+          "unit": "Unit 3",
+          "topic": "3.2 Psychological Testing - Item Analysis",
+          "subtopic": "Item-Total Correlation",
+          "concept": "Point-biserial correlation is used when one variable is continuous (total test score) and the other is dichotomous (item correct/incorrect). It is the most appropriate measure for item-remainder correlation in multiple choice tests.",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 26,
+          "question": "Read each of the following two statements, Assertion (A) and Reason (R). And indicate your answer using the codes given below:\n\n**Assertion (A)** : Though not infallible, polygraph tests are administered to infer the truthfulness of the subject's responses.\n**Reason (R)** : The assumption is that lying will be associated with lesser sympathetic activation.\n\n**Codes :**",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 3,
+          "correct_text": "(A) is true, but (R) is false.",
+          "unit": "Unit 10",
+          "topic": "10.1 Applied Psychology",
+          "subtopic": "Polygraph and Deception Detection",
+          "concept": "Polygraph tests are indeed used to detect truthfulness (A is true). However, the assumption is that lying is associated with GREATER (not lesser) sympathetic activation — increased heart rate, sweating, blood pressure. So (R) is false.",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 27,
+          "question": "Match List – I with List – II and indicate your answer with the help of codes given below:\n\n| List – I (Phenomenon) | List – II (Psychologist) |\n| --- | --- |\n| p. Two factor theory | 1. Thurston |\n| q. Multifactor Theory of Intelligence | 2. Jensen |\n| r. Structure of Intellect Model | 3. Spearman |\n| s. Level Theory of Intelligence | 4. Guilford |\n\n**Codes :**\n|   | p | q | r | s |\n| --- | --- | --- | --- | --- |\n| (A) | 2 | 3 | 1 | 4 |\n| (B) | 1 | 2 | 4 | 3 |\n| (C) | 4 | 3 | 2 | 1 |\n| (D) | 3 | 1 | 4 | 2 |",
+          "options": [
+            "(A) p-2, q-3, r-1, s-4",
+            "(B) p-1, q-2, r-4, s-3",
+            "(C) p-4, q-3, r-2, s-1",
+            "(D) p-3, q-1, r-4, s-2"
+          ],
+          "correct_answer": 4,
+          "correct_text": "p-3, q-1, r-4, s-2",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Theories of Intelligence - Theorists",
+          "concept": "Spearman proposed the Two Factor Theory (g and s factors) (p-3); Thurstone proposed the Multifactor Theory with primary mental abilities (q-1); Guilford proposed the Structure of Intellect Model (r-4); Jensen proposed the Level Theory (Level I and Level II abilities) (s-2).",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 28,
+          "question": "Where is the borderline between deficiency and growth needs among Maslow's fives?",
+          "options": [
+            "(A) Safety needs and needs to belong",
+            "(B) Safety needs and physiological needs",
+            "(C) Esteem needs and self actualization",
+            "(D) Needs to belong and esteem needs"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Esteem needs and self actualization",
+          "unit": "Unit 7",
+          "topic": "7.2 Motivation",
+          "subtopic": "Maslow's Hierarchy of Needs",
+          "concept": "Maslow classified the first four levels (physiological, safety, love/belonging, esteem) as deficiency needs (D-needs) and the top level (self-actualization) as growth needs (B-needs). The borderline between deficiency and growth needs lies between esteem needs and self-actualization.",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 29,
+          "question": "A verbal message passes through various parts of brain for final audibility.\n\nI. Inferior Colliculi\nII. Medial Geniculate Body\nIII. Primary Auditory Cortex\nIV. Superior Olives\n\n**Codes :**",
+          "options": [
+            "(A) I, II, III, IV",
+            "(B) III, II, I, IV",
+            "(C) II, III, I, IV",
+            "(D) IV, I, II, III"
+          ],
+          "correct_answer": 4,
+          "correct_text": "IV, I, II, III",
+          "unit": "Unit 4",
+          "topic": "4.1 Biological Foundations",
+          "subtopic": "Auditory Pathway",
+          "concept": "The auditory pathway from the cochlea goes: Superior Olives (brainstem, where binaural processing begins) → Inferior Colliculi (midbrain) → Medial Geniculate Body (thalamus) → Primary Auditory Cortex (temporal lobe).",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 30,
+          "question": "Which part of the brain is responsible for transferring short term memory to long term memory?",
+          "options": [
+            "(A) Amygdala",
+            "(B) Hypothalamus",
+            "(C) Hippocampus",
+            "(D) Cerebellum"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Hippocampus",
+          "unit": "Unit 4",
+          "topic": "4.1 Biological Foundations",
+          "subtopic": "Brain and Memory",
+          "concept": "The hippocampus plays a critical role in memory consolidation — the process of transferring information from short-term memory to long-term memory. Damage to the hippocampus (as in patient H.M.) results in anterograde amnesia.",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 31,
+          "question": "Which of the following approaches emphasize the role of unconscious in \"feelings and thoughts\" of an individual?",
+          "options": [
+            "(A) Cognitive",
+            "(B) Developmental",
+            "(C) Humanistic",
+            "(D) Psychoanalytic"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Psychoanalytic",
+          "unit": "Unit 1",
+          "topic": "1.1 Schools of Psychology",
+          "subtopic": "Psychoanalytic Approach",
+          "concept": "The psychoanalytic approach, founded by Freud, emphasizes the role of the unconscious mind in shaping feelings, thoughts, and behavior. Unconscious conflicts, desires, and defense mechanisms are central to this approach.",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 32,
+          "question": "Children first demonstrate a rudimentary understanding of syntax during the _____ stage.",
+          "options": [
+            "(A) Babbling",
+            "(B) One-word",
+            "(C) Two-word",
+            "(D) Three-word"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Two-word",
+          "unit": "Unit 9",
+          "topic": "9.2 Language Development",
+          "subtopic": "Stages of Language Development",
+          "concept": "During the two-word stage (around 18-24 months), children begin combining words and show rudimentary understanding of syntax. They follow basic word order rules (e.g., 'more milk', 'daddy go'), demonstrating early grammatical awareness.",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 33,
+          "question": "The Chess Master selects his next move by considering moves that would threaten his opponent's queen. His opponent, a chess-playing computer selects its next move by considering all possible moves. The chess master is using _____ and the computer is using _____.",
+          "options": [
+            "(A) Algorithm ; heuristic",
+            "(B) Prototype ; mental set",
+            "(C) Mental set ; prototype",
+            "(D) Heuristic ; algorithm"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Heuristic ; algorithm",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking and Problem Solving",
+          "subtopic": "Problem Solving Strategies",
+          "concept": "A heuristic is a mental shortcut/rule of thumb (considering only threatening moves) that reduces search but doesn't guarantee a solution. An algorithm is a step-by-step procedure (considering all possible moves) that guarantees a solution but is time-consuming.",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 34,
+          "question": "Match List – I with List – II and indicate your answer with the help of codes given below:\n\n| List – I (Process/Phenomenon) | List – II (Psychological Name) |\n| --- | --- |\n| p. Grouping of similar objects, events | 1. Concept |\n| q. Logical rule of solving problem | 2. Insight |\n| r. Thumb-rule of solving problem | 3. Heuristic |\n| s. Realization of solution to problem | 4. Algorithm |\n\n**Codes :**\n|   | p | q | r | s |\n| --- | --- | --- | --- | --- |\n| (A) | 1 | 2 | 3 | 4 |\n| (B) | 1 | 3 | 4 | 2 |\n| (C) | 1 | 4 | 2 | 3 |\n| (D) | 1 | 4 | 3 | 2 |",
+          "options": [
+            "(A) p-1, q-2, r-3, s-4",
+            "(B) p-1, q-3, r-4, s-2",
+            "(C) p-1, q-4, r-2, s-3",
+            "(D) p-1, q-4, r-3, s-2"
+          ],
+          "correct_answer": 4,
+          "correct_text": "p-1, q-4, r-3, s-2",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking and Problem Solving",
+          "subtopic": "Cognitive Processes in Thinking",
+          "concept": "Grouping similar objects is forming a concept (p-1); a logical rule for solving problems is an algorithm (q-4); a thumb-rule is a heuristic (r-3); sudden realization of a solution is insight (s-2).",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 35,
+          "question": "Read the following two statements, Assertion (A) and Reason (R). And indicate your answer by using the codes given below:\n\n**Assertion (A)** : A child always carries umbrella with him while he goes to school.\n\n**Reason (R)** : The child wants to protect himself from rain.\n\n**Codes :**",
+          "options": [
+            "(A) Both (A) and (R) are correct and (R) is the true explanation of (A).",
+            "(B) Both (A) and (R) are correct, but (R) is not the true explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 2,
+          "correct_text": "Both (A) and (R) are correct, but (R) is not the true explanation of (A)",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking and Problem Solving",
+          "subtopic": "Reasoning",
+          "concept": "Per the official UGC NET key, this is a wrong question. The question is ambiguous — both (A) and (R) could be considered correct, but (R) is only one possible explanation among many (sun protection, habit, parent's instruction). The question lacks sufficient context for a definitive answer.",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 36,
+          "question": "Which of the following scale/s is/are found in Eysenck's EPQ but not in Costa and McCrae's NEO-PI-R?\n\n1. Agreeableness\n2. Extraversion\n3. Psychoticism\n4. Lie",
+          "options": [
+            "(A) 3 only",
+            "(B) 1 and 2 only",
+            "(C) 2 and 3 only",
+            "(D) 3 and 4 only"
+          ],
+          "correct_answer": 4,
+          "correct_text": "3 and 4 only",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Personality Tests - EPQ vs NEO-PI-R",
+          "concept": "Eysenck's EPQ measures Extraversion, Neuroticism, Psychoticism, and a Lie scale. NEO-PI-R measures Neuroticism, Extraversion, Openness, Agreeableness, and Conscientiousness. Psychoticism (3) and Lie (4) are unique to EPQ.",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 37,
+          "question": "Vijay obtained a percentile rank of 16 on Abstract Reasoning Test. If normalized T scores (Mean = 50, SD = 10) were developed for this test, what is the expected T score for Vijay?",
+          "options": [
+            "(A) 16",
+            "(B) 34",
+            "(C) 45",
+            "(D) 40"
+          ],
+          "correct_answer": 4,
+          "correct_text": "40",
+          "unit": "Unit 2",
+          "topic": "2.2 Statistics",
+          "subtopic": "Standard Scores and Percentiles",
+          "concept": "Percentile rank 16 corresponds to a z-score of -1.0 (since 16% of scores fall below this point in a normal distribution). Using the T-score formula: T = 50 + (z × 10) = 50 + (-1.0 × 10) = 50 - 10 = 40. Therefore, Vijay's expected T-score is 40. Option (D) '55' was replaced as it was furthest from the correct value of 40.",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 38,
+          "question": "Which of the following is not scored for 'Determinants' in Rorschach Ink Blot Test?",
+          "options": [
+            "(A) Space",
+            "(B) Form (Negative)",
+            "(C) Inanimate Movement",
+            "(D) Human Movement"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Space",
+          "unit": "Unit 3",
+          "topic": "3.1 Psychological Testing",
+          "subtopic": "Projective Techniques - Rorschach",
+          "concept": "In the Rorschach Inkblot Test, determinants include Form, Movement (Human, Animal, Inanimate), Colour, Shading, etc. Space is scored as a separate category (Location), not as a determinant. Space responses reflect oppositional tendencies but are not part of the determinant scoring.",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 39,
+          "question": "Match List – I with List – II and indicate your answer with the help of codes given below:\n\n| List – I (Identity Status) | List – II (Explanation) |\n| --- | --- |\n| p. Identity Achievement | 1. Commitment after crisis |\n| q. Fore closure | 2. Commitment without crisis |\n| r. Diffusion | 3. No crisis, no commitment |\n| s. Moratorium | 4. Crisis, but lack of commitment |\n\n**Codes :**\n|   | p | q | r | s |\n| --- | --- | --- | --- | --- |\n| (A) | 3 | 1 | 4 | 2 |\n| (B) | 2 | 3 | 1 | 4 |\n| (C) | 2 | 1 | 3 | 4 |\n| (D) | 3 | 4 | 1 | 2 |",
+          "options": [
+            "(A) p-3, q-1, r-4, s-2",
+            "(B) p-1, q-2, r-3, s-4",
+            "(C) p-2, q-1, r-3, s-4",
+            "(D) p-3, q-4, r-1, s-2"
+          ],
+          "correct_answer": 2,
+          "correct_text": "p-1, q-2, r-3, s-4",
+          "unit": "Unit 9",
+          "topic": "9.3 Developmental Theories",
+          "subtopic": "Erikson's Identity Statuses (Marcia)",
+          "concept": "James Marcia's identity status theory categorizes identity into four statuses based on two dimensions: crisis (exploration of alternatives) and commitment. Identity Achievement (p) involves commitment after crisis → matches 1; Foreclosure (q) involves commitment without crisis → matches 2; Diffusion (r) involves no crisis and no commitment → matches 3; Moratorium (s) involves crisis but lack of commitment → matches 4. The correct mapping is p-1, q-2, r-3, s-4. Option (B) 'p-2, q-3, r-1, s-4' was the most incorrect option and has been replaced with the correct answer.",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 40,
+          "question": "Archetype is :",
+          "options": [
+            "(A) Definite mythological image or motif.",
+            "(B) Approximate mythological image or motif.",
+            "(C) Tendency to form mythological image or motif that are fixed.",
+            "(D) Tendency to form mythological image or motif that vary in great detail without losing their basic pattern."
+          ],
+          "correct_answer": 4,
+          "correct_text": "Tendency to form mythological image or motif that vary in great detail without losing their basic pattern.",
+          "unit": "Unit 1",
+          "topic": "1.1 Schools of Psychology",
+          "subtopic": "Jungian Psychology - Archetypes",
+          "concept": "Jung defined archetypes not as fixed images but as tendencies to form representations of a motif — representations that can vary greatly in detail while maintaining their basic pattern. They are inherited predispositions to experience and symbolize universal themes.",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 41,
+          "question": "Read each of the following two statements, Assertion (A) and Reason (R). And indicate your answer using the codes given below:\n\n**Assertion (A)** : In Scandinavian countries, parents do not beat children.\n**Reason (R)** : Scandinavian countries have outlawed physical punishment by parents.\n\n**Codes :**",
+          "options": [
+            "(A) Both (A) and (R) are correct and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are correct, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are correct and (R) is the correct explanation of (A).",
+          "unit": "Unit 9",
+          "topic": "9.1 Human Development",
+          "subtopic": "Child Rearing Practices",
+          "concept": "Scandinavian countries (Sweden was first in 1979) banned corporal punishment of children. The legal prohibition (Reason) directly explains why parents in these countries do not physically punish children (Assertion).",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 42,
+          "question": "Given below are two statements, the first labelled as Assertion (A) and the other labelled as Reason (R). Indicate your answer using the codes given below:\n\n**Assertion (A)** : Long term memory system allows us to retain vast amounts of information for very long periods of time.\n**Reason (R)** : Only information subjected to elaborative rehearsal or deep processing is transferred to long term memory.\n\n**Codes :**",
+          "options": [
+            "(A) Both (A) and (R) are correct and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are correct and (R) is the correct explanation of (A).",
+          "unit": "Unit 5",
+          "topic": "5.3 Memory",
+          "subtopic": "Long-Term Memory and Encoding",
+          "concept": "LTM does store vast amounts of information for long periods (A is true). According to the Levels of Processing theory (Craik & Lockhart), deep processing and elaborative rehearsal are the primary mechanisms for durable transfer to LTM, while maintenance rehearsal (rote repetition) is largely ineffective. The Reason (R) explains how information achieves lasting storage in LTM. Note: the word 'only' in (R) is somewhat absolute — incidental and emotionally salient information can also enter LTM — but within the UGC NET framework, this is the accepted answer.",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 43,
+          "question": "Read each of the following two statements, Assertion (A) and Reason (R). And indicate your answer using the codes given below:\n\n**Assertion (A)** : In the later part of his life Spearman observed that in a certain set of tests each test correlates higher with other tests within the set but lower with tests in other such sets.\n**Reason (R)** : This may be because of \"group factors\" which are of moderate degree of generality.\n\n**Codes :**",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Spearman's Two-Factor Theory Revisions",
+          "concept": "Later in his career, Spearman acknowledged group factors — abilities of moderate generality that account for correlations within test clusters but not across them. This observation led to the recognition of intermediate-level abilities beyond g and specific factors.",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 44,
+          "question": "Mr. A, a shoe salesman, is paid every week whereas Mr. B, receives a commission for each pair of shoes he sells. Evidently Mr. A is paid on a ______ schedule of reinforcement, while Mr. B is paid on ______ schedule of reinforcement.",
+          "options": [
+            "(A) Fixed ratio ; fixed interval.",
+            "(B) Fixed interval ; fixed ratio.",
+            "(C) Variable-interval ; variable ratio.",
+            "(D) Variable ratio ; variable interval."
+          ],
+          "correct_answer": 2,
+          "correct_text": "Fixed interval ; fixed ratio.",
+          "unit": "Unit 5",
+          "topic": "5.2 Learning",
+          "subtopic": "Schedules of Reinforcement",
+          "concept": "Mr. A is paid every week (fixed time interval) = fixed-interval schedule. Mr. B is paid for each pair sold (fixed number of responses) = fixed-ratio schedule. Fixed-interval produces scalloped patterns; fixed-ratio produces high steady responding.",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 45,
+          "question": "Multiple components model of working memory, proposed by Baddeley, consists of which of the following components?",
+          "options": [
+            "(A) Phenomenological field, central executive, sketch pad",
+            "(B) Phonological loop, central executive, Visuospatial sketch pad",
+            "(C) Phonological loop, central executive, retrieval cues",
+            "(D) Visuospatial sketch pad, procedural memory field, episodic information"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Phonological loop, central executive, Visuospatial sketch pad",
+          "unit": "Unit 5",
+          "topic": "5.3 Memory",
+          "subtopic": "Baddeley's Working Memory Model",
+          "concept": "Baddeley's multicomponent model of working memory includes: the Phonological Loop (verbal/acoustic information), the Visuospatial Sketch Pad (visual/spatial information), the Central Executive (attentional control), and later the Episodic Buffer. Option B lists the three core components.",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        }
+      ]
+    },
+    {
+      "type": "passage",
+      "id": "passage_46",
+      "heading": "Read the following passage carefully and answer questions from 46 to 50:",
+      "text": "Non-parametric analysis is an important area in the field of psychological research. The emphasis on the assumption of normal distribution is comparatively less when group/sample sizes are large due to some implications of central limit theorem. Nevertheless, for smaller group sizes relatively distribution free nonparametric alternatives to parametric methods are developed. Thus there are non-parametric alternatives to student's t test, one-way ANOVA etc. When assumptions are reasonably met, parametric tests are more powerful. Certain types of tests, such as chi-square test, use frequency data to evaluate the differences between obtained and expected frequencies. Some association/correlation measures have been developed using chi-square distribution. Statisticians like Kolmogorov and Smirnov developed tests which involve entire frequency distribution/s. Psychologists have profitably used these techniques in their researches."
+    },
+    {
+      "type": "questions_block",
+      "range": "Q46–Q50",
+      "passage_ref": "passage_46",
+      "questions": [
+        {
+          "id": 46,
+          "question": "Which one of the following test is closest to independent samples t test from power-consideration point of view?",
+          "options": [
+            "(A) Mann-Whitney U test",
+            "(B) Signed rank test",
+            "(C) Chi-square test",
+            "(D) Kolmogorov-Smirnov test"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Mann-Whitney U test",
+          "unit": "Unit 2",
+          "topic": "2.2 Statistics",
+          "subtopic": "Non-parametric Tests",
+          "concept": "The Mann-Whitney U test is the non-parametric alternative to the independent samples t-test. It has about 95% of the power of the t-test when assumptions are met, making it the closest in power among non-parametric alternatives.",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": "passage_46",
+          "table_ref": null
+        },
+        {
+          "id": 47,
+          "question": "What is the non-parametric alternative to one-way ANOVA?",
+          "options": [
+            "(A) Friedman's test",
+            "(B) Kruskall-Wallis H test",
+            "(C) Mann-Whitney U test",
+            "(D) Median test"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Kruskal-Wallis H test",
+          "unit": "Unit 2",
+          "topic": "2.2 Statistics",
+          "subtopic": "Non-parametric Tests",
+          "concept": "The Kruskal-Wallis H test is the non-parametric equivalent of one-way ANOVA for independent samples. It ranks all data across groups and compares mean ranks. Friedman's test is for repeated measures; Mann-Whitney is for two groups.",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": "passage_46",
+          "table_ref": null
+        },
+        {
+          "id": 48,
+          "question": "If the obtained frequency and the expected frequency in a given cell of the contingency table is 17 and 10 respectively, what would be the contribution of this cell to total chi-square value?",
+          "options": [
+            "(A) 0.70",
+            "(B) 4.90",
+            "(C) 7.00",
+            "(D) 18.90"
+          ],
+          "correct_answer": 2,
+          "correct_text": "4.90",
+          "unit": "Unit 2",
+          "topic": "2.2 Statistics",
+          "subtopic": "Chi-Square Test",
+          "concept": "The contribution of each cell to chi-square = (O - E)² / E = (17 - 10)² / 10 = 49/10 = 4.90.",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": "passage_46",
+          "table_ref": null
+        },
+        {
+          "id": 49,
+          "question": "Which of the following test can be used for evaluating whether the obtained distribution significantly departs from the normal distribution?",
+          "options": [
+            "(A) Signed rank test",
+            "(B) K.S. one sample test",
+            "(C) Run test",
+            "(D) K.S. two sample test"
+          ],
+          "correct_answer": 2,
+          "correct_text": "K.S. one sample test",
+          "unit": "Unit 2",
+          "topic": "2.2 Statistics",
+          "subtopic": "Tests of Normality",
+          "concept": "The Kolmogorov-Smirnov one-sample test compares an observed cumulative distribution with a specified theoretical distribution (e.g., normal distribution) to test whether the data significantly departs from normality.",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": "passage_46",
+          "table_ref": null
+        },
+        {
+          "id": 50,
+          "question": "Which of the following correlation/association measures can be considered as derived from chi-square?\n1. Spearman rho\n2. Biserial r\n3. Phi-coefficient\n4. Contingency coefficient",
+          "options": [
+            "(A) 1 only",
+            "(B) 2 and 4 only",
+            "(C) 3 and 4 only",
+            "(D) 1, 3 and 4 only"
+          ],
+          "correct_answer": 3,
+          "correct_text": "3 and 4 only",
+          "unit": "Unit 2",
+          "topic": "2.2 Statistics",
+          "subtopic": "Chi-Square Based Measures of Association",
+          "concept": "The phi-coefficient is directly derived from chi-square (φ = √(χ²/n)) for 2×2 tables. The contingency coefficient is also derived from chi-square (C = √(χ²/(χ²+n))). Spearman rho is a rank correlation; biserial r assumes a continuous underlying variable — neither is derived from chi-square.",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": "passage_46",
+          "table_ref": null
+        }
+      ]
+    }
+  ]
+}

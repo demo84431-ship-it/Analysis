@@ -1,0 +1,1028 @@
+{
+  "paper_metadata": {
+    "title": "UGC NET/JRF Examination, June 2008",
+    "date": "June 2008",
+    "subject": "Psychology — Paper II"
+  },
+  "content": [
+    {
+      "type": "questions_block",
+      "range": "Q1–Q46",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Various theories of Intelligence were proposed by Psychologists like:\n\n(1) Thurstone\n(2) Spearman\n(3) Thorndike\n(4) Guilford\n\nWhich sequence is correct?",
+          "options": [
+            "(A) (1) (2) (3) (4)",
+            "(B) (2) (1) (4) (3)",
+            "(C) (4) (1) (3) (2)",
+            "(D) (2) (3) (1) (4)"
+          ],
+          "correct_answer": 4,
+          "correct_text": "(2) (3) (1) (4)",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Theories of Intelligence",
+          "concept": "Chronological order: Spearman (1904, two-factor theory) → Thorndike (1920, multifactor theory) → Thurstone (1938, Primary Mental Abilities) → Guilford (1959/1967, Structure of Intellect model)",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 2,
+          "question": "Consider the following three types of psychological investigations.\n\n(1) Field experiment\n(2) Laboratory experiment\n(3) Ex-post facto field study\n\nArrange the above investigations in ascending order in terms of their typical capacity to control secondary variance:",
+          "options": [
+            "(A) (3) (2) (1)",
+            "(B) (3) (1) (2)",
+            "(C) (2) (1) (3)",
+            "(D) (2) (3) (1)"
+          ],
+          "correct_answer": 2,
+          "correct_text": "(3) (1) (2)",
+          "unit": "Unit 2",
+          "topic": "2.5 Methods of Research",
+          "subtopic": "Experimental",
+          "concept": "Control capacity ascending: Ex-post facto (least) → Field experiment → Laboratory experiment (most)",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 3,
+          "question": "The actual receptor of auditory sensation is:",
+          "options": [
+            "(A) Tympanic Membrane",
+            "(B) Ossicles",
+            "(C) Organ of Corti",
+            "(D) Spiral Ganglion"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Organ of Corti",
+          "unit": "Unit 4",
+          "topic": "4.1 Sensory Systems",
+          "subtopic": "Auditory system",
+          "concept": "Organ of Corti in cochlea — actual auditory receptor containing hair cells",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 4,
+          "question": "According to Johnson the stages of problem solving are—\n\nIdentify the correct sequence:",
+          "options": [
+            "(A) Judgement, Production, Preparation",
+            "(B) Preparation, Intuition, Production",
+            "(C) Intuition, Production, Judgement",
+            "(D) Preparation, Production, Judgement"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Preparation, Production, Judgement",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Problem Solving",
+          "concept": "Johnson's stages of problem solving: Preparation → Production → Judgement",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 5,
+          "question": "Conditioning a conditioned response is:",
+          "options": [
+            "(A) First order conditioning",
+            "(B) Higher order conditioning",
+            "(C) Simultaneous conditioning",
+            "(D) Delay conditioning"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Higher order conditioning",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Classical Conditioning",
+          "concept": "Higher-order (second-order) conditioning: an established CS serves as a surrogate US to condition a new neutral stimulus, without direct US pairing. First-order conditioning pairs NS+US directly; higher-order conditioning pairs new NS + existing CS",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 6,
+          "question": "Information–Processing theories of memory talk of different levels-of-processing information. Which of the following sequence of the levels-of-processing information is correct?",
+          "options": [
+            "(A) Structural–Perception–Meaning/Semantic",
+            "(B) Perception–Structural–Meaning/Semantic",
+            "(C) Meaning/Semantic–Structural–Perception",
+            "(D) Perception–Meaning/Semantic–Structural"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Structural–Perception–Meaning/Semantic",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Memory Models",
+          "concept": "Craik & Lockhart's Levels of Processing (1972): shallow (structural/orthographic) → intermediate (phonemic/phonological, sometimes labelled 'perception' in UGC context) → deep (semantic/meaning). Deeper processing produces more durable memory traces",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 7,
+          "question": "In an International Conference held to define intelligence one of the participants observed that 'measuring intelligence is easier than defining it'. This remark was given by:",
+          "options": [
+            "(A) Spearman",
+            "(B) Raven",
+            "(C) Binet",
+            "(D) Thorndike"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Thorndike",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Measurement of Intelligence",
+          "concept": "At the 1921 symposium 'Intelligence and Its Measurement' (Journal of Educational Psychology), E.L. Thorndike observed that measuring intelligence is easier than defining it. Binet (d. 1911) was deceased and could not have been a participant. Thorndike's pragmatic, measurement-centred approach epitomised the operationalist tradition in psychometrics",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 8,
+          "question": "Intelligence is best conceptualized as a (an):",
+          "options": [
+            "(A) categorical variable",
+            "(B) stimulus variable",
+            "(C) organismic variable",
+            "(D) behavioural variable"
+          ],
+          "correct_answer": 3,
+          "correct_text": "organismic variable",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Intelligence",
+          "concept": "Intelligence as an organismic variable — characteristic of the organism/individual",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 9,
+          "question": "The optic chiasma consists of:",
+          "options": [
+            "(A) Reticular formation",
+            "(B) Lateral geniculate body",
+            "(C) Crossover of nerves from right and left lateral geniculate body",
+            "(D) Thalamic relay nucleus with projection to cerebral cortex"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Crossover of nerves from right and left lateral geniculate body",
+          "unit": "Unit 4",
+          "topic": "4.3 Nervous System",
+          "subtopic": "Sensory pathways",
+          "concept": "Optic chiasma — X-shaped decussation at the base of the brain where optic nerve fibres from the nasal (medial) halves of each retina cross to the contralateral side; temporal retinal fibres remain ipsilateral. NB: The LGN (lateral geniculate nucleus) lies POST-chiasmatic, so the crossover involves retinal ganglion cell axons, NOT LGN fibres. Option phrasing is exam-typical but anatomically imprecise",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 10,
+          "question": "A person is able to know about oneself, perception of one's personality is his self. On the other hand one's view, impression and self hypothesized identity is his:",
+          "options": [
+            "(A) self awareness",
+            "(B) self actualization",
+            "(C) self esteem",
+            "(D) self concept"
+          ],
+          "correct_answer": 4,
+          "correct_text": "self concept",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Humanistic/Existential Approach",
+          "concept": "Self-concept — one's view, impression, and hypothesized identity of self",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 11,
+          "question": "Which one of the following pairs is not correctly matched?",
+          "options": [
+            "(A) Illusion–Autokinetic effect",
+            "(B) Perception–Motion parallax",
+            "(C) Learning–Zeigarnik effect",
+            "(D) Rating–Halo effect"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Learning–Zeigarnik effect",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Problem Solving",
+          "concept": "Zeigarnik effect relates to memory/motivation (unfinished tasks remembered more), not learning per se",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 12,
+          "question": "Heuristic method of problem solving relates to:",
+          "options": [
+            "(A) Solving by Trial and Error",
+            "(B) Devising a rule to limit search",
+            "(C) Information seeking",
+            "(D) A more systematic search"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Devising a rule to limit search",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Problem Solving",
+          "concept": "Heuristic — rule of thumb that limits search space to find solutions faster",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 13,
+          "question": "'Purkinje phenomenon' is observed in the study of:",
+          "options": [
+            "(A) audition",
+            "(B) vision",
+            "(C) olfaction",
+            "(D) thought process"
+          ],
+          "correct_answer": 2,
+          "correct_text": "vision",
+          "unit": "Unit 4",
+          "topic": "4.1 Sensory Systems",
+          "subtopic": "Visual system",
+          "concept": "Purkinje shift — change in color sensitivity at different light levels (scotopic vs photopic vision)",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 14,
+          "question": "The first experimental study on memory was conducted by:",
+          "options": [
+            "(A) William James",
+            "(B) H. Ebbinghaus",
+            "(C) William Wundt",
+            "(D) I. Kohler"
+          ],
+          "correct_answer": 2,
+          "correct_text": "H. Ebbinghaus",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Forgetting",
+          "concept": "Ebbinghaus (1885) — first experimental study of memory using nonsense syllables",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 15,
+          "question": "While delivering Presidential Address of H.P.A. in 1950 Guilford challenged the Psychologists to provide an alternate of:",
+          "options": [
+            "(A) Achievement",
+            "(B) Creative Potential",
+            "(C) Intellectual Ability",
+            "(D) Aptitude"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Intellectual Ability",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Theories of Intelligence",
+          "concept": "Guilford's 1950 APA Presidential Address 'Creativity': he challenged the field's narrow, unitary view of intellectual ability (dominated by Spearman's g and convergent-thinking-based IQ tests). He proposed the Structure of Intellect (SOI) model incorporating divergent thinking as an alternative, multidimensional conceptualisation of intellectual ability",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 16,
+          "question": "Which of the following scaling method/s have been developed by L.L. Thurstone?\n\n(1) Method of paired comparison\n(2) Method of summated ratings\n(3) Method of successive intervals\n(4) Equal appearing intervals method\n\nIndicate your answer using the following codes:",
+          "options": [
+            "(A) (2) only",
+            "(B) (2) and (3) only",
+            "(C) (1), (3) and (4) only",
+            "(D) (2), (3) and (4) only"
+          ],
+          "correct_answer": 3,
+          "correct_text": "(1), (3) and (4) only",
+          "unit": "Unit 3",
+          "topic": "3.6 Types of Tests by Domain",
+          "subtopic": "Attitude Scales",
+          "concept": "Thurstone's methods: paired comparison, successive intervals, equal appearing intervals; summated ratings is Likert's",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 17,
+          "question": "The region where an axon makes a functional connection with a dendrite or cell body of the neuron, is called a:",
+          "options": [
+            "(A) Neurotransmitter",
+            "(B) Synaptic space",
+            "(C) Synapse",
+            "(D) Axon terminal"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Synapse",
+          "unit": "Unit 4",
+          "topic": "4.2 Neurons",
+          "subtopic": "Synapse",
+          "concept": "Synapse — junction where axon connects with dendrite/cell body",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 18,
+          "question": "Identify the factor which detracts us from solving a problem:",
+          "options": [
+            "(A) Flexibility",
+            "(B) Divergent thinking",
+            "(C) Set",
+            "(D) Goal"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Set",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Problem Solving",
+          "concept": "Mental set (Einstellung) — detraction from problem solving",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 19,
+          "question": "The most important monocular cues for depth perception are:",
+          "options": [
+            "(A) Partial overlap and size",
+            "(B) Shading and texture gradients",
+            "(C) Linear perspective and motion parallax",
+            "(D) All of the above"
+          ],
+          "correct_answer": 4,
+          "correct_text": "All of the above",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Depth Perception",
+          "concept": "Monocular cues: overlap, size, shading, texture gradients, linear perspective, motion parallax",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 20,
+          "question": "In a cross cultural research the author found that poor White Americans were intellectually inferior than Rich Black Americans. It was also argued that Race, Socio-economic conditions, environment and Genetic factor are responsible for intellectual growth. Thus poor intellectual growth is because of:\n\n(1) Poverty\n(2) Race\n(3) Socio-economic conditions\n(4) Race and Environment",
+          "options": [
+            "(A) (1) only",
+            "(B) (1) and (3)",
+            "(C) (3) and (4)",
+            "(D) (2) and (3)"
+          ],
+          "correct_answer": 2,
+          "correct_text": "(1) and (3)",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Intelligence",
+          "concept": "Cross-cultural research showed poor White Americans scored lower than rich Black Americans, demonstrating that poverty and socio-economic conditions override racial factors in determining intellectual performance. The finding refutes race-based explanations; poor intellectual growth stems from poverty (1) and socio-economic conditions (3), not race per se",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 21,
+          "question": "Perceptual processes involves:",
+          "options": [
+            "(A) visualizing the stimuli only",
+            "(B) feeling of the stimuli only",
+            "(C) organization and interpretation only",
+            "(D) organization alone"
+          ],
+          "correct_answer": 3,
+          "correct_text": "organization and interpretation only",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Perception",
+          "concept": "Perception involves organizing and interpreting sensory information",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 22,
+          "question": "The sympathetic system secrets the certain hormones in the blood. Which hormone does it secrete?",
+          "options": [
+            "(A) Epinephrine",
+            "(B) Adrenocorticotropic",
+            "(C) Corticotropin",
+            "(D) Epinesomphrine"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Epinephrine",
+          "unit": "Unit 4",
+          "topic": "4.3 Nervous System",
+          "subtopic": "Autonomic nervous system",
+          "concept": "Sympathetic system releases epinephrine (adrenaline) and norepinephrine",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 23,
+          "question": "Which of the following is a technique of Mnemonics?",
+          "options": [
+            "(A) Rehearsal",
+            "(B) Codes names to locations",
+            "(C) Imagery",
+            "(D) Coding numbers to letters"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Codes names to locations",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Memory enhancement",
+          "concept": "Method of loci (loci mnemonic) — coding names/information to specific locations",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 24,
+          "question": "The concept of Mental Age in calculating IQ was given by:",
+          "options": [
+            "(A) Cattell",
+            "(B) Galton",
+            "(C) Binet",
+            "(D) Spearman"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Binet",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Measurement of Intelligence",
+          "concept": "Binet introduced the concept of Mental Age for intelligence measurement",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 25,
+          "question": "Match List I with List II and select the correct answer using the code given below the lists:\n\n| List-I (Method) | List-II (Basic problem) |\n|---|---|\n| (A) Correlational research | (i) Respondents may distort answers in a socially desirable way |\n| (B) Case study | (ii) Shows only the association but not the cause-and-effect relationship |\n| (C) Observation | (iii) Problems in generalizing to the population at large |\n| (D) Survey | (iv) Behaviour may change if the persons know that they are being watched |\n\n**Codes:**\n\n| | A | B | C | D |\n|---|---|---|---|---|\n| (A) | (ii) | (iii) | (iv) | (i) |\n| (B) | (iii) | (ii) | (iv) | (i) |\n| (C) | (ii) | (iii) | (i) | (iv) |\n| (D) | (iii) | (ii) | (i) | (iv) |",
+          "options": [
+            "(A) A=ii, B=iii, C=iv, D=i",
+            "(B) A=iii, B=ii, C=iv, D=i",
+            "(C) A=ii, B=iii, C=i, D=iv",
+            "(D) A=iii, B=ii, C=i, D=iv"
+          ],
+          "correct_answer": 1,
+          "correct_text": "A=ii, B=iii, C=iv, D=i",
+          "unit": "Unit 2",
+          "topic": "2.5 Methods of Research",
+          "subtopic": "Research methods",
+          "concept": "Correlational-association not causation, Case study-generalization problems, Observation-behavioral change, Survey-social desirability bias",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 26,
+          "question": "Destruction of Lateral Hypothalamus in an animal leads to:",
+          "options": [
+            "(A) over eating and over sleeping",
+            "(B) over drinking and over eating",
+            "(C) neither eating nor drinking",
+            "(D) erratic eating leading to obesity"
+          ],
+          "correct_answer": 3,
+          "correct_text": "neither eating nor drinking",
+          "unit": "Unit 4",
+          "topic": "4.3 Nervous System",
+          "subtopic": "Brain structures",
+          "concept": "Lateral hypothalamus damage → aphagia and adipsia (stops eating and drinking)",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 27,
+          "question": "Which school of thought emphasized the role of insightful learning in solving a problem?",
+          "options": [
+            "(A) Behaviorism",
+            "(B) Gestalt",
+            "(C) Cognitive",
+            "(D) Information processing"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Gestalt",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Cognitive Approaches",
+          "concept": "Gestalt psychology — Köhler's insight learning in problem solving",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 28,
+          "question": "Laws of perceptual organization were proposed by:",
+          "options": [
+            "(A) Helmholtz",
+            "(B) Kohler",
+            "(C) Wertheimer",
+            "(D) Koffka"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Wertheimer",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Gestalt Principles",
+          "concept": "Wertheimer proposed the Gestalt laws of perceptual organization",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 29,
+          "question": "Which one of the following does not fall in the domain of Psychoanalysis?",
+          "options": [
+            "(A) Defence mechanism",
+            "(B) Psychosexual development",
+            "(C) Archetype",
+            "(D) Thanatos"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Archetype",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Neo-Freudian Theories",
+          "concept": "Archetype is Jung's concept (Analytical Psychology), not Freud's Psychoanalysis",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 30,
+          "question": "Similarity, contrast and contiguity are the laws of:",
+          "options": [
+            "(A) Reasoning",
+            "(B) Psychophysics",
+            "(C) Learning",
+            "(D) Problem solving"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Learning",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Classical Conditioning",
+          "concept": "Laws of association: similarity, contrast, contiguity — fundamental to learning",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 31,
+          "question": "The most commonly used and popular method for personality measurement is:",
+          "options": [
+            "(A) Psychometric",
+            "(B) Sociometric",
+            "(C) Projective",
+            "(D) Ethnographic"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Psychometric",
+          "unit": "Unit 3",
+          "topic": "3.6 Types of Tests by Domain",
+          "subtopic": "Personality Tests",
+          "concept": "Psychometric tests (objective self-report inventories like MMPI, 16PF, NEO-PI) are the most commonly used and popular method for personality measurement due to their standardization, ease of administration, reliability, and ability to compare across individuals via normative scores",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 32,
+          "question": "Life Detectors measure changes simultaneously in many reactions. Which of the following sequences of bodily reactions is correct?",
+          "options": [
+            "(A) Heart rate–blood cholesterol–body temperature–amount of perspiration",
+            "(B) Blood cholesterol–pulse rate–breathing rate and depth–GSR",
+            "(C) Blood pressure–pulse rate–body temperature–amount of perspiration",
+            "(D) Blood pressure–heart rate–breathing rate and depth–GSR"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Blood pressure–heart rate–breathing rate and depth–GSR",
+          "unit": "Unit 10",
+          "topic": "10.7 Health Psychology",
+          "subtopic": "Biopsychosocial model",
+          "concept": "Polygraph/lie detector measures: blood pressure, heart rate, breathing, GSR (galvanic skin response)",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 33,
+          "question": "While riding a motorcycle Sheila meets with an accident and is knocked unconscious. On becoming conscious in hospital several hours later, her first question is \"why am I in the hospital?\" Sheila has no memory of what happened. She is suffering from:",
+          "options": [
+            "(A) Short term memory loss",
+            "(B) Long term memory loss",
+            "(C) Both short term and long term memory",
+            "(D) Neither long term nor short term memory loss"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Short term memory loss",
+          "unit": "Unit 5",
+          "topic": "5.5 Forgetting",
+          "subtopic": "Amnesia",
+          "concept": "Post-traumatic amnesia following concussion: the period of unconsciousness prevents consolidation of experiences into long-term memory. Sheila retains identity/remote memory but cannot recall the accident (retrograde amnesia for events just before trauma) and has no memory of the peri-traumatic period — indicating failure of short-term memory consolidation",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 34,
+          "question": "A person's consciousness, cognitive perception and evaluation of self, thoughts and opinions of himself lead to Negative and Positive self. It is:",
+          "options": [
+            "(A) Temporary",
+            "(B) Long term",
+            "(C) Forever",
+            "(D) None of the above"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Long term",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Humanistic/Existential Approach",
+          "concept": "Self-concept encompasses one's conscious cognitive perception, evaluation, thoughts, and opinions about oneself. It includes both positive and negative self-views and is relatively stable and enduring (long-term), forming through accumulated life experiences rather than fleeting states. Carl Rogers emphasized self-concept as central to personality",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 35,
+          "question": "Match List I with List II and indicate your answer by using the codes given below the lists:\n\n| List-I (Author) | List-II (Contribution) |\n|---|---|\n| (A) J. R. Anderson and G. H. Bower | (i) Semantic theory memory |\n| (B) D.O. Hebb | (ii) Information–Processing theory |\n| (C) M. Quillian | (iii) Human Associative Memory (HAM) |\n| (D) R.C. Atkinson and R.M. Sheffrin | (iv) Consolidation theory of memory |\n\n**Codes:**\n\n| | A | B | C | D |\n|---|---|---|---|---|\n| (A) | (i) | (ii) | (iii) | (iv) |\n| (B) | (ii) | (iii) | (iv) | (i) |\n| (C) | (iii) | (iv) | (i) | (ii) |\n| (D) | (iv) | (i) | (ii) | (iii) |",
+          "options": [
+            "(A) A=i, B=ii, C=iii, D=iv",
+            "(B) A=ii, B=iii, C=iv, D=i",
+            "(C) A=iii, B=iv, C=i, D=ii",
+            "(D) A=iv, B=i, C=ii, D=iii"
+          ],
+          "correct_answer": 3,
+          "correct_text": "A=iii, B=iv, C=i, D=ii",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Memory Models",
+          "concept": "Anderson-Bower-HAM, Hebb-consolidation, Quillian-semantic memory, Atkinson-Shiffrin-information processing",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 36,
+          "question": "The actual power to perform mental or physical task which is gained by training is known:",
+          "options": [
+            "(A) Achievement",
+            "(B) Ability",
+            "(C) Attitude",
+            "(D) Intelligence"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Ability",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Intelligence",
+          "concept": "Ability — power to perform tasks gained through training",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 37,
+          "question": "Match List I with List II and indicate your answer by using the codes given below the lists:\n\n| List-I (Theory) | List-II (Explanation) |\n|---|---|\n| (A) Arousal theory | (i) Motivation is strongly influenced by setting specific and allowable goals |\n| (B) Expectancy theory | (ii) Motivation is a matter of being pushed from within by urges |\n| (C) Goal setting theory | (iii) Motivation is being pulled from without by desired outcomes |\n| (D) Drive theory | (iv) Motivation is increasing the general level of activation to an optimal level |\n\n**Codes:**\n\n| | A | B | C | D |\n|---|---|---|---|---|\n| (A) | (i) | (ii) | (iii) | (iv) |\n| (B) | (ii) | (iii) | (iv) | (i) |\n| (C) | (iii) | (iv) | (ii) | (i) |\n| (D) | (iv) | (iii) | (i) | (ii) |",
+          "options": [
+            "(A) A=i, B=ii, C=iii, D=iv",
+            "(B) A=ii, B=iii, C=iv, D=i",
+            "(C) A=iii, B=iv, C=ii, D=i",
+            "(D) A=iv, B=iii, C=i, D=ii"
+          ],
+          "correct_answer": 4,
+          "correct_text": "A=iv, B=iii, C=i, D=ii",
+          "unit": "Unit 7",
+          "topic": "7.2 Motivation",
+          "subtopic": "Theories of Motivation",
+          "concept": "Arousal-optimal activation, Expectancy-pulled by outcomes, Goal setting-specific goals, Drive-pushed by internal urges",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 38,
+          "question": "Four important steps involved in conducting psychological experiment are listed below:\n\n(1) Manipulation of the dependent variable\n(2) Hypothesis testing\n(3) Recording of the dependent variable\n(4) Hypothesis formulation\n\nState the correct sequence in which these steps are carried out in a typical psychological experiment:",
+          "options": [
+            "(A) (4) (1) (3) (2)",
+            "(B) (4) (2) (1) (3)",
+            "(C) (1) (3) (4) (2)",
+            "(D) (2) (4) (1) (3)"
+          ],
+          "correct_answer": 1,
+          "correct_text": "(4) (1) (3) (2)",
+          "unit": "Unit 2",
+          "topic": "2.5 Methods of Research",
+          "subtopic": "Experimental",
+          "concept": "Typical experiment sequence: (4) Hypothesis formulation → (1) Manipulation of the independent variable (question phrasing says 'dependent' but intended meaning is manipulating IV to observe effect) → (3) Recording of the dependent variable → (2) Hypothesis testing via statistical analysis of collected data",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 39,
+          "question": "Given below are some steps of a motivational cycle. Which one is the correct sequence of a typical motivational cycle?",
+          "options": [
+            "(A) Goal, Driving force, Goal directed activity and Relief",
+            "(B) Goal directed activity, Driving force, Goal and Relief",
+            "(C) Driving force, Goal, Goal directed activity and Relief",
+            "(D) Driving force, Goal directed activity, Goal and Relief"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Driving force, Goal directed activity, Goal and Relief",
+          "unit": "Unit 7",
+          "topic": "7.2 Motivation",
+          "subtopic": "Motivation",
+          "concept": "Motivational cycle (Morgan & King, Baron): Driving force (need/drive creates tension) → Goal-directed activity (instrumental behavior to satisfy need) → Goal (attainment of incentive) → Relief (drive reduction/satisfaction)",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 40,
+          "question": "In classical conditioning experiments the extinction of conditioned response takes place due to:",
+          "options": [
+            "(A) lack of motivation",
+            "(B) inhibition",
+            "(C) excitation",
+            "(D) absence of unconditioned stimulus"
+          ],
+          "correct_answer": 4,
+          "correct_text": "absence of unconditioned stimulus",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Classical Conditioning",
+          "concept": "Extinction — repeated presentation of CS without US",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 41,
+          "question": "\"A complex structure involved in regulating a wide variety of emotional and motivational behaviours\" is known as:",
+          "options": [
+            "(A) Thalamus",
+            "(B) Reticular formation",
+            "(C) Pons",
+            "(D) Hypothalamus"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Hypothalamus",
+          "unit": "Unit 4",
+          "topic": "4.3 Nervous System",
+          "subtopic": "Brain structures",
+          "concept": "Hypothalamus — regulates emotional and motivational behaviors, homeostasis",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 42,
+          "question": "Match List I with List II and indicate your answer by using the codes given below the lists:\n\n| List-I (Needs) | List-II (Explanation) |\n|---|---|\n| (A) N. Achievement | (i) The desire to seek novel, intense experiences |\n| (B) N. Power | (ii) The desire to take moderately challenging tasks |\n| (C) N. Sensation | (iii) The desire to establish and maintain friendly relations |\n| (D) N. Affiliation | (iv) The desire to have impact and influence |\n\n**Codes:**\n\n| | A | B | C | D |\n|---|---|---|---|---|\n| (A) | (iii) | (i) | (iv) | (ii) |\n| (B) | (ii) | (iv) | (i) | (iii) |\n| (C) | (i) | (ii) | (iii) | (iv) |\n| (D) | (iv) | (iii) | (ii) | (i) |",
+          "options": [
+            "(A) A=iii, B=i, C=iv, D=ii",
+            "(B) A=ii, B=iv, C=i, D=iii",
+            "(C) A=i, B=ii, C=iii, D=iv",
+            "(D) A=iv, B=iii, C=ii, D=i"
+          ],
+          "correct_answer": 2,
+          "correct_text": "A=ii, B=iv, C=i, D=iii",
+          "unit": "Unit 7",
+          "topic": "7.2 Motivation",
+          "subtopic": "Theories of Motivation",
+          "concept": "n Achievement-moderate challenge, n Power-impact/influence, n Sensation-novel experiences, n Affiliation-friendly relations",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 43,
+          "question": "*Directions: In each question (from 43 to 46), there is a pair of statement labeled as Assertion (A) and Reason (R). Read the pair of statements and answer the question using the following codes:*\n\n(A) Both (A) and (R) are true and (R) is the correct explanation of (A)\n(B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)\n(C) (A) is true but (R) is false\n(D) (A) is false but (R) is true\n\n---\n\n**Assertion (A):** Different people, exposed to the same stimulus, experience entirely different things.\n\n**Reason (R):** Our internal representation of the world is filled with objects. Our perceptual processes rarely fail to successfully create objects out of physical input to the visual system.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "(B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+            "(C) (A) is true but (R) is false",
+            "(D) (A) is false but (R) is true"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Perception",
+          "concept": "Both statements are true: (A) perception is subjective due to individual differences in cognitive schemas, past experience, and expectations; (R) is true — internal representations organize sensory input into objects. However, (R) is NOT the correct explanation of (A): the existence of object representations explains how we perceive, not why different people perceive the same stimulus differently. Variability arises from top-down processing and individual cognitive frameworks, not from object representation itself",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 44,
+          "question": "*Directions: In each question (from 43 to 46), there is a pair of statement labeled as Assertion (A) and Reason (R). Read the pair of statements and answer the question using the following codes:*\n\n(A) Both (A) and (R) are true and (R) is the correct explanation of (A)\n(B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)\n(C) (A) is true but (R) is false\n(D) (A) is false but (R) is true\n\n---\n\nAccording to Watson:\n\n**Assertion (A):** \"Thoughts in short nothing but talking to ourselves\".\n\n**Reason (R):** Thought is central neural event requiring no motor response.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "(B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+            "(C) (A) is true but (R) is false",
+            "(D) (A) is false but (R) is true"
+          ],
+          "correct_answer": 3,
+          "correct_text": "(A) is true but (R) is false",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Language and Thought",
+          "concept": "Watson's behaviorist view: thought = subvocal speech (implicit laryngeal motor responses). (A) is true — Watson held that 'thoughts are nothing but talking to ourselves'. (R) is false — Watson would reject the idea that thought requires 'no motor response' since he viewed thought as covert motor behavior",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 45,
+          "question": "*Directions: In each question (from 43 to 46), there is a pair of statement labeled as Assertion (A) and Reason (R). Read the pair of statements and answer the question using the following codes:*\n\n(A) Both (A) and (R) are true and (R) is the correct explanation of (A)\n(B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)\n(C) (A) is true but (R) is false\n(D) (A) is false but (R) is true\n\n---\n\n**Assertion (A):** Naturalistic observation is a usually preferred method in the field of ethology.\n\n**Reason (R):** In naturalistic observation, secondary variance is very efficiently controlled.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "(B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+            "(C) (A) is true but (R) is false",
+            "(D) (A) is false but (R) is true"
+          ],
+          "correct_answer": 3,
+          "correct_text": "(A) is true but (R) is false",
+          "unit": "Unit 2",
+          "topic": "2.5 Methods of Research",
+          "subtopic": "Research methods",
+          "concept": "Naturalistic observation preferred in ethology; but secondary variance is NOT efficiently controlled in naturalistic observation",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 46,
+          "question": "*Directions: In each question (from 43 to 46), there is a pair of statement labeled as Assertion (A) and Reason (R). Read the pair of statements and answer the question using the following codes:*\n\n(A) Both (A) and (R) are true and (R) is the correct explanation of (A)\n(B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)\n(C) (A) is true but (R) is false\n(D) (A) is false but (R) is true\n\n---\n\n**Assertion (A):** According to Hull, food as reinforce increases the frequency of occurrence of response.\n\n**Reason (R):** Eating food is a satisfying experience.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "(B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+            "(C) (A) is true but (R) is false",
+            "(D) (A) is false but (R) is true"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Operant Conditioning",
+          "concept": "In Hull's drive-reduction theory, food reinforces behavior because it reduces the biological drive (hunger), restoring homeostasis — not merely because eating is satisfying. Both (A) and (R) are true statements, but (R) describes a hedonic/experiential explanation whereas Hull's framework emphasizes physiological drive reduction as the mechanism of reinforcement",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        }
+      ]
+    },
+    {
+      "type": "passage",
+      "id": "passage_47",
+      "heading": "Passage (Questions 47–50)",
+      "text": "A clinical psychologist developed a new Anxiety Inventory. He divided the test into two halves—one based on odd-items and the another based on even items. The two halves correlated by 0.32. He also administered the inventory to two groups of anxiety patients, the second group of patients being tested two months after the first group was tested. Both the groups scored significantly higher than the normative sample of normal individuals. The two groups of anxiety patients did not differ significantly. The new Anxiety Inventory was also correlated with the established well known test of anxiety and the correlation was 0.83."
+    },
+    {
+      "type": "questions_block",
+      "range": "Q47–Q50",
+      "passage_ref": "passage_47",
+      "questions": [
+        {
+          "id": 47,
+          "question": "The new anxiety inventory has:",
+          "options": [
+            "(A) satisfactory internal consistency",
+            "(B) unsatisfactory internal consistency",
+            "(C) satisfactory parallel form reliability",
+            "(D) unsatisfactory parallel form reliability"
+          ],
+          "correct_answer": 2,
+          "correct_text": "unsatisfactory internal consistency",
+          "unit": "Unit 3",
+          "topic": "3.3 Reliability",
+          "subtopic": "Reliability",
+          "concept": "Split-half r = 0.32 (before Spearman-Brown correction) — indicates poor internal consistency",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": "passage_47",
+          "table_ref": null
+        },
+        {
+          "id": 48,
+          "question": "The new anxiety inventory has:",
+          "options": [
+            "(A) Satisfactory construct validity",
+            "(B) Unsatisfactory construct validity",
+            "(C) Satisfactory test-retest reliability",
+            "(D) Unsatisfactory test-retest reliability"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Satisfactory test-retest reliability",
+          "unit": "Unit 3",
+          "topic": "3.3 Reliability",
+          "subtopic": "Reliability",
+          "concept": "Two groups tested 2 months apart did not differ significantly — satisfactory test-retest reliability",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": "passage_47",
+          "table_ref": null
+        },
+        {
+          "id": 49,
+          "question": "For testing the difference between the means of two groups of anxiety patients, the psychologist is likely to have used:",
+          "options": [
+            "(A) Mann-Whitney U-test",
+            "(B) t-test for paired samples",
+            "(C) Product-moment correlation",
+            "(D) t-test for independent samples"
+          ],
+          "correct_answer": 4,
+          "correct_text": "t-test for independent samples",
+          "unit": "Unit 2",
+          "topic": "2.7 Inferential Statistics",
+          "subtopic": "Parametric Tests",
+          "concept": "Two different groups compared = independent samples t-test",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": "passage_47",
+          "table_ref": null
+        },
+        {
+          "id": 50,
+          "question": "The new anxiety inventory has:",
+          "options": [
+            "(A) Satisfactory concurrent validity",
+            "(B) Unsatisfactory concurrent validity",
+            "(C) Satisfactory factorial validity",
+            "(D) Unsatisfactory factorial validity"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Satisfactory concurrent validity",
+          "unit": "Unit 3",
+          "topic": "3.4 Validity",
+          "subtopic": "Criterion-related validity",
+          "concept": "Correlation of 0.83 with established anxiety test = satisfactory concurrent validity",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": "passage_47",
+          "table_ref": null
+        }
+      ]
+    }
+  ]
+}

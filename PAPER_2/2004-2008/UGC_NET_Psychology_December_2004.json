@@ -1,0 +1,1035 @@
+{
+  "paper_metadata": {
+    "title": "UGC NET/JRF Examination, December 2004",
+    "date": "December 2004",
+    "subject": "Psychology — Paper II"
+  },
+  "content": [
+    {
+      "type": "questions_block",
+      "range": "Q1–Q47",
+      "questions": [
+        {
+          "id": 1,
+          "question": "An action potential is caused by a self-propagating mechanism called:",
+          "options": [
+            "(A) Polarization",
+            "(B) Assimilation",
+            "(C) Substitution",
+            "(D) Depolarization"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Depolarization",
+          "unit": "Unit 4",
+          "topic": "4.2 Neurons",
+          "subtopic": "Action Potential",
+          "concept": "Action potential is triggered when depolarization reaches threshold, opening voltage-gated Na+ channels. The self-propagating depolarization wave travels along the axon via saltatory conduction at nodes of Ranvier.",
+          "era": "UGC",
+          "year": 2004,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 2,
+          "question": "Match List-I (Tests) with List-II (Constructors):\n\n| List-I (Tests) | List-II (Constructors) |\n|---|---|\n| A. 16 personality factor questionnaire | 1. Eysenck |\n| B. Picture frustration test | 2. Murray |\n| C. Thematic Apperception test | 3. Cattell |\n| D. PEN | 4. Rosenzweig |\n\n**Codes:**\n\n| | A | B | C | D |\n|---|---|---|---|---|\n| (A) | 3 | 4 | 1 | 2 |\n| (B) | 4 | 3 | 1 | 2 |\n| (C) | 3 | 4 | 2 | 1 |\n| (D) | 4 | 3 | 2 | 1 |",
+          "options": [
+            "(A) 3, 4, 1, 2",
+            "(B) 4, 3, 1, 2",
+            "(C) 3, 4, 2, 1",
+            "(D) 4, 3, 2, 1"
+          ],
+          "correct_answer": 3,
+          "correct_text": "3, 4, 2, 1",
+          "unit": "Unit 3",
+          "topic": "3.6 Types of Tests by Domain",
+          "subtopic": "Personality Tests",
+          "concept": "16PF was developed by Raymond Cattell based on source traits derived through factor analysis. Rosenzweig's Picture Frustration Test assesses reactions to frustrating situations using comic-strip scenarios. Murray's Thematic Apperception Test (TAT) uses ambiguous pictures to reveal underlying motives, needs, and personality dynamics. Eysenck's PEN model proposes three super-traits: Psychoticism, Extraversion, and Neuroticism.",
+          "era": "UGC",
+          "year": 2004,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 3,
+          "question": "A two process theory of memory states that long term recall may fall because:",
+          "options": [
+            "(A) information was never transferred from STM to LTM",
+            "(B) not enough cues may be available at the time of attempted recall to locate information in STM",
+            "(C) the trace in LTM has decayed",
+            "(D) all the above"
+          ],
+          "correct_answer": 4,
+          "correct_text": "all the above",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Memory Models",
+          "concept": "Two-process (Atkinson-Shiffrin) theory: LTM recall failure results from encoding failure (no STM→LTM transfer), storage decay, and retrieval failure (insufficient cues) — all three are valid.",
+          "era": "UGC",
+          "year": 2004,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 4,
+          "question": "A psychologist developed a test for the army. Since the army unit had to move out shortly, he could not administer the test twice to the same sample. By correlating which of the following, could he get same assessment of the reliability?\n\n(i) The scores based on odd items and the scores based on even items\n(ii) Each item-score with every other item score\n(iii) The scores based on randomly formed two halves of the test\n(iv) None of the above",
+          "options": [
+            "(A) (i) alone",
+            "(B) (ii) alone",
+            "(C) (i), (ii) and (iii)",
+            "(D) None of the above"
+          ],
+          "correct_answer": 3,
+          "correct_text": "(i), (ii) and (iii)",
+          "unit": "Unit 3",
+          "topic": "3.3 Reliability",
+          "subtopic": "Split-half Reliability",
+          "concept": "When test-retest is not feasible (e.g., army unit moving out), reliability can be estimated through internal consistency methods: (i) split-half using odd-even item correlation corrected by Spearman-Brown formula, (ii) inter-item correlation (Cronbach's alpha), and (iii) random-halves method. All three provide reliability estimates from a single test administration.",
+          "era": "UGC",
+          "year": 2004,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 5,
+          "question": "Therapies based on classical conditioning techniques are:\n\n(1) implosive therapy\n(2) flooding\n(3) omission training\n(4) systematic desensitisation",
+          "options": [
+            "(A) 1 and 2",
+            "(B) 1 and 3",
+            "(C) 2 and 3",
+            "(D) 2 and 4"
+          ],
+          "correct_answer": 4,
+          "correct_text": "2 and 4",
+          "unit": "Unit 9",
+          "topic": "9.5 Psychotherapies",
+          "subtopic": "Behaviour Therapies",
+          "concept": "Flooding (in vivo exposure extinction) and systematic desensitisation (Wolpe's counterconditioning using relaxation hierarchy) are classical conditioning-based. Implosive therapy blends CC with psychodynamic imagery; omission training is operant (negative punishment).",
+          "era": "UGC",
+          "year": 2004,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 6,
+          "question": "Which one of the following NOT a parametric test:",
+          "options": [
+            "(A) F-test",
+            "(B) Sign test",
+            "(C) t-test",
+            "(D) Z-test"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Sign test",
+          "unit": "Unit 2",
+          "topic": "2.7 Inferential Statistics",
+          "subtopic": "Non-Parametric Tests",
+          "concept": "Sign test is a non-parametric alternative to the paired t-test; it uses binomial distribution to compare two related samples based on direction (sign) of differences, not magnitude or distribution assumptions.",
+          "era": "UGC",
+          "year": 2004,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 7,
+          "question": "The sequence of key factors in observational learning is:",
+          "options": [
+            "(A) motivation, production processes, retention, attention",
+            "(B) attention, retention, production processes, motivation",
+            "(C) retention, motivation, attention, production processes",
+            "(D) production processes, attention, motivation, retention"
+          ],
+          "correct_answer": 2,
+          "correct_text": "attention, retention, production processes, motivation",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Observational Learning",
+          "concept": "Bandura's social learning theory identifies four sequential processes in observational learning: (1) Attention — focusing on and perceiving the model's behavior; (2) Retention — symbolically coding and rehearsing the observed information in memory; (3) Motor Reproduction (Production) — translating stored representations into overt behavioral performance; and (4) Motivation — presence of reinforcement or incentive that determines whether the learned behavior will be performed.",
+          "era": "UGC",
+          "year": 2004,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 8,
+          "question": "Under certain conditions, Yates correction is applied in:",
+          "options": [
+            "(A) Mann-whitney U test",
+            "(B) Friedman's ANOVA",
+            "(C) Kruskal wallis H test",
+            "(D) Chi square test"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Chi square test",
+          "unit": "Unit 2",
+          "topic": "2.7 Inferential Statistics",
+          "subtopic": "Non-Parametric Tests",
+          "concept": "Yates' correction for continuity is applied to the Chi-Square test when analyzing 2×2 contingency tables with df=1, where observed-expected differences are reduced by 0.5 before squaring. This correction prevents overestimation of Chi-Square values in small samples, reducing Type I error.",
+          "era": "UGC",
+          "year": 2004,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 9,
+          "question": "Galvanic skin response is:\n\n(1) Increase in skin resistance\n(2) Decrease in skin resistance\n(3) Increase in skin conductance\n(4) Decrease in skin conductance",
+          "options": [
+            "(A) 1 and 3",
+            "(B) 1 and 4",
+            "(C) 2 and 3",
+            "(D) 2 and 4"
+          ],
+          "correct_answer": 3,
+          "correct_text": "2 and 3",
+          "unit": "Unit 4",
+          "topic": "4.1 Sensory Systems",
+          "subtopic": "Physiological Measures",
+          "concept": "Galvanic Skin Response (GSR) measures electrodermal activity: emotional arousal activates sweat glands, which lowers skin resistance (due to increased moisture/electrolytes) and correspondingly increases skin conductance. GSR is used as a physiological index of sympathetic nervous system activation in emotion and lie-detection research.",
+          "era": "UGC",
+          "year": 2004,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 10,
+          "question": "Match List-I (Research methods) with List-II (Description):\n\n| List-I (Research methods) | List-II (Description) |\n|---|---|\n| A. Case history method | 1. Study of naturally occurring events |\n| B. Correlational method | 2. A biography obtained for scientific purpose |\n| C. Observational method | 3. Information obtained through questioning large number of people |\n| D. Survey method | 4. Method to determine the association between existing differences |\n\n**Codes:**\n\n| | A | B | C | D |\n|---|---|---|---|---|\n| (A) | 1 | 4 | 3 | 2 |\n| (B) | 1 | 3 | 4 | 2 |\n| (C) | 2 | 4 | 1 | 3 |\n| (D) | 1 | 3 | 2 | 4 |",
+          "options": [
+            "(A) 1, 4, 3, 2",
+            "(B) 1, 3, 4, 2",
+            "(C) 2, 4, 1, 3",
+            "(D) 1, 3, 2, 4"
+          ],
+          "correct_answer": 3,
+          "correct_text": "2, 4, 1, 3",
+          "unit": "Unit 2",
+          "topic": "2.5 Methods of Research",
+          "subtopic": "Research Methods",
+          "concept": "Case history method is a biographical study of an individual for scientific purposes. Correlational method determines the association between existing differences or variables. Observational method studies naturally occurring events without manipulation. Survey method gathers information by questioning a large number of people through questionnaires or interviews.",
+          "era": "UGC",
+          "year": 2004,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 11,
+          "question": "Match List-I (Experiments) with List-II (Experimenters):\n\n| List-I (Experiments) | List-II (Experimenters) |\n|---|---|\n| A. Blocking | 1. Siegel |\n| B. Random time schedule shocks in avoidance conditioning | 2. Seligman |\n| C. Learned helplessness | 3. Hernstein and Hineline |\n| D. Drug tolerance as complementary CR | 4. Kamin |\n\n**Codes:**\n\n| | A | B | C | D |\n|---|---|---|---|---|\n| (1) | 1 | 3 | 2 | 4 |\n| (2) | 2 | 4 | 1 | 3 |\n| (3) | 4 | 2 | 3 | 1 |\n| (4) | 4 | 3 | 2 | 1 |",
+          "options": [
+            "(A) 1, 3, 2, 4",
+            "(B) 2, 4, 1, 3",
+            "(C) 4, 2, 3, 1",
+            "(D) 4, 3, 2, 1"
+          ],
+          "correct_answer": 4,
+          "correct_text": "4, 3, 2, 1",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Classical Conditioning",
+          "concept": "Kamin demonstrated the blocking effect, showing that prior conditioning to one CS blocks subsequent conditioning to a second CS when both are presented as a compound. Herrnstein and Hineline showed that avoidance conditioning can be maintained by shock-frequency reduction alone without external warning signals. Seligman discovered learned helplessness where exposure to uncontrollable events impairs later learning. Siegel applied classical conditioning to drug tolerance, proposing environmental cues elicit compensatory CRs.",
+          "era": "UGC",
+          "year": 2004,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 12,
+          "question": "According to Freud, negativism as manifested by defiance of parental orders is most pronounced during the stage:",
+          "options": [
+            "(A) anal",
+            "(B) genital",
+            "(C) oral",
+            "(D) phallic"
+          ],
+          "correct_answer": 1,
+          "correct_text": "anal",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Psychoanalytic Approach",
+          "concept": "Freud's anal stage (approximately 1-3 years) centers on libidinal gratification through bowel control during toilet training. Harsh or rigid training may produce the anal-retentive personality (orderly, stubborn, stingy), while overly lenient training may lead to the anal-expulsive personality (messy, defiant, negativistic). The defiance of parental orders is a hallmark of the anal-stage conflict over autonomy versus control.",
+          "era": "UGC",
+          "year": 2004,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 13,
+          "question": "At which point in the memory process, improvement is least likely:",
+          "options": [
+            "(A) retention",
+            "(B) storage",
+            "(C) encoding",
+            "(D) retrieval"
+          ],
+          "correct_answer": 2,
+          "correct_text": "storage",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Stages and Types",
+          "concept": "Of the three memory processes (encoding, storage, retrieval), storage is the least directly improvable. Encoding can be enhanced through strategies like elaboration, chunking, and organization; retrieval can be improved through cues and context reinstatement. Storage, however, is the passive neurobiological maintenance of memory traces and is largely automatic, making it the phase least amenable to deliberate improvement strategies.",
+          "era": "UGC",
+          "year": 2004,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 14,
+          "question": "According to Horney, moving towards people characterized by dependence, unassertiveness and helplessness can be called:",
+          "options": [
+            "(A) the detached type",
+            "(B) the compliant type",
+            "(C) the hostile type",
+            "(D) the dominant type"
+          ],
+          "correct_answer": 2,
+          "correct_text": "the compliant type",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Neo-Freudian Theories",
+          "concept": "Horney's compliant type (moving toward people): seeks approval, affection, and a powerful partner; characterized by dependence, unassertiveness, and helplessness — one of three neurotic trends alongside hostile (against) and detached (away).",
+          "era": "UGC",
+          "year": 2004,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 15,
+          "question": "Match List-I (Terms) with List-II (Description):\n\n| List-I (Terms) | List-II (Description) |\n|---|---|\n| A. Schemas | 1. When information is not used it eventually becomes weak to support recall |\n| B. Meta memory | 2. The organized cluster of knowledge about any topic |\n| C. Decay | 3. Knowledge about our own memory, developed through experience |\n| D. Acquisition | 4. The process of perceiving information |\n\n**Codes:**\n\n| | A | B | C | D |\n|---|---|---|---|---|\n| (1) | 2 | 3 | 1 | 4 |\n| (2) | 1 | 4 | 2 | 3 |\n| (3) | 3 | 2 | 4 | 1 |\n| (4) | 4 | 1 | 3 | 2 |",
+          "options": [
+            "(A) 2, 3, 1, 4",
+            "(B) 1, 4, 2, 3",
+            "(C) 3, 2, 4, 1",
+            "(D) 4, 1, 3, 2"
+          ],
+          "correct_answer": 1,
+          "correct_text": "2, 3, 1, 4",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Memory Concepts",
+          "concept": "Schemas are organized clusters of knowledge about a topic or object that guide perception and memory. Metamemory is knowledge about one's own memory processes and capabilities, developed through experience. Decay refers to the weakening of memory traces over time when information is not used. Acquisition is the initial process of perceiving and encoding information into the memory system.",
+          "era": "UGC",
+          "year": 2004,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 16,
+          "question": "The word association technique was first developed for clinical situations by:",
+          "options": [
+            "(A) Alfred Binet",
+            "(B) Alfred Adler",
+            "(C) Francis Galton",
+            "(D) Emily kraeplin"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Emily kraeplin",
+          "unit": "Unit 3",
+          "topic": "3.6 Types of Tests by Domain",
+          "subtopic": "Projective Techniques",
+          "concept": "Emil Kraepelin first adapted Galton's word association method for clinical psychiatric diagnosis. Galton originated it experimentally; Jung later refined it for complex detection.",
+          "era": "UGC",
+          "year": 2004,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 17,
+          "question": "Select the correct order of the stages of sleep.\n\n(i) EEG waves become slower and larger. There are also bursts of high frequency waves (12-16 Hz)\n(ii) Metabolism is at the lowest. EEG waves are entirely of Delta waves (about 1Hz)\n(iii) State of drowsiness. Predominance of alpha wave (8-10Hz)\n(iv) Predominance of Delta waves (1-3Hz). Some high frequency (12-16Hz) spindles also occur.",
+          "options": [
+            "(A) 1,2,3,4",
+            "(B) 2,1,4,3",
+            "(C) 3,1,4,2",
+            "(D) 1,3,2,4"
+          ],
+          "correct_answer": 3,
+          "correct_text": "3,1,4,2",
+          "unit": "Unit 4",
+          "topic": "4.3 Nervous System",
+          "subtopic": "Sleep Stages",
+          "concept": "Sleep stages: drowsiness (alpha) → Stage 2 (slower, spindles) → Stage 3/4 (delta) → Stage 4 (all delta, lowest metabolism)",
+          "era": "UGC",
+          "year": 2004,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 18,
+          "question": "A six year old girl has a 'mental age' of seven and half years. Her IQ would be:",
+          "options": [
+            "(A) 150",
+            "(B) 125",
+            "(C) 100",
+            "(D) 75"
+          ],
+          "correct_answer": 2,
+          "correct_text": "125",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Measurement of Intelligence",
+          "concept": "IQ = (MA/CA) × 100 = (7.5/6) × 100 = 125",
+          "era": "UGC",
+          "year": 2004,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 19,
+          "question": "Match List-I (Brain part) with List-II (Function):\n\n| List-I (Brain part) | List-II (Function) |\n|---|---|\n| A. Medulla | 1. For emotion and maintaining homeostasis |\n| B. Thalamus | 2. Responsible for respiration and postural reflexes |\n| C. Cerebellum | 3. Relay station for incoming sensory information |\n| D. Hypothalamus | 4. Is concerned with motor coordination |\n\n**Codes:**\n\n| | A | B | C | D |\n|---|---|---|---|---|\n| (1) | 1 | 3 | 2 | 4 |\n| (2) | 2 | 3 | 4 | 1 |\n| (3) | 3 | 2 | 1 | 4 |\n| (4) | 4 | 1 | 3 | 2 |",
+          "options": [
+            "(A) 1, 3, 2, 4",
+            "(B) 2, 3, 4, 1",
+            "(C) 3, 2, 1, 4",
+            "(D) 4, 1, 3, 2"
+          ],
+          "correct_answer": 2,
+          "correct_text": "2, 3, 4, 1",
+          "unit": "Unit 4",
+          "topic": "4.3 Nervous System",
+          "subtopic": "Brain Structures",
+          "concept": "The Medulla oblongata controls vital autonomic functions including respiration, heart rate, and postural reflexes. The Thalamus serves as the brain's primary sensory relay station, routing all incoming sensory information (except olfaction) to appropriate cortical areas. The Cerebellum coordinates voluntary motor movements, balance, and muscle tone. The Hypothalamus regulates emotion, homeostasis (hunger, thirst, temperature), and controls the pituitary gland.",
+          "era": "UGC",
+          "year": 2004,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 20,
+          "question": "The Schacter-Singer theory postulates that the experience of emotion is related to:",
+          "options": [
+            "(A) internal changes resulting from activation of autonomic",
+            "(B) bodily changes in emotions",
+            "(C) an awareness of our facial expression",
+            "(D) physiological changes and interpretation of the situation"
+          ],
+          "correct_answer": 4,
+          "correct_text": "physiological changes and interpretation of the situation",
+          "unit": "Unit 7",
+          "topic": "7.3 Emotion",
+          "subtopic": "Theories of Emotion",
+          "concept": "Schachter and Singer's Two-Factor Theory of Emotion (1962) proposes that emotional experience requires two components: (1) physiological arousal (undifferentiated, general activation of the autonomic nervous system) and (2) cognitive interpretation or labeling of that arousal based on situational cues. The famous epinephrine-injection study demonstrated that the same arousal state could be experienced as euphoria or anger depending on the social context.",
+          "era": "UGC",
+          "year": 2004,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 21,
+          "question": "Which one of the following abilities was NOT among the primary mental abilities given by Thurstone:",
+          "options": [
+            "(A) Memory",
+            "(B) Verbal",
+            "(C) Numerical",
+            "(D) Practical"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Practical",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Theories of Intelligence",
+          "concept": "Thurstone identified seven Primary Mental Abilities through factor analysis: Verbal Comprehension (V), Numerical Ability (N), Spatial Relations (S), Perceptual Speed (P), Memory (M), Word Fluency (W), and Reasoning (R). He rejected Spearman's g-factor and argued intelligence consists of these independent abilities. 'Practical' ability is not among Thurstone's primary mental abilities.",
+          "era": "UGC",
+          "year": 2004,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 22,
+          "question": "Which one of the following neurotransmitters plays an inhibitory role in the nervous system?",
+          "options": [
+            "(A) Acetylcholine",
+            "(B) Dopamine",
+            "(C) norepinephrine",
+            "(D) serotonin"
+          ],
+          "correct_answer": 4,
+          "correct_text": "serotonin",
+          "unit": "Unit 4",
+          "topic": "4.2 Neurons",
+          "subtopic": "Neurotransmitters",
+          "concept": "Serotonin (5-HT) is primarily an inhibitory neurotransmitter in the central nervous system, regulating mood, sleep, appetite, pain perception, and aggression. Among the given options, serotonin plays the most prominent inhibitory role; acetylcholine, dopamine, and norepinephrine are predominantly excitatory or modulatory. Low serotonin levels are associated with depression, anxiety, and impulse-control disorders.",
+          "era": "UGC",
+          "year": 2004,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 23,
+          "question": "Which of the following does not contribute to perception of depth?",
+          "options": [
+            "(A) Interposition",
+            "(B) Relative size",
+            "(C) Perceptual grouping",
+            "(D) Retinal disparity"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Perceptual grouping",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Depth Perception",
+          "concept": "Depth cues: interposition, relative size, retinal disparity are depth cues; perceptual grouping is not",
+          "era": "UGC",
+          "year": 2004,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 24,
+          "question": "Match List-I (Type of memory) with List-II (Description):\n\n| List-I (Type of memory) | List-II (Description) |\n|---|---|\n| A. Episodic memory | 1. Meaning of words |\n| B. Semantic memory | 2. Facts about personal experiences |\n| C. Short term memory | 3. Memory for an emotionally charged event |\n| D. Flashbulb memory | 4. Limited storage capacity for a brief period |\n\n**Codes:**\n\n| | A | B | C | D |\n|---|---|---|---|---|\n| (A) | 2 | 1 | 3 | 4 |\n| (B) | 1 | 3 | 4 | 2 |\n| (C) | 2 | 4 | 1 | 3 |\n| (D) | 3 | 1 | 4 | 2 |",
+          "options": [
+            "(A) 2, 1, 3, 4",
+            "(B) 1, 3, 4, 2",
+            "(C) 2, 4, 1, 3",
+            "(D) 3, 1, 4, 2"
+          ],
+          "correct_answer": 1,
+          "correct_text": "2, 1, 3, 4",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Types of Memory",
+          "concept": "Episodic memory stores autobiographical facts about personally experienced events (what, where, when). Semantic memory stores general world knowledge and meanings of words, independent of personal context. Short-term memory has limited capacity (7±2 items) and brief duration (15-30 seconds without rehearsal). Flashbulb memories are vivid, detailed recollections of emotionally charged, surprising events (e.g., 9/11 attacks).",
+          "era": "UGC",
+          "year": 2004,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 25,
+          "question": "Area of cerebral cortex that is not directly concerned with sensory or motor processes are called:",
+          "options": [
+            "(A) visual area",
+            "(B) auditory area",
+            "(C) association area",
+            "(D) somatic sensory area"
+          ],
+          "correct_answer": 3,
+          "correct_text": "association area",
+          "unit": "Unit 4",
+          "topic": "4.3 Nervous System",
+          "subtopic": "Cerebral Cortex",
+          "concept": "Association areas of the cerebral cortex are regions not directly dedicated to primary sensory or motor processing. They integrate information from multiple sensory modalities and are responsible for higher-order cognitive functions such as thinking, planning, language comprehension (Wernicke's area), decision-making, and problem-solving. These areas form the majority of the human cerebral cortex, distinguishing human brains from those of other species.",
+          "era": "UGC",
+          "year": 2004,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 26,
+          "question": "A rule-of-thumb that allows for an efficient search for the selection of a problem is termed as:",
+          "options": [
+            "(A) algorithm",
+            "(B) education",
+            "(C) heuristic",
+            "(D) learning"
+          ],
+          "correct_answer": 3,
+          "correct_text": "heuristic",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Problem Solving",
+          "concept": "Heuristics: rule-of-thumb strategies for efficient problem solving",
+          "era": "UGC",
+          "year": 2004,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 27,
+          "question": "Match List-I (Description) with List-II (Theorists):\n\n| List-I (Description) | List-II (Theorists) |\n|---|---|\n| A. Each person has a unique construct system to interpret experience | 1. Erikson |\n| B. All humans have two broad categories of motives — deficit and growth motives | 2. Kelly |\n| C. Psychological functioning is best understood in terms of continuous reciprocal interplay among behavioral, cognitive and environmental influences | 3. Bandura |\n| D. Ego development proceeds through a series of universal stages | 4. Maslow |\n\n**Codes:**\n\n| | A | B | C | D |\n|---|---|---|---|---|\n| (A) | 4 | 2 | 3 | 1 |\n| (B) | 2 | 4 | 3 | 1 |\n| (C) | 4 | 1 | 2 | 3 |\n| (D) | 2 | 4 | 1 | 3 |",
+          "options": [
+            "(A) 4, 2, 3, 1",
+            "(B) 2, 4, 3, 1",
+            "(C) 4, 1, 2, 3",
+            "(D) 2, 4, 1, 3"
+          ],
+          "correct_answer": 2,
+          "correct_text": "2, 4, 3, 1",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Personality Theories",
+          "concept": "Kelly (personal constructs), Maslow (D/B needs), Bandura (reciprocal determinism), Erikson (psychosocial stages)",
+          "era": "UGC",
+          "year": 2004,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 28,
+          "question": "Proactive and retroactive inhibition are examples of:",
+          "options": [
+            "(A) decay through disuse",
+            "(B) interference effects",
+            "(C) motivated forgetting",
+            "(D) amnesia"
+          ],
+          "correct_answer": 2,
+          "correct_text": "interference effects",
+          "unit": "Unit 5",
+          "topic": "5.5 Forgetting",
+          "subtopic": "Interference Theory",
+          "concept": "Proactive (old→new) and retroactive (new→old) interference",
+          "era": "UGC",
+          "year": 2004,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 29,
+          "question": "Cattell's findings show that:",
+          "options": [
+            "(A) Crystallized and fluid intelligence start declining at the same age",
+            "(B) Crystallized and fluid intelligence do not show any decline with age",
+            "(C) Crystallized intelligence starts declining at an earlier age than fluid intelligence",
+            "(D) Fluid intelligence starts declining at an earlier age than crystallized intelligence"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Fluid intelligence starts declining at an earlier age than crystallized intelligence",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Theories of Intelligence",
+          "concept": "Cattell-Horn: Gf declines earlier than Gc",
+          "era": "UGC",
+          "year": 2004,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 30,
+          "question": "Size constancy refers to the tendency for:",
+          "options": [
+            "(A) Objects of different size are perceived to be equal in size",
+            "(B) Objects of the same size to be perceived differently when viewed from different angles",
+            "(C) The judgement of distance is independent of the size of the perceived objects",
+            "(D) The perceived size of an object remains constant when the object is viewed from different distances"
+          ],
+          "correct_answer": 4,
+          "correct_text": "The perceived size of an object remains constant when the object is viewed from different distances",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Perceptual Constancy",
+          "concept": "Size constancy is a perceptual constancy where the perceived size of an object remains stable despite changes in retinal image size due to varying distance. It relies on depth cues and distance perception (Emmert's law).",
+          "era": "UGC",
+          "year": 2004,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 31,
+          "question": "The primary cue for the sensation of thirst is:",
+          "options": [
+            "(A) blood sugar level",
+            "(B) dryness of mouth and throat tissue",
+            "(C) dryness of the stomach lining",
+            "(D) activity level of the thirsty organism"
+          ],
+          "correct_answer": 2,
+          "correct_text": "dryness of mouth and throat tissue",
+          "unit": "Unit 4",
+          "topic": "4.3 Nervous System",
+          "subtopic": "Homeostasis",
+          "concept": "Dryness of mouth and throat tissue is the primary peripheral/local cue for thirst sensation (Cannon's local theory). Modern physiology identifies osmotic pressure changes (osmoreceptors) and hypovolemia (baroreceptors) as deeper mechanisms, but among the given options, oral dryness is the correct choice.",
+          "era": "UGC",
+          "year": 2004,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 32,
+          "question": "If a null hypothesis is rejected, when it is true, the error committed is known as:",
+          "options": [
+            "(A) Type II error",
+            "(B) Type I error",
+            "(C) Type I and II errors",
+            "(D) Probable error"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Type I error",
+          "unit": "Unit 2",
+          "topic": "2.2 Hypothesis",
+          "subtopic": "Type I and Type II Errors",
+          "concept": "Type I error (α): rejecting a true null hypothesis",
+          "era": "UGC",
+          "year": 2004,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 33,
+          "question": "To learn if there are sex differences in connotative meaning in words, which method would be used:",
+          "options": [
+            "(A) Deductive reasoning",
+            "(B) Semantic differential",
+            "(C) Associative method",
+            "(D) Inductive reasoning"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Semantic differential",
+          "unit": "Unit 3",
+          "topic": "3.6 Types of Tests by Domain",
+          "subtopic": "Attitude Scales",
+          "concept": "Osgood's Semantic Differential technique for measuring connotative meaning",
+          "era": "UGC",
+          "year": 2004,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 34,
+          "question": "Mr. Mohan while participating in a T-group training produced many different solutions to a given problem. Mr. Mohan is high on:",
+          "options": [
+            "(A) emotional intelligence",
+            "(B) Convergent thinking",
+            "(C) Divergent thinking",
+            "(D) Practical intelligence"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Divergent thinking",
+          "unit": "Unit 6",
+          "topic": "6.3 Creativity",
+          "subtopic": "Divergent vs Convergent Thinking",
+          "concept": "Divergent thinking: generating multiple solutions (Guilford)",
+          "era": "UGC",
+          "year": 2004,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 35,
+          "question": "Which one of the following is not always present in thinking:",
+          "options": [
+            "(A) Language",
+            "(B) Symbol",
+            "(C) Sign",
+            "(D) Concept"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Language",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Language and Thought",
+          "concept": "Thinking can occur without language (images, symbols)",
+          "era": "UGC",
+          "year": 2004,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 36,
+          "question": "According to Allport \"a single trait that so pervades a person's disposition that most of his acts seem dominated by it\" is:",
+          "options": [
+            "(A) Central trait",
+            "(B) Cardinal trait",
+            "(C) Common trait",
+            "(D) Secondary trait"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Cardinal trait",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Trait and Type Theories",
+          "concept": "The definition given — 'a single trait that so pervades a person's disposition that most acts seem dominated by it' — precisely matches Allport's cardinal trait (the highest level in his trait hierarchy). Cardinal traits are rare, overarching characteristics that dominate an individual's behavior and life (e.g., ambition, compassion). Central traits (5-10 core building blocks) are less pervasive. Surface traits are observable but superficial. Common traits are shared across cultures. Secondary traits are inconsistent and situational. Source: Allport, G.W. (1961). Pattern and Growth in Personality.",
+          "era": "UGC",
+          "year": 2004,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 37,
+          "question": "Sound waves which cause the eardrum to vibrate can be described in terms of:\n\n(i) Complexity\n(ii) frequency\n(iii) intensity\n(iv) amplitude",
+          "options": [
+            "(A) 1 and 3",
+            "(B) 2 and 3",
+            "(C) 2 and 4",
+            "(D) 1 and 2"
+          ],
+          "correct_answer": 3,
+          "correct_text": "2 and 4",
+          "unit": "Unit 4",
+          "topic": "4.1 Sensory Systems",
+          "subtopic": "Auditory System",
+          "concept": "Sound waves described by frequency (pitch) and amplitude (loudness)",
+          "era": "UGC",
+          "year": 2004,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 38,
+          "question": "Which of the following is not a physiological correlate of emotions:",
+          "options": [
+            "(A) GSR",
+            "(B) Muscular tension",
+            "(C) Sneezing",
+            "(D) Heartrate"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Sneezing",
+          "unit": "Unit 7",
+          "topic": "7.3 Emotion",
+          "subtopic": "Physiological Correlates of Emotion",
+          "concept": "GSR, muscular tension, heart rate are physiological correlates; sneezing is not",
+          "era": "UGC",
+          "year": 2004,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 39,
+          "question": "Guilford's structure of intellect model encompasses:",
+          "options": [
+            "(A) Content, Structure and Products",
+            "(B) Structure, Process and Associations",
+            "(C) Associations, Hierarchies and Products",
+            "(D) Content, Operations and Product"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Content, Operations and Product",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Theories of Intelligence",
+          "concept": "Guilford's SOI: Operations × Content × Products (120-180 factors)",
+          "era": "UGC",
+          "year": 2004,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 40,
+          "question": "Arrange the following in sequence as the processes occur in perception:\n\n(i) Appearance of shape\n(ii) Formation of contour\n(iii) Figure ground differentiation\n(iv) Identification",
+          "options": [
+            "(A) 1, 2, 3, 4",
+            "(B) 3, 1, 2, 4",
+            "(C) 2, 3, 1, 4",
+            "(D) 4, 3, 1, 2"
+          ],
+          "correct_answer": 3,
+          "correct_text": "2, 3, 1, 4",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Form Perception",
+          "concept": "Perceptual process: contour → figure-ground → shape → identification",
+          "era": "UGC",
+          "year": 2004,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 41,
+          "question": "Match List-I (Illusions) with List-II (Effects):\n\n| List-I (Illusion) | List-II (Effects) |\n|---|---|\n| A. Muller-Lyer | 1. Horizontal line towards the converging lines is perceived longer than the horizontal line towards the diverging lines |\n| B. Ponzo | 2. The parallel lines appear to be convex when there are radiating lines from the midst of the parallel lines |\n| C. Hering | 3. The parallel lines appear to be concave when there are radiating lines from outside the parallel lines |\n| D. Wundt | 4. The line with the feather heads appears to be longer than the line with the arrow heads |\n\n**Codes:**\n\n| | A | B | C | D |\n|---|---|---|---|---|\n| (1) | 1 | 3 | 4 | 2 |\n| (2) | 4 | 1 | 2 | 3 |\n| (3) | 4 | 3 | 2 | 1 |\n| (4) | 4 | 1 | 3 | 2 |",
+          "options": [
+            "(A) 1, 3, 4, 2",
+            "(B) 4, 1, 2, 3",
+            "(C) 4, 3, 2, 1",
+            "(D) 4, 1, 3, 2"
+          ],
+          "correct_answer": 2,
+          "correct_text": "4, 1, 2, 3",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Visual Illusions",
+          "concept": "Müller-Lyer (feather>arrow), Ponzo (converging lines), Hering (convex), Wundt (concave)",
+          "era": "UGC",
+          "year": 2004,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 42,
+          "question": "Sound stimuli associated with frightening event used to provoke fear may cause:",
+          "options": [
+            "(A) extinction of fear",
+            "(B) conditioning of emotions",
+            "(C) spontaneous recovery",
+            "(D) behavioral shaping"
+          ],
+          "correct_answer": 2,
+          "correct_text": "conditioning of emotions",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Classical Conditioning",
+          "concept": "Emotional conditioning (Watson & Rayner: Little Albert)",
+          "era": "UGC",
+          "year": 2004,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 43,
+          "question": "The four different stages of concept formation include:\n\n(i) generalization\n(ii) comparison\n(iii) cognitive structure\n(iv) sensory images\n\nThe correct sequence in which they activate concept formation is:",
+          "options": [
+            "(A) 4,2,3,1",
+            "(B) 4,2,1,3",
+            "(C) 2,4,3,1",
+            "(D) 2,4,1,3"
+          ],
+          "correct_answer": 1,
+          "correct_text": "4,2,3,1",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Concept Formation",
+          "concept": "Concept formation stages: sensory images → comparison → cognitive structure → generalization",
+          "era": "UGC",
+          "year": 2004,
+          "passage_ref": null,
+          "table_ref": null
+        }
+      ]
+    },
+    {
+      "type": "questions_block",
+      "range": "Q44–Q47",
+      "general_instructions": "*General instructions for question nos. 44 to 47:*\n\nEach of these questions consists of two statements. One labelled as Assertion (A), and other labelled as 'Reason' (R). You have to examine these two statements carefully and decide if Assertion (A) and Reason (R) are individually true, and if so, whether the Reason is a correct explanation of Assertion. Select your answer on the answer sheet accordingly.",
+      "questions": [
+        {
+          "id": 44,
+          "question": "\n**Assertion (A):** Out of the five correlation coefficients, -0.80, 0.70, 0.50, 0.00 and -0.20, between X and Y variables, the strongest positive relationship is indicated by a correlation coefficient of 0.70.\n\n**Reason (R):** The correlation coefficient of 0.70 indicates that as X increases, Y also tends to increase.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "(B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+            "(C) (A) is true but (R) is false",
+            "(D) (A) is false but (R) is true"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+          "unit": "Unit 2",
+          "topic": "2.7 Inferential Statistics",
+          "subtopic": "Correlation",
+          "concept": "Among the five coefficients (-0.80, 0.70, 0.50, 0.00, -0.20), 0.70 is the largest positive value and therefore represents the strongest positive relationship. The sign (+) indicates direction (X↑ → Y↑), and magnitude (0.70 > 0.50) determines strength. Both (A) and (R) are true, and (R) correctly explains the nature of positive correlation.",
+          "era": "UGC",
+          "year": 2004,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 45,
+          "question": "\n**Assertion (A):** In the serial position curve, maximum items are remembered from the middle of the list.\n\n**Reason (R):** The primacy and the recency effects explain better recall of the beginning and the end of the list.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "(B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+            "(C) (A) is true but (R) is false",
+            "(D) (A) is false but (R) is true"
+          ],
+          "correct_answer": 4,
+          "correct_text": "(A) is false but (R) is true",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Retrieval",
+          "concept": "Serial position curve: primacy and recency effects (best recall at beginning and end, not middle)",
+          "era": "UGC",
+          "year": 2004,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 46,
+          "question": "\n**Assertion (A):** The Rescorla-Wagner model, as compared to the classical theories, allowed a better prediction of the blocking effect.\n\n**Reason (R):** The later theories incorporated the attentional processes in their explanations.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "(B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+            "(C) (A) is true but (R) is false",
+            "(D) (A) is false but (R) is true"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Classical Conditioning",
+          "concept": "Assertion (A) is true: the Rescorla-Wagner (1972) model explains blocking through prediction error (ΔV = αβ[λ − ΣV]); when CS₁ already predicts the US, adding CS₂ produces no surprise (λ − ΣV ≈ 0), so no conditioning occurs to CS₂. Reason (R) is also true: later theories did incorporate attentional processes — Mackintosh (1975) proposed that attention increases to cues that are better predictors, and Pearce-Hall (1980) linked attention to surprising outcomes. However, (R) does not explain (A): the R-W model's success with blocking is due to its error-correction mechanism, not attentional processes. The attentional theories were developed later, partly in response to R-W's limitations.",
+          "era": "UGC",
+          "year": 2004,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 47,
+          "question": "\n**Assertion (A):** In apparent movement if the distance between two slits of light is increased, the time interval has also to be increased to continue perceiving movement.\n\n**Reason (R):** At a given distance between the stimuli there is a range of time interval between their presentation that would lead to apparent movement.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "(B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+            "(C) (A) is true but (R) is false",
+            "(D) (A) is false but (R) is true"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Phi Phenomenon",
+          "concept": "Wertheimer's phi phenomenon: both (A) and (R) are true, and (R) explains (A). Korte's third law states that as spatial separation between two stimuli increases, the inter-stimulus interval (ISI) must also increase to maintain the perception of apparent movement. (R) correctly notes that for any given distance, there exists a range of ISIs that produce apparent motion — and this range shifts upward as distance increases.",
+          "era": "UGC",
+          "year": 2004,
+          "passage_ref": null,
+          "table_ref": null
+        }
+      ]
+    },
+    {
+      "type": "passage",
+      "id": "passage_48",
+      "heading": "### Passage (Questions 48–50)",
+      "text": "While standardizing the test, the internal consistency reliability was found to be 0.80 by the Kuder-Richardson method. The test-retest reliability over an interval of one week was found to be 0.70. For interpretation of the scores, the raw scores were converted into percentiles, T-scores and z-scores."
+    },
+    {
+      "type": "questions_block",
+      "range": "Q48–Q50",
+      "passage_ref": "passage_48",
+      "questions": [
+        {
+          "id": 48,
+          "question": "The Kuder-Richardson reliability gave an estimate of:",
+          "options": [
+            "(A) the extent of similarity of responses",
+            "(B) the extent to which the items had a high inter-item co-variance",
+            "(C) the extent to which the two halves of the test were correlated",
+            "(D) the stability of the scores"
+          ],
+          "correct_answer": 2,
+          "correct_text": "the extent to which the items had a high inter-item co-variance",
+          "unit": "Unit 3",
+          "topic": "3.3 Reliability",
+          "subtopic": "Internal Consistency",
+          "concept": "Kuder-Richardson formula measures internal consistency via inter-item covariance",
+          "era": "UGC",
+          "year": 2004,
+          "passage_ref": "passage_48",
+          "table_ref": null
+        },
+        {
+          "id": 49,
+          "question": "The test-retest reliability of 0.70 indicated:",
+          "options": [
+            "(A) the scores of the subjects changed completely over the week",
+            "(B) the scores of the subjects did not change at all during the week",
+            "(C) the high scorers in the first testing became low scorers in the second testing",
+            "(D) the scores of the students are not likely to change drastically over a period of one week"
+          ],
+          "correct_answer": 4,
+          "correct_text": "the scores of the students are not likely to change drastically over a period of one week",
+          "unit": "Unit 3",
+          "topic": "3.3 Reliability",
+          "subtopic": "Test-Retest Reliability",
+          "concept": "Test-retest reliability of 0.70 indicates reasonable temporal stability",
+          "era": "UGC",
+          "year": 2004,
+          "passage_ref": "passage_48",
+          "table_ref": null
+        },
+        {
+          "id": 50,
+          "question": "The raw scores are converted into T-scores because:",
+          "options": [
+            "(A) the score of an individual can be interpreted in relation to the scores of the other persons",
+            "(B) the T-scores have a range from 0 to 100",
+            "(C) the raw scores do not provide a correct estimate of achievement",
+            "(D) the T-scores have a mean of 50.0 and an S.D. of 10.0"
+          ],
+          "correct_answer": 1,
+          "correct_text": "the score of an individual can be interpreted in relation to the scores of the other persons",
+          "unit": "Unit 3",
+          "topic": "3.5 Norms and Standardization",
+          "subtopic": "Derived Scores",
+          "concept": "Raw scores are converted to T-scores (standard scores with M=50, SD=10) primarily to enable norm-referenced interpretation — comparing an individual's performance relative to the standardization group. While T-scores do have M=50 and SD=10, the fundamental purpose is interpersonal comparison, not the descriptive statistics themselves.",
+          "era": "UGC",
+          "year": 2004,
+          "passage_ref": "passage_48",
+          "table_ref": null
+        }
+      ]
+    }
+  ]
+}

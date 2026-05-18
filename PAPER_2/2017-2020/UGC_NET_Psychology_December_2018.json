@@ -1,0 +1,2047 @@
+{
+  "paper_metadata": {
+    "title": "UGC NET/JRF Examination, December 2018",
+    "date": "December 2018",
+    "subject": "Psychology — Paper II"
+  },
+  "content": [
+    {
+      "type": "questions_block",
+      "range": "Q1–Q45",
+      "questions": [
+        {
+          "id": 1,
+          "question": "A person who tries to increase compliance by inducing an individual to agree first to small request is using the technique known as",
+          "options": [
+            "(A) Door-in-the-face technique",
+            "(B) Elaboration technique",
+            "(C) Foot-in-the door technique",
+            "(D) Low-ball technique"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Foot-in-the door technique",
+          "unit": "Unit 8",
+          "topic": "8.1 Social Psychology",
+          "subtopic": "Compliance Techniques",
+          "concept": "Foot-in-the-door technique: getting compliance with a small request first increases likelihood of agreeing to a larger subsequent request (Freedman & Fraser, 1966). Door-in-the-face is the opposite — starting large then retreating to small.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 2,
+          "question": "Which one of the following is not one of the Gestalt psychology laws of perception ?",
+          "options": [
+            "(A) Closure",
+            "(B) Continuity",
+            "(C) Proximity",
+            "(D) Relative size"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Relative size",
+          "unit": "Unit 5",
+          "topic": "5.1 Attention and Perception",
+          "subtopic": "Gestalt Laws of Perception",
+          "concept": "Gestalt laws of grouping: Proximity, Similarity, Continuity, Closure, Common Fate, Prägnanz. Relative size is a monocular depth cue, not a Gestalt grouping law.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 3,
+          "question": "The basic unit in the Human Associative Memory model is",
+          "options": [
+            "(A) Predicate",
+            "(B) Sentence",
+            "(C) Proposition",
+            "(D) Association"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Proposition",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Human Associative Memory Model (Anderson & Bower)",
+          "concept": "Anderson and Bower's (1973) HAM model uses propositions as the basic unit of memory — the smallest unit of knowledge that can be judged true or false.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 4,
+          "question": "The basic elements of thought are\n\n(i) Concepts\n(ii) Propositions\n(iii) Images\n(iv) Intelligence\n\nChoose the correct answer from the code given below :\n\nCode :",
+          "options": [
+            "(A) (i) and (ii)",
+            "(B) (i) and (iii)",
+            "(C) (i) and (iv)",
+            "(D) (i), (ii) and (iii)"
+          ],
+          "correct_answer": 4,
+          "correct_text": "(i), (ii) and (iii)",
+          "unit": "Unit 6",
+          "topic": "6.3 Thinking and Problem Solving",
+          "subtopic": "Elements of Thought",
+          "concept": "Three basic units of thought: Concepts (categories), Propositions (statements combining concepts), and Images (mental representations). Intelligence is a broader cognitive ability, not a basic element of thought.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 5,
+          "question": "Sensory-specific satiety takes place in",
+          "options": [
+            "(A) Papillae",
+            "(B) Thalamus",
+            "(C) Nucleus of solitary tract",
+            "(D) Insula"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Insula",
+          "unit": "Unit 4",
+          "topic": "4.1 Biological Foundations of Behaviour",
+          "subtopic": "Neural Basis of Eating and Satiety",
+          "concept": "Sensory-specific satiety (decreased pleasure from a specific food during consumption) occurs in the insula (gustatory cortex), which processes taste and integrates food-related sensory information.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 6,
+          "question": "People with high need achievement usually tend to\n\n(i) be persistent in their work\n(ii) like to achieve the feedback on how they are doing\n(iii) raise their levels of aspiration in a more realistic way\n(iv) work even if they have no control on the situation\n(v) dislike working on moderately challenging situations/tasks that promise success.\n\nChoose the correct answer from the code given below :\n\nCode :",
+          "options": [
+            "(A) (i), (ii) and (iii) are correct; (iv) and (v) are wrong",
+            "(B) (i), (iii) and (v) are correct; (ii) and (iv) are wrong",
+            "(C) (ii), (iii) and (v) are correct; (i) and (iv) are wrong",
+            "(D) (i) and (ii) are correct; (iii), (iv) and (v) are wrong"
+          ],
+          "correct_answer": 1,
+          "correct_text": "(i), (ii) and (iii) are correct; (iv) and (v) are wrong",
+          "unit": "Unit 7",
+          "topic": "7.2 Motivation",
+          "subtopic": "Achievement Motivation",
+          "concept": "High n-Ach individuals: persist in work (i), seek feedback (ii), set realistic aspirations (iii). They prefer moderate challenge and situations with personal control, so (iv) and (v) are wrong.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 7,
+          "question": "Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R).\n\n**Assertion (A) :** The moderate similarity between original list and interpolated list results in more retroactive interference.\n\n**Reason (R) :** The moderate similarity between original list and interpolated list results in more response competition.\n\nCode :",
+          "options": [
+            "(A) Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 4,
+          "correct_text": "(A) is false, but (R) is true.",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Interference Theory of Forgetting",
+          "concept": "Maximum retroactive interference occurs at HIGH similarity between original and interpolated lists (Osgood's transfer surface). The assertion about moderate similarity is false. Response competition from moderate similarity — the reason is more nuanced but answer (4) best fits.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 8,
+          "question": "Motivating potential score comprises of several factors which is determined by\n\n(i) Skill variety\n(ii) Intelligence\n(iii) Task identity and task significance\n(iv) Autonomy and feedback\n\nChoose the correct answer from the code given below :\n\nCode :",
+          "options": [
+            "(A) (i), (ii) and (iii)",
+            "(B) (ii), (iii) and (iv)",
+            "(C) (i), (ii) and (iv)",
+            "(D) (i), (iii) and (iv)"
+          ],
+          "correct_answer": 4,
+          "correct_text": "(i), (iii) and (iv)",
+          "unit": "Unit 10",
+          "topic": "10.2 Organizational Behaviour",
+          "subtopic": "Hackman-Oldham Job Characteristics Model",
+          "concept": "MPS = [(Skill variety + Task identity + Task significance)/3] × Autonomy × Feedback. Intelligence is not part of the five core job dimensions.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 9,
+          "question": "Which of the following are correct for Pollyanna principle?\n\n(i) Pleasant items are processed more efficiently than unpleasant ones.\n(ii) Pleasant items are processed more accurately than unpleasant ones.\n(iii) Pleasant items are retained for a longer period than unpleasant ones.\n(iv) Pleasant items are retained for a shorter period than unpleasant ones.\n\nChoose the correct answer from the code given below :\n\nCode :",
+          "options": [
+            "(A) (i) and (ii)",
+            "(B) (iii) and (iv)",
+            "(C) (i), (ii) and (iii)",
+            "(D) (i), (ii) and (iv)"
+          ],
+          "correct_answer": 3,
+          "correct_text": "(i), (ii) and (iii)",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Pollyanna Principle",
+          "concept": "Pollyanna principle (Matlin & Stang): pleasant info processed more efficiently (i), accurately (ii), and retained for LONGER period (iii). The positivity bias means pleasant memories are more durable.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 10,
+          "question": "Match List I with List II and select the correct answer using the code given below :\n\n| List I (Function of perception) | List II (Perceptual issue) |\n|---|---|\n| (a) Attention | (i) What does that thing characterize ? |\n| (b) Localization | (ii) What is that thing ? |\n| (c) Recognition | (iii) Where is something ? |\n| (d) Abstraction | (iv) Is there something ? |\n\nCode :",
+          "options": [
+            "(A) (a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+            "(B) (a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+            "(C) (a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+            "(D) (a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)"
+          ],
+          "correct_answer": 3,
+          "correct_text": "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+          "unit": "Unit 5",
+          "topic": "5.1 Attention and Perception",
+          "subtopic": "Functions of Perception",
+          "concept": "Attention = detecting presence ('Is there something?'). Localization = spatial position ('Where?'). Recognition = identifying ('What?'). Abstraction = extracting properties ('What does it characterize?').",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 11,
+          "question": "Perceptual processes consists of many things :\n\n(i) Perceptual learning\n(ii) Motives and needs\n(iii) Personality types\n(iv) Perceptual cognitive styles\n\nChoose the correct answer from the code given below :\n\nCode :",
+          "options": [
+            "(A) (i), (ii) and (iii)",
+            "(B) (i), (iii) and (iv)",
+            "(C) (i), (ii) and (iv)",
+            "(D) (ii), (iii) and (iv)"
+          ],
+          "correct_answer": 3,
+          "correct_text": "(i), (ii) and (iv)",
+          "unit": "Unit 5",
+          "topic": "5.1 Attention and Perception",
+          "subtopic": "Factors Influencing Perception",
+          "concept": "Perceptual processes involve: perceptual learning, motives/needs, and perceptual-cognitive styles (field dependence/independence). Personality types are not a direct component.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 12,
+          "question": "Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R).\n\n**Assertion (A) :** According to Bandura, the behaviour is fully determined by mental images of past experiences.\n\n**Reason (R) :** Information gained from observations is stored symbolically in retentional processes to make it useful.\n\nCode :",
+          "options": [
+            "(A) Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 4,
+          "correct_text": "(A) is false, but (R) is true.",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Bandura's Social Learning Theory",
+          "concept": "Bandura's reciprocal determinism says behaviour is determined by person × behaviour × environment — NOT 'fully determined by mental images.' The reason is correct: observational learning involves symbolic coding in retention.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 13,
+          "question": "The tendency to pay attention primarily to the information that affirms existing views refers to",
+          "options": [
+            "(A) Hindsight effect",
+            "(B) Reasoning",
+            "(C) Confirmation bias",
+            "(D) Belief"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Confirmation bias",
+          "unit": "Unit 6",
+          "topic": "6.3 Thinking and Problem Solving",
+          "subtopic": "Cognitive Biases",
+          "concept": "Confirmation bias is seeking/attending to information that confirms existing beliefs while ignoring contradictory evidence. Hindsight bias is 'I knew it all along' after learning outcomes.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 14,
+          "question": "A basic difference between decay and interference theories is that",
+          "options": [
+            "(A) Decay theory assumes unlearning",
+            "(B) Decay theory is a two-factor theory",
+            "(C) Decay theory assumes autonomous processes",
+            "(D) Interference theory emphasizes neural consolidation"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Decay theory assumes autonomous processes",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Theories of Forgetting",
+          "concept": "Decay theory: forgetting occurs automatically over time (autonomous fading). Interference theory: forgetting due to competing memories. Unlearning and two-factor theory are interference concepts (Melton & Irwin).",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 15,
+          "question": "Self-disclosure\n\n(i) serves the function of modeling\n(ii) helps in developing a new perspective\n(iii) develops trust through dyadic effect\n(iv) must be used frequently\n\nChoose the correct answer from the code given below :\n\nCode :",
+          "options": [
+            "(A) (i) and (ii)",
+            "(B) (i), (iii) and (iv)",
+            "(C) (i), (ii) and (iv)",
+            "(D) (i), (ii) and (iii)"
+          ],
+          "correct_answer": 4,
+          "correct_text": "(i), (ii) and (iii)",
+          "unit": "Unit 10",
+          "topic": "10.3 Counselling and Therapy",
+          "subtopic": "Self-Disclosure in Counselling",
+          "concept": "Self-disclosure: models behaviour (i), develops perspective (ii), builds trust through reciprocity (iii). Should NOT be overused (iv wrong).",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 16,
+          "question": "Which of the following are correct for latent learning?\n\n(i) Latent learning is not translated into performance\n(ii) Latent learning remains dormant for a considerable length of time\n(iii) Reinforcement is not important for latent learning\n(iv) Latent learning is complete in one trial\n\nChoose the correct answer from the code given below :\n\nCode :",
+          "options": [
+            "(A) (i) and (ii)",
+            "(B) (ii) and (iii)",
+            "(C) (i), (ii) and (iii)",
+            "(D) (i), (ii), (iii) and (iv)"
+          ],
+          "correct_answer": 3,
+          "correct_text": "(i), (ii) and (iii)",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Latent Learning (Tolman)",
+          "concept": "Latent learning (Tolman & Honzik): no reinforcement needed (iii), remains unexpressed until motivation provided (i), dormant for extended periods (ii). NOT complete in one trial — cognitive maps build gradually through repeated exposure.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 17,
+          "question": "Match List I with List II and select the correct answer using the code given below :\n\n| List I (Part of Nervous System) | List II (Response) |\n|---|---|\n| (a) Sympathetic nervous system | (i) Calmness |\n| (b) Parasympathetic nervous system | (ii) Emergency reactions |\n| (c) Pituitary gland | (iii) Arousal |\n| (d) Somatic nervous system | (iv) ACTH |\n\nCode :",
+          "options": [
+            "(A) (a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+            "(B) (a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)",
+            "(C) (a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+            "(D) (a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
+          ],
+          "correct_answer": 1,
+          "correct_text": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+          "unit": "Unit 4",
+          "topic": "4.1 Biological Foundations of Behaviour",
+          "subtopic": "Nervous System Functions",
+          "concept": "Sympathetic = arousal/fight-or-flight (iii). Parasympathetic = calm/rest-digest (i). Pituitary secretes ACTH during stress (iv). Somatic NS = voluntary emergency reactions (ii).",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 18,
+          "question": "Match List I with List II and select the correct answer using the code given below :\n\n| List I (Indice) | List II (Test) |\n|---|---|\n| (a) Work interference | (i) MCMI |\n| (b) Fake bad profiles | (ii) MMPI-II |\n| (c) Capacity for status | (iii) MMPI-A |\n| (d) Immaturity scale | (iv) CPI |\n\nCode :",
+          "options": [
+            "(A) (a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+            "(B) (a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+            "(C) (a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+            "(D) (a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+          ],
+          "correct_answer": 2,
+          "correct_text": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+          "unit": "Unit 3",
+          "topic": "3.1 Psychological Testing",
+          "subtopic": "Personality Test Scales",
+          "concept": "Work Interference = MMPI-2 content scale. Fake bad profiles = MCMI validity. Capacity for Status (Cs) = CPI scale. Immaturity = MMPI-A scale.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 19,
+          "question": "Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R).\n\n**Assertion (A) :** Though meager in number, but women in India have also started avoiding having children.\n\n**Reason (R) :** Women decide not to have a baby because the sum of negative and positive valence of having a baby is lower than the sum of valences for pursuing a career.\n\nCode :",
+          "options": [
+            "(A) Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+          "unit": "Unit 7",
+          "topic": "7.2 Motivation",
+          "subtopic": "Expectancy-Value Theory and Life Decisions",
+          "concept": "The assertion is true — some women in India are choosing not to have children. The reason uses expectancy-value framework: when career valence sum exceeds baby valence sum, career is chosen, explaining the decision.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 20,
+          "question": "Guilford initially started his work on SOI extending Thurstone's theory of primary abilities but later on diverged on the grounds\n\n(i) Obtained factors were not primary (independent) rather related to each other.\n(ii) Thurstone's factor analysis was mainly oriented to get simple structure.\n(iii) It was found difficult to name the abilities/factors found in data.\n(iv) Like Thurstone, Guilford found second-order and higher-order factors.\n\nChoose the correct answer from the code given below :\n\nCode :",
+          "options": [
+            "(A) (i) and (ii)",
+            "(B) (iii) and (iv)",
+            "(C) (i), (ii) and (iii)",
+            "(D) (ii), (iii) and (iv)"
+          ],
+          "correct_answer": 1,
+          "correct_text": "(i) and (ii)",
+          "unit": "Unit 6",
+          "topic": "6.1 Intelligence",
+          "subtopic": "Guilford vs Thurstone",
+          "concept": "Guilford diverged because: factors weren't truly independent/primary (i), and Thurstone's approach sought simple structure which constrained solutions (ii). Guilford developed a more systematic 3D model.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 21,
+          "question": "Using the notions Chronological Age (CA), Educational Age (EA), and Mental Age (MA), the Accomplishment Quotient (AQ) is computed as",
+          "options": [
+            "(A) 100 (MA/CA)",
+            "(B) 100 (EA/MA)",
+            "(C) 100 (EA/CA)",
+            "(D) 100 (MA/EA)"
+          ],
+          "correct_answer": 2,
+          "correct_text": "100 (EA/MA)",
+          "unit": "Unit 3",
+          "topic": "3.2 Statistics in Testing",
+          "subtopic": "Intelligence Quotients",
+          "concept": "AQ = (Educational Age / Mental Age) × 100. Measures achievement relative to ability. IQ = (MA/CA) × 100. EQ = (EA/CA) × 100.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 22,
+          "question": "The improvement in performance following a rest after cessation of practice is called",
+          "options": [
+            "(A) Reminiscence effect",
+            "(B) Spontaneous recovery",
+            "(C) Incremental learning",
+            "(D) Crespi effect"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Reminiscence effect",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Motor Learning Phenomena",
+          "concept": "Reminiscence effect = performance improvement after rest without additional practice. Proactive inhibition dissipates during rest. Spontaneous recovery is the reappearance of extinguished CR after rest (classical conditioning).",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 23,
+          "question": "According to Piaget, which of the following explains the concept of Cognitive Equilibration ?",
+          "options": [
+            "(A) Tendency to integrate structures into higher order systems",
+            "(B) Individual seeking to stabilize his or her cognitive structures",
+            "(C) Tendency to modify structure in order to incorporate new information",
+            "(D) Fact that every structure has its origin in earlier structures"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Individual seeking to stabilize his or her cognitive structures",
+          "unit": "Unit 9",
+          "topic": "9.2 Theories of Human Development",
+          "subtopic": "Piaget's Equilibration",
+          "concept": "Equilibration = self-regulatory mechanism driving development. It is the tendency to maintain cognitive equilibrium (stability) by balancing assimilation and accommodation when facing new information.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 24,
+          "question": "Match List I with List II and select the correct answer using the code given below :\n\n| List I (Concept) | List II (Description) |\n|---|---|\n| (a) Cerebral Palsy | (i) Hereditary condition in which the brain's nerve cells break down to affect physical movements, emotions and cognitive abilities |\n| (b) Phenylketonuria | (ii) Group of disorders that affect muscle movement |\n| (c) Down Syndrome | (iii) Rare genetic condition that causes amino acids to build up in the body |\n| (d) Huntington's disease | (iv) Most common genetic cause of intellectual disability |\n\nCode :",
+          "options": [
+            "(A) (a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)",
+            "(B) (a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+            "(C) (a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+            "(D) (a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
+          ],
+          "correct_answer": 4,
+          "correct_text": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+          "unit": "Unit 9",
+          "topic": "9.1 Human Development",
+          "subtopic": "Developmental Disorders",
+          "concept": "Cerebral Palsy = motor movement disorders (ii). Phenylketonuria = amino acid buildup from genetic enzyme deficiency (iii). Down Syndrome = most common genetic cause of ID, trisomy 21 (iv). Huntington's = hereditary neurodegeneration (i).",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 25,
+          "question": "The pattern of excitation and inhibition that constitutes the activity of the cortex at any given moment, is called",
+          "options": [
+            "(A) Sensitization",
+            "(B) Squandrels",
+            "(C) Cortical Mosaic",
+            "(D) Neuroplasticity"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Cortical Mosaic",
+          "unit": "Unit 4",
+          "topic": "4.1 Biological Foundations of Behaviour",
+          "subtopic": "Cortical Activity (Pavlov)",
+          "concept": "Pavlov's cortical mosaic = the dynamic pattern of excitation and inhibition across the cortex determining current behavioural state, attention, and wakefulness.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 26,
+          "question": "Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R).\n\n**Assertion (A) :** We recall information accurately if it is processed at deep level rather than at shallow level.\n\n**Reason (R) :** Processing at deep level involves elaboration and distinctiveness.\n\nCode :",
+          "options": [
+            "(A) Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Levels of Processing",
+          "concept": "Deeper (semantic) processing leads to better recall than shallow (structural/phonemic) processing. Deep processing involves elaboration and distinctiveness, creating stronger memory traces — this explains WHY deeper processing improves recall.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 27,
+          "question": "The Lock-and-Key theory explains",
+          "options": [
+            "(A) Colour vision",
+            "(B) Depth perception",
+            "(C) Olfaction",
+            "(D) High frequency sounds"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Olfaction",
+          "unit": "Unit 5",
+          "topic": "5.1 Attention and Perception",
+          "subtopic": "Theories of Olfaction",
+          "concept": "Lock-and-Key theory (Amoore): odorant molecules fit into specific receptor sites like key-lock, with molecular shape determining smell. This is a theory of olfaction.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 28,
+          "question": "Agoraphobias\n\n(i) Usually onset during early adulthood\n(ii) Are dominantly found amongst women\n(iii) Can onset at any age but mostly during early childhood\n(iv) Are dominantly prevalent amongst men\n(v) Share more kinship with panic disorders than phobic disorders\n\nChoose the correct answer from the code given below :\n\nCode :",
+          "options": [
+            "(A) (i), (iv) and (v)",
+            "(B) (i), (ii) and (v)",
+            "(C) (i), (iii) and (v)",
+            "(D) (iii), (iv) and (v)"
+          ],
+          "correct_answer": 2,
+          "correct_text": "(i), (ii) and (v)",
+          "unit": "Unit 10",
+          "topic": "10.1 Psychological Disorders",
+          "subtopic": "Agoraphobia",
+          "concept": "Agoraphobia: onset in early adulthood (i), more common in women (ii), strongly linked with panic disorder (v). Not more common in men (iv wrong), not mainly childhood onset (iii wrong).",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 29,
+          "question": "Arrange in sequence the stages of personality development according to Rollo May.",
+          "options": [
+            "(A) Dependence → Innocence → Rebellion → Ordinary consciousness of self → Creative consciousness of self",
+            "(B) Innocence → Dependence → Rebellion → Creative consciousness of self → Ordinary consciousness of self",
+            "(C) Dependence → Innocence → Ordinary consciousness of self → Rebellion → Creative consciousness of self",
+            "(D) Innocence → Rebellion → Dependence → Ordinary consciousness of self → Creative consciousness of self"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Dependence → Innocence → Rebellion → Ordinary consciousness of self → Creative consciousness of self",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Rollo May's Stages of Development",
+          "concept": "Rollo May's stages: Dependence → Innocence (pre-self-awareness) → Rebellion (autonomy assertion) → Ordinary Consciousness of Self (socialized self-awareness) → Creative Consciousness of Self (authentic, self-actualizing).",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 30,
+          "question": "Match List I with List II and select the correct answer using the code given below :\n\n| List I | List II |\n|---|---|\n| (a) Electromyography | (i) Procedure for measuring muscular tension |\n| (b) Electrooculography | (ii) Technique for recording eye movements |\n| (c) Plethysmography | (iii) Technique for measuring volume of blood in a particular part of the body |\n| (d) Stereotactic surgery | (iv) Technique in which devices are precisely positioned in the depth of brain |\n\nCode :",
+          "options": [
+            "(A) (a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+            "(B) (a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+            "(C) (a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+            "(D) (a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)"
+          ],
+          "correct_answer": 2,
+          "correct_text": "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+          "unit": "Unit 4",
+          "topic": "4.1 Biological Foundations of Behaviour",
+          "subtopic": "Physiological Measurement Techniques",
+          "concept": "EMG = muscular tension (i). EOG = eye movements (ii). Plethysmography = blood volume (iii). Stereotactic surgery = precise brain device positioning (iv).",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 31,
+          "question": "Match List I with List II and select the correct answer using the code given below :\n\n| List I | List II |\n|---|---|\n| (a) Mental models | (i) The impact of past experience on present problem solving through better alternatives |\n| (b) Heuristics | (ii) Knowledge structures that guide our interactions with objects and events around us |\n| (c) Availability heuristics | (iii) Mental rules of thumb that permit us to make decisions and judgements in a rapid manner |\n| (d) Mental set | (iv) A cognitive rule of thumb in which the probability of various events is judged on the basis of how quickly they come to mind |\n\nCode :",
+          "options": [
+            "(A) (a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+            "(B) (a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+            "(C) (a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+            "(D) (a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+          ],
+          "correct_answer": 2,
+          "correct_text": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+          "unit": "Unit 6",
+          "topic": "6.3 Thinking and Problem Solving",
+          "subtopic": "Problem Solving Strategies",
+          "concept": "Mental models = knowledge structures (ii). Heuristics = mental shortcuts (iii). Availability heuristic = probability judged by ease of recall (iv). Mental set = past experience affecting current solving (i).",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 32,
+          "question": "Which of the following are associated with haptic memory ?\n\n(i) Sensory memory\n(ii) Related with touch stimuli\n(iii) Parietal lobe\n(iv) It involves cutaneous and kinesthetics\n\nChoose the correct answer from the code given below :\n\nCode :",
+          "options": [
+            "(A) (i) and (ii)",
+            "(B) (i), (ii) and (iii)",
+            "(C) (i), (iii) and (iv)",
+            "(D) (i), (ii), (iii) and (iv)"
+          ],
+          "correct_answer": 4,
+          "correct_text": "(i), (ii), (iii) and (iv)",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Haptic Memory",
+          "concept": "Haptic memory: sensory memory (i) for touch (ii), associated with parietal lobe (iii), involving cutaneous (skin) and kinesthetic (movement) senses (iv). All correct.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 33,
+          "question": "Key issues in the study of heredity-environment effects on intelligence are\n\n(i) Reaction range\n(ii) Proximal and distal causation\n(iii) Collinearity\n(iv) Environment sphere\n\nChoose the correct answer from the code given below :\n\nCode :",
+          "options": [
+            "(A) (i) and (ii)",
+            "(B) (iii) and (iv)",
+            "(C) (i), (ii) and (iii)",
+            "(D) (ii), (iii) and (iv)"
+          ],
+          "correct_answer": 3,
+          "correct_text": "(i), (ii) and (iii)",
+          "unit": "Unit 6",
+          "topic": "6.1 Intelligence",
+          "subtopic": "Heredity-Environment Effects on Intelligence",
+          "concept": "Key issues: Reaction Range (genotype range, environment position), Proximal/Distal Causation (direct vs indirect influences), and Collinearity (correlated predictors in heritability studies). Environment sphere is less commonly listed.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 34,
+          "question": "In group counselling, there is a typical order of various stages.\n\n(i) Norming\n(ii) Performing\n(iii) Forming\n(iv) Storming\n\nChoose the correct answer from the code given below :\n\nCode :",
+          "options": [
+            "(A) (iii), (i), (ii), (iv)",
+            "(B) (iii), (ii), (i), (iv)",
+            "(C) (iii), (iv), (i), (ii)",
+            "(D) (iii), (i), (iv), (ii)"
+          ],
+          "correct_answer": 3,
+          "correct_text": "(iii), (iv), (i), (ii)",
+          "unit": "Unit 10",
+          "topic": "10.3 Counselling and Therapy",
+          "subtopic": "Group Development (Tuckman)",
+          "concept": "Tuckman sequence: Forming (iii) → Storming (iv) → Norming (i) → Performing (ii).",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 35,
+          "question": "Match List I with List II and select the correct answer using the code given below :\n\n| List I | List II |\n|---|---|\n| (a) Cataplexy | (i) Non-REM sleep |\n| (b) Apnoea | (ii) REM sleep |\n| (c) Dreams | (iii) Waking up as one stops breathing |\n| (d) Night terrors | (iv) Symptom of narcolepsy |\n\nCode :",
+          "options": [
+            "(A) (a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)",
+            "(B) (a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+            "(C) (a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+            "(D) (a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)"
+          ],
+          "correct_answer": 3,
+          "correct_text": "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+          "unit": "Unit 4",
+          "topic": "4.1 Biological Foundations of Behaviour",
+          "subtopic": "Sleep Disorders",
+          "concept": "Cataplexy = narcolepsy symptom (iv). Apnoea = breathing cessation causing waking (iii). Dreams = primarily REM sleep (ii). Night terrors = NREM sleep (i).",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 36,
+          "question": "The disruptive effect that occurs when a novel stimulus is presented along with an already established conditioned stimulus is called",
+          "options": [
+            "(A) External inhibition",
+            "(B) Response inhibition",
+            "(C) Counter conditioning",
+            "(D) Stimulus inhibition"
+          ],
+          "correct_answer": 1,
+          "correct_text": "External inhibition",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Classical Conditioning - Inhibition",
+          "concept": "External inhibition: a novel/extraneous stimulus disrupts an established CR by competing for attention with the CS. It is a temporary disruption.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 37,
+          "question": "Match List I with List II and select the correct answer using the code given below :\n\n| List I | List II |\n|---|---|\n| (a) Night Terror | (i) Disturbance in sleep-wake cycle |\n| (b) Restless Leg Syndrome | (ii) Cramps in calf and foot muscles |\n| (c) Nocturnal Leg Cramps | (iii) Sensations in legs causing movements and loss of sleep |\n| (d) Circadian Rhythm Disorder | (iv) Extreme agitation |\n\nCode :",
+          "options": [
+            "(A) (a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+            "(B) (a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+            "(C) (a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)",
+            "(D) (a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)"
+          ],
+          "correct_answer": 2,
+          "correct_text": "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+          "unit": "Unit 4",
+          "topic": "4.1 Biological Foundations of Behaviour",
+          "subtopic": "Sleep Disorders",
+          "concept": "Night terrors = extreme agitation (iv). RLS = leg sensations causing movement (iii). Nocturnal leg cramps = calf/foot muscle cramps (ii). Circadian disorder = sleep-wake cycle disturbance (i).",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 38,
+          "question": "Match List I with List II and select the correct answer using the code given below :\n\n| List I (Style) | List II (Description) |\n|---|---|\n| (a) Directive autocrat | (i) Makes decision participatively and gives latitude to subordinates in carrying out their job |\n| (b) Directive democrat | (ii) Makes decisions unilaterally and gives subordinates latitude in carrying out their work |\n| (c) Permissive autocrat | (iii) Making decisions participatively by close supervision of subordinates |\n| (d) Permissive democrat | (iv) Making decisions unilaterally, but closely supervising subordinates |\n\nCode :",
+          "options": [
+            "(A) (a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+            "(B) (a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+            "(C) (a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+            "(D) (a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)"
+          ],
+          "correct_answer": 2,
+          "correct_text": "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+          "unit": "Unit 10",
+          "topic": "10.2 Organizational Behaviour",
+          "subtopic": "Leadership Decision Styles",
+          "concept": "Directive autocrat = unilateral + close supervision (iv). Directive democrat = participative + close supervision (iii). Permissive autocrat = unilateral + latitude (ii). Permissive democrat = participative + latitude (i).",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 39,
+          "question": "Which of the following neurotransmitters is/are found throughout the central nervous system?\n\n(i) GABA\n(ii) Glycine\n(iii) Dopamine\n(iv) Serotonin\n\nChoose the correct answer from the code given below :\n\nCode :",
+          "options": [
+            "(A) Only (i)",
+            "(B) (i) and (iii)",
+            "(C) (iii) and (iv)",
+            "(D) (ii), (iii) and (iv)"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Only (i)",
+          "unit": "Unit 4",
+          "topic": "4.1 Biological Foundations of Behaviour",
+          "subtopic": "Neurotransmitter Distribution",
+          "concept": "GABA is widely distributed throughout the entire CNS as primary inhibitory NT. Glycine is mainly spinal cord. Dopamine is in specific pathways. Serotonin is primarily in raphe nuclei. Only GABA is found throughout the CNS.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 40,
+          "question": "What is a toddler experiencing who is occupied with pointing at things and asking what they are ?",
+          "options": [
+            "(A) The naming explosion",
+            "(B) Prelinguistic vocables",
+            "(C) Multilingual awareness",
+            "(D) An overactive Language Acquisition Device (LAD)"
+          ],
+          "correct_answer": 1,
+          "correct_text": "The naming explosion",
+          "unit": "Unit 9",
+          "topic": "9.1 Human Development",
+          "subtopic": "Language Development",
+          "concept": "Naming explosion (~18-24 months): rapid vocabulary growth when toddlers point and ask 'What's that?' — period of accelerated word learning, especially nouns.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 41,
+          "question": "Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R).\n\n**Assertion (A) :** Reasoning is often influenced by emotion-laden beliefs.\n\n**Reason (R) :** Powerful beliefs come face-to-face with logical arguments.\n\nCode :",
+          "options": [
+            "(A) Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 2,
+          "correct_text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+          "unit": "Unit 6",
+          "topic": "6.3 Thinking and Problem Solving",
+          "subtopic": "Reasoning and Beliefs",
+          "concept": "Reasoning is influenced by emotion-laden beliefs (true — confirmation bias, belief perseverance). Beliefs clash with logic (true). But (R) doesn't explain WHY reasoning is influenced by beliefs.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 42,
+          "question": "Match List I with List II and select the correct answer using the code given below :\n\n| List I (Type of Test/Construct) | List II (Example) |\n|---|---|\n| (a) Forced-choice test | (i) Allport, Vernon and Lindzey's Study of Values |\n| (b) Ipsative scores | (ii) Edwards Personality Preference Schedule |\n| (c) Projective test | (iii) Balanced Inventory of Desirable Responding |\n| (d) Self-deception/Impression management | (iv) Rosenzweig PF Study |\n\nCode :",
+          "options": [
+            "(A) (a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+            "(B) (a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+            "(C) (a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+            "(D) (a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+          ],
+          "correct_answer": 3,
+          "correct_text": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+          "unit": "Unit 3",
+          "topic": "3.1 Psychological Testing",
+          "subtopic": "Types of Tests",
+          "concept": "EPPS = forced-choice format (ii). Allport/Vernon/Lindzey = ipsative scores (i). Rosenzweig PF = projective test (iv). BIDR = self-deception/impression management (iii).",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 43,
+          "question": "Given an opportunity to choose, what should be the order of preference from ideally most appropriate to the least appropriate method to be used for the school students ?\n\n(i) Counseling\n(ii) Psychoeducation\n(iii) Psychotherapy\n(iv) Identifying and improving work goals\n\nChoose the correct answer from the code given below :\n\nCode :",
+          "options": [
+            "(A) (i), (iv), (ii), (iii)",
+            "(B) (ii), (iv), (i), (iii)",
+            "(C) (iv), (ii), (i), (iii)",
+            "(D) (iv), (i), (ii), (iii)"
+          ],
+          "correct_answer": 2,
+          "correct_text": "(ii), (iv), (i), (iii)",
+          "unit": "Unit 10",
+          "topic": "10.3 Counselling and Therapy",
+          "subtopic": "School-Based Interventions",
+          "concept": "For school students: Psychoeducation (ii) most appropriate → Goal identification/improvement (iv) → Counseling (i) → Psychotherapy (iii) least appropriate/most intensive for school settings.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 44,
+          "question": "Which of the following are the sources which lead to prejudice ?\n\n(i) Direct intergroup conflict\n(ii) In group and out group\n(iii) Social learning\n(iv) Parent's degree of prejudice\n\nChoose the correct answer from the code given below :\n\nCode :",
+          "options": [
+            "(A) (ii) and (iii)",
+            "(B) (i), (ii) and (iv)",
+            "(C) (ii), (iii) and (iv)",
+            "(D) (i), (ii), (iii) and (iv)"
+          ],
+          "correct_answer": 4,
+          "correct_text": "(i), (ii), (iii) and (iv)",
+          "unit": "Unit 8",
+          "topic": "8.1 Social Psychology",
+          "subtopic": "Sources of Prejudice",
+          "concept": "All four are recognized sources: Intergroup conflict (Realistic Conflict Theory), In-group/Out-group (Social Identity Theory), Social Learning, and Parental prejudice transmission.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 45,
+          "question": "Which of the following are true about attribution ?\n\n(i) Internal attributions ascribe the causes of behaviour to personal dispositions and traits.\n(ii) Internal attributions ascribe the causes of behaviour to individual abilities and feelings.\n(iii) External attributions ascribe the causes of behaviours to situational demands.\n(iv) External attributions are always unstable.\n(v) Internal attributions are always stable.\n\nChoose the correct answer from the code given below :\n\nCode :",
+          "options": [
+            "(A) (i), (ii) and (iii) are correct; (iv) and (v) are incorrect",
+            "(B) (i) and (iii) are correct; (ii), (iv) and (v) are incorrect",
+            "(C) (i) and (ii) are correct; (iii), (iv) and (v) are incorrect",
+            "(D) (iv) and (v) are correct; (i), (ii) and (iii) are incorrect"
+          ],
+          "correct_answer": 1,
+          "correct_text": "(i), (ii) and (iii) are correct; (iv) and (v) are incorrect",
+          "unit": "Unit 8",
+          "topic": "8.1 Social Psychology",
+          "subtopic": "Attribution Theory",
+          "concept": "Internal attributions = personal dispositions/traits (i) and abilities/feelings (ii). External attributions = situational factors (iii). Stability is independent of locus — both internal and external can be stable or unstable (Weiner's model), so (iv) and (v) are wrong.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        }
+      ]
+    },
+    {
+      "type": "passage",
+      "id": "passage_46",
+      "heading": "Read the following passage carefully and answer questions from 46 to 50:",
+      "text": "A sport psychologist wanted to study the effect of a specific type of steroids. She hypothesized that the consumption of steroid would temporarily improve the running rate. Seventy athletes in the age range of 25 to 30 years were employed. Two Groups, A and B, of equal size were formed by random assignment. Both groups had similar genderwise composition. Group A received the drug dosage adjusted for body weight. Group B received placebo. Twenty-five minutes after, athletes ran a specific track. Mean time: Group A = 180 seconds, Group B = 145 seconds. Mean difference evaluated by appropriate test."
+    },
+    {
+      "type": "questions_block",
+      "range": "Q46–Q50",
+      "passage_ref": "passage_46",
+      "questions": [
+        {
+          "id": 46,
+          "question": "Which of the following statistical tests can be used to analyse the data in the above experiment?\n\n(i) Independent samples t-test\n(ii) Paired samples t-test\n(iii) One-way analysis of variance\n(iv) Mann-Whitney U test\n\nChoose the correct answer from the code given below :\n\nCode :",
+          "options": [
+            "(A) Only (i)",
+            "(B) (ii) and (iii)",
+            "(C) (i) and (iv)",
+            "(D) (i), (iii) and (iv)"
+          ],
+          "correct_answer": 4,
+          "correct_text": "(i), (iii) and (iv)",
+          "unit": "Unit 2",
+          "topic": "2.2 Statistics",
+          "subtopic": "Statistical Tests for Independent Groups",
+          "concept": "Between-subjects design with two independent groups. Independent t-test (i), One-way ANOVA (iii), and Mann-Whitney U (iv, non-parametric) are appropriate. Paired t-test (ii) is for within-subjects designs.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": "passage_46",
+          "table_ref": null
+        },
+        {
+          "id": 47,
+          "question": "The hypothesis of the above study can be best labelled as",
+          "options": [
+            "(A) Directional hypothesis",
+            "(B) Null hypothesis",
+            "(C) Non-directional hypothesis",
+            "(D) Non-causal hypothesis"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Directional hypothesis",
+          "unit": "Unit 2",
+          "topic": "2.1 Research Methodology",
+          "subtopic": "Types of Hypotheses",
+          "concept": "The hypothesis predicted steroid would 'improve' running rate — specifying direction. This is a directional (one-tailed) hypothesis.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": "passage_46",
+          "table_ref": null
+        },
+        {
+          "id": 48,
+          "question": "The researcher's hypothesis in the above study\n\n(1) has been verified\n(2) has been rejected\n(3) has been partially verified\n(4) could not be verified due to inadequate data",
+          "options": [
+            "(A) has been verified",
+            "(B) has been rejected",
+            "(C) has been partially verified",
+            "(D) could not be verified due to inadequate data"
+          ],
+          "correct_answer": 2,
+          "correct_text": "has been rejected",
+          "unit": "Unit 2",
+          "topic": "2.1 Research Methodology",
+          "subtopic": "Interpreting Results",
+          "concept": "Steroid group (A) took 180s vs placebo (B) took 145s. Steroid made athletes SLOWER, not faster. Hypothesis that steroid improves running rate is rejected.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": "passage_46",
+          "table_ref": null
+        },
+        {
+          "id": 49,
+          "question": "In the context of the above experiment, match List I with List II and select the correct answer using the code given below :\n\n| List I (Type of variable) | List II (Actual variable) |\n|---|---|\n| (a) Independent variable | (i) Age |\n| (b) Dependent variable | (ii) Drug dosage |\n| (c) Controlled variable | (iii) Gender |\n| (d) Dummy variable | (iv) Time required to run |\n\nCode :",
+          "options": [
+            "(A) (a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+            "(B) (a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+            "(C) (a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+            "(D) (a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)"
+          ],
+          "correct_answer": 3,
+          "correct_text": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+          "unit": "Unit 2",
+          "topic": "2.1 Research Methodology",
+          "subtopic": "Types of Variables",
+          "concept": "Independent variable = Drug dosage (manipulated) (ii). Dependent variable = Time to run (measured outcome) (iv). Controlled variable = Age (restricted to 25-30) (i). Dummy variable = Gender (balanced across groups, demographic variable) (iii).",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": "passage_46",
+          "table_ref": null
+        },
+        {
+          "id": 50,
+          "question": "Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R). In the context of the above experiment.\n\n**Assertion (A) :** In the above experiment, subjects have been randomly allotted to two groups.\n\n**Reason (R) :** Random allotment makes the groups reasonably comparable in terms of individual differences.\n\nCode :",
+          "options": [
+            "(A) Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+          "unit": "Unit 2",
+          "topic": "2.1 Research Methodology",
+          "subtopic": "Random Assignment",
+          "concept": "Random assignment was used (true). The purpose/advantage is that it distributes individual differences equally across groups, making them comparable — this explains WHY random assignment is used.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": "passage_46",
+          "table_ref": null
+        }
+      ]
+    },
+    {
+      "type": "questions_block",
+      "range": "Q51–Q95",
+      "questions": [
+        {
+          "id": 51,
+          "question": "Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R).\n\n**Assertion (A) :** Rogers contends that ideal condition for the development of healthy self-concept and movement towards becoming fully functioning is unconditional regard.\n\n**Reason (R) :** Unconditional positive regard can generate incongruence between true-self and experience.\n\nCode :",
+          "options": [
+            "(A) Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 3,
+          "correct_text": "(A) is true, but (R) is false.",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Rogers' Person-Centred Theory",
+          "concept": "Rogers did say unconditional positive regard (UPR) is ideal for healthy self-concept (A is true). However, UPR REDUCES incongruence — incongruence arises from CONDITIONS of worth, not from UPR. UPR promotes congruence between self and experience (R is false).",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 52,
+          "question": "The tendency of working hard for the 'fun of it' creatively and for the satisfaction that comes from the mastery and deep understanding of a problem comes from\n\n(i) Exploration needs\n(ii) Curiosity\n(iii) Effectance motivation\n(iv) Internal locus of control\n\nChoose the correct answer from the code given below :\n\nCode :",
+          "options": [
+            "(A) Only (i) and (ii) are correct",
+            "(B) Only (i) and (iv) are correct",
+            "(C) Only (iii) is correct",
+            "(D) Only (i), (ii) and (iii) are correct"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Only (iii) is correct",
+          "unit": "Unit 7",
+          "topic": "7.2 Motivation",
+          "subtopic": "Effectance Motivation",
+          "concept": "Effectance motivation (White, 1959) = the intrinsic drive to interact effectively with the environment, working for the satisfaction of mastery and competence. This specifically captures the 'fun of it' and 'satisfaction from mastery' described.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 53,
+          "question": "Patterns of familial transmission of intelligence from one generation to other is investigated in",
+          "options": [
+            "(A) Linkage analysis studies",
+            "(B) Adoption studies",
+            "(C) Association studies",
+            "(D) Segregation analysis studies"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Segregation analysis studies",
+          "unit": "Unit 6",
+          "topic": "6.1 Intelligence",
+          "subtopic": "Genetic Studies of Intelligence",
+          "concept": "Segregation analysis studies examine patterns of familial transmission of traits across generations to determine mode of inheritance. Linkage analysis maps genes on chromosomes. Adoption studies separate genetic/environmental effects. Association studies test specific gene-trait associations.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 54,
+          "question": "Reciprocal determinism is an interaction between which of the following ?",
+          "options": [
+            "(A) Person and his environment",
+            "(B) Person and his behaviour",
+            "(C) Person's behaviour and his environment",
+            "(D) Person, his behaviour and his environment"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Person, his behaviour and his environment",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Bandura's Reciprocal Determinism",
+          "concept": "Bandura's reciprocal determinism involves a three-way interaction: Personal factors (cognitions, emotions), Behaviour, and Environment all mutually influence each other.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 55,
+          "question": "Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R).\n\n**Assertion (A) :** The information processing approach is rooted in structuralism.\n\n**Reason (R) :** It attempts to identify the basic capacities and processes that one uses in cognition.\n\nCode :",
+          "options": [
+            "(A) Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 4,
+          "correct_text": "(A) is false, but (R) is true.",
+          "unit": "Unit 1",
+          "topic": "1.2 Schools of Psychology",
+          "subtopic": "Information Processing Approach",
+          "concept": "Information processing is rooted in COGNITIVE psychology and computer science (not structuralism). Structuralism (Wundt/Titchener) focused on analyzing conscious experience into elements. The reason is true — IP does identify basic capacities and processes.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 56,
+          "question": "Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R).\n\n**Assertion (A) :** While scaling the attitude items (statements) by the method of equal appearing intervals, median is often used as the measure of scale values.\n\n**Reason (R) :** The distribution of categories, assigned by the judges, is skewed for several items.\n\nCode :",
+          "options": [
+            "(A) Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+          "unit": "Unit 3",
+          "topic": "3.1 Psychological Testing",
+          "subtopic": "Thurstone's Equal Appearing Intervals",
+          "concept": "In Thurstone's method, judges sort statements into categories. The median of each item's distribution is the scale value. Median is used (rather than mean) because judge distributions are often skewed — this explains the preference for median.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 57,
+          "question": "Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R).\n\n**Assertion (A) :** Concepts are used to solve problems as well as to think creatively.\n\n**Reason (R) :** Concepts are useful for identifying objects and saving us from learning the same thing time and again.\n\nCode :",
+          "options": [
+            "(A) Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 2,
+          "correct_text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+          "unit": "Unit 6",
+          "topic": "6.3 Thinking and Problem Solving",
+          "subtopic": "Role of Concepts in Thinking",
+          "concept": "Concepts do facilitate problem solving and creative thinking (true). They also help identification and reduce repeated learning (true). But (R) describes the categorization function, not how concepts enable problem solving/creativity.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 58,
+          "question": "Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R).\n\n**Assertion (A) :** New employees in organizations generally lack quality threshold performance.\n\n**Reason (R) :** The confusion and disorientation is experienced by many newcomers to an organization.\n\nCode :",
+          "options": [
+            "(A) Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+          "unit": "Unit 10",
+          "topic": "10.2 Organizational Behaviour",
+          "subtopic": "Organizational Socialization",
+          "concept": "New employees often struggle to meet quality performance standards (true). The shock/reality shock — confusion and disorientation from being newcomers — directly explains why they lack quality threshold performance.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 59,
+          "question": "Self-actualizers can be characterised as\n\n(i) Having more efficient perception of reality.\n(ii) Showing greater acceptance of themselves, others and nature.\n(iii) Having tendency to be more concerned with understanding tasks that will benefit themselves.\n(iv) Recognising their own weaknesses but do not being so anxious of them.\n\nChoose the correct answer from the code given below :\n\nCode :",
+          "options": [
+            "(A) (i) and (ii) are correct, (iii) and (iv) are incorrect.",
+            "(B) (iii) and (iv) are correct, (i) and (ii) are incorrect.",
+            "(C) (i), (ii) and (iii) are correct, (iv) is incorrect.",
+            "(D) (i), (ii) and (iv) are correct, (iii) is incorrect."
+          ],
+          "correct_answer": 4,
+          "correct_text": "(i), (ii) and (iv) are correct, (iii) is incorrect.",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Maslow's Self-Actualization",
+          "concept": "Maslow's self-actualizers: efficient reality perception (i), acceptance of self/others/nature (ii), recognize weaknesses without excessive anxiety (iv). They are concerned with problems OUTSIDE themselves, not self-benefiting tasks (iii is incorrect).",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 60,
+          "question": "In which kind of bureaucracy operating core is considered as the dominant group ?",
+          "options": [
+            "(A) Adhocracy",
+            "(B) Professional bureaucracy",
+            "(C) Machine bureaucracy",
+            "(D) Divisionalized structure"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Professional bureaucracy",
+          "unit": "Unit 10",
+          "topic": "10.2 Organizational Behaviour",
+          "subtopic": "Mintzberg's Organizational Structures",
+          "concept": "In Mintzberg's framework: Professional bureaucracy (e.g., hospitals, universities) has the operating core as the dominant part. Machine bureaucracy has technostructure as dominant. Adhocracy has support staff. Divisionalized structure has middle line.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 61,
+          "question": "Which of the following are correct according to \"levels of processing approach\" ?\n\n(i) Recall of words with visual characteristics is better than words with semantic characteristics.\n(ii) Recall of words with self-reference is better than words with semantic characteristics.\n(iii) Recall of words with semantic characteristics is better than words with self-reference.\n(iv) Recall of words with semantic characteristics is better than words with acoustic characteristics.\n\nChoose the correct answer from the code given below :\n\nCode :",
+          "options": [
+            "(A) (i) and (ii)",
+            "(B) (ii) and (iii)",
+            "(C) (iii) and (iv)",
+            "(D) (ii), (iii) and (iv)"
+          ],
+          "correct_answer": 4,
+          "correct_text": "(ii), (iii) and (iv)",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Levels of Processing",
+          "concept": "Visual (shallow) < Acoustic (intermediate) < Semantic (deep) < Self-reference (deepest). So: semantic > acoustic (iv), self-reference > semantic (ii). But (iii) says semantic > self-reference, which contradicts (ii). Answer (4) includes all three — this implies the question allows for both self-reference and semantic as deeper than acoustic.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 62,
+          "question": "Match List I with List II and select the correct answer using the code given below :\n\n| List I (Attachment theory) | List II (Attachment related behaviour) |\n|---|---|\n| (a) Psychoanalytic theory | (i) Caregiver's responsiveness to infant's hunger and other basic needs |\n| (b) Learning theory | (ii) Feeding and responsiveness to infant's needs |\n| (c) Cognitive development theory | (iii) Infant discriminates between caregiver and stranger |\n| (d) Ethological theory | (iv) Infants have characteristics that elicit attachment from caregivers |\n\nCode :",
+          "options": [
+            "(A) (a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+            "(B) (a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+            "(C) (a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)",
+            "(D) (a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
+          ],
+          "correct_answer": 2,
+          "correct_text": "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+          "unit": "Unit 9",
+          "topic": "9.1 Human Development",
+          "subtopic": "Theories of Attachment",
+          "concept": "Psychoanalytic: attachment forms through feeding/basic needs responsiveness (i→a). Learning theory: feeding and care create attachment (ii→b). Cognitive development: infant must develop discrimination ability first (iii→c). Ethological/Bowlby: infants have innate releasers eliciting caregiving (iv→d).",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 63,
+          "question": "Match List I with List II and select the correct answer using the code given below :\n\n| List I (Concept) | List II (Description) |\n|---|---|\n| (a) Fetishism | (i) Sexual urges and arousing fantasies involving cross-dressing |\n| (b) Necrophilia | (ii) Sexual arousal or fantasies about or actual use of non-living objects |\n| (c) Frotteurism | (iii) Sexual urges involving touching or rubbing a non-consenting person |\n| (d) Transvestic fetishism | (iv) Sexual obsession with corpses |\n\nCode :",
+          "options": [
+            "(A) (a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)",
+            "(B) (a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+            "(C) (a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+            "(D) (a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)"
+          ],
+          "correct_answer": 2,
+          "correct_text": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+          "unit": "Unit 10",
+          "topic": "10.1 Psychological Disorders",
+          "subtopic": "Paraphilias",
+          "concept": "Fetishism = arousal from non-living objects (ii). Necrophilia = sexual obsession with corpses (iv). Frotteurism = touching/rubbing non-consenting persons (iii). Transvestic fetishism = cross-dressing arousal (i).",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 64,
+          "question": "Creative thinking is a combination of _______ in thinking and _______ in understanding to produce _______ ideas and _______.",
+          "options": [
+            "(A) reorganization, flexibility; new, solutions",
+            "(B) flexibility, reorganization; innovative, solutions",
+            "(C) flexibility, reorganization; novel, solutions",
+            "(D) flexibility, reorganization; abstract, solutions"
+          ],
+          "correct_answer": 3,
+          "correct_text": "flexibility, reorganization; novel, solutions",
+          "unit": "Unit 6",
+          "topic": "6.2 Creativity",
+          "subtopic": "Nature of Creative Thinking",
+          "concept": "Creative thinking combines flexibility in thinking (divergent approaches) and reorganization in understanding (restructuring) to produce novel ideas and solutions.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 65,
+          "question": "The rapid changes in performance level as the size of reinforcement is varied is called",
+          "options": [
+            "(A) Spread of effect",
+            "(B) Crespi effect",
+            "(C) Reminiscence effect",
+            "(D) Instinctual drift"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Crespi effect",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Reinforcement Effects",
+          "concept": "Crespi effect: rapid performance shifts when reinforcement magnitude is changed (Crespi, 1942). Spread of effect (Thorndike): reinforced responses spread to adjacent responses. Reminiscence: improvement after rest. Instinctual drift (Breland): instinctive behaviours disrupt conditioning.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 66,
+          "question": "The following are all involved in hunger and eating process :\n\n(i) Lateral hypothalamus\n(ii) Ventral hypothalamus\n(iii) Amino acids\n\nIn what sequence do these act ?",
+          "options": [
+            "(A) (iii), (i), (ii)",
+            "(B) (i), (iii), (ii)",
+            "(C) (i), (ii), (iii)",
+            "(D) (iii), (ii), (i)"
+          ],
+          "correct_answer": 1,
+          "correct_text": "(iii), (i), (ii)",
+          "unit": "Unit 4",
+          "topic": "4.1 Biological Foundations of Behaviour",
+          "subtopic": "Hunger and Eating - Neural Mechanisms",
+          "concept": "Amino acids (nutritional signals) → Lateral hypothalamus (hunger centre, initiates eating) → Ventromedial hypothalamus (satiety centre, stops eating). The nutritional state triggers hypothalamic responses in sequence.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 67,
+          "question": "Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R).\n\n**Assertion (A) :** Spearman proposed the existence of general mental ability (G factor) in his two-factor theory.\n\n**Reason (R) :** Spearman found positive manifolds in the intercorrelations matrix of ability tests.\n\nCode :",
+          "options": [
+            "(A) Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+          "unit": "Unit 6",
+          "topic": "6.1 Intelligence",
+          "subtopic": "Spearman's Two-Factor Theory",
+          "concept": "Spearman proposed g (general factor) + s (specific factors). He observed positive manifolds (all intercorrelations positive) in ability test matrices, which led him to infer a common g factor underlying all mental abilities.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 68,
+          "question": "Humanistic approach to personality is characterised by\n\n(i) Emphasis on personal responsibility\n(ii) No denial to importance of past, but more focus on present\n(iii) Description of naturally striving persons\n(iv) Description of individual differences along some dimensions\n\nChoose the correct answer from the code given below :\n\nCode :",
+          "options": [
+            "(A) (i) and (ii) are correct; (iii) and (iv) are incorrect.",
+            "(B) (iii) and (iv) are correct; (i) and (ii) are incorrect.",
+            "(C) (i), (ii) and (iv) are correct; (iii) is incorrect.",
+            "(D) (i), (ii) and (iii) are correct; (iv) is incorrect."
+          ],
+          "correct_answer": 4,
+          "correct_text": "(i), (ii) and (iii) are correct; (iv) is incorrect.",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Humanistic Approach to Personality",
+          "concept": "Humanistic approach emphasizes personal responsibility (i), focuses on present while acknowledging past (ii), and describes naturally striving/actualizing persons (iii). Describing individual differences along dimensions (iv) is the TRAIT approach, not humanistic.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 69,
+          "question": "Match List I with List II and choose the correct answer using the code given below :\n\n| List I | List II |\n|---|---|\n| (a) Moon illusion effect | (i) Monocular cue |\n| (b) Aerial perspective | (ii) Relative size hypothesis |\n| (c) Ponzo effect | (iii) Binocular cue |\n| (d) Convergence | (iv) Optical illusion |\n\nCode :",
+          "options": [
+            "(A) (a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+            "(B) (a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+            "(C) (a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+            "(D) (a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)"
+          ],
+          "correct_answer": 3,
+          "correct_text": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+          "unit": "Unit 5",
+          "topic": "5.1 Attention and Perception",
+          "subtopic": "Visual Perception Cues",
+          "concept": "Moon illusion explained by relative size hypothesis (ii). Aerial perspective = monocular depth cue (i). Ponzo illusion = optical illusion (iv). Convergence = binocular depth cue (iii).",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 70,
+          "question": "'Vacillation of thought and behaviour' is associated with the following types of conflicts :",
+          "options": [
+            "(A) Approach-approach and approach-avoidance",
+            "(B) Approach-approach, approach-avoidance and multiple approach-avoidance",
+            "(C) Approach-avoidance and avoidance-avoidance",
+            "(D) Avoidance-avoidance, approach-avoidance and multiple approach-avoidance"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Avoidance-avoidance, approach-avoidance and multiple approach-avoidance",
+          "unit": "Unit 7",
+          "topic": "7.4 Stress and Coping",
+          "subtopic": "Types of Conflicts",
+          "concept": "Vacillation (wavering/oscillation) occurs in conflicts where avoidance is involved: Avoidance-avoidance (both options undesirable), Approach-avoidance (single goal with both positive and negative aspects), and Multiple approach-avoidance. Approach-approach conflicts are typically resolved quickly without vacillation.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 71,
+          "question": "Interpersonal justice refers to judgements concerning the ______ and ______ individuals are shown by parties responsible for distributing available ______ to members of a group.",
+          "options": [
+            "(A) considerateness, courtesy, incentives",
+            "(B) courtesy, considerateness, rewards",
+            "(C) considerateness, courtesy, rewards",
+            "(D) courtesy, considerateness, incentives"
+          ],
+          "correct_answer": 2,
+          "correct_text": "courtesy, considerateness, rewards",
+          "unit": "Unit 10",
+          "topic": "10.2 Organizational Behaviour",
+          "subtopic": "Organizational Justice - Interpersonal Justice",
+          "concept": "Interpersonal justice (Colquitt, 2001) concerns the courtesy and considerateness shown by authorities when distributing rewards. It focuses on the quality of interpersonal treatment during organizational procedures and outcomes.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 72,
+          "question": "Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R).\n\n**Assertion (A) :** Frankl described death as a boundary situation, an urgent experience that forces a person to deal with an existential situation.\n\n**Reason (R) :** The boundary situation provides deep meaning for the individual.\n\nCode :",
+          "options": [
+            "(A) Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Frankl's Existential Psychology",
+          "concept": "Frankl (existential/logotherapy) described death as a boundary situation that forces confrontation with existence. Facing mortality provides deep meaning — it explains WHY death is a boundary situation that triggers existential awareness.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 73,
+          "question": "The best home environment for intellectual development is one in which\n\n(i) Child is encouraged to work out problems with guidance and support from parents.\n(ii) Parents tell the child what to do.\n(iii) Child is left on his or her own.\n(iv) Child is facilitated more than required.\n\nChoose the correct answer from the code given below :\n\nCode :",
+          "options": [
+            "(A) Only (i)",
+            "(B) (i) and (ii)",
+            "(C) (iii) and (iv)",
+            "(D) (i), (ii), (iii) and (iv)"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Only (i)",
+          "unit": "Unit 9",
+          "topic": "9.1 Human Development",
+          "subtopic": "Environmental Influences on Intelligence",
+          "concept": "Best home environment for intellectual development: child encouraged to work out problems with parental guidance and support (authoritative parenting style). Telling child what to do (authoritarian), leaving alone (neglectful), or over-facilitating (helicopter parenting) are less optimal.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 74,
+          "question": "Neurons make up only about __________ percent of the brain's cells and other __________ percent are glia cells.",
+          "options": [
+            "(A) 80 percent; 20 percent",
+            "(B) 10 percent; 90 percent",
+            "(C) 20 percent; 80 percent",
+            "(D) 90 percent; 10 percent"
+          ],
+          "correct_answer": 3,
+          "correct_text": "20 percent; 80 percent",
+          "unit": "Unit 4",
+          "topic": "4.1 Biological Foundations of Behaviour",
+          "subtopic": "Brain Cell Composition",
+          "concept": "Neurons constitute approximately 10-20% of brain cells, while glial (glia) cells make up the remaining 80-90%. Despite being fewer in number, neurons are the primary signaling cells.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 75,
+          "question": "In matched two-group design with 30 subjects per group, the 't' test would be based on ______ degrees of freedom.",
+          "options": [
+            "(A) 29",
+            "(B) 30",
+            "(C) 58",
+            "(D) 59"
+          ],
+          "correct_answer": 1,
+          "correct_text": "29",
+          "unit": "Unit 2",
+          "topic": "2.2 Statistics",
+          "subtopic": "Degrees of Freedom in Matched Design",
+          "concept": "In a matched/paired design, the t-test is based on the number of pairs minus 1: df = n - 1 = 30 - 1 = 29. Each pair constitutes one unit of analysis.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 76,
+          "question": "Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R).\n\n**Assertion (A) :** Electrical stimulation of brain is considered to be a more important research tool than lesion method.\n\n**Reason (R) :** Electrical stimulation elicits a few behavioural effects which are easy to record.\n\nCode :",
+          "options": [
+            "(A) Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 2,
+          "correct_text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+          "unit": "Unit 4",
+          "topic": "4.1 Biological Foundations of Behaviour",
+          "subtopic": "Brain Research Methods",
+          "concept": "Electrical stimulation is valued because it's reversible and can activate specific areas (more important than permanent lesions). It does elicit measurable behavioural effects. Both true but the reason about 'few effects easy to record' doesn't explain why it's MORE important than lesions.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 77,
+          "question": "The basic rules of language used for learning and communication comprise of\n\n(i) Phonemes\n(ii) Morphemes\n(iii) Syntax\n(iv) Speech\n\nChoose the correct answer from the code given below :\n\nCode :",
+          "options": [
+            "(A) (i), (ii) and (iii)",
+            "(B) (i), (iii) and (iv)",
+            "(C) (ii), (iii) and (iv)",
+            "(D) (i), (ii) and (iv)"
+          ],
+          "correct_answer": 1,
+          "correct_text": "(i), (ii) and (iii)",
+          "unit": "Unit 6",
+          "topic": "6.3 Thinking and Problem Solving",
+          "subtopic": "Language Structure",
+          "concept": "Language rules comprise: Phonemes (basic sounds), Morphemes (meaningful units), and Syntax (rules for combining words into sentences). Speech is the production of language, not a rule system.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 78,
+          "question": "In response to questions asked by teachers, Ayan keeps jumping up with a raised hand on his seat till the teacher asks him to get up and answer. He also remains uneasy. Which is the most appropriate way of dealing with Ayan by the teacher?",
+          "options": [
+            "(A) Didactic counselling to explain why this is a bad habit",
+            "(B) Shaping",
+            "(C) Response cost form of punishment",
+            "(D) Extinction"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Response cost form of punishment",
+          "unit": "Unit 10",
+          "topic": "10.3 Counselling and Therapy",
+          "subtopic": "Behaviour Management in Classroom",
+          "concept": "Response cost = removing a positive reinforcer when undesirable behaviour occurs. For attention-seeking behaviour (jumping up), response cost (e.g., losing privileges for disruptive behaviour) is appropriate. Shaping would reinforce the behaviour. Extinction (ignoring) might not address the disruption.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 79,
+          "question": "Match List I with List II and select the correct answer using the code given below :\n\n| List I (Content) | List II (Test) |\n|---|---|\n| (a) Addiction Potential Scale | (i) MMPI – A |\n| (b) Alcohol Drug Knowledge Scale | (ii) MMPI – 2 |\n| (c) Self-defeating Scale | (iii) Rorschach Inkblot Test |\n| (d) Economy Index | (iv) Millon Clinical Multiaxial Inventory |\n\nCode :",
+          "options": [
+            "(A) (a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+            "(B) (a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+            "(C) (a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+            "(D) (a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+          ],
+          "correct_answer": 2,
+          "correct_text": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+          "unit": "Unit 3",
+          "topic": "3.1 Psychological Testing",
+          "subtopic": "Personality Test Scales",
+          "concept": "Addiction Potential Scale = MMPI-2 content scale. Alcohol Drug Knowledge Scale = MMPI-A. Self-defeating Personality Scale = MCMI-III (Millon). Economy Index = Rorschach (efficiency index).",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 80,
+          "question": "What is Piaget's term for a child's uneven cognitive performance, an inability to solve certain problems even though one can solve similar problems requiring the same mental processes?",
+          "options": [
+            "(A) A-not-B error",
+            "(B) Invariant developmental sequence",
+            "(C) Horizontal décalage",
+            "(D) Representational insight"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Horizontal décalage",
+          "unit": "Unit 9",
+          "topic": "9.2 Theories of Human Development",
+          "subtopic": "Piaget's Horizontal Décalage",
+          "concept": "Horizontal décalage = the uneven/staggered acquisition of cognitive skills within the same developmental stage. Children master some tasks at a stage before others requiring the same underlying operations. A-not-B error is a sensorimotor phenomenon.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 81,
+          "question": "Super has given the following stages in his theory of career development and counselling. These are\n\n(i) Establishment\n(ii) Maintenance\n(iii) Decline\n(iv) Exploration\n(v) Growth\n\nWhat is the correct sequence of these stages ?\n\nChoose the correct answer from the code given below :\n\nCode :",
+          "options": [
+            "(A) (v), (iv), (i), (ii), (iii)",
+            "(B) (i), (ii), (iv), (v), (iii)",
+            "(C) (iv), (i), (v), (ii), (iii)",
+            "(D) (i), (iv), (v), (ii), (iii)"
+          ],
+          "correct_answer": 1,
+          "correct_text": "(v), (iv), (i), (ii), (iii)",
+          "unit": "Unit 10",
+          "topic": "10.4 Emerging Areas",
+          "subtopic": "Super's Career Development Theory",
+          "concept": "Super's life-span career stages: Growth (childhood-adolescence) → Exploration (late teens-early 20s) → Establishment (mid-20s to mid-40s) → Maintenance (mid-40s to mid-60s) → Decline (late career).",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 82,
+          "question": "Match List I with List II and select the correct answer using the code given below :\n\n| List I (Term) | List II (Description) |\n|---|---|\n| (a) Prudence | (i) Undergoing hardships for their benefit |\n| (b) Justice | (ii) Controlling disruptive emotions and practicing self-discipline |\n| (c) Fortitude | (iii) Fulfilling obligations to parents and respecting their rights |\n| (d) Temperance | (iv) Using reason for their benefit |\n\nCode :",
+          "options": [
+            "(A) (a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+            "(B) (a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+            "(C) (a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+            "(D) (a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+          ],
+          "correct_answer": 3,
+          "correct_text": "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Classical Virtues",
+          "concept": "Prudence = using reason wisely for benefit (iv). Justice = fulfilling obligations, respecting rights (iii). Fortitude = courage, enduring hardships (i). Temperance = controlling emotions, self-discipline (ii).",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 83,
+          "question": "Raphe Nuclei are most closely related to _________ neurotransmitter.",
+          "options": [
+            "(A) Epinephrine",
+            "(B) Serotonin",
+            "(C) Norepinephrine",
+            "(D) Glycine"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Serotonin",
+          "unit": "Unit 4",
+          "topic": "4.1 Biological Foundations of Behaviour",
+          "subtopic": "Neurotransmitter Systems",
+          "concept": "Raphe nuclei (brainstem) are the primary source of serotonin (5-HT) projections throughout the brain. They play key roles in mood regulation, sleep, and arousal.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 84,
+          "question": "Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R).\n\n**Assertion (A) :** Thurstone labelled his theory of intelligence as theory of primary mental abilities.\n\n**Reason (R) :** Thurstone found more than two first-order factors of intelligence through orthogonal rotation.\n\nCode :",
+          "options": [
+            "(A) Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+          "unit": "Unit 6",
+          "topic": "6.1 Intelligence",
+          "subtopic": "Thurstone's Primary Mental Abilities",
+          "concept": "Thurstone called his theory 'Primary Mental Abilities' (PMA). Using factor analysis with orthogonal rotation, he identified 7 primary factors (V, N, S, P, W, M, R), more than Spearman's two factors, leading to the 'primary' label.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 85,
+          "question": "Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R).\n\n**Assertion (A) :** In multiple regression, the b or β coefficient associated with a given predictor is sometimes statistically non-significant, although the correlation between the criterion and the given predictor is significant.\n\n**Reason (R) :** In multiple regression, the b or β coefficients are partial regression coefficient.\n\nCode :",
+          "options": [
+            "(A) Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+          "unit": "Unit 2",
+          "topic": "2.2 Statistics",
+          "subtopic": "Multiple Regression",
+          "concept": "β coefficients are partial regression coefficients — they represent each predictor's unique contribution controlling for other predictors. A predictor can correlate significantly with the criterion but have a non-significant β when its variance overlaps with other predictors. The partial nature explains the phenomenon.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 86,
+          "question": "________ such as ________ believe that depth perception is innate.",
+          "options": [
+            "(A) Empiricists, Descartes",
+            "(B) Nativists, Descartes",
+            "(C) Empiricists, Berkeley",
+            "(D) Nativists, Berkeley"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Nativists, Descartes",
+          "unit": "Unit 5",
+          "topic": "5.1 Attention and Perception",
+          "subtopic": "Nativist vs Empiricist Theories of Depth Perception",
+          "concept": "Nativists believe depth perception is innate (born with it). Descartes was a nativist who argued that depth perception is inborn. Empiricists (Berkeley) believe it is learned through experience.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 87,
+          "question": "Match List I with List II and select the correct answer using the code given below :\n\n| List I (Tests) | List II (Concept) |\n|---|---|\n| (a) Block design | (i) Perceptual reasoning |\n| (b) Similarities | (ii) Comprehension |\n| (c) Matrix task | (iii) Simultaneous processing |\n| (d) Sentence questions | (iv) Successive processing |\n\nCode :",
+          "options": [
+            "(A) (a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+            "(B) (a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+            "(C) (a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+            "(D) (a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+          ],
+          "correct_answer": 1,
+          "correct_text": "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+          "unit": "Unit 6",
+          "topic": "6.1 Intelligence",
+          "subtopic": "Intelligence Test Concepts",
+          "concept": "Block Design → Perceptual reasoning (WAIS-IV Perceptual Reasoning Index). Similarities → Comprehension (WAIS-IV Verbal Comprehension Index). Matrix task → Simultaneous processing (Das-Naglieri CAS PASS theory). Sentence questions → Successive processing (CAS PASS theory).",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 88,
+          "question": "Match List I with List II and select the correct answer using the code given below :\n\n| List I (Books) | List II (Authors) |\n|---|---|\n| (a) The Analysis of the Self | (i) Maslow |\n| (b) Motivation and Personality | (ii) Kohut |\n| (c) Freedom to Learn | (iii) Rollo May |\n| (d) Man's Search for Himself | (iv) Rogers |\n\nCode :",
+          "options": [
+            "(A) (a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+            "(B) (a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+            "(C) (a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+            "(D) (a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+          ],
+          "correct_answer": 3,
+          "correct_text": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+          "unit": "Unit 1",
+          "topic": "1.1 Emergence of Psychology",
+          "subtopic": "Key Books and Authors in Psychology",
+          "concept": "The Analysis of the Self = Kohut (self psychology). Motivation and Personality = Maslow. Freedom to Learn = Rogers. Man's Search for Himself = Rollo May.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 89,
+          "question": "Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R).\n\n**Assertion (A) :** As one enters a dimly lit room after being exposed to bright light, retinal rods become more sensitive.\n\n**Reason (R) :** Dark adaptation enables a person to see in dim light.\n\nCode :",
+          "options": [
+            "(A) Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 2,
+          "correct_text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+          "unit": "Unit 5",
+          "topic": "5.1 Attention and Perception",
+          "subtopic": "Dark Adaptation",
+          "concept": "In dim light, rhodopsin regenerates in rods, increasing their sensitivity (A is true). Dark adaptation enables vision in dim light (R is true). Both true, but (R) describes the outcome rather than explaining the mechanism of rod sensitivity increase.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 90,
+          "question": "Which of the following are the mnemonic devices?\n\n(i) Categorical clusters\n(ii) Peg-word system\n(iii) Method of loci\n(iv) Heuristic\n\nChoose the correct answer from the code given below :\n\nCode :",
+          "options": [
+            "(A) (i) and (ii)",
+            "(B) (i), (ii) and (iii)",
+            "(C) (i), (ii) and (iv)",
+            "(D) (i), (ii), (iii) and (iv)"
+          ],
+          "correct_answer": 2,
+          "correct_text": "(i), (ii) and (iii)",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Mnemonic Devices",
+          "concept": "Mnemonic devices include: categorical clustering (organizing by categories), peg-word system (associating numbers with images), and method of loci (placing items in imagined locations). Heuristics are problem-solving strategies, not memory mnemonics.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 91,
+          "question": "Academic achievement had a multiple correlation of 0·65 with the three predictors – intelligence, achievement motivation and socio-economic status. How much variance in academic achievement is explained by the three predictors?",
+          "options": [
+            "(A) 35·00 percent",
+            "(B) 42·25 percent",
+            "(C) 57·75 percent",
+            "(D) 65·00 percent"
+          ],
+          "correct_answer": 2,
+          "correct_text": "42·25 percent",
+          "unit": "Unit 2",
+          "topic": "2.2 Statistics",
+          "subtopic": "Coefficient of Determination",
+          "concept": "R² = R² = 0.65² = 0.4225 = 42.25%. The coefficient of determination (R²) represents the proportion of variance in the criterion explained by the predictors.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 92,
+          "question": "What is the correct sequence of products in Guilford's SOI model ?",
+          "options": [
+            "(A) Unit → Class → Relation → System → Implication → Transformation",
+            "(B) Class → Unit → System → Relation → Transformation → Implication",
+            "(C) Unit → Class → Relation → System → Transformation → Implication",
+            "(D) Unit → Relation → Class → System → Transformation → Implication"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Unit → Class → Relation → System → Transformation → Implication",
+          "unit": "Unit 6",
+          "topic": "6.1 Intelligence",
+          "subtopic": "Guilford's SOI Products",
+          "concept": "Guilford's six products in order of increasing complexity: Unit (single item) → Class (categories) → Relation (connections between pairs) → System (organized complexes) → Transformation (changes, redefinitions) → Implication (predictions, consequences).",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 93,
+          "question": "Which of the following are the methods used in studying verbal learning ?\n\n(i) Serial learning\n(ii) Paired-associate learning\n(iii) Verbal discrimination learning\n(iv) Free recall\n\nChoose the correct answer from the code given below :\n\nCode :",
+          "options": [
+            "(A) (i) and (ii)",
+            "(B) (i), (ii) and (iii)",
+            "(C) (i), (ii) and (iv)",
+            "(D) (i), (ii), (iii) and (iv)"
+          ],
+          "correct_answer": 4,
+          "correct_text": "(i), (ii), (iii) and (iv)",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Methods of Studying Verbal Learning",
+          "concept": "The four methods of studying verbal learning: Serial learning (ordered list), Paired-associate learning (stimulus-response pairs), Verbal discrimination learning (choosing correct from incorrect), and Free recall (recall in any order).",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 94,
+          "question": "Myelin Stains and Nissl Stains identify ______ and ______ respectively.",
+          "options": [
+            "(A) Neural pathways; Neural cell bodies",
+            "(B) Neural pathways; White matter",
+            "(C) Neural cell bodies; Neural pathways",
+            "(D) Nuclei; Neural cell bodies"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Neural pathways; Neural cell bodies",
+          "unit": "Unit 4",
+          "topic": "4.1 Biological Foundations of Behaviour",
+          "subtopic": "Neuroanatomical Staining Techniques",
+          "concept": "Myelin stains (e.g., Weigert stain) reveal myelinated neural pathways (axons). Nissl stains (e.g., cresyl violet) reveal neural cell bodies (soma) by staining rough endoplasmic reticulum (Nissl substance).",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 95,
+          "question": "Rules within a language indicating how words can be combined into meaningful sentences refer to",
+          "options": [
+            "(A) Semantic development",
+            "(B) Phonological development",
+            "(C) Grammar",
+            "(D) Babbling"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Grammar",
+          "unit": "Unit 6",
+          "topic": "6.3 Thinking and Problem Solving",
+          "subtopic": "Language Components",
+          "concept": "Grammar (syntax) = the rules governing how words combine into meaningful sentences. Semantics = meaning. Phonology = sound system. Babbling = pre-linguistic vocalization.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": null,
+          "table_ref": null
+        }
+      ]
+    },
+    {
+      "type": "passage",
+      "id": "passage_96",
+      "heading": "Read the following passage carefully and answer questions from 96 to 100:",
+      "text": "A researcher working in vocational interests surveyed different interest assessment tools and selected 68 scales. He administered all scales to N=750. Correlated every scale with every other scale obtaining 68×68 matrix. Without altering diagonal elements, factor analyzed using common-factor model. Extracted unrotated factors. Cattell's scree suggested 11 factors; Kaiser-Guttman suggested 14. Eleven factors explained 72% of variance. Varimax-rotated. Decided to carry out second-order analysis. Re-rotated eleven factors; some inter-factor correlations were fairly high. Three second-order factors found, fairly interpretable."
+    },
+    {
+      "type": "questions_block",
+      "range": "Q96–Q100",
+      "passage_ref": "passage_96",
+      "questions": [
+        {
+          "id": 96,
+          "question": "Which of the following factor extraction methods have not been used in the above work while extracting the first-order factors?\n\n(i) Principal axes method\n(ii) Principal components method\n(iii) Maximum likelihood method\n(iv) Generalized least squares method\n\nChoose the correct answer from the code given below :\n\nCode :",
+          "options": [
+            "(A) (i) and (iii)",
+            "(B) (ii) and (iii)",
+            "(C) (iii) and (iv)",
+            "(D) (i), (iii) and (iv)"
+          ],
+          "correct_answer": 2,
+          "correct_text": "(ii) and (iii)",
+          "unit": "Unit 2",
+          "topic": "2.2 Statistics",
+          "subtopic": "Factor Extraction Methods",
+          "concept": "The researcher used the common-factor model without altering diagonal elements (keeping communalities). Principal components method (ii) uses 1.0 on diagonal (not common factor). Maximum likelihood (iii) is a common-factor method but not necessarily used here. The passage suggests a specific common-factor approach (likely principal axes). Answer (2) indicates PCA and ML were NOT used.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": "passage_96",
+          "table_ref": null
+        },
+        {
+          "id": 97,
+          "question": "Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R).\n\n**Assertion (A) :** In the above work, the researcher preferred Cattell's scree-plot over Kaiser-Guttman's root ≥ 1 criterion.\n\n**Reason (R) :** Even with a small number of variables, Kaiser-Guttman's criterion always leads to the extraction of more factors, as compared to Cattell's scree.\n\nCode :",
+          "options": [
+            "(A) Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+          "unit": "Unit 2",
+          "topic": "2.2 Statistics",
+          "subtopic": "Factor Retention Criteria",
+          "concept": "The researcher retained 11 factors (scree) over 14 (Kaiser). Kaiser-Guttman (eigenvalue > 1) tends to over-extract, especially with many variables. The reason correctly explains why scree was preferred — Kaiser always extracts more.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": "passage_96",
+          "table_ref": null
+        },
+        {
+          "id": 98,
+          "question": "Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R).\n\n**Assertion (A) :** In the above work, the researcher preferred Cattell's scree over Kaiser-Guttman's root ≥ 1 criterion.\n\n**Reason (R) :** The angles of separation among varimax-rotated factors are non-ninety.\n\nCode :",
+          "options": [
+            "(A) Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 3,
+          "correct_text": "(A) is true, but (R) is false.",
+          "unit": "Unit 2",
+          "topic": "2.2 Statistics",
+          "subtopic": "Factor Rotation",
+          "concept": "The researcher did prefer scree over Kaiser (A is true). However, varimax rotation produces ORTHOGONAL factors with 90-degree angles of separation — the reason claiming 'non-ninety' is false. Varimax maintains orthogonality.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": "passage_96",
+          "table_ref": null
+        },
+        {
+          "id": 99,
+          "question": "During re-rotation of the first-order factors, which of the following methods is/are likely to have been used?\n\n(i) Oblimin\n(ii) Promax\n(iii) Quartimax\n(iv) Equamax\n\nChoose the correct answer from the code given below :\n\nCode :",
+          "options": [
+            "(A) Only (i)",
+            "(B) (i) and (ii)",
+            "(C) (iii) and (iv)",
+            "(D) (ii), (iii) and (iv)"
+          ],
+          "correct_answer": 2,
+          "correct_text": "(i) and (ii)",
+          "unit": "Unit 2",
+          "topic": "2.2 Statistics",
+          "subtopic": "Oblique Factor Rotation",
+          "concept": "The researcher found inter-factor correlations after re-rotation, indicating oblique rotation was used. Oblimin and Promax are oblique rotation methods. Quartimax and Equamax are orthogonal methods — they would produce zero inter-factor correlations.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": "passage_96",
+          "table_ref": null
+        },
+        {
+          "id": 100,
+          "question": "The three second-order factors would explain _______ of the variance among 68 scales.",
+          "options": [
+            "(A) less than 72 percent",
+            "(B) 72 percent",
+            "(C) more than 72 percent",
+            "(D) 100 percent"
+          ],
+          "correct_answer": 1,
+          "correct_text": "less than 72 percent",
+          "unit": "Unit 2",
+          "topic": "2.2 Statistics",
+          "subtopic": "Second-Order Factor Analysis",
+          "concept": "Second-order factors explain the variance among first-order factors, which themselves explain only 72% of the original scale variance. The second-order factors can only explain a portion of the first-order variance, so they explain less than 72% of the total variance among the 68 scales.",
+          "era": "UGC",
+          "year": 2018,
+          "passage_ref": "passage_96",
+          "table_ref": null
+        }
+      ]
+    }
+  ]
+}

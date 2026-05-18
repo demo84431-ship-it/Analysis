@@ -1,0 +1,1028 @@
+{
+  "paper_metadata": {
+    "title": "UGC NET/JRF Examination, June 2007",
+    "date": "June 2007",
+    "subject": "Psychology — Paper II"
+  },
+  "content": [
+    {
+      "type": "questions_block",
+      "range": "Q1–Q45",
+      "questions": [
+        {
+          "id": 1,
+          "question": "The somatosensory projection area is found in:",
+          "options": [
+            "(A) Occipital lobe",
+            "(B) Parietal lobe",
+            "(C) Frontal lobe",
+            "(D) Temporal lobe"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Parietal lobe",
+          "unit": "Unit 4",
+          "topic": "4.3 Nervous System",
+          "subtopic": "Cerebral cortex — Four lobes",
+          "concept": "Parietal lobe contains the somatosensory cortex",
+          "era": "UGC",
+          "year": 2007,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 2,
+          "question": "In random reinforcement schedule food will be given to rat after:",
+          "options": [
+            "(A) Simultaneously completing 4 trials and 2 minutes",
+            "(B) Completing 4 trial and 2 minutes one after the other",
+            "(C) Once after completing 2 minutes and after 4 trial alternatively",
+            "(D) Randomly after completion of any of the two"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Randomly after completion of any of the two",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Operant Conditioning",
+          "concept": "Random reinforcement schedule — unpredictable reinforcement delivery",
+          "era": "UGC",
+          "year": 2007,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 3,
+          "question": "**Assertion (A):** Different emotions are associated with activity in different parts of the brain.\n\n**Reason (R):** Different emotions appear to be linked to specific genetic structures.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "(B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+            "(C) (A) is true but (R) is false",
+            "(D) (A) is false but (R) is true"
+          ],
+          "correct_answer": 3,
+          "correct_text": "(A) is true but (R) is false",
+          "unit": "Unit 4",
+          "topic": "4.3 Nervous System",
+          "subtopic": "Brain structures",
+          "concept": "Emotions and brain regions — amygdala, limbic system involvement; not genetically linked structures",
+          "era": "UGC",
+          "year": 2007,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 4,
+          "question": "Match List-I with List-II:\n\n| List-I | List-II |\n|---|---|\n| (Type of measurement) | (Technique used for item development) |\n| A. Attitude measurement | (i) Criterion-referenced technique |\n| B. Behavioral assessment | (ii) Guttman scale |\n| C. Ability testing | (iii) Critical incident technique |\n| D. Personality measurement | (iv) Factor analysis |\n| | (v) Content analysis |\n\n**Codes:**\n\n| | A | B | C | D |\n|---|---|---|---|---|\n| (A) | i | ii | iii | v |\n| (B) | iv | v | ii | iii |\n| (C) | iii | iv | ii | i |\n| (D) | ii | iii | i | iv |",
+          "options": [
+            "(A) A=i, B=ii, C=iii, D=v",
+            "(B) A=iv, B=v, C=ii, D=iii",
+            "(C) A=iii, B=iv, C=ii, D=i",
+            "(D) A=ii, B=iii, C=i, D=iv"
+          ],
+          "correct_answer": 4,
+          "correct_text": "A=ii, B=iii, C=i, D=iv",
+          "unit": "Unit 3",
+          "topic": "3.2 Test Construction",
+          "subtopic": "Item development techniques",
+          "concept": "Attitude-Guttman scale, Behavioral-critical incident, Ability-criterion-referenced, Personality-factor analysis",
+          "era": "UGC",
+          "year": 2007,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 5,
+          "question": "Obsession is to compulsion as:",
+          "options": [
+            "(A) normal is to abnormal",
+            "(B) behaviour is to cognition",
+            "(C) thinking is to feeling",
+            "(D) thought of action"
+          ],
+          "correct_answer": 4,
+          "correct_text": "thought of action",
+          "unit": "Unit 9",
+          "topic": "9.3 Psychopathology",
+          "subtopic": "Anxiety disorders",
+          "concept": "Obsession (intrusive thought) relates to compulsion (repetitive action) as thought relates to action",
+          "era": "UGC",
+          "year": 2007,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 6,
+          "question": "The amount of material retained in various methods from highest to lowest can be arranged in the following manner:",
+          "options": [
+            "(A) recall, recognition, relearning",
+            "(B) recognition, relearning, recall",
+            "(C) relearning, recall, recognition",
+            "(D) recognition, recall, relearning"
+          ],
+          "correct_answer": 3,
+          "correct_text": "relearning, recall, recognition",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Retrieval",
+          "concept": "Memory retention hierarchy: Relearning (savings method, most sensitive) > Recognition > Recall (least sensitive). Measures amount of material retained.",
+          "era": "UGC",
+          "year": 2007,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 7,
+          "question": "Dreams hide our desires through:",
+          "options": [
+            "(A) identification, condensation, displacement",
+            "(B) identification, compensation, symbolism",
+            "(C) condensation, displacement, symbolism",
+            "(D) compensation, condensation, displacement"
+          ],
+          "correct_answer": 3,
+          "correct_text": "condensation, displacement, symbolism",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Psychoanalytic Approach",
+          "concept": "Freud's dream work mechanisms — condensation, displacement, symbolism",
+          "era": "UGC",
+          "year": 2007,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 8,
+          "question": "Information from the senses is carried in a given order. Arrange the following in that order:\n\n(i) Straight into brain\n(ii) Via medulla oblongata\n(iii) Via spinal cord\n(iv) Via thalamus",
+          "options": [
+            "(A) (i) (iv) (iii) (ii)",
+            "(B) (ii) (iii) (i) (iv)",
+            "(C) (iii) (ii) (iv) (i)",
+            "(D) (iv) (i) (ii) (iii)"
+          ],
+          "correct_answer": 3,
+          "correct_text": "(iii) (ii) (iv) (i)",
+          "unit": "Unit 4",
+          "topic": "4.3 Nervous System",
+          "subtopic": "Sensory pathways",
+          "concept": "Sensory information pathway: Spinal cord → Medulla oblongata → Thalamus → Brain",
+          "era": "UGC",
+          "year": 2007,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 9,
+          "question": "Arrange in order the following stages of GAS as given by Selye:\n\n(i) Illness and death\n(ii) Exhaustion\n(iii) Alarm reaction\n(iv) Resistance",
+          "options": [
+            "(A) (iv) (iii) (i) (ii)",
+            "(B) (i) (ii) (iii) (iv)",
+            "(C) (iii) (iv) (ii) (i)",
+            "(D) (ii) (i) (iv) (iii)"
+          ],
+          "correct_answer": 3,
+          "correct_text": "(iii) (iv) (ii) (i)",
+          "unit": "Unit 7",
+          "topic": "7.4 Stress and Coping",
+          "subtopic": "Stress Models",
+          "concept": "Selye's GAS: Alarm → Resistance → Exhaustion → Illness/death",
+          "era": "UGC",
+          "year": 2007,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 10,
+          "question": "Arrange the following tests with respect to their ability to elicit projective responses from low to high:\n\n(i) Sentence completion Test\n(ii) Rorschach inkblot Test\n(iii) Rosenzweig Picture Frustration Study\n(iv) Thematic Apperception Test",
+          "options": [
+            "(A) (ii) (iv) (iii) (i)",
+            "(B) (i) (iii) (iv) (ii)",
+            "(C) (iv) (ii) (i) (iii)",
+            "(D) (ii) (i) (iv) (iii)"
+          ],
+          "correct_answer": 2,
+          "correct_text": "(i) (iii) (iv) (ii)",
+          "unit": "Unit 3",
+          "topic": "3.6 Types of Tests by Domain",
+          "subtopic": "Personality Tests",
+          "concept": "Projective tests ranked by ambiguity: Sentence completion (low) → Rosenzweig → TAT → Rorschach (high)",
+          "era": "UGC",
+          "year": 2007,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 11,
+          "question": "**Assertion (A):** Individuals with dissonance are typically hospitalized.\n\n**Reason (R):** People experience psychological discomfort when attitudes and behaviour are inconsistent.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "(B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+            "(C) (A) is true but (R) is false",
+            "(D) (A) is false but (R) is true"
+          ],
+          "correct_answer": 4,
+          "correct_text": "(A) is false but (R) is true",
+          "unit": "Unit 8",
+          "topic": "8.3 Attitudes",
+          "subtopic": "Attitude Change",
+          "concept": "Cognitive Dissonance (Festinger) — psychological discomfort from inconsistent cognitions; dissonance ≠ hospitalization",
+          "era": "UGC",
+          "year": 2007,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 12,
+          "question": "Match List-I with List-II:\n\n| List-I | List-II |\n|---|---|\n| A. Oversimplified concepts | (i) stereotype |\n| B. Rule of thumb | (ii) prototype |\n| C. Mental grouping of a set of object | (iii) heuristics |\n| D. An example that corresponds most closely to the notion of a concept | (iv) concept |\n| | (v) archetypes |\n\n**Codes:**\n\n| | A | B | C | D |\n|---|---|---|---|---|\n| (A) | i | iii | iv | ii |\n| (B) | i | v | iii | iv |\n| (C) | ii | iii | v | i |\n| (D) | iii | ii | v | i |",
+          "options": [
+            "(A) A=i, B=iii, C=iv, D=ii",
+            "(B) A=i, B=v, C=iii, D=iv",
+            "(C) A=ii, B=iii, C=v, D=i",
+            "(D) A=iii, B=ii, C=v, D=i"
+          ],
+          "correct_answer": 1,
+          "correct_text": "A=i, B=iii, C=iv, D=ii",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Concept Formation",
+          "concept": "Stereotype-oversimplified, Heuristic-rule of thumb, Concept-mental grouping, Prototype-closest example",
+          "era": "UGC",
+          "year": 2007,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 13,
+          "question": "Which one of the following is not a kind of Neuron?",
+          "options": [
+            "(A) Sensory neurons",
+            "(B) Motor neurons",
+            "(C) Inter neurons",
+            "(D) Associative neurons"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Associative neurons",
+          "unit": "Unit 4",
+          "topic": "4.2 Neurons",
+          "subtopic": "Types of neurons",
+          "concept": "Three types of neurons: sensory, motor, interneurons — associative is not a standard type",
+          "era": "UGC",
+          "year": 2007,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 14,
+          "question": "A part of the brain involved in attention, sleep and arousal is:",
+          "options": [
+            "(A) Reticular activating system",
+            "(B) Thalamus",
+            "(C) Hypothalamus",
+            "(D) Medulla oblongata"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Reticular activating system",
+          "unit": "Unit 4",
+          "topic": "4.3 Nervous System",
+          "subtopic": "Brain structures",
+          "concept": "Reticular Activating System (RAS) — attention, sleep-wake cycle, arousal",
+          "era": "UGC",
+          "year": 2007,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 15,
+          "question": "Which of the following are true in case of instrumental conditioning?\n\n(i) Response is prior to reward\n(ii) No specific stimulus produces response\n(iii) Formerly neutral stimulus decides response\n(iv) Reward seeking behaviour is learned",
+          "options": [
+            "(A) (i), (iii) and (iv)",
+            "(B) (i), (ii) and (iv)",
+            "(C) (i), (ii) and (iii)",
+            "(D) (ii), (iii) and (iv)"
+          ],
+          "correct_answer": 2,
+          "correct_text": "(i), (ii) and (iv)",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Operant Conditioning",
+          "concept": "Instrumental/operant conditioning characteristics: response precedes reward, no specific stimulus, reward-seeking is learned",
+          "era": "UGC",
+          "year": 2007,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 16,
+          "question": "Match List-I with List-II:\n\n| List-I | List-II |\n|---|---|\n| A. Short-term memory | (i) Miller |\n| B. Long-term memory | (ii) Atkinson and Shiffrin |\n| C. Sensory memory | (iii) Sperling |\n| D. Working memory | (iv) Baddeley and Hitch |\n\n**Codes:**\n\n| | A | B | C | D |\n|---|---|---|---|---|\n| (A) | i | ii | iv | iii |\n| (B) | ii | iii | i | iv |\n| (C) | iv | i | iii | ii |\n| (D) | iii | iv | ii | i |",
+          "options": [
+            "(A) A=i, B=ii, C=iv, D=iii",
+            "(B) A=ii, B=iii, C=i, D=iv",
+            "(C) A=iv, B=i, C=iii, D=ii",
+            "(D) A=iii, B=iv, C=ii, D=i"
+          ],
+          "correct_answer": 1,
+          "correct_text": "A=i, B=ii, C=iv, D=iii",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Memory Models",
+          "concept": "Memory researchers: STM → Miller (7±2 capacity), LTM → Atkinson & Shiffrin (multi-store model), Sensory → Baddeley & Hitch, Working → Sperling",
+          "era": "UGC",
+          "year": 2007,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 17,
+          "question": "**Assertion (A):** People's appraisals of situations lead to the subjective experience of emotions.\n\n**Reason (R):** People's appraisal of general physiological arousal associated with the emotions do not result in subjective experience.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "(B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+            "(C) (A) is true but (R) is false",
+            "(D) (A) is false but (R) is true"
+          ],
+          "correct_answer": 3,
+          "correct_text": "(A) is true but (R) is false",
+          "unit": "Unit 7",
+          "topic": "7.3 Emotion",
+          "subtopic": "Theories of Emotion",
+          "concept": "Cognitive Appraisal theory (Lazarus) — appraisal leads to subjective emotion experience",
+          "era": "UGC",
+          "year": 2007,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 18,
+          "question": "The basic traits that make up the human personality according to Cattell are known as:",
+          "options": [
+            "(A) Cardinal Traits",
+            "(B) Central Traits",
+            "(C) Source Traits",
+            "(D) Surface Traits"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Source Traits",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Trait and Type Theories",
+          "concept": "Cattell's 16 source traits — the basic building blocks of personality",
+          "era": "UGC",
+          "year": 2007,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 19,
+          "question": "If you have to develop a test for a new concept which is the best method of ensuring the validity of that test?\n\n(i) Content\n(ii) Empirical/Criterion-related\n(iii) Convergent and discriminant\n(iv) Factorial",
+          "options": [
+            "(A) (i) and (iii)",
+            "(B) (i) and (ii)",
+            "(C) (iii) and (iv)",
+            "(D) (ii) and (iii)"
+          ],
+          "correct_answer": 1,
+          "correct_text": "(i) and (iii)",
+          "unit": "Unit 3",
+          "topic": "3.4 Validity",
+          "subtopic": "Validity",
+          "concept": "For new constructs: content validity + convergent and discriminant validity (construct validity)",
+          "era": "UGC",
+          "year": 2007,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 20,
+          "question": "Positively and negatively worded items are used in a test to avoid the following bias:",
+          "options": [
+            "(A) Social desirability response set",
+            "(B) Acquiescence response set",
+            "(C) Motivation distortion tendency",
+            "(D) Over self critical attitude"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Acquiescence response set",
+          "unit": "Unit 3",
+          "topic": "3.2 Test Construction",
+          "subtopic": "Item writing",
+          "concept": "Acquiescence bias — tendency to agree; countered by mixing positive and negative items",
+          "era": "UGC",
+          "year": 2007,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 21,
+          "question": "**Assertion (A):** There is no relationship between language and thought.\n\n**Reason (R):** Thought is possible without language.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "(B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+            "(C) (A) is true but (R) is false",
+            "(D) (A) is false but (R) is true"
+          ],
+          "correct_answer": 4,
+          "correct_text": "(A) is false but (R) is true",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Language and Thought",
+          "concept": "Language-thought relationship — thought possible without language but they are related (Whorf-Sapir)",
+          "era": "UGC",
+          "year": 2007,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 22,
+          "question": "External validity of research means that:",
+          "options": [
+            "(A) Other researchers also agree with the results",
+            "(B) The participants agree with the results",
+            "(C) The results were obtained in several studies",
+            "(D) The results are true to situations outside the research setting"
+          ],
+          "correct_answer": 4,
+          "correct_text": "The results are true to situations outside the research setting",
+          "unit": "Unit 2",
+          "topic": "2.5 Methods of Research",
+          "subtopic": "Experimental",
+          "concept": "External validity — generalizability of findings beyond the study setting",
+          "era": "UGC",
+          "year": 2007,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 23,
+          "question": "A set of ideas that fit together to provide a perspective on some aspect of the world is known as:",
+          "options": [
+            "(A) Hypothesis",
+            "(B) Theory",
+            "(C) Law",
+            "(D) Variable"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Theory",
+          "unit": "Unit 2",
+          "topic": "2.1 Foundations of Research",
+          "subtopic": "Research",
+          "concept": "Definition of theory — coherent set of ideas providing perspective",
+          "era": "UGC",
+          "year": 2007,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 24,
+          "question": "**Assertion (A):** In pattern recognition people take longer to differentiate between similar letters than dissimilar letters.\n\n**Reason (R):** Similar letters have many similar features.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "(B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+            "(C) (A) is true but (R) is false",
+            "(D) (A) is false but (R) is true"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Form Perception",
+          "concept": "Feature analysis in pattern recognition — similar letters share features, making discrimination harder",
+          "era": "UGC",
+          "year": 2007,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 25,
+          "question": "Match the items of List-I with those of List-II:\n\n| List-I | List-II |\n|---|---|\n| A. Long term memory | (i) Chunking |\n| B. Sensory memory | (ii) Entry of information from external world |\n| C. Attention | (iii) Information is stored after evaluation |\n| D. Short-term memory | (iv) Viewing people in a busy market |\n\n**Codes:**\n\n| | A | B | C | D |\n|---|---|---|---|---|\n| (A) | iii | iv | ii | i |\n| (B) | iii | ii | iv | i |\n| (C) | ii | iii | i | iv |\n| (D) | iv | iii | ii | i |",
+          "options": [
+            "(A) A=iii, B=iv, C=ii, D=i",
+            "(B) A=iii, B=ii, C=iv, D=i",
+            "(C) A=ii, B=iii, C=i, D=iv",
+            "(D) A=iv, B=iii, C=ii, D=i"
+          ],
+          "correct_answer": 2,
+          "correct_text": "A=iii, B=ii, C=iv, D=i",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Stages and Types",
+          "concept": "LTM-stored after evaluation, Sensory-entry from external world, Attention-viewing in busy market, STM-chunking",
+          "era": "UGC",
+          "year": 2007,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 26,
+          "question": "Psychologists use a wide variety of research methods. Which one is best?",
+          "options": [
+            "(A) Experimental study",
+            "(B) Correlational study",
+            "(C) Case studies",
+            "(D) There is no single best method"
+          ],
+          "correct_answer": 4,
+          "correct_text": "There is no single best method",
+          "unit": "Unit 2",
+          "topic": "2.5 Methods of Research",
+          "subtopic": "Research paradigms",
+          "concept": "No single best research method — method depends on research question",
+          "era": "UGC",
+          "year": 2007,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 27,
+          "question": "The main Neurotransmitters are:\n\n(i) Acetylcholine\n(ii) Dopamine\n(iii) Mescaline\n(iv) Nor adrenaline",
+          "options": [
+            "(A) (i), (ii), (iii) and (iv)",
+            "(B) (i) and (ii)",
+            "(C) (i), (ii) and (iii)",
+            "(D) (i), (ii) and (iv)"
+          ],
+          "correct_answer": 4,
+          "correct_text": "(i), (ii) and (iv)",
+          "unit": "Unit 4",
+          "topic": "4.2 Neurons",
+          "subtopic": "Neurotransmitters",
+          "concept": "Main neurotransmitters: ACh, Dopamine, Norepinephrine; Mescaline is a hallucinogen, not a neurotransmitter",
+          "era": "UGC",
+          "year": 2007,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 28,
+          "question": "Error variance can be minimized by:",
+          "options": [
+            "(A) Matching participants",
+            "(B) Proper measurement of the dependent variable",
+            "(C) Holding independent variable constant",
+            "(D) Randomization"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Randomization",
+          "unit": "Unit 2",
+          "topic": "2.1 Foundations of Research",
+          "subtopic": "Variables",
+          "concept": "Randomization minimizes error variance by distributing extraneous variables equally",
+          "era": "UGC",
+          "year": 2007,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 29,
+          "question": "**Assertion (A):** Other responses to frustration are possible besides aggression.\n\n**Reason (R):** Frustration is not the only cause of aggression.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "(B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+            "(C) (A) is true but (R) is false",
+            "(D) (A) is false but (R) is true"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+          "unit": "Unit 8",
+          "topic": "8.7 Prosocial Behavior and Aggression",
+          "subtopic": "Theories of Aggression",
+          "concept": "Frustration-Aggression Hypothesis — both statements true but R does not explain A",
+          "era": "UGC",
+          "year": 2007,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 30,
+          "question": "Match List-I with List-II to indicate which process is predominantly related to which task:\n\n| List-I | List-II |\n|---|---|\n| A. Multiple choice test | (i) Reproduction |\n| B. Listing the places related to Gandhi | (ii) Reconstruction |\n| C. Sharing the story of a cinema | (iii) Recall |\n| D. Essay type test | (iv) Recognition |\n\n**Codes:**\n\n| | A | B | C | D |\n|---|---|---|---|---|\n| (A) | i | iii | ii | iv |\n| (B) | iii | ii | iv | i |\n| (C) | ii | iii | i | iv |\n| (D) | iv | iii | ii | i |",
+          "options": [
+            "(A) A=i, B=iii, C=ii, D=iv",
+            "(B) A=iii, B=ii, C=iv, D=i",
+            "(C) A=ii, B=iii, C=i, D=iv",
+            "(D) A=iv, B=iii, C=ii, D=i"
+          ],
+          "correct_answer": 4,
+          "correct_text": "A=iv, B=iii, C=ii, D=i",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Retrieval",
+          "concept": "Multiple choice-recognition, Listing-recall, Sharing story-reconstruction, Essay-reproduction",
+          "era": "UGC",
+          "year": 2007,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 31,
+          "question": "\"Tall people tend to weigh more than short people.\" State what kind of correlation it is?",
+          "options": [
+            "(A) Negative",
+            "(B) Positive",
+            "(C) Zero",
+            "(D) No correlation"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Positive",
+          "unit": "Unit 2",
+          "topic": "2.6 Descriptive Statistics",
+          "subtopic": "Correlation",
+          "concept": "Positive correlation — as one variable increases, the other also increases",
+          "era": "UGC",
+          "year": 2007,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 32,
+          "question": "Fleeting facial expressions that may reveal individuals true emotional reactions to events or situations, are known as:",
+          "options": [
+            "(A) Facial expressions",
+            "(B) Facial management technique",
+            "(C) Macro expressions",
+            "(D) Micro expressions"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Micro expressions",
+          "unit": "Unit 7",
+          "topic": "7.3 Emotion",
+          "subtopic": "Nature and Components",
+          "concept": "Micro expressions — brief involuntary facial expressions revealing true emotions",
+          "era": "UGC",
+          "year": 2007,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 33,
+          "question": "Match List-I with List-II:\n\n| List-I | List-II |\n|---|---|\n| A. Cognitive development | (i) Kohlberg |\n| B. Psychological development | (ii) Piaget |\n| C. Contact comfort | (iii) Erickson |\n| D. Post conventional reasoning | (iv) Harlow |\n| | (v) Gilligan |\n\n**Codes:**\n\n| | A | B | C | D |\n|---|---|---|---|---|\n| (A) | iii | iv | i | ii |\n| (B) | i | iii | v | ii |\n| (C) | ii | iii | iv | i |\n| (D) | iv | ii | iii | v |",
+          "options": [
+            "(A) A=iii, B=iv, C=i, D=ii",
+            "(B) A=i, B=iii, C=v, D=ii",
+            "(C) A=ii, B=iii, C=iv, D=i",
+            "(D) A=iv, B=ii, C=iii, D=v"
+          ],
+          "correct_answer": 3,
+          "correct_text": "A=ii, B=iii, C=iv, D=i",
+          "unit": "Unit 9",
+          "topic": "9.2 Major Developmental Theories",
+          "subtopic": "Cognitive Development",
+          "concept": "Piaget-cognitive development, Erikson-psychosocial development, Harlow-contact comfort, Kohlberg-post conventional reasoning",
+          "era": "UGC",
+          "year": 2007,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 34,
+          "question": "Which theory says that the greater the gap between what we expect and what actually does happen in a situation, the greater the resulting arousal?",
+          "options": [
+            "(A) Discrepancy-evaluation theory",
+            "(B) Action and Reaction theory",
+            "(C) Opponent-process theory",
+            "(D) Two-factor theory"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Discrepancy-evaluation theory",
+          "unit": "Unit 7",
+          "topic": "7.3 Emotion",
+          "subtopic": "Theories of Emotion",
+          "concept": "Discrepancy-evaluation theory — arousal increases with gap between expectation and reality",
+          "era": "UGC",
+          "year": 2007,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 35,
+          "question": "A test item that is retained on the basis of its ability to make required distinctions is dependent on ________ approach to test construction:",
+          "options": [
+            "(A) Theoretical",
+            "(B) Rational",
+            "(C) Empirical",
+            "(D) Qualitative"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Empirical",
+          "unit": "Unit 3",
+          "topic": "3.2 Test Construction",
+          "subtopic": "Item analysis",
+          "concept": "Empirical criterion-keying approach — items retained based on ability to discriminate between groups",
+          "era": "UGC",
+          "year": 2007,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 36,
+          "question": "A preconceived assumption that the problem will be solved by means of a particular method or set of procedures is called:",
+          "options": [
+            "(A) Functional set",
+            "(B) Rule set",
+            "(C) Operational set",
+            "(D) Mental set"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Mental set",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Problem Solving",
+          "concept": "Mental set (Einstellung) — preconceived assumption about solution method",
+          "era": "UGC",
+          "year": 2007,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 37,
+          "question": "Human ear responds to frequencies between the range of:",
+          "options": [
+            "(A) 20 to 20,000 Hz",
+            "(B) 20 to 2000 Hz",
+            "(C) 20 to 200 Hz",
+            "(D) 200 to 20,000 Hz"
+          ],
+          "correct_answer": 1,
+          "correct_text": "20 to 20,000 Hz",
+          "unit": "Unit 4",
+          "topic": "4.1 Sensory Systems",
+          "subtopic": "Auditory system",
+          "concept": "Range of human hearing — 20 Hz to 20,000 Hz",
+          "era": "UGC",
+          "year": 2007,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 38,
+          "question": "Which one of the following is generally not used in the assessment of intelligence?",
+          "options": [
+            "(A) Group Tests",
+            "(B) Non-Verbal Tests",
+            "(C) Projective Tests",
+            "(D) Individual Tests"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Projective Tests",
+          "unit": "Unit 3",
+          "topic": "3.6 Types of Tests by Domain",
+          "subtopic": "Intelligence Tests",
+          "concept": "Projective tests assess personality, not intelligence; group, individual, and non-verbal tests measure intelligence",
+          "era": "UGC",
+          "year": 2007,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 39,
+          "question": "Guilford has divided intelligence at second order level:",
+          "options": [
+            "(A) Into two parts",
+            "(B) Into 120 parts",
+            "(C) Into more than a dozen parts",
+            "(D) Into seven parts"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Into 120 parts",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Theories of Intelligence",
+          "concept": "Guilford's Structure of Intellect — 120 (later 180) factors",
+          "era": "UGC",
+          "year": 2007,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 40,
+          "question": "**Assertion (A):** Basic research has no human relevance.\n\n**Reason (R):** Applied research has impacts on problems in the real life.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "(B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+            "(C) (A) is true but (R) is false",
+            "(D) (A) is false but (R) is true"
+          ],
+          "correct_answer": 4,
+          "correct_text": "(A) is false but (R) is true",
+          "unit": "Unit 2",
+          "topic": "2.1 Foundations of Research",
+          "subtopic": "Research",
+          "concept": "Basic research has human relevance; applied research impacts real-life problems — R is true, A is false",
+          "era": "UGC",
+          "year": 2007,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 41,
+          "question": "**Assertion (A):** During the incubation stage of problem solving the individual withdraws from the task for a period, and is then able to find the solution.\n\n**Reason (R):** During this period the individual intensively discusses the problem with the friends.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "(B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+            "(C) (A) is true but (R) is false",
+            "(D) (A) is false but (R) is true"
+          ],
+          "correct_answer": 3,
+          "correct_text": "(A) is true but (R) is false",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Problem Solving",
+          "concept": "Wallas's incubation stage — stepping away from problem, not intensive discussion",
+          "era": "UGC",
+          "year": 2007,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 42,
+          "question": "There are five subjects in performance battery of WAIS. Identify the correct order in which they are administered:",
+          "options": [
+            "(A) Digit Symbol (DS), Picture Completion (PC), Block Design (BD), Object Assembly (OS), Picture Arrangement (PA)",
+            "(B) PC, BD, OS, PA, DS",
+            "(C) DS, PC, BD, PA, OS",
+            "(D) OS, PC, PA, BD, DS"
+          ],
+          "correct_answer": 3,
+          "correct_text": "DS, PC, BD, PA, OS",
+          "unit": "Unit 3",
+          "topic": "3.6 Types of Tests by Domain",
+          "subtopic": "Intelligence Tests",
+          "concept": "WAIS (1955) performance subtest order: Digit Symbol → Picture Completion → Block Design → Picture Arrangement → Object Assembly",
+          "era": "UGC",
+          "year": 2007,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 43,
+          "question": "Match List-I with List-II:\n\n| List-I | List-II |\n|---|---|\n| A. Non Parametric ANOVA | (i) Tuckey's Test |\n| B. Factorial Design | (ii) t-Test |\n| C. Standard Error of mean difference | (iii) Interaction effect |\n| D. Nominal Variables | (iv) Friedman |\n| | (v) X² |\n\n**Codes:**\n\n| | A | B | C | D |\n|---|---|---|---|---|\n| (A) | i | iii | ii | iv |\n| (B) | iii | ii | iv | i |\n| (C) | ii | iii | i | iv |\n| (D) | iv | iii | ii | i |",
+          "options": [
+            "(A) A=i, B=iii, C=ii, D=iv",
+            "(B) A=iii, B=ii, C=iv, D=i",
+            "(C) A=ii, B=iii, C=i, D=iv",
+            "(D) A=iv, B=iii, C=ii, D=v"
+          ],
+          "correct_answer": 4,
+          "correct_text": "A=iv, B=iii, C=ii, D=v",
+          "unit": "Unit 2",
+          "topic": "2.7 Inferential Statistics",
+          "subtopic": "Non-Parametric Tests",
+          "concept": "Friedman-Non parametric ANOVA, Factorial design-interaction effect, Standard error-t-test, Nominal variables-chi-square",
+          "era": "UGC",
+          "year": 2007,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 44,
+          "question": "**Assertion (A):** People having Thyroid gland problems suffer from poor health.\n\n**Reason (R):** People do not take Iodized salt.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "(B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+            "(C) (A) is true but (R) is false",
+            "(D) (A) is false but (R) is true"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+          "unit": "Unit 4",
+          "topic": "4.5 Endocrine System",
+          "subtopic": "Thyroid",
+          "concept": "Thyroid problems and health; iodized salt is one cause but not the only one",
+          "era": "UGC",
+          "year": 2007,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 45,
+          "question": "Match List-I with List-II:\n\n| List-I | List-II |\n|---|---|\n| (Hypothalamus) | (Functions) |\n| A. Ventromedial hypothalamus | (i) Over eating |\n| B. Lateral hypothalamus | (ii) Starvation |\n| C. Lateral hypothalamus damage | (iii) Starting of eating centre |\n| D. Ventromedial hypothalamus damage | (iv) Stopping of eating centre |\n\n**Codes:**\n\n| | A | B | C | D |\n|---|---|---|---|---|\n| (A) | iv | iii | ii | i |\n| (B) | iii | ii | iv | i |\n| (C) | i | iii | ii | iv |\n| (D) | ii | iii | i | iv |",
+          "options": [
+            "(A) A=iv, B=iii, C=ii, D=i",
+            "(B) A=iii, B=ii, C=iv, D=i",
+            "(C) A=i, B=iii, C=ii, D=iv",
+            "(D) A=ii, B=iii, C=i, D=iv"
+          ],
+          "correct_answer": 1,
+          "correct_text": "A=iv, B=iii, C=ii, D=i",
+          "unit": "Unit 4",
+          "topic": "4.3 Nervous System",
+          "subtopic": "Brain structures",
+          "concept": "VMH-stopping eating, Lateral hypothalamus-starting eating, Lateral damage-starvation, VMH damage-over eating",
+          "era": "UGC",
+          "year": 2007,
+          "passage_ref": null,
+          "table_ref": null
+        }
+      ]
+    },
+    {
+      "type": "passage",
+      "id": "passage_46",
+      "heading": "Read the following passage carefully and answer questions from 46 to 50:",
+      "text": "Of all the factors that influence behaviour and attitudes, society and culture the most comprehensive. Most people rarely or never escape these influences. Cultural and social norms prescribe both the large and small conditions of our life. Cultural values and norms come to govern individual behaviour through the process known as Socialization. For most children in most cultures, the first agent of socialization is the family which teaches the society's basic modes of behaviour. Institutions like schools are also early agents of socialization and train children in some of the basic skills required for survival in the society. Both the family and the school transmit some of the culture's dominant values and practices, whether these consist of monotheism or polytheism, competition or cooperation, monogamy or polygamy, achievement or traditionalism.\n\nWithout the process of socialization, societies would not endure in any consistent form. Socialization makes it likely that each new generation, though different in some ways, will still bear a strong resemblance to previous generation. It increases the probability that you will have more in common with your parents than with someone from another country. The anthropologist Ralph Lintor was referring to socialization when he said, \"The individual is only an incident in the life history of his society.\""
+    },
+    {
+      "type": "questions_block",
+      "range": "Q46–Q50",
+      "passage_ref": "passage_46",
+      "questions": [
+        {
+          "id": 46,
+          "question": "This passage shows that behaviour is influenced by:",
+          "options": [
+            "(A) Genealogy",
+            "(B) Cultural–social norms",
+            "(C) Educational norms",
+            "(D) Work–environment"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Cultural–social norms",
+          "unit": "Unit 8",
+          "topic": "8.1 Nature, Scope, and History",
+          "subtopic": "Social influence",
+          "concept": "Cultural and social norms influence behaviour and attitudes",
+          "era": "UGC",
+          "year": 2007,
+          "passage_ref": "passage_46",
+          "table_ref": null
+        },
+        {
+          "id": 47,
+          "question": "Which one of the following is the most important agent of socialization?",
+          "options": [
+            "(A) Family",
+            "(B) School",
+            "(C) Community",
+            "(D) Society"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Family",
+          "unit": "Unit 9",
+          "topic": "9.1 Principles of Development",
+          "subtopic": "Developmental influences",
+          "concept": "Family as first and most important agent of socialization",
+          "era": "UGC",
+          "year": 2007,
+          "passage_ref": "passage_46",
+          "table_ref": null
+        },
+        {
+          "id": 48,
+          "question": "Which one of the following is not transmitted socio–culturally?",
+          "options": [
+            "(A) Competition or cooperation",
+            "(B) Monogamy or polygamy",
+            "(C) Achievement or traditionalism",
+            "(D) Dominant or recessive"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Dominant or recessive",
+          "unit": "Unit 4",
+          "topic": "4.6 Genetics and Behavior",
+          "subtopic": "Genetics",
+          "concept": "Dominant/recessive are genetic terms, not socio-culturally transmitted values",
+          "era": "UGC",
+          "year": 2007,
+          "passage_ref": "passage_46",
+          "table_ref": null
+        },
+        {
+          "id": 49,
+          "question": "Which one of the following is important for consistency in societies?",
+          "options": [
+            "(A) Globalization",
+            "(B) Socialization",
+            "(C) Modernization",
+            "(D) Urbanization"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Socialization",
+          "unit": "Unit 8",
+          "topic": "8.1 Nature, Scope, and History",
+          "subtopic": "Social influence",
+          "concept": "Socialization ensures consistency across generations in societies",
+          "era": "UGC",
+          "year": 2007,
+          "passage_ref": "passage_46",
+          "table_ref": null
+        },
+        {
+          "id": 50,
+          "question": "According to Ralph Linton the place of a person in the history of his society is:",
+          "options": [
+            "(A) Less important",
+            "(B) A non issue",
+            "(C) Most important",
+            "(D) Dependent on society"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Less important",
+          "unit": "Unit 8",
+          "topic": "8.1 Nature, Scope, and History",
+          "subtopic": "Social influence",
+          "concept": "Linton's view: individual is 'only an incident' — individual's place is less important than society",
+          "era": "UGC",
+          "year": 2007,
+          "passage_ref": "passage_46",
+          "table_ref": null
+        }
+      ]
+    }
+  ]
+}

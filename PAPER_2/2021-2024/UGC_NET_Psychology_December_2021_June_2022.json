@@ -1,0 +1,2055 @@
+{
+  "paper_metadata": {
+    "title": "UGC NET/JRF Examination, December 2021 - June 2022",
+    "date": "December 2021 - June 2022",
+    "subject": "Psychology — Paper II"
+  },
+  "content": [
+    {
+      "type": "questions_block",
+      "range": "Q1–Q90",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Computer assisted testing is principally based on _______.",
+          "options": [
+            "(A) Item response theory",
+            "(B) Efficiency of modern computers",
+            "(C) Emphasis on internal consistency",
+            "(D) Compatibility between manual and computerized scoring"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Item response theory",
+          "unit": "Unit 3",
+          "topic": "3.1 Principles of Testing",
+          "subtopic": "Computer Assisted Testing",
+          "concept": "Computer assisted testing (CAT) is fundamentally based on Item Response Theory (IRT), which models the probability of a correct response as a function of the item's properties and the examinee's ability level. IRT enables adaptive testing where items are selected based on the test-taker's estimated ability.",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 2,
+          "question": "Identify the plausible logic for the introduction of deviation IQ.",
+          "options": [
+            "(A) Level of ratio IQ varies with age",
+            "(B) Ratio IQ is not measured on interval scale",
+            "(C) SD of ratio IQ varies scale-to-scale",
+            "(D) Comparison of ratio IQ at different age levels is not possible as SD of IQ is not constant over age"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Comparison of ratio IQ at different age levels is not possible as SD of IQ is not constant over age",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Measurement of Intelligence",
+          "concept": "Deviation IQ was introduced because the ratio IQ (MA/CA × 100) had a standard deviation that varied with age, making comparisons across age groups meaningless. Deviation IQ (Wechsler) standardizes scores with a mean of 100 and SD of 15 at every age level.",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 3,
+          "question": "At which difficulty level (pass proportion) the item can make highest differentiation?",
+          "options": [
+            "(A) 0.35",
+            "(B) 0.50",
+            "(C) 0.75",
+            "(D) 0.25"
+          ],
+          "correct_answer": 2,
+          "correct_text": "0.50",
+          "unit": "Unit 3",
+          "topic": "3.2 Test Construction",
+          "subtopic": "Item Analysis",
+          "concept": "An item with a difficulty index (p) of 0.50 maximizes discrimination because it differentiates most effectively between high and low ability groups. At p = 0.50, the item variance is at its maximum (p × q = 0.25).",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 4,
+          "question": "Which components of psychoneuro immunological system is not effected by glucocorticoids?",
+          "options": [
+            "(A) Posterior pituitary",
+            "(B) T-cells",
+            "(C) B-cells",
+            "(D) Hippocampal neurons"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Posterior pituitary",
+          "unit": "Unit 10",
+          "topic": "10.7 Health Psychology",
+          "subtopic": "Psychoneuroimmunology",
+          "concept": "Glucocorticoids (cortisol) suppress T-cells and B-cells (immune function) and cause hippocampal neuron degeneration under chronic stress. The posterior pituitary, which secretes oxytocin and vasopressin, is not directly affected by glucocorticoids.",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 5,
+          "question": "When an experimenter wishes to ensure equal representation of a highly correlated variable with dependent variable at all levels of independent variable, he/she should use design.",
+          "options": [
+            "(A) Repeated measures",
+            "(B) Randomized groups",
+            "(C) Latin Square",
+            "(D) Randomized block"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Randomized block",
+          "unit": "Unit 2",
+          "topic": "2.5 Methods of Research",
+          "subtopic": "Experimental Design",
+          "concept": "Randomized block design is used when a researcher wants to control for a nuisance variable (blocking variable) that is highly correlated with the dependent variable. By creating homogeneous blocks and then randomly assigning treatments within each block, the experimenter ensures equal representation of the confounding variable across treatment conditions.",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 6,
+          "question": "The type of psychological tests in which validation criterion is the performance in specialized training is ___",
+          "options": [
+            "(A) Achievement",
+            "(B) Attitude",
+            "(C) Aptitude",
+            "(D) Intelligence"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Aptitude",
+          "unit": "Unit 3",
+          "topic": "3.6 Types of Tests by Domain",
+          "subtopic": "Aptitude Tests",
+          "concept": "Aptitude tests are validated against performance in specialized training or future learning situations. They predict an individual's potential to learn or perform in a specific domain, unlike achievement tests which measure what has already been learned.",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 7,
+          "question": "Identify the theorist who has stated the following: \"When we go beyond individualization, we will be the true person. The ego was helpful, now the ego is an obstacle.\"",
+          "options": [
+            "(A) Carl Rogers",
+            "(B) Abraham Maslow",
+            "(C) Sri Aurobindo",
+            "(D) Carl G. Jung"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Carl G. Jung",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Neo-Freudian Theories",
+          "concept": "Jung's concept of individuation involves transcending the ego to achieve the Self. He viewed the ego as necessary for development initially but ultimately an obstacle to wholeness. Going 'beyond individualization' to become the 'true person' reflects Jung's idea of the individuation process toward the Self archetype.",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 8,
+          "question": "Indigenization of research was proposed for.",
+          "options": [
+            "(A) The promotion of native culture",
+            "(B) Overcoming difficulty in establishing reliability",
+            "(C) Overcoming difficulty in explaining a phenomenon of a given culture",
+            "(D) Ensuring objectivity in research"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Overcoming difficulty in explaining a phenomenon of a given culture",
+          "unit": "Unit 1",
+          "topic": "1.4 Academic Psychology in India",
+          "subtopic": "Indigenization",
+          "concept": "Indigenization of research was proposed to address the limitations of Western psychological frameworks in explaining phenomena within specific cultural contexts. Scholars like Durganand Sinha advocated for culturally grounded research methods and concepts.",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 9,
+          "question": "Myelin sheath which insulates most axons in CNS is produced by ___",
+          "options": [
+            "(A) Oligodendrocytes",
+            "(B) Schwann cells",
+            "(C) Microglia",
+            "(D) Astrocytes"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Oligodendrocytes",
+          "unit": "Unit 4",
+          "topic": "4.2 Neurons",
+          "subtopic": "Glial Cells",
+          "concept": "Oligodendrocytes produce the myelin sheath in the Central Nervous System (CNS). In the Peripheral Nervous System (PNS), Schwann cells produce myelin. Each oligodendrocyte can myelinate multiple axons, while each Schwann cell myelinates only one segment of one axon.",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 10,
+          "question": "The largest structure in the Limbic System is the ______",
+          "options": [
+            "(A) Hippocampus",
+            "(B) Cingulate gyrus",
+            "(C) Fornix",
+            "(D) Amygdala"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Cingulate gyrus",
+          "unit": "Unit 4",
+          "topic": "4.3 Nervous System",
+          "subtopic": "Limbic System",
+          "concept": "The cingulate gyrus is the largest structure in the limbic system. It arches over the corpus callosum and is involved in emotion formation and processing, learning, memory, and regulating autonomic functions.",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 11,
+          "question": "The human retina contains approximately ______",
+          "options": [
+            "(A) Six million rods",
+            "(B) One hundred twenty million cones",
+            "(C) Six million cones and 120 million rods",
+            "(D) Six million rods and 120 million cones"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Six million cones and 120 million rods",
+          "unit": "Unit 4",
+          "topic": "4.1 Sensory Systems",
+          "subtopic": "Vision",
+          "concept": "The human retina contains approximately 6 million cones (color vision, bright light, concentrated in fovea) and 120 million rods (dim light, peripheral vision, achromatic). Rods far outnumber cones, reflecting the evolutionary importance of scotopic (low-light) vision.",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 12,
+          "question": "An EEG record during NREM sleep shows ______ waves",
+          "options": [
+            "(A) Delta",
+            "(B) Alpha",
+            "(C) Theta",
+            "(D) Beta"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Delta",
+          "unit": "Unit 4",
+          "topic": "4.3 Nervous System",
+          "subtopic": "Sleep and Brain Waves",
+          "concept": "During NREM (Non-Rapid Eye Movement) sleep, particularly in stages 3 and 4 (deep sleep), the EEG shows slow, high-amplitude delta waves (0.5-4 Hz). Alpha waves occur during relaxed wakefulness, beta during active thinking, and theta during light sleep (stage 1).",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 13,
+          "question": "One of the primary objectives for developing first Wechsler Intelligence Scales was to.",
+          "options": [
+            "(A) Meet the need of an effective adult scale",
+            "(B) Provide a test with increased face validity",
+            "(C) Develop widely acceptable scale for children",
+            "(D) Have scale with emphasis on speed component"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Meet the need of an effective adult scale",
+          "unit": "Unit 3",
+          "topic": "3.6 Types of Tests by Domain",
+          "subtopic": "Intelligence Tests",
+          "concept": "David Wechsler developed the Wechsler-Bellevue Intelligence Scale (1939) primarily because the Stanford-Binet was designed for children and had limitations for adult assessment. Wechsler wanted a scale specifically suited for measuring adult intelligence with both verbal and performance subtests.",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 14,
+          "question": "A researcher interested to verify the effect of three independent variables on two dependant variables, shall use ______ for data analysis.",
+          "options": [
+            "(A) ANOVA",
+            "(B) ANCOVA",
+            "(C) MANCOVA",
+            "(D) MANOVA"
+          ],
+          "correct_answer": 4,
+          "correct_text": "MANOVA",
+          "unit": "Unit 2",
+          "topic": "2.7 Inferential Statistics",
+          "subtopic": "Advanced Techniques",
+          "concept": "MANOVA (Multivariate Analysis of Variance) is used when there are multiple dependent variables. With 3 IVs and 2 DVs, MANOVA simultaneously tests the effect of IVs on all DVs while accounting for correlations between the dependent variables.",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 15,
+          "question": "The process by which we translate sensory information into a meaningful representation that we process is known as _______.",
+          "options": [
+            "(A) Semantic encoding",
+            "(B) Episodic decoding",
+            "(C) Propositional representation",
+            "(D) Pragmatic representation"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Semantic encoding",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Encoding Processes",
+          "concept": "Semantic encoding is the process of translating sensory input into meaningful representations by focusing on the meaning of information. It is the deepest level of processing according to Craik and Lockhart's levels of processing framework, leading to the best retention.",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 16,
+          "question": "Which of these is not one of the Gestalt principle of visual organization?",
+          "options": [
+            "(A) Similarity",
+            "(B) Proximity",
+            "(C) Lateralization",
+            "(D) Common fate"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Lateralization",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Gestalt Principles",
+          "concept": "Lateralization refers to hemispheric specialization of the brain (left vs. right hemisphere functions) and is not a Gestalt principle. The Gestalt principles of perceptual organization include Similarity, Proximity, Continuity, Closure, Common Fate, and Prägnanz (simplicity).",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 17,
+          "question": "The somatic nervous system functions with the help of _______ nerves.",
+          "options": [
+            "(A) Cranial",
+            "(B) Spinal",
+            "(C) Cranial and Spinal",
+            "(D) Ganglionic neurons and cranial"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Cranial and Spinal",
+          "unit": "Unit 4",
+          "topic": "4.3 Nervous System",
+          "subtopic": "Peripheral Nervous System",
+          "concept": "The somatic nervous system, which controls voluntary movements and receives sensory information, functions through both cranial nerves (12 pairs originating from the brain) and spinal nerves (31 pairs originating from the spinal cord).",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 18,
+          "question": "Positivist paradigm subscribes to.",
+          "options": [
+            "(A) Social construction of reality",
+            "(B) Observer independent reality",
+            "(C) Phenomenological analysis of reality",
+            "(D) Maintaining positivity in research"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Observer independent reality",
+          "unit": "Unit 1",
+          "topic": "1.3 Knowledge Paradigms",
+          "subtopic": "Positivism",
+          "concept": "Positivism holds that reality exists independently of the observer and can be objectively measured and known. It rejects the idea that reality is socially constructed (constructionism) or that subjective experience is the primary source of knowledge (phenomenology).",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 19,
+          "question": "Social constructionist approach would allow cultural _______",
+          "options": [
+            "(A) Invariance",
+            "(B) Homogeneity",
+            "(C) Hegemony",
+            "(D) Diversity"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Diversity",
+          "unit": "Unit 1",
+          "topic": "1.3 Knowledge Paradigms",
+          "subtopic": "Social Constructionism",
+          "concept": "Social constructionism holds that knowledge and reality are created through social interaction and cultural context. This paradigm inherently supports cultural diversity, recognizing that different cultures construct different meanings and understandings of the world.",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 20,
+          "question": "Sensation seeking among adolescents is best described by _______.",
+          "options": [
+            "(A) Low self regulation",
+            "(B) Looking for noval experiences",
+            "(C) Risk taking",
+            "(D) Socializing"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Looking for noval experiences",
+          "unit": "Unit 7",
+          "topic": "7.2 Motivation",
+          "subtopic": "Sensation Seeking",
+          "concept": "Zuckerman's sensation seeking trait is defined as the need for varied, novel, complex, and intense sensations and experiences, and the willingness to take risks for such experiences. The core defining feature is the seeking of novel experiences, with risk-taking being one component.",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 21,
+          "question": "What type of question the following is in a questionnaire? \"Why did you go to cinema last night?\"",
+          "options": [
+            "(A) Knowledge",
+            "(B) Motivation",
+            "(C) Factual",
+            "(D) Opinion"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Motivation",
+          "unit": "Unit 2",
+          "topic": "2.5 Methods of Research",
+          "subtopic": "Survey Research",
+          "concept": "The question 'Why did you go to cinema?' asks about the reason or motive behind an action. It seeks to understand the driving force or purpose, making it a motivation-type question rather than a factual (what/when/where), knowledge (testing information), or opinion (what do you think) question.",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 22,
+          "question": "The critical perspective on research does not subscribe to the view that.",
+          "options": [
+            "(A) Research has to smash myths and empower people to change society.",
+            "(B) Reality is stable and subject to natural laws.",
+            "(C) Research has to be informed by a theory that unveils illusion.",
+            "(D) Research must expose false beliefs that hide power and objective conditions."
+          ],
+          "correct_answer": 2,
+          "correct_text": "Reality is stable and subject to natural laws.",
+          "unit": "Unit 1",
+          "topic": "1.3 Knowledge Paradigms",
+          "subtopic": "Critical Perspective",
+          "concept": "The critical research perspective rejects the positivist notion that reality is stable and governed by immutable natural laws. Instead, critical theorists view reality as shaped by social, political, cultural, economic, and gender values, and see research as a tool for emancipation and social change.",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 23,
+          "question": "A researcher using a group of ten subjects under four conditions repeatedly, what will be degree of freedom for the error terms?",
+          "options": [
+            "(A) 9",
+            "(B) 27",
+            "(C) 36",
+            "(D) 39"
+          ],
+          "correct_answer": 2,
+          "correct_text": "27",
+          "unit": "Unit 2",
+          "topic": "2.7 Inferential Statistics",
+          "subtopic": "Degrees of Freedom",
+          "concept": "In a repeated measures design with n=10 subjects and k=4 conditions: Total df = nk - 1 = 39; Between subjects df = n - 1 = 9; Between conditions df = k - 1 = 3; Error df = (n-1)(k-1) = 9 × 3 = 27.",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 24,
+          "question": "Psychological research does not allow one of the following activities.",
+          "options": [
+            "(A) Debriefing the participants",
+            "(B) Maintaining confidentiality",
+            "(C) Non granting permission to withdraw from research process",
+            "(D) Obtaining consent to conduct the research"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Non granting permission to withdraw from research process",
+          "unit": "Unit 2",
+          "topic": "2.8 Research Ethics",
+          "subtopic": "Participant Rights",
+          "concept": "According to APA ethical principles, participants have the right to withdraw from research at any time without penalty. Refusing permission to withdraw violates the principle of respect for persons and informed consent. Debriefing, confidentiality, and obtaining consent are all ethical requirements.",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 25,
+          "question": "In a normally distributed group, an examinee scores one SD above the mean. What shall be her/his percentile score?",
+          "options": [
+            "(A) 34",
+            "(B) 68",
+            "(C) 84",
+            "(D) 51"
+          ],
+          "correct_answer": 3,
+          "correct_text": "84",
+          "unit": "Unit 2",
+          "topic": "2.6 Descriptive Statistics",
+          "subtopic": "Z-scores and Percentile Ranks",
+          "concept": "In a normal distribution, one SD above the mean corresponds to a z-score of +1.0. The area below z = +1.0 is approximately 84.13% (50% below mean + 34.13% between mean and +1 SD), giving a percentile rank of approximately 84.",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 26,
+          "question": "Which one of the following statements does not apply to normal probability curve?",
+          "options": [
+            "(A) It is bilaterally symmetrical",
+            "(B) It is bell shaped",
+            "(C) It's skewness is zero",
+            "(D) It's kurtosis is zero"
+          ],
+          "correct_answer": 4,
+          "correct_text": "It's kurtosis is zero",
+          "unit": "Unit 2",
+          "topic": "2.6 Descriptive Statistics",
+          "subtopic": "Normal Distribution",
+          "concept": "The normal distribution has zero skewness (symmetrical) and is bell-shaped and bilaterally symmetrical. However, its kurtosis is 3 (mesokurtic), not zero. A kurtosis of zero would describe a different reference point (some software uses excess kurtosis where normal = 0, but standard kurtosis of normal distribution is 3).",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 27,
+          "question": "Qualitative research can follow several approaches to knowledge. Identify one which is contrary to the assumptions of qualitative research.",
+          "options": [
+            "(A) Realist",
+            "(B) Positivist",
+            "(C) Social Constructionist",
+            "(D) Phenomenological"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Positivist",
+          "unit": "Unit 1",
+          "topic": "1.3 Knowledge Paradigms",
+          "subtopic": "Qualitative Research Paradigms",
+          "concept": "Positivism is contrary to qualitative research assumptions because it emphasizes objective, measurable reality, hypothesis testing, and generalizable findings using quantitative methods. Qualitative research aligns with constructivist, phenomenological, and social constructionist approaches that value subjective meaning and context.",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 28,
+          "question": "________ is a measure of dispersion that considers all the scores.",
+          "options": [
+            "(A) Range",
+            "(B) Quartile deviation",
+            "(C) Average deviation",
+            "(D) Inter-quartile range"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Average deviation",
+          "unit": "Unit 2",
+          "topic": "2.6 Descriptive Statistics",
+          "subtopic": "Measures of Dispersion",
+          "concept": "Average deviation (mean absolute deviation) considers every score in the distribution by computing the average of absolute deviations from the mean. Range only uses two scores, while quartile deviation and inter-quartile range only use the middle 50% of scores.",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 29,
+          "question": "By what symbol the standardized regression coefficient is usually depicted?",
+          "options": [
+            "(A) β",
+            "(B) b",
+            "(C) R",
+            "(D) K"
+          ],
+          "correct_answer": 1,
+          "correct_text": "β",
+          "unit": "Unit 2",
+          "topic": "2.7 Inferential Statistics",
+          "subtopic": "Regression Analysis",
+          "concept": "The standardized regression coefficient is represented by β (beta). It indicates the change in the dependent variable (in SD units) for a one SD change in the predictor. The unstandardized coefficient is represented by 'b', R represents the multiple correlation coefficient.",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 30,
+          "question": "As per threshold hypothesis there exists _______.",
+          "options": [
+            "(A) Modest positive relationship between intelligence and creativity when IQ is above the threshold.",
+            "(B) Modest positive relationship between intelligence and creativity when IQ is below the threshold.",
+            "(C) Weak positive relationship between intelligence and creativity when IQ is below the threshold.",
+            "(D) Weak positive relationship between intelligence and creativity when IQ is above the threshold."
+          ],
+          "correct_answer": 2,
+          "correct_text": "Modest positive relationship between intelligence and creativity when IQ is below the threshold.",
+          "unit": "Unit 6",
+          "topic": "6.3 Creativity",
+          "subtopic": "Intelligence-Creativity Relationship",
+          "concept": "The threshold hypothesis (proposed by Guilford and supported by later research) states that intelligence and creativity are positively correlated up to a certain IQ threshold (approximately IQ 120), after which the relationship becomes negligible. Below the threshold, there is a modest positive relationship.",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 31,
+          "question": "Gardner's theory of intelligence posits that a person who is introspective, self reflective, understands the strengths and weaknesses tends to have higher level of _____.",
+          "options": [
+            "(A) Intrapersonal intelligence",
+            "(B) Naturalist intelligence",
+            "(C) Interpersonal intelligence",
+            "(D) Linguistic intelligence"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Intrapersonal intelligence",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Multiple Intelligences",
+          "concept": "Gardner's intrapersonal intelligence involves self-awareness, introspection, self-reflection, and understanding one's own strengths, weaknesses, emotions, and motivations. It is distinct from interpersonal intelligence, which involves understanding others.",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 32,
+          "question": "Crystallized intelligence includes _____.",
+          "options": [
+            "(A) Learned knowledge and skills",
+            "(B) Novel ideas",
+            "(C) Divergent thinking",
+            "(D) Emotional skills"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Learned knowledge and skills",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Fluid and Crystallized Intelligence",
+          "concept": "Cattell and Horn's crystallized intelligence (Gc) refers to accumulated knowledge, skills, and abilities acquired through education and experience. It tends to increase with age. Fluid intelligence (Gf) involves novel reasoning and problem-solving independent of prior knowledge.",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 33,
+          "question": "The 'Product' approach to creativity primarily focuses on.",
+          "options": [
+            "(A) What type of people are creative?",
+            "(B) How does environment shape creativity?",
+            "(C) How do people arrive at creative ideas?",
+            "(D) What is considered to be creative?"
+          ],
+          "correct_answer": 4,
+          "correct_text": "What is considered to be creative?",
+          "unit": "Unit 6",
+          "topic": "6.3 Creativity",
+          "subtopic": "Approaches to Creativity",
+          "concept": "The product approach to creativity focuses on the creative output itself — evaluating what makes a product or idea creative. It examines the characteristics of creative works (novelty, usefulness, appropriateness) rather than the person (trait approach), process (cognitive approach), or environment (press approach).",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 34,
+          "question": "A bell was sounded by Pavlov and then two minutes later a plate of meat powder was presented to the dog. We would term this arrangement as ______ condition.",
+          "options": [
+            "(A) Delay",
+            "(B) Trace",
+            "(C) Backward",
+            "(D) Forward"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Trace",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Classical Conditioning",
+          "concept": "In trace conditioning, the CS (bell) is presented and terminated before the US (meat powder) is presented, leaving a time gap (trace interval) between them. Here the bell ends and 2 minutes later food appears, creating a trace interval. In delay conditioning, CS and US overlap; in forward conditioning, CS precedes US with overlap; in backward conditioning, US precedes CS.",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 35,
+          "question": "Emotionally arousing stimuli have also found to lead to amnesia, even though no physical damage to brain structure related to memory have occurred. This refers to ______",
+          "options": [
+            "(A) Non verbal cue-utilization",
+            "(B) Retrograde amnesia",
+            "(C) Confabulations",
+            "(D) Flashbulb memory repression"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Retrograde amnesia",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Emotional Memory",
+          "concept": "Emotionally arousing stimuli can lead to retrograde amnesia — memory loss for events preceding the emotional stimulus — even in the absence of physical brain damage. This is known as emotion-induced retrograde amnesia, where emotional arousal impairs the encoding/consolidation of preceding neutral information, distinct from flashbulb memory (which enhances memory for emotional events).",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 36,
+          "question": "The process of Chunking permits us to.",
+          "options": [
+            "(A) Extend the duration of sensory memory",
+            "(B) Transfer information into LTM",
+            "(C) Expand the capacity of our STM",
+            "(D) Expand the capacity of our LTM"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Expand the capacity of our STM",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Short-Term Memory",
+          "concept": "Chunking allows us to group individual items into larger meaningful units, effectively expanding STM capacity from approximately 7±2 individual items to 7±2 chunks. Miller (1956) demonstrated that STM capacity is limited to about 7 chunks, regardless of how much information each chunk contains.",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 37,
+          "question": "Psychologists define ______ as a long lasting change in behaviour induced by experience.",
+          "options": [
+            "(A) Education",
+            "(B) Maturation",
+            "(C) Learning",
+            "(D) Creativity"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Learning",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Definition of Learning",
+          "concept": "Learning is defined as a relatively permanent change in behavior (or behavioral potential) resulting from experience or practice. It is distinguished from maturation (biological changes) and temporary changes (fatigue, drugs). Education is a broader term encompassing instruction and learning.",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 38,
+          "question": "Today employees are required to work in teams as it is believed that performance will be better in teams. This is because in a team.",
+          "options": [
+            "(A) Social facilitation occurs",
+            "(B) Social loafing occurs",
+            "(C) Motivation loss is low",
+            "(D) People are more attentive"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Social facilitation occurs",
+          "unit": "Unit 8",
+          "topic": "8.4 Social Influence",
+          "subtopic": "Social Facilitation",
+          "concept": "Social facilitation (Zajonc, 1965) refers to the tendency for people to perform better on simple or well-learned tasks in the presence of others. The idea that team performance will be better is based on the social facilitation effect, where the presence of co-actors or an audience enhances dominant responses.",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 39,
+          "question": "Which of the following statements reflects the argument made by cognitive social learning theory?",
+          "options": [
+            "(A) Self regulation is more important than advanced reasoning",
+            "(B) Social construction is the way children learn morality",
+            "(C) Humans since long had capacity to develop moral behaviour",
+            "(D) Humans are born with innate disposition shaped by our genes"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Self regulation is more important than advanced reasoning",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Social-Cognitive Approach",
+          "concept": "Bandura's social cognitive theory explicitly argues that morality is rooted in self-regulation rather than abstract moral reasoning. This is a direct contrast with Kohlberg's stage theory. Bandura (1991) states morality is rooted in self-regulation, not reasoning. The self-regulatory mechanisms (self-monitoring, judgment, self-reaction) govern moral conduct.",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 40,
+          "question": "The 'Robber's Cave' experiment by Sherif showed the value of ______ in reducing prejudice.",
+          "options": [
+            "(A) Contact",
+            "(B) Superordinate goals",
+            "(C) Subordinate goals",
+            "(D) Stereotypes"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Superordinate goals",
+          "unit": "Unit 8",
+          "topic": "8.6 Intergroup Relations",
+          "subtopic": "Realistic Conflict Theory",
+          "concept": "Sherif's Robbers Cave experiment (1954) demonstrated that superordinate goals — goals that require cooperation between competing groups — are effective in reducing intergroup hostility and prejudice. After the two groups of boys were forced to cooperate on shared tasks (e.g., fixing the water supply), intergroup conflict decreased.",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 41,
+          "question": "Group think may occur when.\n\nA. Members feel they cannot fail.\nB. Members' motivation is low.\nC. Members do not express opinions that differ from own group members.\nD. Members stereotype their enemy as weak, stupid or unreasonable.\n\nChoose the correct answer from the options given below.",
+          "options": [
+            "(A) A, C and D only",
+            "(B) A, B and C only",
+            "(C) B, C and D only",
+            "(D) A, B and D only"
+          ],
+          "correct_answer": 1,
+          "correct_text": "A, C and D only",
+          "unit": "Unit 8",
+          "topic": "8.5 Group Dynamics",
+          "subtopic": "Groupthink",
+          "concept": "Janis's groupthink symptoms include: illusion of invulnerability (A — feeling they cannot fail), self-censorship (C — not expressing dissenting opinions), and stereotyping of outgroups (D). Low motivation (B) is not a symptom — groupthink occurs in highly cohesive, motivated groups. Other symptoms include collective rationalization and pressure on dissenters.",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 42,
+          "question": "Which of the following are major sources of stressors linked to Coronary Heart Disease?\n\nA. Catastrophes\nB. Hassles\nC. Major life events\nD. Type A personality\nE. Low Motivation\n\nChoose the correct answer from the options given below.",
+          "options": [
+            "(A) A, B, C and D only",
+            "(B) A, B, C and E only",
+            "(C) B, C and D only",
+            "(D) A, B and E only"
+          ],
+          "correct_answer": 1,
+          "correct_text": "A, B, C and D only",
+          "unit": "Unit 10",
+          "topic": "10.7 Health Psychology",
+          "subtopic": "Chronic Diseases",
+          "concept": "CHD is linked to catastrophes (acute major events), hassles (daily minor stressors that accumulate), major life events (Holmes & Rahe), and Type A personality (Friedman & Rosenman — characterized by time urgency, competitiveness, and hostility). Low motivation is not a recognized risk factor for CHD.",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 43,
+          "question": "Choose the health promoting life style factors from the given list.\n\nA. Exercising occasionally\nB. Engaging only in protected and safe sex\nC. Maintaining weight\nD. Eating balanced meals\nE. Wearing seat belts and helmets\n\nChoose the correct answer from the options given below.",
+          "options": [
+            "(A) A, C and D only",
+            "(B) B, D and E only",
+            "(C) C and D only",
+            "(D) A and D only"
+          ],
+          "correct_answer": 1,
+          "correct_text": "A, C and D only",
+          "unit": "Unit 10",
+          "topic": "10.7 Health Psychology",
+          "subtopic": "Health-Promoting Behaviors",
+          "concept": "Health-promoting lifestyle factors include regular exercise (A), maintaining healthy weight (C), and balanced nutrition (D). While safe sex (B) and safety measures (E) are important, they are more accurately categorized as health-protective rather than health-promoting behaviors. The question asks specifically for health-promoting factors.",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 44,
+          "question": "Which of the following are NOT the attributes of mindfulness?\n\nA. Patience\nB. Judging\nC. Trust\nD. Acceptance\nE. Attachment\n\nChoose the correct answer from the options given below.",
+          "options": [
+            "(A) A and B only",
+            "(B) C and E only",
+            "(C) B and E only",
+            "(D) B and C only"
+          ],
+          "correct_answer": 3,
+          "correct_text": "B and E only",
+          "unit": "Unit 10",
+          "topic": "10.6 Wellbeing and Positive Psychology",
+          "subtopic": "Mindfulness",
+          "concept": "Mindfulness involves non-judgmental awareness (so judging — B — is contrary to mindfulness) and non-attachment (letting go of clinging, so attachment — E — is contrary). Patience, trust, and acceptance are core attributes of mindfulness as described by Jon Kabat-Zinn.",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 45,
+          "question": "Which of the following about acculturation is NOT correct?\n\nA. It includes sticking to one's cultural beliefs\nB. It involves displaying prejudice toward people of different cultures\nC. It involves adopting new ways of behaving\nD. It involves balancing between values of two different cultures\n\nChoose the correct answer from the options given below.",
+          "options": [
+            "(A) C only",
+            "(B) A and B only",
+            "(C) A, B and C only",
+            "(D) D only"
+          ],
+          "correct_answer": 2,
+          "correct_text": "A and B only",
+          "unit": "Unit 10",
+          "topic": "10.4 Migration Psychology",
+          "subtopic": "Acculturation",
+          "concept": "Acculturation (Berry) involves adopting new cultural behaviors (C is correct) and balancing values of two cultures / integration (D is correct). Simply sticking to one's own cultural beliefs describes separation, not acculturation broadly (A is not correct about acculturation). Displaying prejudice is not a component of acculturation (B is not correct).",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 46,
+          "question": "Diffusion of responsibility is a hypothesized cause of.\n\n(1) Identity formation\n(2) Prosocial behaviour\n(3) Bystander effect\n(4) Compliance\n(e) Sharing behaviour\n\nChoose the correct answer from the options given below.",
+          "options": [
+            "(A) B and C only",
+            "(B) A and B only",
+            "(C) C and D only",
+            "(D) A and E only"
+          ],
+          "correct_answer": 3,
+          "correct_text": "C and D only",
+          "unit": "Unit 8",
+          "topic": "8.7 Prosocial Behavior and Aggression",
+          "subtopic": "Bystander Effect",
+          "concept": "Diffusion of responsibility is a key mechanism underlying the bystander effect (Latané & Darley) — when others are present, individuals feel less personal responsibility to help. It also relates to compliance in group settings where individual accountability is reduced. Diffusion of responsibility reduces, not promotes, prosocial behavior.",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 47,
+          "question": "Systematic desensitization involves.\n\nA. Aversion therapy\nB. Reciprocal inhibition\nC. Anxiety hierarchy\nD. Time out\n\nChoose the correct answer from the options given below.",
+          "options": [
+            "(A) A and B only",
+            "(B) B and D only",
+            "(C) B and C only",
+            "(D) A and D only"
+          ],
+          "correct_answer": 3,
+          "correct_text": "B and C only",
+          "unit": "Unit 9",
+          "topic": "9.5 Psychotherapies",
+          "subtopic": "Behaviour Therapies",
+          "concept": "Systematic desensitization (Wolpe) involves two key components: (1) Reciprocal inhibition — pairing relaxation with anxiety-arousing stimuli (you can't be anxious and relaxed simultaneously), and (2) Anxiety hierarchy — a graduated list of fear-inducing situations from least to most threatening. Aversion therapy and time out are separate behavioral techniques.",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 48,
+          "question": "What are the purposes of research?\n\nA. Explaining a phenomenon\nB. Making a discovery\nC. Fulfilling a gap in knowledge\nD. Attempt to resolve contradictory findings\nE. Making an invention\n\nChoose the correct answer from the options given below.",
+          "options": [
+            "(A) A and C only",
+            "(B) A, B and C only",
+            "(C) A, C and D only",
+            "(D) B, C and E only"
+          ],
+          "correct_answer": 3,
+          "correct_text": "A, C and D only",
+          "unit": "Unit 2",
+          "topic": "2.1 Foundations of Research",
+          "subtopic": "Purpose of Research",
+          "concept": "The primary purposes of research include explaining phenomena (A), filling gaps in existing knowledge (C), and resolving contradictory findings in the literature (D). Making discoveries (B) and inventions (E) are outcomes or applications rather than fundamental purposes of psychological research.",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 49,
+          "question": "The mean can be misleading if a distribution has _______\n\nA. Marked skewness\nB. Large number of scores\nC. Few extremely high valued scores\nD. Small number of scores\nE. Few extremely low valued scores\n\nChoose the correct answer from the options given below.",
+          "options": [
+            "(A) A, B and D only",
+            "(B) C, D and E only",
+            "(C) A, C and E only",
+            "(D) B, C and D only"
+          ],
+          "correct_answer": 3,
+          "correct_text": "A, C and E only",
+          "unit": "Unit 2",
+          "topic": "2.6 Descriptive Statistics",
+          "subtopic": "Measures of Central Tendency",
+          "concept": "The mean is sensitive to extreme scores (outliers) and skewed distributions. Marked skewness (A), few extremely high scores (C), and few extremely low scores (E) all pull the mean away from the central cluster. A large number of scores (B) actually makes the mean more stable, and small sample size alone doesn't inherently mislead the mean unless combined with extremes.",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 50,
+          "question": "The central aspect of rational thinking involves.\n\nA. Deduction\nB. Induction\nC. Conduction logic\nD. Reduction approach\nE. Paradigm\n\nChoose the correct answer from the options given below.",
+          "options": [
+            "(A) A and D only",
+            "(B) A and B only",
+            "(C) B and D only",
+            "(D) D and E only"
+          ],
+          "correct_answer": 2,
+          "correct_text": "A and B only",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Reasoning",
+          "concept": "Rational thinking primarily involves deductive reasoning (deriving specific conclusions from general principles — syllogistic logic) and inductive reasoning (deriving general principles from specific observations). These are the two fundamental forms of logical/rational thinking. Conduction, reduction, and paradigm are not central aspects of rational thinking.",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 51,
+          "question": "Which of the following hypothalamic nuclei were considered as hunger regulator?\n\nA. Supra optic nucleus\nB. Ventromedial hypothalamus\nC. Medial\nD. Lateral\nE. Paraventricular\n\nChoose the correct answer from the options given below.",
+          "options": [
+            "(A) D only",
+            "(B) B and C only",
+            "(C) B and D only",
+            "(D) A and E only"
+          ],
+          "correct_answer": 3,
+          "correct_text": "B and D only",
+          "unit": "Unit 4",
+          "topic": "4.3 Nervous System",
+          "subtopic": "Hypothalamus",
+          "concept": "The ventromedial hypothalamus (VMH) acts as the 'satiety center' — its destruction leads to overeating. The lateral hypothalamus (LH) acts as the 'hunger center' — its destruction causes aphagia (refusal to eat). Together they regulate hunger and satiety. The supraoptic and paraventricular nuclei regulate water balance and hormone secretion.",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 52,
+          "question": "Identify the posterior pituitary hormones.\n\nA. Thyrotropin\nB. Follicle Stimulating Hormone\nC. Oxytocin\nD. Luteinizing Hormone\nE. Vasopressin\n\nChoose the correct answer from the options given below.",
+          "options": [
+            "(A) C only",
+            "(B) B only",
+            "(C) A and B only",
+            "(D) C and E only"
+          ],
+          "correct_answer": 4,
+          "correct_text": "C and E only",
+          "unit": "Unit 4",
+          "topic": "4.5 Endocrine System",
+          "subtopic": "Pituitary Gland",
+          "concept": "The posterior pituitary stores and releases two hormones: Oxytocin (C) — involved in uterine contraction and milk ejection, and Vasopressin/ADH (E) — promotes water reabsorption by kidneys. Thyrotropin (TSH), FSH, and LH are anterior pituitary hormones.",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 53,
+          "question": "Identify the indices of item validity.\n\nA. Item-inter correlation\nB. Item-total correlation\nC. Item-pass proportion\nD. Item-criterion correlation",
+          "options": [
+            "(A) A and D only",
+            "(B) A and C only",
+            "(C) B and D only",
+            "(D) B, C and D only"
+          ],
+          "correct_answer": 3,
+          "correct_text": "B and D only",
+          "unit": "Unit 3",
+          "topic": "3.2 Test Construction",
+          "subtopic": "Item Analysis",
+          "concept": "Item validity refers to how well an individual item measures what it is supposed to measure. Item-total correlation (B) indicates how well the item correlates with the overall test score (internal criterion). Item-criterion correlation (D) indicates how well the item predicts an external criterion. Item-pass proportion (C) measures difficulty, not validity.",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 54,
+          "question": "Victor Frankl stated that the survivors of Nazi concentration camps could do so because they hanged on to a sense of meaning and purpose in their life. Which psychotherapy is based on this?",
+          "options": [
+            "(A) Well-being therapy",
+            "(B) Logo therapy",
+            "(C) Positive psychotherapy",
+            "(D) Acceptance and Commitment therapy"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Logo therapy",
+          "unit": "Unit 9",
+          "topic": "9.5 Psychotherapies",
+          "subtopic": "Existential Therapy",
+          "concept": "Logotherapy, developed by Viktor Frankl, is based on the will to meaning. Frankl's experiences in Nazi concentration camps led him to conclude that finding meaning and purpose in life — even in suffering — is the primary motivational force. Logotherapy helps clients find personal meaning in life.",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 55,
+          "question": "_______ refers to the capacity of the nervous system to perceive a stimulus presented at an intensity that is below threshold.",
+          "options": [
+            "(A) Unconscious processing",
+            "(B) Stimulus adaption",
+            "(C) Subliminal perception",
+            "(D) Supraliminal sensation"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Subliminal perception",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Subliminal Perception",
+          "concept": "Subliminal perception refers to the processing of stimuli presented below the absolute threshold of conscious awareness. Despite being below threshold, subliminal stimuli can influence behavior, attitudes, and judgments, though the effects are typically small.",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 56,
+          "question": "What is the median of the scores given below?\n\n15, 8, 30, 12, 5, 40, 30, 20",
+          "options": [
+            "(A) 8.50",
+            "(B) 17.50",
+            "(C) 20",
+            "(D) 15"
+          ],
+          "correct_answer": 2,
+          "correct_text": "17.50",
+          "unit": "Unit 2",
+          "topic": "2.6 Descriptive Statistics",
+          "subtopic": "Measures of Central Tendency",
+          "concept": "Arranging scores in ascending order: 5, 8, 12, 15, 20, 30, 30, 40. With 8 scores (even number), the median is the average of the 4th and 5th values: (15 + 20) / 2 = 17.50.",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 57,
+          "question": "Name the test that can verify the hypothesis that two related groups have been drawn from the same population.",
+          "options": [
+            "(A) Wilcoxon signed rank test",
+            "(B) Mann-Whitney U-test",
+            "(C) Kruskal-Wallis test",
+            "(D) Friedman's test"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Wilcoxon signed rank test",
+          "unit": "Unit 2",
+          "topic": "2.7 Inferential Statistics",
+          "subtopic": "Non-Parametric Tests",
+          "concept": "The Wilcoxon signed-rank test is the non-parametric equivalent of the paired t-test. It is used to compare two related (paired/matched) samples to determine if they come from the same population. Mann-Whitney U is for independent samples; Kruskal-Wallis is for 3+ independent groups; Friedman's is for 3+ related groups.",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 58,
+          "question": "The fourth force in counselling is indicated by which approach?",
+          "options": [
+            "(A) Humanistic",
+            "(B) Solution focussed",
+            "(C) Multicultural",
+            "(D) Indian"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Multicultural",
+          "unit": "Unit 9",
+          "topic": "9.4 Guidance and Counseling",
+          "subtopic": "Counseling Approaches",
+          "concept": "The four forces in counseling/psychotherapy are: 1st — Psychoanalytic, 2nd — Behavioral, 3rd — Humanistic, and 4th — Multicultural. The multicultural approach recognizes the importance of culture, ethnicity, and diversity in counseling and has been proposed as the fourth force in psychology.",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 59,
+          "question": "The phenomenon of object permanence occurs in which stage of cognitive development?",
+          "options": [
+            "(A) Sensori-Motor",
+            "(B) Preoperational",
+            "(C) Concrete operational",
+            "(D) Formal operational"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Sensori-Motor",
+          "unit": "Unit 9",
+          "topic": "9.2 Major Developmental Theories",
+          "subtopic": "Piaget's Cognitive Development",
+          "concept": "Object permanence — the understanding that objects continue to exist even when they cannot be seen, heard, or touched — develops during Piaget's Sensorimotor stage (0-2 years). It is one of the major achievements of this stage, typically emerging around 8-12 months.",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 60,
+          "question": "The linguistic relativity hypothesis states that.",
+          "options": [
+            "(A) Language depends on thought processes.",
+            "(B) Thinking is shaped by language.",
+            "(C) Language and thought follow independent pathways of development.",
+            "(D) Language and thought are related in an interdependent fashion."
+          ],
+          "correct_answer": 2,
+          "correct_text": "Thinking is shaped by language.",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Language and Thought",
+          "concept": "The Sapir-Whorf Linguistic Relativity Hypothesis states that the structure and vocabulary of a language shape (or determine) how its speakers perceive and think about the world. The strong version (linguistic determinism) claims language determines thought; the weak version (linguistic relativity) claims language influences thought.",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 61,
+          "question": "Which one of the following does not describe the state of flow?",
+          "options": [
+            "(A) Loss of self",
+            "(B) Internal talk",
+            "(C) Oneness",
+            "(D) Clarity of action"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Internal talk",
+          "unit": "Unit 10",
+          "topic": "10.6 Wellbeing and Positive Psychology",
+          "subtopic": "Flow State",
+          "concept": "Csikszentmihalyi's flow state is characterized by complete absorption, loss of self-consciousness, merging of action and awareness (oneness), and clarity of goals and feedback. Internal talk (inner speech/dialogue) is antithetical to flow — flow involves the cessation of self-referential thinking and inner chatter.",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 62,
+          "question": "______ does not explain our obeying unjust commands of authority.",
+          "options": [
+            "(A) Genetic endowment to obedience",
+            "(B) Ingrained habit",
+            "(C) Normative influence",
+            "(D) Informational influence"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Genetic endowment to obedience",
+          "unit": "Unit 8",
+          "topic": "8.4 Social Influence",
+          "subtopic": "Obedience",
+          "concept": "Obedience to authority is explained by social-psychological factors: normative influence (desire for social approval), informational influence (belief in authority's expertise), and ingrained habits of compliance learned through socialization. There is no established evidence for a genetic endowment specifically for obedience to unjust authority.",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 63,
+          "question": "______ is an impairment of language functioning caused by damage to the brain.",
+          "options": [
+            "(A) Agraphia",
+            "(B) Amnesia",
+            "(C) Aphasia",
+            "(D) Autism"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Aphasia",
+          "unit": "Unit 4",
+          "topic": "4.3 Nervous System",
+          "subtopic": "Language and the Brain",
+          "concept": "Aphasia is a language disorder caused by damage to language areas of the brain (typically Broca's area or Wernicke's area in the left hemisphere), often due to stroke or brain injury. Agraphia is impairment of writing ability; amnesia is memory loss; autism is a neurodevelopmental disorder.",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 64,
+          "question": "Which theory includes environmental mastery as one of the dimensions of well being?",
+          "options": [
+            "(A) Keyes' mental health continuum",
+            "(B) PERMA model of well being",
+            "(C) Ryff's theory of psychological well being",
+            "(D) Eudaimonic theory of happiness"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Ryff's theory of psychological well being",
+          "unit": "Unit 10",
+          "topic": "10.6 Wellbeing and Positive Psychology",
+          "subtopic": "Psychological Wellbeing",
+          "concept": "Carol Ryff's model of psychological wellbeing includes six dimensions: self-acceptance, positive relations with others, autonomy, environmental mastery, purpose in life, and personal growth. Environmental mastery refers to the ability to manage one's life and surrounding world effectively.",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 65,
+          "question": "The first response that people typically express when frustrated is to.",
+          "options": [
+            "(A) Try again",
+            "(B) Get angry",
+            "(C) Give up",
+            "(D) Be creative"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Get angry",
+          "unit": "Unit 7",
+          "topic": "7.4 Stress and Coping",
+          "subtopic": "Frustration-Aggression",
+          "concept": "According to the Frustration-Aggression Hypothesis (Dollard et al., 1939), the first and most common response to frustration is anger/aggression. When goal-directed behavior is blocked, the immediate emotional response is frustration manifesting as anger, before adaptive responses like trying again or finding alternatives.",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 66,
+          "question": "Match List-I with List-II\n\n| List-I | List-II |\n|---|---|\n| A. Actualizing tendency | I. Organism continuously weights the experiences in terms of its ability to satisfy |\n| B. Subjective frame of reference | II. Organism attempts to fulfil the inherent potentials |\n| C. Experiencing | III. Perceptual frame of reference of the organism |\n| D. Organismic valuing process | IV. Receiving the impact of external and internal sensations at the moment |\n\n**Codes:**\n\n| | A | B | C | D |\n|---|---|---|---|---|\n| (1) | iv | iii | i | ii |\n| (2) | ii | iii | iv | i |\n| (3) | iii | i | ii | iv |\n| (4) | i | iii | ii | iv |",
+          "options": [
+            "(A) iv, iii, i, ii",
+            "(B) ii, iii, iv, i",
+            "(C) iii, i, ii, iv",
+            "(D) i, iii, ii, iv"
+          ],
+          "correct_answer": 2,
+          "correct_text": "ii, iii, iv, i",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Humanistic/Existential Approach",
+          "concept": "In Rogers' person-centered theory: Actualizing tendency (A) = inherent drive to fulfil potential (ii); Subjective frame of reference (B) = perceptual frame of reference (iii); Experiencing (C) = receiving sensations at the moment (iv); Organismic valuing process (D) = continuously weighing experiences for satisfaction (i).",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null,
+          "explanation": "A-ii, B-iii, C-iv, D-i"
+        },
+        {
+          "id": 67,
+          "question": "Match List-I with List-II\n\n| List-I | List-II |\n|---|---|\n| Neurotransmitters | Type |\n| A. Glutamate | I. Catecholamine |\n| B. Dopamine | II. Amino acid |\n| C. Acetylcholine | III. Indoleamine |\n| D. Serotonin | IV. Quaternary amine |\n\n**Codes:**\n\n| | A | B | C | D |\n|---|---|---|---|---|\n| (1) | iv | iii | ii | i |\n| (2) | iii | iv | i | ii |\n| (3) | i | ii | iii | iv |\n| (4) | ii | i | iv | iii |",
+          "options": [
+            "(A) iv, iii, ii, i",
+            "(B) iii, iv, i, ii",
+            "(C) i, ii, iii, iv",
+            "(D) ii, i, iv, iii"
+          ],
+          "correct_answer": 4,
+          "correct_text": "ii, i, iv, iii",
+          "unit": "Unit 4",
+          "topic": "4.2 Neurons",
+          "subtopic": "Neurotransmitters",
+          "concept": "Glutamate is an amino acid neurotransmitter (ii). Dopamine is a catecholamine (i), along with norepinephrine and epinephrine. Acetylcholine is classified as a quaternary amine (iv). Serotonin (5-HT) is an indoleamine (iii), derived from tryptophan.",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null,
+          "explanation": "A-ii, B-i, C-iv, D-iii"
+        },
+        {
+          "id": 68,
+          "question": "Match List-I with List-II\n\n| List-I | List-II |\n|---|---|\n| Theory of Attention | Researchers |\n| A. Early Selection | I. Deutsch & Deutsch |\n| B. Attenuation | II. Cherry |\n| C. Late selection | III. Johnston & Heinz |\n| D. Multi model | IV. Triesman |\n\n**Codes:**\n\n| | A | B | C | D |\n|---|---|---|---|---|\n| (1) | ii | i | iv | iii |\n| (2) | ii | iv | i | iii |\n| (3) | i | iv | ii | iii |\n| (4) | iv | i | iii | ii |",
+          "options": [
+            "(A) ii, i, iv, iii",
+            "(B) ii, iv, i, iii",
+            "(C) i, iv, ii, iii",
+            "(D) iv, i, iii, ii"
+          ],
+          "correct_answer": 2,
+          "correct_text": "ii, iv, i, iii",
+          "unit": "Unit 5",
+          "topic": "5.1 Attention",
+          "subtopic": "Models of Selective Attention",
+          "concept": "Early Selection model is associated with Cherry (ii) who studied dichotic listening. Attenuation theory was proposed by Treisman (iv). Late Selection model was proposed by Deutsch & Deutsch (i). Multi-modal model was proposed by Johnston & Heinz (iii).",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null,
+          "explanation": "A-ii, B-iv, C-i, D-iii"
+        },
+        {
+          "id": 69,
+          "question": "Match List-I with List-II\n\n| List-I | List-II |\n|---|---|\n| Process | Description |\n| A. Flourishing | I. Capacity to appreciate and enhance positive experiences |\n| B. Savouring | II. Preventing stress from happening in the first place |\n| C. Proactive coping | III. A state of optimal human functioning |\n| D. Languishing | IV. A state of feeling emptiness |\n\n**Codes:**\n\n| | A | B | C | D |\n|---|---|---|---|---|\n| (1) | i | iii | ii | iv |\n| (2) | iii | i | ii | iv |\n| (3) | i | ii | iv | iii |\n| (4) | ii | i | iii | iv |",
+          "options": [
+            "(A) i, iii, ii, iv",
+            "(B) iii, i, ii, iv",
+            "(C) i, ii, iv, iii",
+            "(D) ii, i, iii, iv"
+          ],
+          "correct_answer": 2,
+          "correct_text": "iii, i, ii, iv",
+          "unit": "Unit 10",
+          "topic": "10.6 Wellbeing and Positive Psychology",
+          "subtopic": "Wellbeing Concepts",
+          "concept": "Flourishing (A) = state of optimal human functioning (iii). Savouring (B) = capacity to appreciate and enhance positive experiences (i). Proactive coping (C) = preventing stress from occurring (ii). Languishing (D) = state of emptiness and stagnation, opposite of flourishing (iv).",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null,
+          "explanation": "A-iii, B-i, C-ii, D-iv"
+        },
+        {
+          "id": 70,
+          "question": "Match List-I with List-II\n\n| List-I | List-II |\n|---|---|\n| Type of cell | Function |\n| A. Antigen | I. Cell mediated immunity |\n| B. Phagocytes | II. Consume and destroy microorganisms |\n| C. T cells | III. Antibody mediated immunity |\n| D. B cells | IV. Distinguishes foreign cell |\n\n**Codes:**\n\n| | A | B | C | D |\n|---|---|---|---|---|\n| (1) | iv | i | ii | iii |\n| (2) | iv | ii | i | iii |\n| (3) | ii | iv | i | iii |\n| (4) | iv | iii | ii | i |",
+          "options": [
+            "(A) iv, i, ii, iii",
+            "(B) iv, ii, i, iii",
+            "(C) ii, iv, i, iii",
+            "(D) iv, iii, ii, i"
+          ],
+          "correct_answer": 2,
+          "correct_text": "iv, ii, i, iii",
+          "unit": "Unit 10",
+          "topic": "10.7 Health Psychology",
+          "subtopic": "Psychoneuroimmunology",
+          "concept": "Antigens (A) are substances that distinguish foreign cells from self (iv). Phagocytes (B) consume and destroy microorganisms (ii). T cells (C) provide cell-mediated immunity (i). B cells (D) provide antibody-mediated/humoral immunity (iii).",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null,
+          "explanation": "A-iv, B-ii, C-i, D-iii"
+        },
+        {
+          "id": 71,
+          "question": "Match List-I with List-II\n\n| List-I | List-II |\n|---|---|\n| Concepts | Process |\n| A. Heuristics | I. Breaking whole into manageable part |\n| B. Analysis | II. An existing model for representing a problem |\n| C. Synthesis | III. Mean-end analysis |\n| D. Mental Set | IV. Putting together elements into a useful whole |\n\n**Codes:**\n\n| | A | B | C | D |\n|---|---|---|---|---|\n| (1) | ii | iii | iv | i |\n| (2) | iii | i | iv | ii |\n| (3) | iv | ii | iii | i |\n| (4) | iii | i | ii | iv |",
+          "options": [
+            "(A) ii, iii, iv, i",
+            "(B) iii, i, iv, ii",
+            "(C) iv, ii, iii, i",
+            "(D) iii, i, ii, iv"
+          ],
+          "correct_answer": 2,
+          "correct_text": "iii, i, iv, ii",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Problem Solving",
+          "concept": "Heuristics (A) includes means-ends analysis as a key strategy (iii). Analysis (B) involves breaking a whole into manageable parts (i). Synthesis (C) involves putting elements together into a useful whole (iv). Mental Set (D) involves using an existing model/approach for representing a problem (ii).",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null,
+          "explanation": "A-iii, B-i, C-iv, D-ii"
+        },
+        {
+          "id": 72,
+          "question": "Match List-I with List-II\n\n| List-I | List-II |\n|---|---|\n| Approaches to personality | Key feature |\n| A. Psychodynamic | I. Learned drives |\n| B. Humanistic | II. Social learning |\n| C. Cognitive | III. Inner forces |\n| D. Behaviouristic | IV. Self actualization |\n\n**Codes:**\n\n| | A | B | C | D |\n|---|---|---|---|---|\n| (1) | iii | i | ii | iv |\n| (2) | i | ii | iii | iv |\n| (3) | iii | iv | ii | i |\n| (4) | ii | iv | iii | i |",
+          "options": [
+            "(A) iii, i, ii, iv",
+            "(B) i, ii, iii, iv",
+            "(C) iii, iv, ii, i",
+            "(D) ii, iv, iii, i"
+          ],
+          "correct_answer": 3,
+          "correct_text": "iii, iv, ii, i",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Personality Approaches",
+          "concept": "Psychodynamic approach emphasizes inner forces/unconscious conflicts (iii). Humanistic approach centers on self-actualization (iv). Cognitive approach focuses on social learning/cognitive processes (ii). Behaviouristic approach emphasizes learned drives through conditioning (i).",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null,
+          "explanation": "A-iii, B-iv, C-ii, D-i"
+        },
+        {
+          "id": 73,
+          "question": "Match List-I with List-II\n\n| List-I | List-II |\n|---|---|\n| Theories | Propositions |\n| A. Realistic Conflict | I. Identity is formed by social comparison, categorization and construction of self identity |\n| B. Relative Deprivation | II. Competition for scarce resources result in intergroup tensions |\n| C. Social Identity | III. Comparison of one self to others in ways that raise one's self esteem |\n| D. Social Comparison | IV. Feeling of getting less than what one is entitled to |\n\n**Codes:**\n\n| | A | B | C | D |\n|---|---|---|---|---|\n| (1) | ii | iv | i | iii |\n| (2) | i | ii | iii | iv |\n| (3) | i | iii | ii | iv |\n| (4) | iv | ii | i | iii |",
+          "options": [
+            "(A) ii, iv, i, iii",
+            "(B) i, ii, iii, iv",
+            "(C) i, iii, ii, iv",
+            "(D) iv, ii, i, iii"
+          ],
+          "correct_answer": 1,
+          "correct_text": "ii, iv, i, iii",
+          "unit": "Unit 8",
+          "topic": "8.6 Intergroup Relations",
+          "subtopic": "Intergroup Relations Theories",
+          "concept": "Realistic Conflict Theory (Sherif) = competition for scarce resources causes intergroup tension (ii). Relative Deprivation = feeling of getting less than entitled to (iv). Social Identity Theory (Tajfel & Turner) = identity formed through social comparison and categorization (i). Social Comparison Theory (Festinger) = comparing oneself to others to raise self-esteem (iii).",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null,
+          "explanation": "A-ii, B-iv, C-i, D-iii"
+        },
+        {
+          "id": 74,
+          "question": "Match List-I with List-II\n\n| List-I | List-II |\n|---|---|\n| Name of the disorder | Category of the disorder |\n| A. Autism | I. Neurocognitive |\n| B. Alzheimer | II. Elimination |\n| C. Bulimia nervosa | III. Neurodevelopmental |\n| D. Encopresis | IV. Eating |\n\n**Codes:**\n\n| | A | B | C | D |\n|---|---|---|---|---|\n| (1) | iii | i | iv | ii |\n| (2) | i | iii | ii | iv |\n| (3) | i | ii | iv | iii |\n| (4) | iii | ii | iv | i |",
+          "options": [
+            "(A) iii, i, iv, ii",
+            "(B) i, iii, ii, iv",
+            "(C) i, ii, iv, iii",
+            "(D) iii, ii, iv, i"
+          ],
+          "correct_answer": 1,
+          "correct_text": "iii, i, iv, ii",
+          "unit": "Unit 9",
+          "topic": "9.3 Psychopathology",
+          "subtopic": "DSM Classification",
+          "concept": "Autism Spectrum Disorder is classified as a neurodevelopmental disorder (iii). Alzheimer's is a neurocognitive disorder (major neurocognitive disorder due to Alzheimer's disease) (i). Bulimia nervosa is an eating disorder (iv). Encopresis is an elimination disorder (ii).",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null,
+          "explanation": "A-iii, B-i, C-iv, D-ii"
+        },
+        {
+          "id": 75,
+          "question": "Match List-I with List-II\n\n| List-I | List-II |\n|---|---|\n| Psychologists | Key concept |\n| A. C.L. Hull | I. Need |\n| B. S. Freud | II. Drive |\n| C. H. Murray | III. Instinct |\n| D. D.C. McClelland | IV. Fantasy |\n\n**Codes:**\n\n| | A | B | C | D |\n|---|---|---|---|---|\n| (1) | ii | iii | i | iv |\n| (2) | iii | ii | iv | i |\n| (3) | i | iv | iii | ii |\n| (4) | iv | i | ii | iii |",
+          "options": [
+            "(A) ii, iii, i, iv",
+            "(B) iii, ii, iv, i",
+            "(C) i, iv, iii, ii",
+            "(D) iv, i, ii, iii"
+          ],
+          "correct_answer": 1,
+          "correct_text": "ii, iii, i, iv",
+          "unit": "Unit 7",
+          "topic": "7.2 Motivation",
+          "subtopic": "Theories of Motivation",
+          "concept": "C.L. Hull is associated with Drive Reduction Theory (ii). S. Freud is associated with Instinct theory — life and death instincts (iii). H. Murray is known for his work on psychological needs — manifest needs (i). D.C. McClelland studied achievement motivation through fantasy-based TAT protocols (iv).",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null,
+          "explanation": "A-ii, B-iii, C-i, D-iv"
+        },
+        {
+          "id": 76,
+          "question": "Match List-I with List-II\n\n| List-I | List-II |\n|---|---|\n| A. Self determination | I. D.O. Hebb |\n| B. Contact Comfort | II. Hans Selye |\n| C. Cell assembly | III. Edward Deci |\n| D. General Adaptation Syndrome | IV. Harry Harlow |\n\n**Codes:**\n\n| | A | B | C | D |\n|---|---|---|---|---|\n| (1) | iii | iv | ii | i |\n| (2) | iii | iv | i | ii |\n| (3) | ii | i | iii | iv |\n| (4) | i | ii | iv | iii |",
+          "options": [
+            "(A) iii, iv, ii, i",
+            "(B) iii, iv, i, ii",
+            "(C) ii, i, iii, iv",
+            "(D) i, ii, iv, iii"
+          ],
+          "correct_answer": 2,
+          "correct_text": "iii, iv, i, ii",
+          "unit": "Unit 7",
+          "topic": "7.2 Motivation",
+          "subtopic": "Motivation Concepts",
+          "concept": "Self-Determination Theory was proposed by Edward Deci (and Ryan) (iii). Contact Comfort was demonstrated by Harry Harlow in his monkey experiments with wire and cloth mothers (iv). Cell Assembly theory was proposed by D.O. Hebb as a neural basis for learning (i). General Adaptation Syndrome (GAS) was proposed by Hans Selye describing stress response stages (ii).",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null,
+          "explanation": "A-iii, B-iv, C-i, D-ii"
+        },
+        {
+          "id": 77,
+          "question": "Match List-I with List-II\n\n| List-I | List-II |\n|---|---|\n| Issue Addressed | Perspective |\n| A. Changes in thoughts over the life span | I. Cognitive perspective |\n| B. Personality and hidden motives of person | II. Psychodynamic perspective |\n| C. Brain function as mediating behaviour | III. Developmental perspective |\n| D. Thoughts of a person in a given situation | IV. Biological perspective |\n\n**Codes:**\n\n| | A | B | C | D |\n|---|---|---|---|---|\n| (1) | i | iv | iii | ii |\n| (2) | iii | ii | iv | i |\n| (3) | ii | iii | i | iv |\n| (4) | iv | i | ii | iii |",
+          "options": [
+            "(A) i, iv, iii, ii",
+            "(B) iii, ii, iv, i",
+            "(C) ii, iii, i, iv",
+            "(D) iv, i, ii, iii"
+          ],
+          "correct_answer": 2,
+          "correct_text": "iii, ii, iv, i",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Perspectives in Psychology",
+          "concept": "Changes in thoughts over lifespan = Developmental perspective (iii). Personality and hidden motives = Psychodynamic perspective (ii), focusing on unconscious processes. Brain function mediating behavior = Biological perspective (iv). Thoughts in a given situation = Cognitive perspective (i), focusing on information processing.",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null,
+          "explanation": "A-iii, B-ii, C-iv, D-i"
+        },
+        {
+          "id": 78,
+          "question": "Match List-I with List-II\n\n| List-I | List-II |\n|---|---|\n| Concept | Term |\n| A. A health strategy that focuses on providing education materials to people | I. Social support |\n| B. Having a group of friends can buffer the risks posed by chronic stress | II. Hassles |\n| C. A person exposed to a severe stressor may experience that event | III. Primary prevention |\n| D. Minor annoying events that can add to diminish health | IV. Post traumatic stress disorder |\n\n**Codes:**\n\n| | A | B | C | D |\n|---|---|---|---|---|\n| (1) | ii | iii | iv | i |\n| (2) | iii | i | iv | ii |\n| (3) | i | iii | ii | iv |\n| (4) | iv | ii | iii | i |",
+          "options": [
+            "(A) ii, iii, iv, i",
+            "(B) iii, i, iv, ii",
+            "(C) i, iii, ii, iv",
+            "(D) iv, ii, iii, i"
+          ],
+          "correct_answer": 2,
+          "correct_text": "iii, i, iv, ii",
+          "unit": "Unit 10",
+          "topic": "10.7 Health Psychology",
+          "subtopic": "Health Concepts",
+          "concept": "Health education materials = Primary prevention (iii) — preventing illness before it occurs. Friends buffering chronic stress = Social support (i). Severe stressor exposure leading to ongoing distress = PTSD (iv). Minor annoying events diminishing health = Hassles (ii), as in the hassles scale (Kanner et al.).",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null,
+          "explanation": "A-iii, B-i, C-iv, D-ii"
+        },
+        {
+          "id": 79,
+          "question": "Match List-I with List-II\n\n| List-I | List-II |\n|---|---|\n| A. Z score | I. X̄ = 50, σ = 10 |\n| B. Stanine | II. X̄ = 5.5, σ = 2 |\n| C. T score | III. X̄ = 5, σ = 2 (approx) |\n| D. Sten | IV. X̄ = 0, σ = 1 |\n\n**Codes:**\n\n| | A | B | C | D |\n|---|---|---|---|---|\n| (1) | iv | iii | i | ii |\n| (2) | iv | i | iii | ii |\n| (3) | i | ii | iv | iii |\n| (4) | ii | iii | i | iv |",
+          "options": [
+            "(A) iv, iii, i, ii",
+            "(B) iv, i, iii, ii",
+            "(C) i, ii, iv, iii",
+            "(D) ii, iii, i, iv"
+          ],
+          "correct_answer": 1,
+          "correct_text": "iv, iii, i, ii",
+          "unit": "Unit 3",
+          "topic": "3.5 Norms and Standardization",
+          "subtopic": "Derived Scores",
+          "concept": "Z-score has mean = 0, SD = 1 (iv). Stanine has mean ≈ 5, SD ≈ 2, range 1-9 (iii). T-score has mean = 50, SD = 10 (i). Sten score has mean = 5.5, SD = 2, range 1-10 (ii).",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null,
+          "explanation": "A-iv, B-iii, C-i, D-ii"
+        },
+        {
+          "id": 80,
+          "question": "Trace the sequence of events followed by the exposure to prolonged stress.\n\nA. Glucocorticoids are released by adrenal cortex\nB. Lymphocytes are activated\nC. Hippocampal Cells get degenerated\nD. Anterior pituitary releases ACTH\nE. T-cells and B-cells get activated\n\nChoose the correct answer from the options given below.",
+          "options": [
+            "(A) A, D, E, B, C",
+            "(B) B, C, D, E, A",
+            "(C) D, A, B, E, C",
+            "(D) C, B, A, E, D"
+          ],
+          "correct_answer": 3,
+          "correct_text": "D, A, B, E, C",
+          "unit": "Unit 10",
+          "topic": "10.7 Health Psychology",
+          "subtopic": "Psychoneuroimmunology",
+          "concept": "Under prolonged stress: (1) Anterior pituitary releases ACTH (D), (2) ACTH stimulates adrenal cortex to release glucocorticoids/cortisol (A), (3) Lymphocytes are activated as part of immune response (B), (4) T-cells and B-cells get activated (E), (5) Chronic cortisol exposure leads to hippocampal cell degeneration (C).",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 81,
+          "question": "Trace the correct sequence of the components of auditory information processing.\n\nA. The inferior colliculus receives the information\nB. Cochlear nucleus and olivary nuclei receive the information\nC. The medial geniculate nucleus receives the information\nD. The organ of corti sends information to the brain\nE. Primary auditory cortex receives the information\n\nChoose the correct answer from the options given below.",
+          "options": [
+            "(A) D, A, C, B, E",
+            "(B) E, C, A, B, D",
+            "(C) D, B, A, C, E",
+            "(D) E, A, B, C, D"
+          ],
+          "correct_answer": 3,
+          "correct_text": "D, B, A, C, E",
+          "unit": "Unit 4",
+          "topic": "4.1 Sensory Systems",
+          "subtopic": "Auditory Processing",
+          "concept": "The auditory pathway: (1) Organ of Corti in cochlea transduces sound (D), (2) Cochlear nucleus and superior olivary nuclei in brainstem receive the information (B), (3) Inferior colliculus in midbrain receives information (A), (4) Medial geniculate nucleus of thalamus relays to cortex (C), (5) Primary auditory cortex processes the information (E).",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 82,
+          "question": "Trace the pathway of visual information processing.\n\nA. Geniculate nuclei send information to striate cortex.\nB. Information reaches to extrastriate cortex.\nC. Retina sends to lateral geniculate nucleus.\nD. Information reaches to inferior temporal cortex and parietal cortex.\nE. Stimulation of visual receptor.\n\nChoose the correct answer from the options given below.",
+          "options": [
+            "(A) C, D, E, A, B",
+            "(B) E, C, A, B, D",
+            "(C) D, B, A, C, E",
+            "(D) E, A, C, B, D"
+          ],
+          "correct_answer": 2,
+          "correct_text": "E, C, A, B, D",
+          "unit": "Unit 4",
+          "topic": "4.1 Sensory Systems",
+          "subtopic": "Visual Processing",
+          "concept": "The visual pathway: (1) Visual receptors (rods/cones) are stimulated (E), (2) Retinal ganglion cells send signals via optic nerve to lateral geniculate nucleus (LGN) of thalamus (C), (3) LGN sends information via optic radiations to striate cortex (V1) (A), (4) Information reaches extrastriate cortex (V2, V3, etc.) (B), (5) Information reaches higher areas — inferior temporal cortex (object recognition) and parietal cortex (spatial processing) (D).",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 83,
+          "question": "According to Bhagavad Gita the spiritual journey towards self realization and attainment of peace involves movement across several stages. Identify the correct order.\n\nA. Tyaga\nB. Dhyan\nC. Abhyasa\nD. Gyana\nE. Shanti\n\nChoose the correct answer from the options given below.",
+          "options": [
+            "(A) D, B, A, C, E",
+            "(B) C, D, B, A, E",
+            "(C) C, B, D, A, E",
+            "(D) B, C, A, D, E"
+          ],
+          "correct_answer": 3,
+          "correct_text": "C, B, D, A, E",
+          "unit": "Unit 1",
+          "topic": "1.1 Eastern Psychological Systems",
+          "subtopic": "Bhagavad Gita",
+          "concept": "The spiritual journey in the Bhagavad Gita progresses through: Abhyasa (C — practice/discipline) → Dhyan (B — meditation) → Gyana (D — knowledge/wisdom) → Tyaga (A — renunciation of fruits of action) → Shanti (E — peace/self-realization).",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 84,
+          "question": "Arrange the following tests in the increasing order of structuredness.\n\nA. WAT\nB. TAT\nC. Rorschach\nD. MMPI\n\nChoose the correct answer from the options given below.",
+          "options": [
+            "(A) B, C, A, D",
+            "(B) D, A, B, C",
+            "(C) C, A, B, D",
+            "(D) C, B, A, D"
+          ],
+          "correct_answer": 4,
+          "correct_text": "C, B, A, D",
+          "unit": "Unit 3",
+          "topic": "3.6 Types of Tests by Domain",
+          "subtopic": "Personality Tests",
+          "concept": "In increasing order of structuredness: Rorschach Inkblot Test (C — most unstructured projective test, ambiguous inkblots) → TAT (B — semi-structured, picture-based projective test) → WAT/Word Association Test (A — moderate structure, words presented but responses free) → MMPI (D — most structured, objective, standardized items).",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 85,
+          "question": "Find the correct sequence of events in reference to James-Lange theory of emotions.\n\nA. The feedback received constitutes feeling of emotions\nB. The emotion producing situation is interpreted by the cortex\nC. The brain receives sensory feedback of responses occurring in the body\nD. The cortex triggers changes in peripheral nervous system\nE. The muscular and visceral changes occur in the body\n\nChoose the correct answer from the options given below.",
+          "options": [
+            "(A) B, D, E, C, A",
+            "(B) A, D, C, E, B",
+            "(C) D, B, E, C, A",
+            "(D) B, D, C, E, A"
+          ],
+          "correct_answer": 1,
+          "correct_text": "B, D, E, C, A",
+          "unit": "Unit 7",
+          "topic": "7.3 Emotion",
+          "subtopic": "Theories of Emotion",
+          "concept": "James-Lange theory sequence: (1) Emotion-producing situation is interpreted by cortex (B), (2) Cortex triggers ANS/peripheral changes (D), (3) Muscular and visceral changes occur in the body (E), (4) Brain receives sensory feedback from these bodily changes (C), (5) This feedback constitutes the subjective feeling of emotion (A). 'We feel afraid because we tremble.'",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 86,
+          "question": "Given below are two statements:\n\n**Statement I:** Life-course-persistent antisocial behaviour occurs during adulthood.\n\n**Statement II:** Adolescence-limited antisocial behaviour occurs due to maturity gap.\n\nIn the light of the above statements, choose the most appropriate answer:",
+          "options": [
+            "(A) Both Statement I and Statement II are correct",
+            "(B) Both Statement I and Statement II are incorrect",
+            "(C) Statement I is correct but Statement II is not correct",
+            "(D) Statement I is incorrect but Statement II is correct"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Statement I is incorrect but Statement II is correct",
+          "unit": "Unit 9",
+          "topic": "9.2 Major Developmental Theories",
+          "subtopic": "Antisocial Behavior",
+          "concept": "According to Moffitt's developmental taxonomy, life-course-persistent antisocial behavior begins in childhood and continues throughout life (not just adulthood) — Statement I is incorrect. Adolescence-limited antisocial behavior occurs due to the maturity gap between biological maturity and social maturity — Statement II is correct.",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 87,
+          "question": "Given below are two statements:\n\n**Statement I:** Stress is experienced in relatively ordinary life conditions.\n\n**Statement II:** Any life event that requires people to change, adapt or adjust can result in stress.\n\nIn the light of the above statements, choose the most appropriate answer:",
+          "options": [
+            "(A) Both Statement I and Statement II are true",
+            "(B) Both Statement I and Statement II are false",
+            "(C) Statement I is true but Statement II is false",
+            "(D) Statement I is false but Statement II is true"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both Statement I and Statement II are true",
+          "unit": "Unit 7",
+          "topic": "7.4 Stress and Coping",
+          "subtopic": "Nature of Stress",
+          "concept": "Both statements are true. Stress is not limited to extraordinary events; daily hassles in ordinary life conditions cause stress (Statement I). According to Holmes and Rahe, any life event requiring change, adaptation, or adjustment can produce stress (Statement II). The transactional model (Lazarus) confirms stress arises from perceived demands exceeding resources.",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 88,
+          "question": "Given below are two statements:\n\n**Statement I:** Being marginalized also means you are discriminated.\n\n**Statement II:** Marginalization and discriminations are not related.\n\nIn the light of the above statements, choose the most appropriate answer:",
+          "options": [
+            "(A) Both Statement I and Statement II are correct",
+            "(B) Both Statement I and Statement II are incorrect",
+            "(C) Statement I is correct but Statement II is not correct",
+            "(D) Statement I is incorrect but Statement II is correct"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Statement I is correct but Statement II is not correct",
+          "unit": "Unit 10",
+          "topic": "10.2 Poverty and Marginalization",
+          "subtopic": "Social Exclusion",
+          "concept": "Marginalization inherently involves discrimination — marginalized groups face exclusion, unequal treatment, and reduced access to resources (Statement I is correct). Marginalization and discrimination are closely related processes (Statement II is incorrect — they are fundamentally connected).",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 89,
+          "question": "Given below are two statements, one is labelled as Assertion (A) and the other is labelled as Reason (R).\n\n**Assertion (A):** Counsellors generally follow eclectic approach to counselling suitable to specific context.\n\n**Reason (R):** When counsellors and client differ in their cultural background, it requires multicultural counselling skills.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "(B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+            "(C) (A) is true but (R) is false",
+            "(D) (A) is false but (R) is true"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+          "unit": "Unit 9",
+          "topic": "9.4 Guidance and Counseling",
+          "subtopic": "Counseling Approaches",
+          "concept": "Both statements are true. Counselors do tend to use eclectic approaches tailored to context (A is true). Cultural differences do require multicultural skills (R is true). However, R does not explain A — the eclectic approach is adopted for many reasons beyond cultural differences (client needs, theoretical integration, etc.).",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 90,
+          "question": "Given below are two statements, one is labelled as Assertion (A) and the other is labelled as Reason (R).\n\n**Assertion (A):** Drive reduction was proposed to explain the actions of people taken to reduce tension created by needs.\n\n**Reason (R):** Human body maintains balance in its physical status. This is called homeostasis.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "(B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+            "(C) (A) is true but (R) is false",
+            "(D) (A) is false but (R) is true"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+          "unit": "Unit 7",
+          "topic": "7.2 Motivation",
+          "subtopic": "Drive Reduction Theory",
+          "concept": "Hull's Drive Reduction Theory (A) is based on the principle of homeostasis (R). Needs create drives (tension states), and organisms act to reduce these drives and restore homeostatic balance. The concept of homeostasis is the foundational explanation for why drive reduction motivates behavior.",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": null,
+          "table_ref": null
+        }
+      ]
+    },
+    {
+      "type": "passage",
+      "id": "passage_91",
+      "heading": "Read the following passage carefully and answer questions from 91 to 95:",
+      "text": "An investigator designs an experiment to see the effect of illumination level and duration of visual signal on detectability of change in illumination in a dark room on 120 randomly selected sample of college going male students. She decided to use low and high levels of illumination and three levels of duration of stimulus as 30, 50 and 70 milliseconds through an electric chronoscopic instrument. The investigator used separate group design for various combination of treatments. These participants were required to press a 'Yes' button if they detect the signal or 'No' button if they do not. Each participant was given a total of 50 trials within which 10 signals were randomly presented. Proportions of hits and false alarms was computed for each participant and were analysed to get answers to research questions."
+    },
+    {
+      "type": "questions_block",
+      "range": "Q91–Q95",
+      "passage_ref": "passage_91",
+      "questions": [
+        {
+          "id": 91,
+          "question": "Identify the experimental design used.",
+          "options": [
+            "(A) Randomized group",
+            "(B) Single factor",
+            "(C) Multifactor",
+            "(D) Repeated Measures"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Multifactor",
+          "unit": "Unit 2",
+          "topic": "2.5 Methods of Research",
+          "subtopic": "Experimental Design",
+          "concept": "The experiment has two independent variables (illumination level with 2 levels, and duration with 3 levels), making it a multifactor (factorial) design. A 2 × 3 factorial design allows testing of main effects of each IV and their interaction.",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": "passage_91",
+          "table_ref": null
+        },
+        {
+          "id": 92,
+          "question": "What type of independent variables were included?",
+          "options": [
+            "(A) Both were fixed factors.",
+            "(B) Both were random factors.",
+            "(C) Illumination level was a fixed factor while the duration was a random factor.",
+            "(D) Illumination level was a random factor while the duration was a fixed factor."
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both were fixed factors.",
+          "unit": "Unit 2",
+          "topic": "2.5 Methods of Research",
+          "subtopic": "Experimental Design",
+          "concept": "Both IVs are fixed factors because the experimenter deliberately chose specific levels of illumination (low and high) and specific durations (30, 50, 70 ms). Fixed factors are those where the levels are specifically selected by the researcher, not randomly sampled from a population of levels.",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": "passage_91",
+          "table_ref": null
+        },
+        {
+          "id": 93,
+          "question": "How many hypotheses the used design will allow to be verified?",
+          "options": [
+            "(A) One",
+            "(B) Three",
+            "(C) Four",
+            "(D) Seven"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Three",
+          "unit": "Unit 2",
+          "topic": "2.5 Methods of Research",
+          "subtopic": "Factorial Design",
+          "concept": "A 2 × 3 factorial design allows testing three hypotheses: (1) Main effect of illumination level, (2) Main effect of duration of visual signal, and (3) Interaction effect between illumination level and duration.",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": "passage_91",
+          "table_ref": null
+        },
+        {
+          "id": 94,
+          "question": "Find the degree of freedom for the error term.",
+          "options": [
+            "(A) 119",
+            "(B) 117",
+            "(C) 2",
+            "(D) 114"
+          ],
+          "correct_answer": 4,
+          "correct_text": "114",
+          "unit": "Unit 2",
+          "topic": "2.7 Inferential Statistics",
+          "subtopic": "Degrees of Freedom",
+          "concept": "In a 2 × 3 factorial design with 120 participants (20 per cell, 6 cells): Total df = 119; df for illumination = 1; df for duration = 2; df for interaction = 1 × 2 = 2; Error df = 119 - 1 - 2 - 2 = 114.",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": "passage_91",
+          "table_ref": null
+        },
+        {
+          "id": 95,
+          "question": "Identify the variables that were controlled by the experimenter.",
+          "options": [
+            "(A) Ambient illumination and duration of signal",
+            "(B) Gender and level of illumination of the signal",
+            "(C) Gender and ambient illumination",
+            "(D) Frequency of signal and level of illumination"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Gender and ambient illumination",
+          "unit": "Unit 2",
+          "topic": "2.5 Methods of Research",
+          "subtopic": "Experimental Control",
+          "concept": "The experimenter controlled gender by using only 'college going male students' and controlled ambient illumination by conducting the experiment 'in a dark room.' These were held constant to eliminate their potential confounding effects on detectability.",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": "passage_91",
+          "table_ref": null
+        }
+      ]
+    },
+    {
+      "type": "passage",
+      "id": "passage_96",
+      "heading": "Read the following passage carefully and answer questions from 96 to 100:",
+      "text": "A group of researchers were curious to understand the behaviour of guards in prisons and wanted to know whether it was due to dispositional (personality) or environment dependent (situational) factors. To study the roles of guards and prisoners they created a mock prison. 23 men unfamiliar with each other volunteered to participate in the study and were assigned the role of prisoners and guards. Both adopted to their new roles. A rebellion on the second day led to harsh retaliation by the guards. Ruthless retributive action was taken to punish the prisoners. The researchers intended to run the experiment for 2 weeks. It was however, terminated on the sixth day due to the emotional breakdown of prisoners and excessive aggression by the guards. The experiment revealed how people conform to the social roles they are expected to play."
+    },
+    {
+      "type": "questions_block",
+      "range": "Q96–Q100",
+      "passage_ref": "passage_96",
+      "questions": [
+        {
+          "id": 96,
+          "question": "Name the Psychologist who led this research.",
+          "options": [
+            "(A) Milgram",
+            "(B) Zimbardo",
+            "(C) Asch",
+            "(D) Sherif"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Zimbardo",
+          "unit": "Unit 8",
+          "topic": "8.4 Social Influence",
+          "subtopic": "Situational Influences on Behavior",
+          "concept": "Philip Zimbardo conducted the Stanford Prison Experiment (1971) at Stanford University. Milgram studied obedience, Asch studied conformity (line judgment), and Sherif studied intergroup conflict (Robbers Cave).",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": "passage_96",
+          "table_ref": null
+        },
+        {
+          "id": 97,
+          "question": "What went wrong with the experiment because of which it was terminated on the 6th day?",
+          "options": [
+            "(A) The experiment was boring",
+            "(B) The university administration asked the researchers to stop the study",
+            "(C) The prisoners felt upset and humiliated",
+            "(D) The prisoners and guards became friends"
+          ],
+          "correct_answer": 3,
+          "correct_text": "The prisoners felt upset and humiliated",
+          "unit": "Unit 8",
+          "topic": "8.4 Social Influence",
+          "subtopic": "Stanford Prison Experiment",
+          "concept": "The Stanford Prison Experiment was terminated on day 6 because prisoners experienced severe emotional distress, breakdowns, and humiliation, while guards became excessively aggressive and sadistic. The psychological harm to participants was deemed unacceptable.",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": "passage_96",
+          "table_ref": null
+        },
+        {
+          "id": 98,
+          "question": "The experiment.",
+          "options": [
+            "(A) Was highly appreciated",
+            "(B) Was highly criticized",
+            "(C) Resulted in the development and recognition of ethical guidelines",
+            "(D) Resulted in the study of behaviour of guards"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Resulted in the development and recognition of ethical guidelines",
+          "unit": "Unit 8",
+          "topic": "8.4 Social Influence",
+          "subtopic": "Research Ethics",
+          "concept": "The Stanford Prison Experiment, along with Milgram's obedience studies, contributed significantly to the development of ethical guidelines for psychological research, including the requirement for protection from harm, right to withdraw, and ethical review boards.",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": "passage_96",
+          "table_ref": null
+        },
+        {
+          "id": 99,
+          "question": "This study shows that we behave according to our.",
+          "options": [
+            "(A) beliefs",
+            "(B) attitudes",
+            "(C) roles",
+            "(D) background"
+          ],
+          "correct_answer": 3,
+          "correct_text": "roles",
+          "unit": "Unit 8",
+          "topic": "8.4 Social Influence",
+          "subtopic": "Social Roles",
+          "concept": "The Stanford Prison Experiment demonstrated the power of social roles in shaping behavior. Participants who were assigned guard or prisoner roles quickly adopted the behaviors expected of those roles, showing that situational factors and role expectations can override individual personality traits.",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": "passage_96",
+          "table_ref": null
+        },
+        {
+          "id": 100,
+          "question": "This experiment is known as.",
+          "options": [
+            "(A) Obedience experiment",
+            "(B) Stanford prison experiment",
+            "(C) False memory experiment",
+            "(D) Michigan experiment"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Stanford prison experiment",
+          "unit": "Unit 8",
+          "topic": "8.4 Social Influence",
+          "subtopic": "Stanford Prison Experiment",
+          "concept": "This is the Stanford Prison Experiment (1971), conducted by Philip Zimbardo in the basement of Stanford University's psychology building. The obedience experiment refers to Milgram's studies, false memory to Loftus's work, and Michigan experiment is not a standard reference.",
+          "era": "NTA",
+          "year": 2021,
+          "passage_ref": "passage_96",
+          "table_ref": null
+        }
+      ]
+    }
+  ]
+}

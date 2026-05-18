@@ -1,0 +1,1028 @@
+{
+  "paper_metadata": {
+    "title": "UGC NET/JRF Examination, June 2005",
+    "date": "June 2005",
+    "subject": "Psychology — Paper II"
+  },
+  "content": [
+    {
+      "type": "questions_block",
+      "range": "Q1–Q44",
+      "questions": [
+        {
+          "id": 1,
+          "question": "According to Gestalt Theory insight is the:",
+          "options": [
+            "(A) \"aha\" moment in problem solving",
+            "(B) reorganized problem structure",
+            "(C) gradual accretion of a problem solution",
+            "(D) main component of means-end analysis"
+          ],
+          "correct_answer": 2,
+          "correct_text": "reorganized problem structure",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Problem Solving",
+          "concept": "Gestalt view of insight: restructuring the problem (Köhler)",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 2,
+          "question": "**Assertion (A):** Individuality, finding one's way to the inner essence of one's being, and self-determination are important element of the phenomenological perspective.\n\n**Reason (R):** A person's personality is partly a matter of the uniqueness hidden within and partly matter or what the person chooses to make of it.\n\n**Codes:**",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "(B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+            "(C) (A) is true but (R) is false",
+            "(D) (A) is false but (R) is true"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+          "unit": "Unit 1",
+          "topic": "1.3 Knowledge Paradigms",
+          "subtopic": "Existential-Phenomenology",
+          "concept": "Phenomenological perspective: individuality, inner essence, self-determination",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 3,
+          "question": "Information decays from long term memory:",
+          "options": [
+            "(A) faster than from memory",
+            "(B) faster than from short term memory",
+            "(C) more slowly than from short term memory",
+            "(D) more slowly for rehearsed than from elaborated items"
+          ],
+          "correct_answer": 3,
+          "correct_text": "more slowly than from short term memory",
+          "unit": "Unit 5",
+          "topic": "5.5 Forgetting",
+          "subtopic": "Decay Theory",
+          "concept": "LTM decay is much slower than STM decay",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 4,
+          "question": "In experimental research designs, error variance is sought to be minimised by:",
+          "options": [
+            "(A) Random assignment of subjects to groups only",
+            "(B) Control or systematic manipulation of extraneous variables only",
+            "(C) Matching techniques only",
+            "(D) All of the above"
+          ],
+          "correct_answer": 4,
+          "correct_text": "All of the above",
+          "unit": "Unit 2",
+          "topic": "2.5 Methods of Research",
+          "subtopic": "Experimental Designs",
+          "concept": "Methods to minimize error variance: random assignment, control of extraneous variables, matching",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 5,
+          "question": "Method of summed ratings was developed in attitude scale construction by:",
+          "options": [
+            "(A) Thurstone",
+            "(B) Bogardus",
+            "(C) Likert",
+            "(D) Thorndike"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Likert",
+          "unit": "Unit 3",
+          "topic": "3.6 Types of Tests by Domain",
+          "subtopic": "Attitude Scales",
+          "concept": "Likert's summated rating scale",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 6,
+          "question": "Match List-A with List-B:\n\n| List-A (Theorists) | List-B (Theories of personality) |\n|---|---|\n| I Kurt Lewin | (i) Trait theory |\n| II Gordon Allport | (ii) Field theory |\n| III Erik Erikson | (iii) Theory of individual psychology |\n| IV Alfred Adler | (iv) Psycho-social theory |\n\n**Codes:**\n\n| | (I) | (II) | (III) | (IV) |\n|---|---|---|---|---|\n| (A) | (ii) | (i) | (iv) | (iii) |\n| (B) | (i) | (iii) | (ii) | (iv) |\n| (C) | (iv) | (ii) | (iii) | (i) |\n| (D) | (iii) | (ii) | (iv) | (i) |",
+          "options": [
+            "(A) (ii), (i), (iv), (iii)",
+            "(B) (i), (iii), (ii), (iv)",
+            "(C) (iv), (ii), (iii), (i)",
+            "(D) (iii), (ii), (iv), (i)"
+          ],
+          "correct_answer": 1,
+          "correct_text": "(ii), (i), (iv), (iii)",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Personality Theories",
+          "concept": "Lewin-Field theory, Allport-Trait theory, Erikson-Psychosocial, Adler-Individual psychology",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 7,
+          "question": "Learning that is affected by consequences is called:",
+          "options": [
+            "(A) Classical conditioning",
+            "(B) Self-regulated learning",
+            "(C) Behavioural self-management",
+            "(D) Operant conditioning"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Operant conditioning",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Operant Conditioning",
+          "concept": "Operant conditioning: behaviour determined by consequences (Skinner)",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 8,
+          "question": "Tiny gap between the axon terminal of one neuron and the dendrites or cell body of the next neuron is:",
+          "options": [
+            "(A) Synaptic knob",
+            "(B) Synapses",
+            "(C) Synaptic cleft",
+            "(D) Synaptic vesicles"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Synaptic cleft",
+          "unit": "Unit 4",
+          "topic": "4.2 Neurons",
+          "subtopic": "Synapse",
+          "concept": "Synaptic cleft: the tiny gap between neurons",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 9,
+          "question": "Any distorting or selective effect of a person's inner world on his perception or conception of the outer world:",
+          "options": [
+            "(A) Projection",
+            "(B) Introjection",
+            "(C) Empathy",
+            "(D) Denial"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Projection",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Defense Mechanisms",
+          "concept": "Projection: attributing one's own inner states to the external world",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 10,
+          "question": "An interval scale of measurement contains:\n\n(i) properties of nominal and ordinal scales\n(ii) an absolute zero point\n(iii) comparable differences between different intervals of the scale\n(iv) a minimum requirement for use of parametric tests\n\n**Codes:**",
+          "options": [
+            "(A) (i), (ii), (iii) and (iv) are correct",
+            "(B) (i), (ii) are correct",
+            "(C) (i), (ii) and (iv) are correct",
+            "(D) (i), (iii) and (iv) are correct"
+          ],
+          "correct_answer": 4,
+          "correct_text": "(i), (iii) and (iv) are correct",
+          "unit": "Unit 2",
+          "topic": "2.6 Descriptive Statistics",
+          "subtopic": "Scales of Measurement",
+          "concept": "Interval scale: has nominal/ordinal properties, equal intervals, NO absolute zero, parametric test requirement",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 11,
+          "question": "Associative neurons are found at:",
+          "options": [
+            "(A) Spinal cord only",
+            "(B) Hands only",
+            "(C) Legs only",
+            "(D) Spinal cord and Brain only"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Spinal cord and Brain only",
+          "unit": "Unit 4",
+          "topic": "4.2 Neurons",
+          "subtopic": "Types of Neurons",
+          "concept": "Interneurons (associative neurons) found in CNS (brain and spinal cord)",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 12,
+          "question": "The place theory of pitch in hearing was first proposed by:",
+          "options": [
+            "(A) Hermann Helmholtz",
+            "(B) George Von Bekesy",
+            "(C) Heinrich Hertz",
+            "(D) Stevens"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Hermann Helmholtz",
+          "unit": "Unit 4",
+          "topic": "4.1 Sensory Systems",
+          "subtopic": "Auditory System",
+          "concept": "Place theory (Helmholtz, 1863): different sound frequencies stimulate specific locations along the basilar membrane, with high frequencies near the base and low frequencies near the apex",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 13,
+          "question": "The opponent-process theory of colour vision was formulated by:",
+          "options": [
+            "(A) Young-Helmholtz",
+            "(B) Hering",
+            "(C) Kuffler",
+            "(D) Leo Hurvich and Dorothea Jameson"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Hering",
+          "unit": "Unit 4",
+          "topic": "4.1 Sensory Systems",
+          "subtopic": "Visual System",
+          "concept": "Opponent-process theory (Hering, 1878): colour perceived via opposing pairs (red-green, blue-yellow, black-white); later quantified by Hurvich & Jameson (1957). Young-Helmholtz proposed trichromatic theory; Kuffler studied retinal ganglion cells",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 14,
+          "question": "Match List-A with List-B and select the correct answer using the codes given below:\n\n| List-A (Nervous System and Brain) | List-B (Area of control) |\n|---|---|\n| (1) Central nervous system | (i) Nerves connecting receptors and effectors |\n| (2) Peripheral nervous system | (ii) Left side of the body |\n| (3) Right cerebral hemisphere | (iii) Brain and spinal cord |\n| (4) Left cerebral hemisphere | (iv) Right side of the body |\n\n**Codes:**\n\n| | (1) | (2) | (3) | (4) |\n|---|---|---|---|---|\n| (A) | (ii) | (i) | (iii) | (iv) |\n| (B) | (iii) | (i) | (ii) | (iv) |\n| (C) | (iv) | (i) | (ii) | (iii) |\n| (D) | (i) | (ii) | (iii) | (iv) |",
+          "options": [
+            "(A) (ii), (i), (iii), (iv)",
+            "(B) (iii), (i), (ii), (iv)",
+            "(C) (iv), (i), (ii), (iii)",
+            "(D) (i), (ii), (iii), (iv)"
+          ],
+          "correct_answer": 2,
+          "correct_text": "(iii), (i), (ii), (iv)",
+          "unit": "Unit 4",
+          "topic": "4.3 Nervous System",
+          "subtopic": "Nervous System Organization",
+          "concept": "CNS (brain+spinal cord), PNS (receptors-effectors), Right hemisphere (left body), Left hemisphere (right body)",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 15,
+          "question": "**Assertion (A):** Intelligent people are more creative.\n\n**Reason (R):** Intelligence and creativity are positively related.\n\n**Codes:**",
+          "options": [
+            "(A) Both (A) and (R) are false",
+            "(B) Both (A) and (R) are true",
+            "(C) (A) is true but (R) is false",
+            "(D) (R) is true but (A) is false"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are false",
+          "unit": "Unit 6",
+          "topic": "6.3 Creativity",
+          "subtopic": "Creativity and Intelligence",
+          "concept": "Threshold theory: above IQ ~120, creativity and intelligence are weakly related; both assertions are overgeneralizations",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 16,
+          "question": "The Eysenck Personality Inventory (EPI) has the following dimensions:",
+          "options": [
+            "(A) Extraversion only",
+            "(B) Extraversion and Neuroticism only",
+            "(C) Neuroticism only",
+            "(D) Extraversion, Neuroticism and lie only"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Extraversion, Neuroticism and lie only",
+          "unit": "Unit 3",
+          "topic": "3.6 Types of Tests by Domain",
+          "subtopic": "Personality Tests",
+          "concept": "EPI dimensions: E, N, and L (lie scale)",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 17,
+          "question": "When one is actively engaged in thought (trying to work through a difficult problem) the EEG record would show a rapid but rather irregular pattern of electrical activity. This sort of activity pattern of brain is called:",
+          "options": [
+            "(A) Alpha waves",
+            "(B) Delta waves",
+            "(C) Beta waves",
+            "(D) Theta waves"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Beta waves",
+          "unit": "Unit 4",
+          "topic": "4.4 Methods of Physiological Psychology",
+          "subtopic": "EEG",
+          "concept": "Beta waves: rapid, irregular, associated with active thinking/alertness",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 18,
+          "question": "Validity that yields information about how well the scores of one measure correlate with scores from a second measure is called:",
+          "options": [
+            "(A) Face validity",
+            "(B) Content validity",
+            "(C) Concurrent validity",
+            "(D) Criterion validity"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Criterion validity",
+          "unit": "Unit 3",
+          "topic": "3.4 Validity",
+          "subtopic": "Criterion-Related Validity",
+          "concept": "Criterion-related validity: the degree to which test scores correlate with an external criterion measure; encompasses both concurrent (same time) and predictive (future) validity subtypes",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 19,
+          "question": "Which of the following characteristics is true of applied and basic research in Psychology?",
+          "options": [
+            "(A) Basic research has no human relevance",
+            "(B) Applied research has impact on problems in the real life",
+            "(C) When basic research is applied under control conditions it becomes applied research",
+            "(D) Both (A) and (B) are true"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Applied research has impact on problems in the real life",
+          "unit": "Unit 2",
+          "topic": "2.1 Foundations of Research",
+          "subtopic": "Research Types",
+          "concept": "Applied research targets practical real-world problems with direct societal impact; basic research builds theoretical understanding and is also humanly relevant as foundation for later applications",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 20,
+          "question": "Which one of the following does not measure aptitude?",
+          "options": [
+            "(A) GATB",
+            "(B) TAT",
+            "(C) FACT",
+            "(D) DAT"
+          ],
+          "correct_answer": 2,
+          "correct_text": "TAT",
+          "unit": "Unit 3",
+          "topic": "3.6 Types of Tests by Domain",
+          "subtopic": "Aptitude vs Personality Tests",
+          "concept": "TAT (Thematic Apperception Test) measures personality/achievement motivation, not aptitude",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 21,
+          "question": "**Assertion (A):** Super ego gains strength as children incorporate many of parents values and attain gender identity.\n\n**Reason (R):** Children cope with oedipus complex by repressing the associated threatening feelings and by identifying with the rival parent, and this contributes to gender identity.\n\n**Codes:**",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "(B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+            "(C) (A) is true but (R) is false",
+            "(D) (A) is false but (R) is true"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Psychoanalytic Approach",
+          "concept": "Freud's psychoanalytic theory: superego forms during phallic stage (ages 3-6) as the child resolves the Oedipus/Electra complex by identifying with the same-sex parent and internalizing parental moral standards",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 22,
+          "question": "When we perceive an apple from a distance of 6 or 16 feet, it makes no difference in our perception. Choose the correct reason from the following options:",
+          "options": [
+            "(A) Perceptual assimilation",
+            "(B) Perceptual contract",
+            "(C) Perceptual constancy",
+            "(D) Perceptual vigilance"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Perceptual constancy",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Perceptual Constancy",
+          "concept": "Size constancy: perceived size remains constant across distances",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 23,
+          "question": "A type of thinking in which a person searches for multiple ideas or solutions is:",
+          "options": [
+            "(A) Divergent thinking",
+            "(B) Vertical thinking",
+            "(C) Ideational fluency",
+            "(D) Convergent thinking"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Divergent thinking",
+          "unit": "Unit 6",
+          "topic": "6.3 Creativity",
+          "subtopic": "Divergent vs Convergent Thinking",
+          "concept": "Divergent thinking: generating multiple solutions (Guilford)",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 24,
+          "question": "Match correctly the Psychologists (List-I) with their suggested reasons for forgetting (List-II):\n\n| List-I | List-II |\n|---|---|\n| (A) Atkinson and Shiffrin | (i) Lack of retrieval cues |\n| (B) Craik and Lockhart | (ii) Inadequate perseveration and consolidation of learned material |\n| | (iii) Displacement of learned material |\n| | (iv) Dual processing of learned material in STM and LTM |\n\n**Codes:**\n\n| | (A) | (B) |\n|---|---|---|\n| (A) | (iii) | (iv) |\n| (B) | (i) | (ii) |\n| (C) | (ii) | (i) |\n| (D) | (iv) | (iii) |",
+          "options": [
+            "(A) (iii) and (iv)",
+            "(B) (i) and (ii)",
+            "(C) (ii) and (i)",
+            "(D) (iv) and (iii)"
+          ],
+          "correct_answer": 1,
+          "correct_text": "(iii) and (iv)",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Memory Models",
+          "concept": "Atkinson-Shiffrin modal model: forgetting from STM occurs via displacement due to limited capacity (7±2 items). Craik-Lockhart levels-of-processing framework: forgetting results from dual (shallow vs deep) processing — shallow encoding produces weak, transient memory traces",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 25,
+          "question": "Remembering information about a stimulus in addition to what you intended to remember (e.g. position of a paragraph in a page) is called:",
+          "options": [
+            "(A) Accidental learning",
+            "(B) Elaborative learning",
+            "(C) Incidental learning",
+            "(D) Intentional learning"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Incidental learning",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Encoding",
+          "concept": "Incidental learning: learning without intention",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 26,
+          "question": "Match List-I (Test) with List-II (Population/Ability):\n\n| List-I (Test) | List-II (Population/Ability) |\n|---|---|\n| (A) Seguin Form Board Performance Test | (i) Student's specific abilities |\n| (B) The Bayley Scale | (ii) Mentally Retarded |\n| (C) California Test of Mental Maturity | (iii) People from different cultures |\n| (D) Progressive Matrices | (iv) Very young children |\n\n**Codes:**\n\n| | (A) | (B) | (C) | (D) |\n|---|---|---|---|---|\n| (A) | (i) | (ii) | (iii) | (iv) |\n| (B) | (iv) | (i) | (iii) | (ii) |\n| (C) | (iii) | (ii) | (iv) | (i) |\n| (D) | (ii) | (iv) | (i) | (iii) |",
+          "options": [
+            "(A) (i), (ii), (iii), (iv)",
+            "(B) (iv), (i), (iii), (ii)",
+            "(C) (iii), (ii), (iv), (i)",
+            "(D) (ii), (iv), (i), (iii)"
+          ],
+          "correct_answer": 4,
+          "correct_text": "(ii), (iv), (i), (iii)",
+          "unit": "Unit 3",
+          "topic": "3.6 Types of Tests by Domain",
+          "subtopic": "Intelligence Tests",
+          "concept": "Seguin Form Board (mentally retarded), Bayley (infants), California Test (specific abilities), Raven's (culture-fair)",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 27,
+          "question": "When we look at a figure for sometime and then look at another figure, the perception of the second figure is referred to as:",
+          "options": [
+            "(A) After image",
+            "(B) Illusion",
+            "(C) The figural after effect",
+            "(D) Distorted perception"
+          ],
+          "correct_answer": 3,
+          "correct_text": "The figural after effect",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Perceptual Phenomena",
+          "concept": "Figural after-effect (Köhler & Wallach): spatial displacement/distortion of a test figure perceived after prolonged fixation on an inspection figure — a Gestalt perceptual adaptation phenomenon",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 28,
+          "question": "Match the items of List-I with those of List-II:\n\n| List-I | List-II |\n|---|---|\n| (A) id | (i) energy that comes from the sexual instinct |\n| (B) ego | (ii) mediator between reality, the super ego, and the id |\n| (C) ego ideal | (iii) unconscious urges seeking expression |\n| (D) libido | (iv) that part of super ego concerned with standards |\n\n**Codes:**\n\n| | (A) | (B) | (C) | (D) |\n|---|---|---|---|---|\n| (A) | (i) | (iii) | (ii) | (iv) |\n| (B) | (iii) | (ii) | (iv) | (i) |\n| (C) | (ii) | (iii) | (i) | (iv) |\n| (D) | (iv) | (iii) | (ii) | (i) |",
+          "options": [
+            "(A) (i), (iii), (ii), (iv)",
+            "(B) (iii), (ii), (iv), (i)",
+            "(C) (ii), (iii), (i), (iv)",
+            "(D) (iv), (iii), (ii), (i)"
+          ],
+          "correct_answer": 2,
+          "correct_text": "(iii), (ii), (iv), (i)",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Psychoanalytic Approach",
+          "concept": "Id (unconscious urges), Ego (mediator), Ego ideal (standards), Libido (sexual energy)",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 29,
+          "question": "**Assertion (A):** The polygraph is an instrument used to measure physiological responses associated with emotional arousal.\n\n**Reason (R):** Emotions are the products of one's beliefs and physiological changes are cognitive effects.\n\n**Codes:**",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "(B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+            "(C) (A) is true but (R) is false",
+            "(D) (A) is false but (R) is true"
+          ],
+          "correct_answer": 3,
+          "correct_text": "(A) is true but (R) is false",
+          "unit": "Unit 7",
+          "topic": "7.3 Emotion",
+          "subtopic": "Measurement of Emotion",
+          "concept": "Polygraph measures physiological indices (GSR, heart rate, respiration) associated with emotional arousal. Reason is false: emotions involve complex interaction of physiological arousal, cognitive appraisal (Schachter-Singer), and behavioural components — not merely beliefs producing cognitive effects",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 30,
+          "question": "Which of the following statements is NOT true of classical conditioning?",
+          "options": [
+            "(A) Backward conditioning, in which UCS occurs before the CS, is more effective than delay conditioning.",
+            "(B) Conditioning is faster as the intensity of CS or UCS increases",
+            "(C) Longer the CS-UCS interval the weaker the conditioning",
+            "(D) A weak conditioned response may reappear sometime after extinction"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Backward conditioning, in which UCS occurs before the CS, is more effective than delay conditioning.",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Classical Conditioning",
+          "concept": "Backward conditioning is LESS effective than delay conditioning",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 31,
+          "question": "According to Gestalt theory, which of the following statements is correct?",
+          "options": [
+            "(A) Perceptual organization is natural",
+            "(B) Perceptual organization is acquired",
+            "(C) Perceptual organization is partially natural and partially acquired",
+            "(D) Perceptual organization is a false notion"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Perceptual organization is natural",
+          "unit": "Unit 1",
+          "topic": "1.2 Western Schools of Psychology",
+          "subtopic": "Gestalt Psychology",
+          "concept": "Gestalt view: perceptual organization is innate/natural (top-down, whole > sum of parts)",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 32,
+          "question": "The aroused condition of an organism that results from some bodily or tissue deficit is called:",
+          "options": [
+            "(A) Drive",
+            "(B) Motive",
+            "(C) Goal",
+            "(D) Innate"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Drive",
+          "unit": "Unit 7",
+          "topic": "7.2 Motivation",
+          "subtopic": "Concepts of Motivation",
+          "concept": "Drive: arousal state from tissue deficit (Hull's Drive-Reduction Theory)",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 33,
+          "question": "The theory of emotion proposed by Schachter and Singer is a:",
+          "options": [
+            "(A) social theory of emotions",
+            "(B) neurobiological theory of emotions",
+            "(C) cognitive theory of emotions",
+            "(D) psychoanalytic theory of emotions"
+          ],
+          "correct_answer": 3,
+          "correct_text": "cognitive theory of emotions",
+          "unit": "Unit 7",
+          "topic": "7.3 Emotion",
+          "subtopic": "Theories of Emotion",
+          "concept": "Schachter-Singer Two-Factor Theory: cognitive labelling of arousal",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 34,
+          "question": "A researcher compared the effects of two methods of treatment on depressive patients. The first 20 patients admitted to a clinic were treated by method 1 and the next 20 by method 2. Pre- and post-treatment depression scores of the two groups were compared.\n\n**Assertion (A):** The research design is quasi-experimental and not an experimental design.\n\n**Reason (R):** Experimental procedure require random or systematic assignment of subjects to treatment conditions.\n\n**Codes:**",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "(B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+            "(C) (A) is true but (R) is false",
+            "(D) (A) is false but (R) is true"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+          "unit": "Unit 2",
+          "topic": "2.5 Methods of Research",
+          "subtopic": "Quasi-Experimental Design",
+          "concept": "Quasi-experimental: no random assignment (natural groups)",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 35,
+          "question": "For Piaget achieving a harmony between sensory information and accumulated knowledge is called:",
+          "options": [
+            "(A) assimilation",
+            "(B) learning",
+            "(C) disequilibrium",
+            "(D) equilibrium"
+          ],
+          "correct_answer": 4,
+          "correct_text": "equilibrium",
+          "unit": "Unit 9",
+          "topic": "9.2 Major Developmental Theories",
+          "subtopic": "Cognitive Development (Piaget)",
+          "concept": "Equilibrium: balance between assimilation and accommodation",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 36,
+          "question": "Which of the following is not true about the trait approach as compared to type approach?",
+          "options": [
+            "(A) A trait is more limited in influence",
+            "(B) Unlike the type approach, the trait approach permits a large number of dimensions",
+            "(C) Trait approach avoids over simplification",
+            "(D) Any number of traits can be combined into a systematic theory"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Any number of traits can be combined into a systematic theory",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Trait and Type Theories",
+          "concept": "Trait approach: traits exist on continuous dimensions and must be empirically identified through factor analysis (e.g. Cattell's 16PF, Big Five); arbitrary combinations of traits do not constitute a valid systematic theory — this is a limitation, not an advantage, of the trait approach versus the type approach",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 37,
+          "question": "Punishment involves:\n\n(i) Suppression of behaviour\n(ii) Behaviours being followed by unpleasant consequences\n(iii) Avoidance conditioning\n(iv) Increasing strength of a response\n\nWhich of the following is true?",
+          "options": [
+            "(A) (i) and (iii) are correct",
+            "(B) (ii) and (iii) are correct",
+            "(C) (i) and (ii) are correct",
+            "(D) (i), (ii) and (iii) are correct"
+          ],
+          "correct_answer": 3,
+          "correct_text": "(i) and (ii) are correct",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Operant Conditioning",
+          "concept": "Punishment: suppression of behaviour by unpleasant consequences",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 38,
+          "question": "**Assertion (A):** In variable-interval schedule organisms respond at a steady rate.\n\n**Reason (R):** Variable-interval schedule of reinforcement is a partial or intermittent schedule.\n\n**Codes:**",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "(B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+            "(C) (A) is true but (R) is false",
+            "(D) (A) is false but (R) is true"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Schedules of Reinforcement",
+          "concept": "Variable-interval (VI) schedule: reinforcement after varying time intervals produces steady, moderate response rates because the organism cannot predict the next reward. Being a partial/intermittent schedule, it generates greater resistance to extinction than continuous reinforcement",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 39,
+          "question": "When a Conditioned Stimulus (CS) is no longer followed by the Unconditioned Stimulus (UCS), the CS gradually loses the ability to evoke Conditioned Response (CR). This phenomenon is known as:",
+          "options": [
+            "(A) Reconditioning",
+            "(B) Backward conditioning",
+            "(C) Discrimination learning",
+            "(D) Extinction"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Extinction",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Classical Conditioning",
+          "concept": "Extinction: CS presented without UCS, CR weakens",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 40,
+          "question": "Match List-I with List-II:\n\n| List-I (Phenomena) | List-II (Concepts) |\n|---|---|\n| (A) Rules regarding delivery of reinforcement | (i) Shaping |\n| (B) Approximation of desired behaviour | (ii) Punishment |\n| (C) Processing of weakening or decreasing rate of response | (iii) Reinforcement |\n| (D) Voluntary response | (iv) Schedules of reinforcement |\n| | (v) Operant |\n\n**Codes:**\n\n| | (A) | (B) | (C) | (D) |\n|---|---|---|---|---|\n| (A) | (v) | (i) | (ii) | (iii) |\n| (B) | (iv) | (iii) | (v) | (ii) |\n| (C) | (iv) | (i) | (ii) | (v) |\n| (D) | (v) | (iii) | (i) | (ii) |",
+          "options": [
+            "(A) (v), (i), (ii), (iii)",
+            "(B) (iv), (iii), (v), (ii)",
+            "(C) (iv), (i), (ii), (v)",
+            "(D) (v), (iii), (i), (ii)"
+          ],
+          "correct_answer": 3,
+          "correct_text": "(iv), (i), (ii), (v)",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Operant Conditioning",
+          "concept": "Schedules (delivery rules), Shaping (approximation), Punishment (weakening), Operant (voluntary response)",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 41,
+          "question": "Conditioning technique designed to gradually reduce anxiety about a particular object or situation is called:",
+          "options": [
+            "(A) Sensitization Therapy",
+            "(B) Cognitive Therapy",
+            "(C) Desensitization Therapy",
+            "(D) Cognitive-Behavioural Therapy"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Desensitization Therapy",
+          "unit": "Unit 9",
+          "topic": "9.5 Psychotherapies",
+          "subtopic": "Behaviour Therapies",
+          "concept": "Systematic Desensitization (Wolpe): gradual anxiety reduction through counter-conditioning",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 42,
+          "question": "Lazarus suggests different components of emotions. Arrange them in sequence.\n\n(i) Cognitive Appraisal\n(ii) Person-environment relationship\n(iii) Emotional Responses\n\n**Codes:**",
+          "options": [
+            "(A) (ii) (iii) (i)",
+            "(B) (i) (iii) (ii)",
+            "(C) (i) (ii) (iii)",
+            "(D) (ii) (i) (iii)"
+          ],
+          "correct_answer": 4,
+          "correct_text": "(ii) (i) (iii)",
+          "unit": "Unit 7",
+          "topic": "7.3 Emotion",
+          "subtopic": "Theories of Emotion",
+          "concept": "Lazarus: Person-environment relationship → Cognitive appraisal → Emotional response",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 43,
+          "question": "Memories that shed light on the power of distinctiveness and has strong vivid recollection of some autobiographical event and that carries with it strong emotional reaction is known as:",
+          "options": [
+            "(A) Picture Memory",
+            "(B) Distinctive Memory",
+            "(C) Flashbulb Memory",
+            "(D) Semantic Memory"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Flashbulb Memory",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Types of Memory",
+          "concept": "Flashbulb memory: vivid, emotionally charged autobiographical recollection",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 44,
+          "question": "Match List-I (Type of Research) with List-II (Essential feature):\n\n| List-I (Type of Research) | List-II (Essential feature) |\n|---|---|\n| (A) Laboratory of Experiments | (i) Unobtrusive observation |\n| (B) Field study | (ii) Study of covariation of events |\n| (C) Survey Method | (iii) Naturalistic observation |\n| (D) Correlational Research | (iv) Information collected through interviews or questionnaires |\n| | (v) Control and systematic manipulation of variables |\n\n**Codes:**\n\n| | (A) | (B) | (C) | (D) |\n|---|---|---|---|---|\n| (A) | (i) | (iii) | (ii) | (iv) |\n| (B) | (v) | (i) | (iii) | (iv) |\n| (C) | (i) | (ii) | (iii) | (iv) |\n| (D) | (v) | (iii) | (iv) | (ii) |",
+          "options": [
+            "(A) (i), (iii), (ii), (iv)",
+            "(B) (v), (i), (iii), (iv)",
+            "(C) (i), (ii), (iii), (iv)",
+            "(D) (v), (iii), (iv), (ii)"
+          ],
+          "correct_answer": 4,
+          "correct_text": "(v), (iii), (iv), (ii)",
+          "unit": "Unit 2",
+          "topic": "2.5 Methods of Research",
+          "subtopic": "Research Methods",
+          "concept": "Lab experiments (control+manipulation), Field study (naturalistic observation), Survey (interviews/questionnaires), Correlational (covariation)",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": null,
+          "table_ref": null
+        }
+      ]
+    },
+    {
+      "type": "passage",
+      "id": "passage_45",
+      "heading": "### Passage (Questions 45–50)",
+      "text": "**Passage:**\n\nJerome S. Bruner is a cognitive psychologist, with primary interest in the development of mental abilities. He had a major impact on the education profession with the publication of his book 'The process of education' (1960). He later proposed some theorems regarding instruction, illustrated by the teaching of mathematics, and moves further toward a theory of instruction in a subsequent collection of essays (Bruner, 1966). In the latter, he points out that a theory of instruction is prescriptive in that it proposes rules for achieving knowledge or skill and provides techniques for measuring or evaluation outcomes. It is also normative, in that it sets goals to be achieved and deals with conditions for meeting them.\n\nHe goes on to specify four features that a theory of instruction must encompass:\n\n1. Predisposition to learn: A theory of instruction must be concerned with the experiences and contexts that will tend to make the child willing and able to learn when he or she enters school.\n\n2. Structure of knowledge: It must specify the ways in which a body of knowledge should be structured so that it can be most readily grasped by the learner.\n\n3. Sequence: It should specify the most effective sequence in which to present the materials.\n\n4. Reinforcement: It should specify the nature and pacing of rewards, moving from extrinsic rewards to intrinsic ones.\n\nBruner has taken the position that with sufficient understanding of the structure of a field of knowledge, something anticipating the later, more advanced concepts can be taught appropriately at much earlier ages. His aphorism has been widely quoted: \"Any subject can be taught effectively in some intellectually honest form to any child at any stage of development.\"\n\nThe developmental aspect of Bruner's theory lies in his interest in cognitive development, originally stimulated by Piaget. This has led him to emphasize three modes of representation in a developmental sequence: the enactive, the iconic, and the symbolic. The enactive mode is learning through action, an essentially wordless learning, such as learning to ride a bicycle. The iconic mode is based on representation through perceptual means (hence the \"icon\", or image standing for something). A mental map that permits us to follow a route from where we are to where we are going constitutes such an iconic representation. Finally, the symbolic mode enables the translation of experience into words and these permit eventually the kinds of transformations that at the later stages become of so much interest to Piaget."
+    },
+    {
+      "type": "questions_block",
+      "range": "Q45–Q50",
+      "passage_ref": "passage_45",
+      "questions": [
+        {
+          "id": 45,
+          "question": "This passage shows that Bruner is primarily concerned with:",
+          "options": [
+            "(A) application of learning theory",
+            "(B) application of principles of development to education",
+            "(C) role of language in human development",
+            "(D) teaching of mathematics"
+          ],
+          "correct_answer": 2,
+          "correct_text": "application of principles of development to education",
+          "unit": "Unit 9",
+          "topic": "9.2 Major Developmental Theories",
+          "subtopic": "Cognitive Development",
+          "concept": "Bruner's primary concern: applying cognitive-developmental principles (heavily influenced by Piaget) to educational practice through a prescriptive theory of instruction, as articulated in 'The Process of Education' (1960)",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": "passage_45",
+          "table_ref": null
+        },
+        {
+          "id": 46,
+          "question": "Prescriptive theory is one which:",
+          "options": [
+            "(A) suggests practical applications",
+            "(B) sets objectives or goals",
+            "(C) has educational relevance",
+            "(D) specifies learning outcomes"
+          ],
+          "correct_answer": 1,
+          "correct_text": "suggests practical applications",
+          "unit": "Unit 9",
+          "topic": "9.2 Major Developmental Theories",
+          "subtopic": "Cognitive Development",
+          "concept": "Prescriptive (Bruner): prescribes rules and techniques for achieving knowledge/skill (the 'how to teach'); distinct from normative which sets the educational goals/standards to be achieved. The passage defines prescriptive as proposing rules for achieving and techniques for evaluating outcomes",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": "passage_45",
+          "table_ref": null
+        },
+        {
+          "id": 47,
+          "question": "According to Bruner:",
+          "options": [
+            "(A) concepts can be taught only in appropriate stages",
+            "(B) concepts should only be taught after emergence of words",
+            "(C) concepts can be appropriately taught at any stage of development",
+            "(D) children should learn concepts only through action"
+          ],
+          "correct_answer": 3,
+          "correct_text": "concepts can be appropriately taught at any stage of development",
+          "unit": "Unit 9",
+          "topic": "9.2 Major Developmental Theories",
+          "subtopic": "Cognitive Development",
+          "concept": "Bruner's spiral curriculum: any subject can be taught at any stage",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": "passage_45",
+          "table_ref": null
+        },
+        {
+          "id": 48,
+          "question": "A theory of instruction must deal with predisposition to learn which refers to:",
+          "options": [
+            "(A) sequencing of development stages",
+            "(B) individual differences among children",
+            "(C) cognitive development",
+            "(D) the conditions of child's environment before entering school"
+          ],
+          "correct_answer": 4,
+          "correct_text": "the conditions of child's environment before entering school",
+          "unit": "Unit 9",
+          "topic": "9.2 Major Developmental Theories",
+          "subtopic": "Cognitive Development",
+          "concept": "Bruner's predisposition to learn: pre-school experiences and contexts",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": "passage_45",
+          "table_ref": null
+        },
+        {
+          "id": 49,
+          "question": "In Bruner's theory, structure of knowledge refers to:",
+          "options": [
+            "(A) existing organization of knowledge in learner's mind",
+            "(B) organization of knowledge to facilitate understanding",
+            "(C) iconic, enactive and symbolic modes of knowledge",
+            "(D) image associated with a system of knowledge"
+          ],
+          "correct_answer": 2,
+          "correct_text": "organization of knowledge to facilitate understanding",
+          "unit": "Unit 9",
+          "topic": "9.2 Major Developmental Theories",
+          "subtopic": "Cognitive Development",
+          "concept": "Bruner's structure of knowledge: how to organize for most effective learning",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": "passage_45",
+          "table_ref": null
+        },
+        {
+          "id": 50,
+          "question": "Based on the information available in the passage, arrange the following in the order in which they develop according to Bruner's theory:\n\n(i) Language based representation and transformation of knowledge\n(ii) Action based knowledge\n(iii) Image based knowledge\n\n**Codes:**",
+          "options": [
+            "(A) (ii), (ii) and (iii)",
+            "(B) (iii), (ii) and (i)",
+            "(C) (i), (iii) and (ii)",
+            "(D) (ii), (iii) and (i)"
+          ],
+          "correct_answer": 4,
+          "correct_text": "(ii), (iii) and (i)",
+          "unit": "Unit 9",
+          "topic": "9.2 Major Developmental Theories",
+          "subtopic": "Cognitive Development",
+          "concept": "Bruner's modes: Enactive (action) → Iconic (image) → Symbolic (language)",
+          "era": "UGC",
+          "year": 2005,
+          "passage_ref": "passage_45",
+          "table_ref": null
+        }
+      ]
+    }
+  ]
+}

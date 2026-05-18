@@ -1,0 +1,1035 @@
+{
+  "paper_metadata": {
+    "title": "UGC NET/JRF Examination, June 2015",
+    "date": "June 2015",
+    "subject": "Psychology — Paper II"
+  },
+  "content": [
+    {
+      "type": "questions_block",
+      "range": "Q1–Q45",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Partial reinforcement is considered better than continuous reinforcement because :",
+          "options": [
+            "(A) the learning occurs rapidly",
+            "(B) the learning occurs slowly",
+            "(C) the extinction occurs rapidly",
+            "(D) the extinction occurs slowly"
+          ],
+          "correct_answer": 4,
+          "correct_text": "the extinction occurs slowly",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Reinforcement Schedules",
+          "concept": "Partial (intermittent) reinforcement produces behaviour that is more resistant to extinction than continuous reinforcement. This is known as the Partial Reinforcement Effect (PRE).",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 2,
+          "question": "Match List - I with List - II and indicate your answer using the codes given below :\n\n| List - I | List - II |\n| --- | --- |\n| (Test) | (Dimension / Trait assessed) |\n| (a) EPPS | (i) State anxiety |\n| (b) EPQ - R | (ii) Psychoticism |\n| (c) NEO - PI - R | (iii) Achievement motivation |\n| (d) STAI | (iv) Openness to experience |\n\n**Codes :**\n\n| (a) | (b) | (c) | (d) |\n| --- | --- | --- | --- |\n| (1) (iii) | (ii) | (iv) | (i) |\n| (2) (i) | (ii) | (iv) | (iii) |\n| (3) (iii) | (iv) | (ii) | (i) |\n| (4) (i) | (iv) | (ii) | (iii) |",
+          "options": [
+            "(A) a-(iii), b-(ii), c-(iv), d-(i)",
+            "(B) a-(i), b-(ii), c-(iv), d-(iii)",
+            "(C) a-(iii), b-(iv), c-(ii), d-(i)",
+            "(D) a-(i), b-(iv), c-(ii), d-(iii)"
+          ],
+          "correct_answer": 1,
+          "correct_text": "a-(iii), b-(ii), c-(iv), d-(i)",
+          "unit": "Unit 3",
+          "topic": "3.2 Psychological Tests",
+          "subtopic": "Personality Tests Matching",
+          "concept": "EPPS (Edwards Personal Preference Schedule) measures achievement motivation among other needs. EPQ-R (Eysenck Personality Questionnaire-Revised) assesses Psychoticism, Extraversion, and Neuroticism. NEO-PI-R measures Big Five traits including Openness. STAI (Spielberger State-Trait Anxiety Inventory) measures state anxiety.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null,
+          "explanation": "EPPS→(iii) Achievement motivation, EPQ-R→(ii) Psychoticism, NEO-PI-R→(iv) Openness to experience, STAI→(i) State anxiety"
+        },
+        {
+          "id": 3,
+          "question": "Which of the following is correctly arranged?",
+          "options": [
+            "(A) Sensory memory / short-term memory / forgetting",
+            "(B) Long-term memory / sensory memory / short-term memory",
+            "(C) Sensory memory / short-term memory / long-term memory",
+            "(D) Episodic memory / short-term memory / long-term memory"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Sensory memory / short-term memory / long-term memory",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Information Processing Model",
+          "concept": "The Atkinson-Shiffrin model proposes three sequential stores: sensory memory (brief sensory registration) → short-term memory (limited capacity, active processing) → long-term memory (vast, relatively permanent storage).",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 4,
+          "question": "Arrange the four basic characteristics of instincts as per Freud's psychoanalytic theory in terms of sequence.\n\n(a) an impetus\n\n(b) a source\n\n(c) an object\n\n(d) an aim\n\nChoose the correct code for sequence of events",
+          "options": [
+            "(A) (b) (a) (d) (c)",
+            "(B) (c) (b) (a) (d)",
+            "(C) (b) (d) (a) (c)",
+            "(D) (a) (b) (c) (d)"
+          ],
+          "correct_answer": 3,
+          "correct_text": "(b) (d) (a) (c)",
+          "unit": "Unit 7",
+          "topic": "7.2 Psychoanalytic Theories of Personality",
+          "subtopic": "Freud's Instinct Theory",
+          "concept": "Freud described four characteristics of instincts in sequence: source (the body need), aim (the goal of gratification), impetus (the force/motivation driving the behaviour), and object (the means through which the aim is achieved).",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 5,
+          "question": "History of intelligence Testing can be described in following sequence :",
+          "options": [
+            "(A) Galton → J.M. Cattell → Binet - Simon → Wechsler",
+            "(B) J.M. Cattell → Stern-Terman → Binet - Simon → Wechsler",
+            "(C) Wister → Binet - Simon → Spearman → R.B. Cattell",
+            "(D) Galton → J.M. Cattell → Spearman → Wechsler"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Galton → J.M. Cattell → Binet - Simon → Wechsler",
+          "unit": "Unit 6",
+          "topic": "6.1 Intelligence",
+          "subtopic": "History of Intelligence Testing",
+          "concept": "Galton pioneered individual differences measurement, J.M. Cattell coined 'mental test', Binet-Simon developed the first practical intelligence scale (1905), and Wechsler developed adult intelligence scales (WAIS).",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 6,
+          "question": "Bartlett described memory as a :",
+          "options": [
+            "(A) Constructive mental process",
+            "(B) Reproductive mental process",
+            "(C) Active mental process",
+            "(D) A process of retention"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Constructive mental process",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Constructive Nature of Memory",
+          "concept": "Bartlett (1932) proposed that memory is a constructive process involving 'schema' — people reconstruct memories based on prior knowledge and expectations, rather than reproducing them exactly. This was demonstrated through his 'War of the Ghosts' serial reproduction experiments.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 7,
+          "question": "Deterioration Quotient (DQ) was first used in which intelligence tests?",
+          "options": [
+            "(A) Binet - Simon Test",
+            "(B) Galton - Cattell Test",
+            "(C) Raven Progressive Matrices",
+            "(D) Wechsler Adult Intelligence Test"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Wechsler Adult Intelligence Test",
+          "unit": "Unit 6",
+          "topic": "6.1 Intelligence",
+          "subtopic": "Wechsler Intelligence Scales",
+          "concept": "The Deterioration Quotient (DQ) was introduced by Wechsler to estimate the extent of intellectual decline, particularly in older adults. It compares performance on tasks that decline with age (fluid) versus those that remain stable (crystallized).",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 8,
+          "question": "According to Hull - Spence theory, anxiety is emotionally based drive and therefore, it can be hypothesized that high anxious subjects would be faster on eyelid conditioning than the low anxious subjects. Using Taylor Manifest Anxiety Scale (MAS), a researcher confirmed this hypothesis. This provides evidence for the :\n\n(a) Convergent and discriminant validity of the MAS\n(b) Validity of the Hull - Spence theory\n(c) Generalizability of the MAS\n(d) Construct validity of the MAS",
+          "options": [
+            "(A) (b) only",
+            "(B) (a) and (b) only",
+            "(C) (b) and (c) only",
+            "(D) (b) and (d) only"
+          ],
+          "correct_answer": 4,
+          "correct_text": "(b) and (d) only",
+          "unit": "Unit 3",
+          "topic": "3.3 Validity",
+          "subtopic": "Construct Validity",
+          "concept": "Confirming a theoretical prediction (Hull-Spence theory) using a measure (MAS) provides evidence for both the theory's validity and the construct validity of the measure. Construct validity encompasses convergent and discriminant validity but the answer focuses on (b) and (d).",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 9,
+          "question": "The best home environment for intellectual development is one :",
+          "options": [
+            "(A) In which child is encouraged to work out problems with guidance and support from parents",
+            "(B) In which parents dictate the child what to do",
+            "(C) In which child is left on his own",
+            "(D) In which father is absent to impose his authority"
+          ],
+          "correct_answer": 1,
+          "correct_text": "In which child is encouraged to work out problems with guidance and support from parents",
+          "unit": "Unit 9",
+          "topic": "9.2 Cognitive Development",
+          "subtopic": "Environmental Influences on Development",
+          "concept": "Research shows that an authoritative parenting style — combining warmth, guidance, and support with age-appropriate autonomy — best promotes intellectual development. Baumrind's parenting styles research supports this.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 10,
+          "question": "According to interference theory, which one of the following causes forgetting?",
+          "options": [
+            "(A) Failure of storage",
+            "(B) Failure of encoding",
+            "(C) Failure of retrieval",
+            "(D) Response Competition"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Response Competition",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Forgetting — Interference Theory",
+          "concept": "Interference theory attributes forgetting to response competition — proactive interference (old memories interfere with new) and retroactive interference (new memories interfere with old) rather than decay or retrieval failure.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 11,
+          "question": "The evidence that sleep is a biological motive comes from _______ in lengthy sleep deprived subjects.",
+          "options": [
+            "(A) rebound effect of slow wave sleep",
+            "(B) rebound effect of REM sleep",
+            "(C) insomnia",
+            "(D) enhanced stage -I and stage - II sleep"
+          ],
+          "correct_answer": 1,
+          "correct_text": "rebound effect of slow wave sleep",
+          "unit": "Unit 4",
+          "topic": "4.3 Biological Motivation",
+          "subtopic": "Sleep as Biological Motivation",
+          "concept": "After prolonged total sleep deprivation, subjects show a significant rebound increase in slow wave sleep (SWS), reflecting a homeostatic biological drive to recover deep sleep. This SWS rebound provides evidence that sleep is a biologically motivated behaviour. (REM rebound occurs in selective REM deprivation, but total sleep deprivation preferentially triggers SWS rebound.)",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 12,
+          "question": "On a Wechsler type intelligence scale, the subject has a deviation IQ 115. What would be his T score (Mean = 50, SD = 10)?",
+          "options": [
+            "(A) 60",
+            "(B) 65",
+            "(C) 68",
+            "(D) 84"
+          ],
+          "correct_answer": 1,
+          "correct_text": "60",
+          "unit": "Unit 3",
+          "topic": "3.1 Psychological Testing",
+          "subtopic": "Score Transformations",
+          "concept": "Deviation IQ 115 on Wechsler scale (M=100, SD=15): z = (115-100)/15 = 1.0. Converting to T-score (M=50, SD=10): T = 50 + (1.0 × 10) = 60. The official UGC NET June 2015 answer key confirms answer 1 (60).",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 13,
+          "question": "Complex behavioural sequences which are species - typical behaviours are triggered by :",
+          "options": [
+            "(A) releasers in the environment",
+            "(B) learned behaviours",
+            "(C) needs",
+            "(D) incentives"
+          ],
+          "correct_answer": 1,
+          "correct_text": "releasers in the environment",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Ethology and Innate Behaviour",
+          "concept": "In ethology, fixed action patterns (FAPs) are complex species-typical behavioural sequences triggered by specific environmental stimuli called releasers or sign stimuli (Lorenz, Tinbergen).",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 14,
+          "question": "The following areas are involved in human vision :\n\n(a) Prestriate cortex\n(b) Striate cortex\n(c) Inferotemporal cortex\n(d) Posterior parietal cortex\n\nChoose the correct option :",
+          "options": [
+            "(A) (a) and (b)",
+            "(B) (a), (b) and (c)",
+            "(C) (b), (c) and (d)",
+            "(D) (a), (b), (c) and (d)"
+          ],
+          "correct_answer": 4,
+          "correct_text": "(a), (b), (c) and (d)",
+          "unit": "Unit 4",
+          "topic": "4.1 Nervous System",
+          "subtopic": "Visual Cortex Areas",
+          "concept": "Human vision involves multiple cortical areas: striate cortex (V1, primary visual), prestriate cortex (V2-V5, visual association areas), inferotemporal cortex (object recognition/what pathway), and posterior parietal cortex (spatial processing/where pathway).",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 15,
+          "question": "Which one of the following is not correct in regard of semantic memory?",
+          "options": [
+            "(A) It is relatively stable",
+            "(B) There is interference in it",
+            "(C) It is free from acquisition context",
+            "(D) It has chunking"
+          ],
+          "correct_answer": 3,
+          "correct_text": "It is free from acquisition context",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Semantic Memory",
+          "concept": "Semantic memory is a type of declarative/LTM that stores general world knowledge. It is relatively stable and experiences interference. Chunking is a valid characteristic — semantic networks organize knowledge hierarchically via chunking (e.g., TLC model). However, semantic memory is NOT entirely free from acquisition context; contextual cues can influence semantic retrieval, making this the incorrect statement.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 16,
+          "question": "Self - modelling means :",
+          "options": [
+            "(A) A type of learning in which individuals watch themselves behaving in a situationally appropriate manner and then show the same behaviours later on.",
+            "(B) Type of learning in which individuals learn new behaviour",
+            "(C) Type of learning in which individuals learn to develop self-beliefs",
+            "(D) Type of learning in which individuals learn through guided - participation from significant others."
+          ],
+          "correct_answer": 1,
+          "correct_text": "A type of learning in which individuals watch themselves behaving in a situationally appropriate manner and then show the same behaviours later on.",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Observational Learning / Self-Modelling",
+          "concept": "Self-modelling is a technique where individuals observe themselves (typically via video) performing desired behaviours effectively, which reinforces and promotes those behaviours in future situations. It is based on Bandura's social learning theory.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 17,
+          "question": "Match List - I and List -II and indicate your correct choice among the codes given below :\n\n| List - I | List - II |\n| --- | --- |\n| (Type of reinforcer) | (Description) |\n| (a) Punisher | (i) acquired satisfier |\n| (b) Positive reinforcer | (ii) removing aversive stimulus |\n| (c) Negative reinforcer | (iii) presenting reward |\n| (d) Secondary reinforcer | (iv) aversive consequence |\n\n**Codes :**\n\n| (a) | (b) | (c) | (d) |\n| --- | --- | --- | --- |\n| (1) (iv) | (iii) | (ii) | (i) |\n| (2) (i) | (iii) | (ii) | (iv) |\n| (3) (iii) | (iv) | (ii) | (i) |\n| (4) (i) | (ii) | (iii) | (iv) |",
+          "options": [
+            "(A) a-(iv), b-(iii), c-(ii), d-(i)",
+            "(B) a-(i), b-(iii), c-(ii), d-(iv)",
+            "(C) a-(iii), b-(iv), c-(ii), d-(i)",
+            "(D) a-(i), b-(ii), c-(iii), d-(iv)"
+          ],
+          "correct_answer": 1,
+          "correct_text": "a-(iv), b-(iii), c-(ii), d-(i)",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Types of Reinforcement",
+          "concept": "Punisher presents aversive consequence; positive reinforcer presents reward to increase behaviour; negative reinforcer removes aversive stimulus to increase behaviour; secondary reinforcer is acquired/learned through association with primary reinforcers.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null,
+          "explanation": "Punisher→(iv) aversive consequence, Positive reinforcer→(iii) presenting reward, Negative reinforcer→(ii) removing aversive stimulus, Secondary reinforcer→(i) acquired satisfier"
+        },
+        {
+          "id": 18,
+          "question": "While travelling in a train, nearby objects appear to move faster in the opposite direction than do far away objects this phenomena is called :",
+          "options": [
+            "(A) Phi - Phenomena",
+            "(B) Motion parallax",
+            "(C) Autokinetic movement",
+            "(D) Perception of movement"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Motion parallax",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Depth Perception — Motion Cues",
+          "concept": "Motion parallax is a monocular depth cue in which objects closer to the observer appear to move faster across the visual field than distant objects during movement. It provides information about relative distance.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 19,
+          "question": "Which of the following is **correctly** arranged?",
+          "options": [
+            "(A) Identify - set goals - explore - alternatives - select - evaluate - implement",
+            "(B) Identify - explore - set goals - alternatives - select - implement - evaluate",
+            "(C) Select - explore - identify - set goals - alternatives - implement - evaluate",
+            "(D) Explore - identify - select - set goals - alternatives - evaluate - implement"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Identify - explore - set goals - alternatives - select - implement - evaluate",
+          "unit": "Unit 10",
+          "topic": "10.2 Applied Areas",
+          "subtopic": "Decision-Making / Counselling Process",
+          "concept": "The rational decision-making model follows: identify the problem → set goals → explore alternatives → select the best alternative → evaluate → implement. This systematic sequence is foundational in counselling and career decision-making.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 20,
+          "question": "Read each of the following two statements - **Assertion (A)** and **Reason (R)** and indicate your answer using the codes given below:\n\n**Assertion (A)**: According to the true score model in the Classical Test Theory (CTT), for a population or a large sample,\n\nMean of the obtained scores = Mean of the true scores.\n\n**Reason (R)**: In the CTT, the errors of measurement are assumed to be independently distributed with a mean and variance equal to zero.\n\n**Codes :**",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "(B) Both (A) and (R) are true, but (R) is **not** the correct explanation of (A)",
+            "(C) (A) is true, but (R) is false",
+            "(D) (A) is false, but (R) is true"
+          ],
+          "correct_answer": 3,
+          "correct_text": "(A) is true, but (R) is false",
+          "unit": "Unit 3",
+          "topic": "3.1 Psychological Testing",
+          "subtopic": "Classical Test Theory",
+          "concept": "In CTT, X = T + E, and errors have mean = 0 (so mean obtained = mean true), but errors have NON-ZERO variance (σ²e). The Reason statement incorrectly claims variance equals zero; errors have a mean of zero but non-zero variance.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 21,
+          "question": "Match List - I and List - II, and select the correct answer by choosing from codes given below :\n\n| List - I | List - II |\n| --- | --- |\n| (a) Libido | (i) Human beings strive to return to an inorganic state of balance that preceded life, in which there is no painful struggle to satisfy biological needs. |\n| (b) Thanatos | (ii) Psychic and pleasurable feelings associated with gratification of life instincts. |\n| (c) Suppression | (iii) A person's refusal to perceive an unpleasant environment in external reality. |\n| (d) Denial | (iv) Individual's active and conscious attempt to stop anxiety provoking thoughts by simply not thinking about them. |\n\n**Codes :**\n\n| (a) | (b) | (c) | (d) |\n| --- | --- | --- | --- |\n| (1) (i) | (ii) | (iii) | (iv) |\n| (2) (iii) | (i) | (ii) | (iv) |\n| (3) (ii) | (i) | (iv) | (iii) |\n| (4) (iv) | (iii) | (ii) | (i) |",
+          "options": [
+            "(A) a-(i), b-(ii), c-(iii), d-(iv)",
+            "(B) a-(iii), b-(i), c-(ii), d-(iv)",
+            "(C) a-(ii), b-(i), c-(iv), d-(iii)",
+            "(D) a-(iv), b-(iii), c-(ii), d-(i)"
+          ],
+          "correct_answer": 3,
+          "correct_text": "a-(ii), b-(i), c-(iv), d-(iii)",
+          "unit": "Unit 7",
+          "topic": "7.2 Psychoanalytic Theories of Personality",
+          "subtopic": "Freudian Concepts and Defence Mechanisms",
+          "concept": "Libido is psychic energy of life instincts (Eros). Thanatos is the death instinct. Suppression is a conscious defence mechanism. Denial is an unconscious defence mechanism refusing to acknowledge reality.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null,
+          "explanation": "Libido→(ii) psychic pleasurable feelings, Thanatos→(i) striving to return to inorganic state, Suppression→(iv) conscious attempt to stop thoughts, Denial→(iii) refusal to perceive unpleasant reality"
+        },
+        {
+          "id": 22,
+          "question": "Read each of the following two statements - Assertion (A) and Reason (R) and indicate your answer using the codes given below :\n\n**Assertion (A)** : Retinal disparity is an important monocular cue in depth perception.\n\n**Reason (R)** : Convergence is a muscular cue in depth perception.\n\n**Codes :**",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A)",
+            "(C) (A) is true, but (R) is false",
+            "(D) (A) is false, but (R) is true"
+          ],
+          "correct_answer": 4,
+          "correct_text": "(A) is false, but (R) is true",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Depth Perception Cues",
+          "concept": "Retinal disparity is a BINOCULAR cue (requires two eyes), not monocular. Convergence is indeed a muscular/binocular cue where eye muscles provide distance information. The Assertion is false; the Reason is true.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 23,
+          "question": "As per Schachter and Singer's theory of emotions, one shall experience emotions based on situational clues when :\n\n(a) there is a physiological arousal\n(b) there are cognitions/explanations available for arousal\n(c) there is no physiological arousal\n(d) there are no proper explanations available for one's arousal\n\nChoose the correct code :",
+          "options": [
+            "(A) (a) and (b)",
+            "(B) (a) and (d)",
+            "(C) (b) and (c)",
+            "(D) (c) and (d)"
+          ],
+          "correct_answer": 2,
+          "correct_text": "(a) and (d)",
+          "unit": "Unit 7",
+          "topic": "7.3 Emotion",
+          "subtopic": "Schachter-Singer Two-Factor Theory",
+          "concept": "Schachter-Singer's two-factor theory states emotion requires: (1) physiological arousal and (2) cognitive label/interpretation based on situational cues. Both factors are necessary for emotion to be experienced.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 24,
+          "question": "Spearman Inferred General Intelligence on the basis of :\n\n(a) Positive Manifold in intercorrelation matrix\n(b) Tetrad differences in equation\n(c) unequal scores of same subjects on intelligence tests\n(d) Reports from the subjects\n\n**Codes :**",
+          "options": [
+            "(A) (a) and (c)",
+            "(B) (b) and (d)",
+            "(C) (a) and (b)",
+            "(D) (c) and (d)"
+          ],
+          "correct_answer": 3,
+          "correct_text": "(a) and (b)",
+          "unit": "Unit 6",
+          "topic": "6.1 Intelligence",
+          "subtopic": "Spearman's Two-Factor Theory",
+          "concept": "Spearman inferred 'g' (general intelligence) from: (a) positive manifold — all intercorrelations among mental tests are positive, and (b) tetrad differences — specific mathematical relationships among correlations that indicate a common factor.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 25,
+          "question": "The parasympathetic nerves project from :",
+          "options": [
+            "(A) the lumbar and thoracic regions of the spinal cord",
+            "(B) the brain and sacral region of the spinal cord",
+            "(C) the brain and the lumbar region of the spinal cord",
+            "(D) the lumbar and the sacral regions of the spinal cord"
+          ],
+          "correct_answer": 2,
+          "correct_text": "the brain and sacral region of the spinal cord",
+          "unit": "Unit 4",
+          "topic": "4.1 Nervous System",
+          "subtopic": "Autonomic Nervous System",
+          "concept": "The parasympathetic nervous system originates from cranial nerves (brainstem) and sacral segments (S2-S4) of the spinal cord. It is also called the 'craniosacral' division, promoting 'rest and digest' functions.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 26,
+          "question": "Read each of the following two statements - Assertion (A) and Reason (R) and indicate your answer using the codes given below:\n\n**Assertion (A)**: People who learn more and more lists of words on successive days have more and more difficulty learning each new list next day.\n\n**Reason (R)**: People have limited capacity to learn verbal material.\n\n**Codes :**",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A)",
+            "(C) (A) is true, but (R) is false",
+            "(D) (A) is false, but (R) is true"
+          ],
+          "correct_answer": 3,
+          "correct_text": "(A) is true, but (R) is false",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Proactive Interference",
+          "concept": "Assertion (A) describes proactive interference (PI) — old learning interferes with acquiring new lists. Reason (R) is FALSE because the difficulty arises from interference, not from a limited verbal learning capacity. Interference theories attribute forgetting to response competition between old and new associations, not to a capacity ceiling.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 27,
+          "question": "Read each of the following two statements - Assertion (A) and Reason (R) and indicate your answer using the codes given below:\n\n**Assertion (A)** : A synapse does not necessarily result into action potential in post - synaptic neuron.\n\n**Reason (R)** : Synapses produce inhibitory post - synaptic potential also in post - synaptic neuron.\n\n**Codes :**",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A)",
+            "(C) (A) is true, but (R) is false",
+            "(D) (A) is false, but (R) is true"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+          "unit": "Unit 4",
+          "topic": "4.1 Nervous System",
+          "subtopic": "Synaptic Transmission",
+          "concept": "Not every synaptic transmission leads to an action potential because synapses can produce inhibitory postsynaptic potentials (IPSPs) that hyperpolarize the neuron, making it less likely to fire. Only if the net effect reaches threshold does an action potential occur.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 28,
+          "question": "Which of the following is not the way we acquire concepts?",
+          "options": [
+            "(A) Naturally acquired",
+            "(B) By Discrimination Learning",
+            "(C) Innate",
+            "(D) By Definition"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Innate",
+          "unit": "Unit 6",
+          "topic": "6.2 Thinking",
+          "subtopic": "Concept Formation",
+          "concept": "Concepts are acquired through natural exposure, discrimination learning (identifying distinguishing features), and formal definitions. Innate concepts are not recognized as a standard way of concept acquisition in cognitive psychology.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 29,
+          "question": "Match List - I with List - II and select the correct answer by choosing from the codes given below:\n\n**List - I**\n\n(a) Functional fixedness\n(b) Back tracking\n(c) Creativity\n(d) Working backward\n\n**List - II**\n\n(i) A cognitive process that employ appropriate novelty to originality that suits some purpose.\n(ii) A problem solving phenomenon in which people fail seeing alternative uses for common objects.\n(iii) A problem solving technique that involves keeping track of solving process where in assumptions are made; so they may later be changed.\n(iv) A problem solving technique that identifies the final goals and the steps in reverse order.\n\n**Codes :**\n\n| (a) | (b) | (c) | (d) |\n| --- | --- | --- | --- |\n| (1) (i) | (ii) | (iii) | (iv) |\n| (2) (ii) | (iii) | (iv) | (i) |\n| (3) (iii) | (i) | (ii) | (iv) |\n| (4) (ii) | (iii) | (i) | (iv) |",
+          "options": [
+            "(A) a-(i), b-(ii), c-(iii), d-(iv)",
+            "(B) a-(ii), b-(iii), c-(iv), d-(i)",
+            "(C) a-(iii), b-(i), c-(ii), d-(iv)",
+            "(D) a-(ii), b-(iii), c-(i), d-(iv)"
+          ],
+          "correct_answer": 4,
+          "correct_text": "a-(ii), b-(iii), c-(i), d-(iv)",
+          "unit": "Unit 6",
+          "topic": "6.2 Thinking",
+          "subtopic": "Problem Solving and Creativity",
+          "concept": "Functional fixedness is inability to see alternative uses. Back tracking involves tracking assumptions that can be changed. Creativity involves purposeful novelty. Working backward starts from the goal and traces steps in reverse.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null,
+          "explanation": "Functional fixedness→(ii), Back tracking→(iii), Creativity→(i), Working backward→(iv)"
+        },
+        {
+          "id": 30,
+          "question": "Visual cliff is a laboratory method for testing depth perception in :",
+          "options": [
+            "(A) Infants",
+            "(B) Children",
+            "(C) Adults",
+            "(D) Old - age people"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Infants",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Depth Perception",
+          "concept": "The visual cliff (Gibson & Walk, 1960) is a classic apparatus designed to test depth perception in infants (typically 6-14 months). It demonstrates that infants can perceive depth and avoid the 'cliff' side.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 31,
+          "question": "Read each of the following two statements - Assertion (A) and Reason (R) and indicate your answer using the codes given below :\n\n**Assertion (A)**: Surface traits are simply a collection of trait elements which obviously go together in many different individuals and circumstances. Intercorrelated trait elements or variables cluster together to form a surface trait.\n\n**Reason (R)**: Source traits are underlying factors that control the variation in surface clusters.\n\n**Codes :**",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A)",
+            "(C) (A) is true, but (R) is false",
+            "(D) (A) is false, but (R) is true"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A)",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Cattell's Trait Theory",
+          "concept": "In Cattell's theory, surface traits are observable clusters of behaviours. Source traits are the underlying factors revealed through factor analysis that give rise to surface traits. Both statements are true but the Reason describes what source traits are, not why surface traits form.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 32,
+          "question": "Match List - I with List - II and select the correct answer by choosing correct code :\n\n| List - I | List - II |\n| --- | --- |\n| (a) - 67 mv | (i) Polarized |\n| (b) + 45 mv | (ii) Hyperpolarized |\n| (c) - 70 mv | (iii) Depolarized |\n| (d) - 72 mv | (iv) Completely depolarized |\n\n**Codes :**\n\n| (a) | (b) | (c) | (d) |\n| --- | --- | --- | --- |\n| (1) (iii) | (ii) | (i) | (iv) |\n| (2) (iii) | (iv) | (i) | (ii) |\n| (3) (ii) | (iv) | (iii) | (i) |\n| (4) (iv) | (iii) | (i) | (ii) |",
+          "options": [
+            "(A) a-(iii), b-(ii), c-(i), d-(iv)",
+            "(B) a-(iii), b-(iv), c-(i), d-(ii)",
+            "(C) a-(ii), b-(iv), c-(iii), d-(i)",
+            "(D) a-(iv), b-(iii), c-(i), d-(ii)"
+          ],
+          "correct_answer": 2,
+          "correct_text": "a-(iii), b-(iv), c-(i), d-(ii)",
+          "unit": "Unit 4",
+          "topic": "4.1 Nervous System",
+          "subtopic": "Resting Potential and Action Potential",
+          "concept": "Resting potential is typically -70mV (polarized). -67mV is slightly depolarized (moving toward threshold). +45mV represents complete depolarization during action potential peak. -72mV is hyperpolarized (more negative than resting).",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null,
+          "explanation": "-67mV→(iii) Depolarized, +45mV→(iv) Completely depolarized, -70mV→(i) Polarized, -72mV→(ii) Hyperpolarized"
+        },
+        {
+          "id": 33,
+          "question": "Read each of the following two statements - Assertion (A) and Reason (R) and indicate your answer using the codes given below:\n\n**Assertion (A)** : In problem solving process, people generally evolve/select the optimal solutions of a problem.\n\n**Reason (R)** : A number of solutions are identified to choose from.\n\n**Codes :**",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A)",
+            "(C) (A) is true, but (R) is false",
+            "(D) (A) is false, but (R) is true"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+          "unit": "Unit 6",
+          "topic": "6.2 Thinking",
+          "subtopic": "Problem Solving",
+          "concept": "According to the rational problem-solving model, people identify multiple solutions and select the optimal one from among them. Reason (R) is true and directly explains Assertion (A): identifying a number of solutions enables selecting an optimal one.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 34,
+          "question": "Sometimes old information facilitates our learning of new information. The phenomenon is known as __________.",
+          "options": [
+            "(A) Consolidation effect",
+            "(B) Transfer effect",
+            "(C) Proactive interference",
+            "(D) Excitatory effect"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Transfer effect",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Transfer of Learning",
+          "concept": "Positive transfer occurs when previously learned information facilitates new learning. This is distinct from proactive interference (where old info hinders new learning). Transfer can be positive (facilitating) or negative (interfering).",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 35,
+          "question": "A man judged to be six feet tall when standing at ten feet away has 'X' size of retinal image where as at twenty feet, it has X/2 retinal size image. How tall shall he be perceived at a distance of five feet?",
+          "options": [
+            "(A) 6 feet",
+            "(B) $6 \\times \\frac{10 - 5}{2}$ feet",
+            "(C) $6 \\times \\frac{10 + 5}{2}$ feet",
+            "(D) Size can not be judged"
+          ],
+          "correct_answer": 1,
+          "correct_text": "6 feet",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Size Constancy",
+          "concept": "Size constancy is the perceptual ability to perceive objects as maintaining their actual size despite changes in retinal image size due to distance changes. The person will still be perceived as 6 feet tall regardless of viewing distance.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 36,
+          "question": "The first attempt to both theorise and measure intelligence was made by:",
+          "options": [
+            "(A) J.M. Cattell",
+            "(B) Galton",
+            "(C) Binet",
+            "(D) Spearman"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Galton",
+          "unit": "Unit 6",
+          "topic": "6.1 Intelligence",
+          "subtopic": "History of Intelligence Testing",
+          "concept": "Sir Francis Galton was the first to both theorize about intelligence (as sensory discrimination capacity) and attempt to measure it through sensory and physical tests. He established the Anthropometric Laboratory in 1884.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 37,
+          "question": "Read each of the following two statements - Assertion (A) and Reason (R) and indicate your answer using the codes given below:\n\n**Assertion (A)** : According to Maslow, after the gratification of basic needs we move in positive direction, but it is not automatic.\n\n**Reason (R)** : We often fear our best side, our talents, our finest impulses, our creativeness.\n\n**Codes :**",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A)",
+            "(C) (A) is true, but (R) is false",
+            "(D) (A) is false, but (R) is true"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+          "unit": "Unit 7",
+          "topic": "7.2 Motivation",
+          "subtopic": "Maslow's Hierarchy of Needs",
+          "concept": "Maslow described the 'Jonah Complex' — fear of one's own greatness/talents — which explains why movement toward self-actualization is not automatic even after basic needs are met. People may resist their highest potential.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 38,
+          "question": "A fifth test was added to an old established selection test battery of four tests. Two multiple correlations, one between a suitable external criterion and three tests of the old battery, and the other between the same criterion and four tests of the new battery were computed. The significant change is $R^2$ would provide an evidence for the:",
+          "options": [
+            "(A) predictive validity of the old battery",
+            "(B) incremental validity of the fifth test",
+            "(C) predictive validity of the new battery",
+            "(D) concurrent validity of the fifth test"
+          ],
+          "correct_answer": 2,
+          "correct_text": "incremental validity of the fifth test",
+          "unit": "Unit 3",
+          "topic": "3.3 Validity",
+          "subtopic": "Incremental Validity",
+          "concept": "Incremental validity assesses how much a new predictor (fifth test) adds to prediction beyond what existing predictors (old battery) already provide. A significant increase in R² when adding the new test demonstrates its incremental validity.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 39,
+          "question": "Which of the following stages is called the period of problem solving behaviour?",
+          "options": [
+            "(A) Secondary Circular Reaction",
+            "(B) Reflex",
+            "(C) Tertiary Reaction",
+            "(D) Primary Circular Reaction"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Tertiary Reaction",
+          "unit": "Unit 9",
+          "topic": "9.1 Development Theories",
+          "subtopic": "Piaget's Sensorimotor Stages",
+          "concept": "In Piaget's sensorimotor stage, tertiary circular reactions (substage 5, 12-18 months) involve deliberate experimentation and novel means to achieve goals — representing the emergence of problem-solving behaviour.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 40,
+          "question": "The rate of responding is found to be higher in the condition of :",
+          "options": [
+            "(A) Variable-interval schedule of reinforcement",
+            "(B) Fixed-ratio schedule of reinforcement",
+            "(C) Variable-ratio schedule of reinforcement",
+            "(D) Both in (2) and (3)"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Both in (2) and (3)",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Schedules of Reinforcement",
+          "concept": "Both fixed-ratio (FR) and variable-ratio (VR) schedules produce high rates of responding compared to interval schedules, because reinforcement depends on number of responses. VR produces steadier rates without post-reinforcement pauses; FR shows brief pauses after each reinforcement but still high overall rates.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 41,
+          "question": "Read the following statements and indicate which are correct.\n\n(a) Archetypes are themes that have existed in all cultures throughout history.\n(b) Personal unconscious is the region next to the ego which consists of all the forgotten experiences that have lost their intensity\n(c) Masculine Archetype in men is called animus.\n(d) Persona is a compromise between demands of the environment and necessities of an individual.\n\n**Codes :**",
+          "options": [
+            "(A) (a), (b) and (c)",
+            "(B) (b), (c) and (d)",
+            "(C) (a), (b) and (d)",
+            "(D) (a), (c) and (d)"
+          ],
+          "correct_answer": 3,
+          "correct_text": "(a), (b) and (d)",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Jung's Analytical Psychology",
+          "concept": "Archetypes are universal themes (true). Personal unconscious contains forgotten experiences (true). Statement (c) is wrong — the masculine archetype in men is 'anima' (not animus; animus is the masculine archetype in women). Persona mediates between inner self and environment (true).",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 42,
+          "question": "Trace the correct sequence of the following events for audition :\n\n(a) synapses in primary auditory cortex\n(b) synapse in superior olives\n(c) synapse in the inferior colliculi\n(d) synapse in the cochlear nuclei\n(e) synapse in medial geniculate nucleus\n\n**Codes :**",
+          "options": [
+            "(A) (d) (b) (c) (e) and (a)",
+            "(B) (d) (c) (b) (e) and (a)",
+            "(C) (b) (c) (e) (d) and (a)",
+            "(D) (c) (b) (e) (d) and (a)"
+          ],
+          "correct_answer": 1,
+          "correct_text": "(d) (b) (c) (e) and (a)",
+          "unit": "Unit 4",
+          "topic": "4.2 Sensory Systems",
+          "subtopic": "Auditory Pathway",
+          "concept": "The ascending auditory pathway: cochlear nuclei → superior olives → inferior colliculi (midbrain) → medial geniculate nucleus (thalamus) → primary auditory cortex (temporal lobe).",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null,
+          "explanation": "(d) cochlear nuclei → (b) superior olives → (c) inferior colliculi → (e) medial geniculate nucleus → (a) primary auditory cortex"
+        },
+        {
+          "id": 43,
+          "question": "Our brains construct our perceptions because :\n\n(a) Sensations are disassembled into information bits\n(b) Neuromuscular cues from the greater inward turn when the eyes view a near object\n(c) Brain reassembles information into its own functional model\n(d) Perception is merely projecting the world onto our brain\n\n**Codes :**",
+          "options": [
+            "(A) (a) (b) (c)",
+            "(B) (b) (c) (d)",
+            "(C) (a) (c) (d)",
+            "(D) (a) (b) (d)"
+          ],
+          "correct_answer": 3,
+          "correct_text": "(a) (c) (d)",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Constructive Perception",
+          "concept": "Perception is a constructive process. Sensations are disassembled into information bits (a), the brain reassembles them into a functional model (c), and perception involves the brain projecting its internal model onto the world (d). Statement (b) describes convergence — a specific binocular depth cue — and is not a general reason for why brains construct perceptions.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 44,
+          "question": "Match List - I and List - II and select the correct answer from the codes given below :\n\n| List - I | List - II |\n| --- | --- |\n| (a) Self - Schema | (i) A generalised evaluation of self |\n| (b) Self - esteem | (ii) When a person doubts one's abilities to perform a task |\n| (c) Self - presentation | (iii) Organisation of informations about self |\n| (d) Self - handicapping | (iv) The way one thinks of presenting oneself before public |\n\n**Codes :**\n\n| (a) | (b) | (c) | (d) |\n| --- | --- | --- | --- |\n| (1) (iv) | (ii) | (iii) | (i) |\n| (2) (ii) | (iii) | (i) | (iv) |\n| (3) (iii) | (i) | (iv) | (ii) |\n| (4) (i) | (iii) | (ii) | (iv) |",
+          "options": [
+            "(A) a-(iv), b-(ii), c-(iii), d-(i)",
+            "(B) a-(ii), b-(iii), c-(i), d-(iv)",
+            "(C) a-(iii), b-(i), c-(iv), d-(ii)",
+            "(D) a-(i), b-(iii), c-(ii), d-(iv)"
+          ],
+          "correct_answer": 3,
+          "correct_text": "a-(iii), b-(i), c-(iv), d-(ii)",
+          "unit": "Unit 8",
+          "topic": "8.1 Social Cognition",
+          "subtopic": "Self-Concept Components",
+          "concept": "Self-schema is the organized cognitive structure about self. Self-esteem is the overall self-evaluation. Self-presentation is impression management. Self-handicapping involves creating obstacles to protect self-esteem when doubting performance.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null,
+          "explanation": "Self-Schema→(iii) organisation of self-information, Self-esteem→(i) generalised evaluation of self, Self-presentation→(iv) presenting oneself before public, Self-handicapping→(ii) doubting ones abilities"
+        },
+        {
+          "id": 45,
+          "question": "Which of the following factors reduce the accuracy of eyewitness testimony?\n(a) suggestibility\n(b) Source monitoring errors\n(c) Interference\n(d) Illusion of out group homogeneity\n\n**Codes :**",
+          "options": [
+            "(A) (a) and (b)",
+            "(B) (a), (b) and (d)",
+            "(C) (a), (c) and (d)",
+            "(D) (b), (c) and (d)"
+          ],
+          "correct_answer": 2,
+          "correct_text": "(a), (b) and (d)",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Eyewitness Testimony",
+          "concept": "Three well-established factors reduce eyewitness testimony accuracy: (a) suggestibility — incorporating misleading post-event information (Loftus); (b) source monitoring errors — confusing the origin of memories; and (d) illusion of out-group homogeneity — perceiving out-group members as more similar, which impairs identification accuracy (cross-race effect). Interference (c) is a general memory phenomenon, not a primary eyewitness factor.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        }
+      ]
+    },
+    {
+      "type": "passage",
+      "id": "passage_46",
+      "heading": "Read the following passage carefully and answer questions from 46 to 50:",
+      "text": "**Passage:**\n\nPsychology, as a scientific study of behaviour, employs several diverse research methods to collect and analyse data. In the early phase of modern psychology, experimental method has been highly popular. The early psychologists, like Fechner and Ebbinghaus, were well - known experimentalists. Experimental method allows the active manipulation of the independent variable (IV). Ronald Fisher and others systematized the area of experimental designs. Due to the success of controlled laboratory experiments, field experiments were also carried out where the IV is manipulated in the natural or field setting. Especially due to the need for policy and program evaluation research, quasi - experimental designs have also been developed. Various non - experimental methods, including surveys and correlational research, are also employed in psychology. The survey method employs interviews, both structured and unstructured, and questionnaires. Both open - end and close - end questions and scale items can be used in interview schedules and questionnaires. Different types of observations, including naturalistic observation, participant and non-participant observation, are also used in certain areas like ethology. In the qualitative research tradition, case studies are widely used. Special research approaches, for example, ethnographic research, have been developed for specialized areas like cross-cultural psychology. In addition, psychologists use various measurement techniques including standardized objective tests, projective methods, situational tests and even physiological measures. The use of such diverse methods and measurement techniques has enriched the science of psychology as well as our understanding of human and animal behaviour including the cognitive processes."
+    },
+    {
+      "type": "questions_block",
+      "range": "Q46–Q50",
+      "passage_ref": "passage_46",
+      "questions": [
+        {
+          "id": 46,
+          "question": "Which of the following are considered as quasi - experimental designs ?\n\n(a) Time series designs\n\n(b) Regression - discontinuity design\n\n(c) Survey\n\n(d) Non - equivalent control group design\n\n**Codes :**",
+          "options": [
+            "(A) (d) only",
+            "(B) (a) and (d) only",
+            "(C) (a), (b) and (d) only",
+            "(D) (b), (c) and (d) only"
+          ],
+          "correct_answer": 3,
+          "correct_text": "(a), (b) and (d) only",
+          "unit": "Unit 2",
+          "topic": "2.1 Research Methods",
+          "subtopic": "Quasi-Experimental Designs",
+          "concept": "Quasi-experimental designs include time series designs, regression-discontinuity design, and non-equivalent control group design. Surveys are a non-experimental method, not quasi-experimental.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": "passage_46",
+          "table_ref": null
+        },
+        {
+          "id": 47,
+          "question": "Which one of the following is a limitation of case study?",
+          "options": [
+            "(A) It does not provide indepth information of the subject",
+            "(B) It is difficult to generalize from the case study",
+            "(C) It is useful only in clinical and counselling psychology",
+            "(D) It uses diverse methods and sources to collect data about the subject"
+          ],
+          "correct_answer": 2,
+          "correct_text": "It is difficult to generalize from the case study",
+          "unit": "Unit 2",
+          "topic": "2.1 Research Methods",
+          "subtopic": "Case Study Method",
+          "concept": "Case studies provide rich, in-depth qualitative data but their major limitation is poor generalizability due to studying single or few cases, lack of control, and potential researcher bias.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": "passage_46",
+          "table_ref": null
+        },
+        {
+          "id": 48,
+          "question": "Read each of the following two statements - Assertion (A) and Reason (R) and indicate your answer using the codes given below :\n\n**Assertion (A)** : Experimental method, as compared to other methods, is more suitable for studying cause - and - effect relationship.\n\n**Reason (R)** : As compared to other methods, experimental method permits more efficient control of extraneous variance.\n\n**Codes :**",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A)",
+            "(C) (A) is true, but (R) is false",
+            "(D) (A) is false, but (R) is true"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+          "unit": "Unit 2",
+          "topic": "2.1 Research Methods",
+          "subtopic": "Experimental Method",
+          "concept": "The experimental method is best for establishing causation because it allows manipulation of IV and control of extraneous variables. The control of extraneous variance is precisely what enables causal inference, making R the correct explanation of A.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": "passage_46",
+          "table_ref": null
+        },
+        {
+          "id": 49,
+          "question": "The emic - etic distinction is emphasized in :",
+          "options": [
+            "(A) quasi-experimental research",
+            "(B) ethological research",
+            "(C) case studies",
+            "(D) ethnographic research"
+          ],
+          "correct_answer": 4,
+          "correct_text": "ethnographic research",
+          "unit": "Unit 2",
+          "topic": "2.1 Research Methods",
+          "subtopic": "Cross-Cultural Research Methods",
+          "concept": "The emic-etic distinction (Pike, 1954) distinguishes between culture-specific (emic) and universal/cross-cultural (etic) perspectives. This distinction is central to ethnographic research and cross-cultural psychology.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": "passage_46",
+          "table_ref": null
+        },
+        {
+          "id": 50,
+          "question": "In a survey of students, each student was asked to state his views on the relevance of present educational system in not more than 60 words. This is an example of :",
+          "options": [
+            "(A) Scale item",
+            "(B) Closed - end question",
+            "(C) Check - list item",
+            "(D) Open - end question"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Open - end question",
+          "unit": "Unit 2",
+          "topic": "2.2 Survey Method",
+          "subtopic": "Types of Questions in Surveys",
+          "concept": "Open-end questions allow respondents to answer freely in their own words without predetermined response options. Here students express views in their own words (up to 60 words), making it an open-ended question.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": "passage_46",
+          "table_ref": null
+        }
+      ]
+    }
+  ]
+}

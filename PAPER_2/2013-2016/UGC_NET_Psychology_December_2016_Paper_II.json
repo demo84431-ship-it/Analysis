@@ -1,0 +1,1030 @@
+{
+  "paper_metadata": {
+    "title": "UGC NET/JRF Examination, December 2016",
+    "date": "December 2016",
+    "subject": "Psychology — Paper II"
+  },
+  "content": [
+    {
+      "type": "questions_block",
+      "range": "Q1–Q45",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Which among the following are the products in Guilford's structure of intellect model?\n(a) Systems\n(b) Transformation\n(c) Reasoning\n(d) Interpretation\n\n**Codes :**",
+          "options": [
+            "(A) (a) and (b) only",
+            "(B) (a), (b) and (c) only",
+            "(C) (a), (b) and (d) only",
+            "(D) (a), (b), (c) and (d)"
+          ],
+          "correct_answer": 1,
+          "correct_text": "(a) and (b) only",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Guilford's Structure of Intellect Model",
+          "concept": "In Guilford's SOI model, the six products are Units, Classes, Relations, Systems, Transformations, and Implications. Reasoning is an operation, not a product. Systems and Transformation are both products.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 2,
+          "question": "According to Jung, which of the following is the deepest and darkest part of collective unconscious and contains all of the animal instincts",
+          "options": [
+            "(A) Anima",
+            "(B) Animus",
+            "(C) Shadow",
+            "(D) Persona"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Shadow",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Jung's Analytical Psychology",
+          "concept": "The Shadow is the deepest layer of the collective unconscious representing the dark, repressed aspects of personality including animal instincts. Anima/Animus represent the contrasexual archetype, and Persona is the social mask.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 3,
+          "question": "In classical conditioning progress of conditioning can be examined by indexing Conditioned Response (CR) in terms of\n(a) Quantity\n(b) Latency\n(c) Rate\n(d) Density\n\n**Codes :**",
+          "options": [
+            "(A) (a), (b) and (d) only",
+            "(B) (b), (c), and (d) only",
+            "(C) (a), (b), and (c) only",
+            "(D) (a), (c), and (d) only"
+          ],
+          "correct_answer": 3,
+          "correct_text": "(a), (b), and (c) only",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Classical Conditioning",
+          "concept": "Progress of conditioning can be measured by CR magnitude (quantity), latency (time to respond), and rate (speed of conditioning). Density is not a standard measure of CR progress.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 4,
+          "question": "Which of the following intelligence tests are applicable to an illiterate adult?\n(a) Wechsler Adult Intelligence Scale\n(b) Alexander Pass Along Test\n(c) Coloured Progressive Matrices\n(d) Koh's Block Design Test\n\n**Codes :**",
+          "options": [
+            "(A) (a) only",
+            "(B) (b) and (d) only",
+            "(C) (a) and (c) only",
+            "(D) (b), (c) and (d) only"
+          ],
+          "correct_answer": 4,
+          "correct_text": "(b), (c) and (d) only",
+          "unit": "Unit 3",
+          "topic": "3.1 Psychological Testing",
+          "subtopic": "Non-verbal Intelligence Tests",
+          "concept": "WAIS is a verbal test unsuitable for illiterate adults. Alexander Pass Along Test, Coloured Progressive Matrices (Raven's), and Koh's Block Design are all non-verbal/Performance tests applicable to illiterate individuals.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 5,
+          "question": "Match List – I with List – II and select the correct answer by choosing from the codes given below :\n\n| List – I (Variable type) | List – II (Example) |\n| --- | --- |\n| a. Artificially discrete variable | 1. Neuroticism |\n| b. Continuous variable | 2. Voice pitch |\n| c. Qualitative variable | 3. Gender |\n| d. Real discrete variable | 4. Admission test results in terms of admitted/not-admitted |\n\n**Codes :**\n\n| | a | b | c | d |\n| --- | --- | --- | --- | --- |\n| (1) | 3 | 1 | 2 | 4 |\n| (2) | 4 | 1 | 2 | 3 |\n| (3) | 4 | 2 | 1 | 3 |\n| (4) | 3 | 4 | 2 | 1 |",
+          "options": [
+            "(A) a=3, b=1, c=2, d=4",
+            "(B) a=4, b=1, c=2, d=3",
+            "(C) a=4, b=2, c=1, d=3",
+            "(D) a=3, b=4, c=2, d=1"
+          ],
+          "correct_answer": 2,
+          "correct_text": "a=4, b=1, c=2, d=3",
+          "unit": "Unit 2",
+          "topic": "2.1 Research Methodology",
+          "subtopic": "Types of Variables",
+          "concept": "Artificially discrete = made discrete (admitted/not-admitted from continuous scores). Continuous = measured on continuum (neuroticism). Qualitative = categorical (voice pitch). Real discrete = naturally discrete (gender).",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 6,
+          "question": "Length and Intensity of Lightwave play an important role in",
+          "options": [
+            "(A) Perception of colour and brightness",
+            "(B) Perception of colour and illumination",
+            "(C) Perception of constancy and brightness",
+            "(D) Perception of brightness and illumination"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Perception of colour and brightness",
+          "unit": "Unit 5",
+          "topic": "5.1 Sensation and Perception",
+          "subtopic": "Vision - Wavelength and Intensity",
+          "concept": "Wavelength (length) of light determines colour perception; intensity (amplitude) determines brightness perception. These are the two primary physical properties of light that map onto psychological experiences.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 7,
+          "question": "Match List – I with List – II and select the correct answer by choosing from the codes given below :\n\n| List – I (Concept) | List – II (Explanation) |\n| --- | --- |\n| a. Rods | i. Two optic nerves from two retina join each other for a short distance. |\n| b. Cones | ii. Do not distinguish colours. |\n| c. Blind spot | iii. Good detail vision. |\n| d. Optic Chiasm | iv. Optic Nerves exit the eyes. |\n\n**Codes :**\n\n| | a | b | c | d |\n| --- | --- | --- | --- | --- |\n| (1) | ii | iii | i | iv |\n| (2) | ii | iii | iv | i |\n| (3) | iii | ii | i | iv |\n| (4) | i | ii | iii | iv |",
+          "options": [
+            "(A) a=ii, b=iii, c=i, d=iv",
+            "(B) a=ii, b=iii, c=iv, d=i",
+            "(C) a=iii, b=ii, c=i, d=iv",
+            "(D) a=i, b=ii, c=iii, d=iv"
+          ],
+          "correct_answer": 2,
+          "correct_text": "a=ii, b=iii, c=iv, d=i",
+          "unit": "Unit 4",
+          "topic": "4.1 Biological Basis of Behaviour",
+          "subtopic": "Visual System Anatomy",
+          "concept": "Rods don't distinguish colours (scotopic vision). Cones provide good detail and colour vision. Blind spot is where optic nerves exit the eye. Optic chiasm is where optic nerves from both retinas partially cross.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 8,
+          "question": "Geeta studied for sociology exam and then studied for psychology exam. Certain concepts and theories are similar in psychology and sociology. While taking sociology exam, she finds that she keeps getting confused with psychology theorists. Geeta's problem is most likely due to",
+          "options": [
+            "(A) Decay of memory trace",
+            "(B) Proactive interference",
+            "(C) Retroactive interference",
+            "(D) Encoding failure"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Retroactive interference",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Forgetting - Interference Theory",
+          "concept": "Retroactive interference occurs when newly learned material (psychology) interferes with recall of previously learned material (sociology). Proactive interference would be the reverse — old learning interfering with new.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 9,
+          "question": "Which of the following sequence is correct in case of the curve of forgetting?",
+          "options": [
+            "(A) Percent recall of words is greatest immediately after learning → Percent recall decreases rapidly within the first hour → Percent recall further decreases rapidly after 30 days.",
+            "(B) Percent recall of words is greatest immediately after learning → Percent recall decreases rapidly within the first hour → Forgetting levels off after the first hour.",
+            "(C) Percent recall of words is greatest after two days → Forgetting levels off within 10 – 15 days → Percent recall decreases further after 30 days.",
+            "(D) Percent recall of words is greatest after 2 days → Percent recall decreases rapidly 20 days → Forgetting levels off after 30 days."
+          ],
+          "correct_answer": 2,
+          "correct_text": "Percent recall of words is greatest immediately after learning → Percent recall decreases rapidly within the first hour → Forgetting levels off after the first hour.",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Ebbinghaus Forgetting Curve",
+          "concept": "Ebbinghaus's forgetting curve shows rapid forgetting initially (steep drop in first hour) followed by a gradual leveling off. Most forgetting occurs shortly after learning.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null,
+          "explanation": "Greatest immediately → rapid decrease in first hour → levels off after first hour"
+        },
+        {
+          "id": 10,
+          "question": "Consider the following three types of investigations:\n\n(a) Expost facto field studies,\n(b) Laboratory experiments, and\n(c) Field experiments,\n\nArrange the above three types of investigations in ascending order in terms of researcher's ability to control secondary variance.",
+          "options": [
+            "(A) (c), (b), (a)",
+            "(B) (b), (c), (a)",
+            "(C) (b), (a), (c)",
+            "(D) (a), (c), (b)"
+          ],
+          "correct_answer": 4,
+          "correct_text": "(a), (c), (b)",
+          "unit": "Unit 2",
+          "topic": "2.1 Research Methodology",
+          "subtopic": "Research Designs and Control",
+          "concept": "Ascending order of control: Ex post facto (least control, no manipulation) → Field experiments (moderate control, natural setting) → Laboratory experiments (maximum control, artificial setting).",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 11,
+          "question": "Read each of the following two statements – Assertion (A) and Reason (R) and indicate your answer using codes given below:\n\n**Assertion (A)**: People often attain their visual experiences after many years of blindness.\n\n**Reason (R)**: Most of the knowledge of the world had come to them through the sense of touch.\n\n**Codes :**",
+          "options": [
+            "(A) Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 2,
+          "correct_text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+          "unit": "Unit 5",
+          "topic": "5.1 Sensation and Perception",
+          "subtopic": "Perception in Blindness",
+          "concept": "People blind from birth who regain sight do acquire visual experiences. Their knowledge was primarily through touch. However, the reason does not directly explain why they attain visual experiences — it explains why their initial visual experiences may be confusing (cross-modal transfer issue).",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 12,
+          "question": "In Pavlovian conditioning paradigm the strongest and most rapid conditioning occurs in",
+          "options": [
+            "(A) Simultaneous conditioning",
+            "(B) Trace conditioning",
+            "(C) Short-delay conditioning",
+            "(D) Long-delay conditioning"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Short-delay conditioning",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Classical Conditioning - Temporal Arrangements",
+          "concept": "Short-delay conditioning (CS onset slightly before US, with CS offset coinciding with US onset) produces the strongest and most rapid conditioning. Trace conditioning has a gap; simultaneous is less effective; long-delay is weaker than short-delay.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 13,
+          "question": "Read each of the following two statements – Assertion (A) and Reason (R); and indicate your answer using codes given below:\n\n**Assertion (A)**: The information processing approach is rooted in structuralism.\n\n**Reason (R)**: It attempts to identify the basic capacities and processes we use in cognition.\n\n**Codes :**",
+          "options": [
+            "(A) Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 4,
+          "correct_text": "(A) is false, but (R) is true.",
+          "unit": "Unit 1",
+          "topic": "1.1 Emergence of Psychology",
+          "subtopic": "Cognitive Revolution",
+          "concept": "The information processing approach is rooted in functionalism, cognitive science, and computer metaphor — not structuralism. Structuralism focused on introspection and breaking consciousness into elements. The reason is true as information processing does identify basic cognitive capacities.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 14,
+          "question": "Utilitarianism provided the description of ______ of thought and behaviour.",
+          "options": [
+            "(A) what",
+            "(B) when",
+            "(C) why",
+            "(D) how"
+          ],
+          "correct_answer": 3,
+          "correct_text": "why",
+          "unit": "Unit 1",
+          "topic": "1.1 Emergence of Psychology",
+          "subtopic": "Functionalism and Utilitarianism",
+          "concept": "Utilitarianism (as a philosophical and psychological framework) explains why people think and behave as they do — based on the principle of maximizing pleasure and minimizing pain. Functionalism adopted this 'why' perspective.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 15,
+          "question": "Read each of the following two statements – Assertion (A) and Reason (R); and indicate your answer using codes given below:\n\n**Assertion (A)**: Naturalistic observation is a very popular research method in ethological research.\n\n**Reason (R)**: Naturalistic observation is free from observer bias.\n\n**Codes :**",
+          "options": [
+            "(A) Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 3,
+          "correct_text": "(A) is true, but (R) is false.",
+          "unit": "Unit 2",
+          "topic": "2.1 Research Methodology",
+          "subtopic": "Naturalistic Observation",
+          "concept": "Naturalistic observation is indeed popular in ethological research for studying behaviour in natural settings. However, it is NOT free from observer bias — observer bias is a significant limitation of this method.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 16,
+          "question": "Meaningfulness of verbal material can be indexed in terms of",
+          "options": [
+            "(A) Associative Reaction Time",
+            "(B) Associative Value",
+            "(C) Single Response Free Association",
+            "(D) Single Response Controlled Association"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Associative Value",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Meaningfulness of Verbal Material",
+          "concept": "Noble's 'm' scale measures meaningfulness through associative value — the number of different words that subjects produce as associations to a given stimulus word within a set time period.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 17,
+          "question": "Facial Feedback Hypothesis supports",
+          "options": [
+            "(A) Canon-Bard Theory of Emotion",
+            "(B) James-Lange Theory of Emotion",
+            "(C) Two-Factor Theory of Emotion",
+            "(D) Opponent Process Theory of Emotion"
+          ],
+          "correct_answer": 2,
+          "correct_text": "James-Lange Theory of Emotion",
+          "unit": "Unit 7",
+          "topic": "7.3 Emotion",
+          "subtopic": "Theories of Emotion",
+          "concept": "The Facial Feedback Hypothesis (facial expressions influence emotional experience) supports the James-Lange theory which posits that physiological responses precede and cause emotional experience.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 18,
+          "question": "Read each of the following two statements – Assertion (A) and Reason (R); and indicate your answer using codes given below:\n\n**Assertion (A)**: In some cases people attempt to reach the goal slowly and hesitantly.\n\n**Reason (R)**: In approach – avoidance conflict, a single goal has positive valence as well as negative valence.\n\n**Codes :**",
+          "options": [
+            "(A) Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+          "unit": "Unit 7",
+          "topic": "7.2 Motivation",
+          "subtopic": "Conflict Theory - Lewin",
+          "concept": "In approach-avoidance conflict, a single goal has both attraction (positive valence) and repulsion (negative valence), causing hesitant, slow approach behaviour. The reason correctly explains the assertion.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 19,
+          "question": "Which of the following is/are the limitation/s of the survey method?\n(a) Difficulties in obtaining representative samples.\n(b) Unsuitable for subjects with low educational levels.\n(c) Socially desirable responding.\n(d) Can not be used in longitudinal research\n\n**Codes :**",
+          "options": [
+            "(A) (d) only",
+            "(B) (b) and (c) only",
+            "(C) (a) and (c) only",
+            "(D) (a), (b) and (c) only"
+          ],
+          "correct_answer": 4,
+          "correct_text": "(a), (b) and (c) only",
+          "unit": "Unit 2",
+          "topic": "2.1 Research Methodology",
+          "subtopic": "Survey Method - Limitations",
+          "concept": "Survey limitations include: difficulty in obtaining representative samples, unsuitability for low-literacy populations, and socially desirable responding. However, surveys CAN be used in longitudinal research (panel studies), so (d) is incorrect.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 20,
+          "question": "Read each of the following two statements – Assertion (A) and Reason (R); and indicate your answer using codes given below:\n\n**Assertion (A)**: In cross-sectional research to study development process of intelligence; age and cohorts are confounded.\n\n**Reason (R)**: According to Flynn effect, each successive generation of people is more intelligent than the preceding one.\n\n**Codes :**",
+          "options": [
+            "(A) Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+          "unit": "Unit 2",
+          "topic": "2.1 Research Methodology",
+          "subtopic": "Cross-Sectional Design Limitations",
+          "concept": "In cross-sectional studies, age and cohort are confounded — you can't separate age effects from generational effects. The Flynn effect (rising IQ across generations) demonstrates exactly why cohort differences confound age-related intelligence findings.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 21,
+          "question": "Chronometric measurement of intelligence involves the use of which of the following:",
+          "options": [
+            "(A) Reaction time apparatus",
+            "(B) Flicker-Fusion apparatus",
+            "(C) ECG Bio-feedback apparatus",
+            "(D) EMG Bio-feedback apparatus"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Reaction time apparatus",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Chronometric Approach to Intelligence",
+          "concept": "Chronometric (time-based) measurement of intelligence uses reaction time apparatus. Spearman and later researchers used RT as an index of mental speed, which correlates with intelligence (inspection time, choice RT).",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 22,
+          "question": "Read each of the following two statements – Assertion (A) and Reason (R); and indicate your answer using codes given below:\n\n**Assertion (A)**: The individual is left with little or no energy for cathexise (APM) after satisfying a particular need.\n\n**Reason (R)**: Cathexis is the investment of psychic energy in the thoughts of objects or processes that will satisfy a need.\n\n**Codes :**",
+          "options": [
+            "(A) Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Freud's Psychodynamic Theory - Cathexis",
+          "concept": "In Freud's theory, cathexis is the investment of libidinal/psychic energy in objects. After satisfying a need, psychic energy is depleted, leaving little for other cathexes. The reason correctly defines cathexis and explains the assertion.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 23,
+          "question": "Network of auditory pathways can be arranged in which of following sequence :",
+          "options": [
+            "(A) Auditory Nerve → Cochlear Nuclei → Superior olives → Lateral Leminiscus → Inferior Colliculi → Medial Geniculate Nuclei → Primary Auditory Cortex.",
+            "(B) Cochlear Nuclei → Auditory Nerve → Lateral Leminiscus → Superior Olives → Inferior Colliculi → Medial Geniculate Nuclei → Primary Auditory Cortex.",
+            "(C) Auditory Nerve → Cochlear Nuclei → Lateral Leminiscus → Inferior Colliculi → Superior Colliculi → Medial Geniculate Nuclei → Auditory Cortex",
+            "(D) Cochlear Nuclei → Auditory Nerve → Inferior Colliculi → Superior Colliculi → Lateral Leminiscus → Medial Geniculate Nuclei → Auditory Cortex."
+          ],
+          "correct_answer": 1,
+          "correct_text": "Auditory Nerve → Cochlear Nuclei → Superior olives → Lateral Leminiscus → Inferior Colliculi → Medial Geniculate Nuclei → Primary Auditory Cortex.",
+          "unit": "Unit 4",
+          "topic": "4.1 Biological Basis of Behaviour",
+          "subtopic": "Auditory Pathway",
+          "concept": "The auditory pathway proceeds from the auditory nerve (CN VIII) → cochlear nuclei → superior olivary complex → lateral lemniscus → inferior colliculus → medial geniculate nucleus (thalamus) → primary auditory cortex (temporal lobe).",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null,
+          "explanation": "Auditory Nerve → Cochlear Nuclei → Superior olives → Lateral Lemniscus → Inferior Colliculi → Medial Geniculate Nuclei → Primary Auditory Cortex"
+        },
+        {
+          "id": 24,
+          "question": "The tendency for parallel lines to appear to converge on each other is termed as",
+          "options": [
+            "(A) Motion parallax",
+            "(B) Ponzo illusion",
+            "(C) Linear perspective",
+            "(D) Aerial perspective"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Linear perspective",
+          "unit": "Unit 5",
+          "topic": "5.1 Sensation and Perception",
+          "subtopic": "Monocular Depth Cues",
+          "concept": "Linear perspective is the monocular depth cue where parallel lines appear to converge in the distance. Ponzo illusion is a specific illusion demonstrating this principle. Motion parallax involves movement; aerial involves clarity.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 25,
+          "question": "In a contingency table, one of the cell has an obtained frequency of 20 and an expected frequency of 30. What would be the contribution of this cell towards the total Chi-square value?",
+          "options": [
+            "(A) 3.33",
+            "(B) 5.00",
+            "(C) 10.00",
+            "(D) 20.00"
+          ],
+          "correct_answer": 1,
+          "correct_text": "3.33",
+          "unit": "Unit 2",
+          "topic": "2.2 Statistics",
+          "subtopic": "Chi-Square Test",
+          "concept": "Chi-square contribution per cell = (O - E)² / E = (20 - 30)² / 30 = 100/30 = 3.33.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 26,
+          "question": "Match List – I with List – II and select the correct answer by choosing from the codes given below :\n\n| List – I (Concept) | List – II (Explanation) |\n| --- | --- |\n| a. Analogical reasoning | i. Processes that allow to make predictions about events/objects. |\n| b. Deductive reasoning | ii. Using inferences to add new knowledge. |\n| c. Inductive reasoning | iii. Using means-end analysis. |\n| d. Physical reasoning | iv. Drawing valid conclusions from premises. |\n\n**Codes :**\n\n| | a | b | c | d |\n| --- | --- | --- | --- | --- |\n| (1) | i | ii | iii | iv |\n| (2) | ii | iii | iv | i |\n| (3) | iii | iv | ii | i |\n| (4) | iv | iii | ii | i |",
+          "options": [
+            "(A) a=i, b=ii, c=iii, d=iv",
+            "(B) a=ii, b=iii, c=iv, d=i",
+            "(C) a=iii, b=iv, c=ii, d=i",
+            "(D) a=iv, b=iii, c=ii, d=i"
+          ],
+          "correct_answer": 3,
+          "correct_text": "a=iii, b=iv, c=ii, d=i",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Types of Reasoning",
+          "concept": "Analogical reasoning uses means-end analysis (comparing means to ends). Deductive reasoning draws valid conclusions from premises. Inductive reasoning uses inferences to add new knowledge. Physical reasoning allows predictions about events/objects.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 27,
+          "question": "Match List – I with List – II and select the correct answer by choosing from the codes given below :\n\n| List – I (Concept) | List – II (Explanation) |\n| --- | --- |\n| a. Cortical Mosaic | i. Cortex is constantly being excited or inhibited depending on what the organism is experiencing. |\n| b. Dynamic Stereotype | ii. Extinction that occurs after a previously excitatory CS is repeatedly presented without reinforcer. |\n| c. Conditioned Inhibition | iii. Tendency of organisms to attend to and explore novels stimuli that occurs in their environment. |\n| d. Orienting Reflex | iv. Events consistently occurring in the environment come to have neurological representation making the responses rapid and autonomic to the familiar environment. |\n\n**Codes :**\n\n| | a | b | c | d |\n| --- | --- | --- | --- | --- |\n| (1) | ii | iii | i | iv |\n| (2) | i | iv | ii | iii |\n| (3) | iii | iv | i | ii |\n| (4) | iv | ii | iii | i |",
+          "options": [
+            "(A) a=ii, b=iii, c=i, d=iv",
+            "(B) a=i, b=iv, c=ii, d=iii",
+            "(C) a=iii, b=iv, c=i, d=ii",
+            "(D) a=iv, b=ii, c=iii, d=i"
+          ],
+          "correct_answer": 2,
+          "correct_text": "a=i, b=iv, c=ii, d=iii",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Pavlovian Concepts",
+          "concept": "Cortical Mosaic: cortex has shifting zones of excitation and inhibition based on stimuli. Dynamic Stereotype: repeated environmental events form automated neurological patterns. Conditioned Inhibition: a CS- that signals absence of the US acquires inhibitory properties to actively suppress the CR (distinct from simple extinction). Orienting Reflex: attending to and exploring novel stimuli.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 28,
+          "question": "Match List – I with List – II and select the correct answer by choosing from the codes given below :\n\n| List – I (Concept) | List – II (Explanation) |\n| --- | --- |\n| a. Drive | i. A state of deficiency or excess of something in the organism, the fulfilment or elimination of which is essential for survival and balance. |\n| b. Yerkes-Dodson Law | ii. A state of psychobiological readiness that motivates the organism to act for the fulfilment of need and reduction of tension. |\n| c. Power Motive | iii. The level of arousal beyond which performance begins to decline. |\n| d. Need | iv. Tendency or capacity to produce intended effects on the behaviour or emotions of other persons. |\n\n**Codes :**\n\n| | a | b | c | d |\n| --- | --- | --- | --- | --- |\n| (1) | i | ii | iii | iv |\n| (2) | ii | iii | iv | i |\n| (3) | iii | iv | i | ii |\n| (4) | iv | iii | ii | i |",
+          "options": [
+            "(A) a=i, b=ii, c=iii, d=iv",
+            "(B) a=ii, b=iii, c=iv, d=i",
+            "(C) a=iii, b=iv, c=i, d=ii",
+            "(D) a=iv, b=iii, c=ii, d=i"
+          ],
+          "correct_answer": 2,
+          "correct_text": "a=ii, b=iii, c=iv, d=i",
+          "unit": "Unit 7",
+          "topic": "7.2 Motivation",
+          "subtopic": "Motivation Concepts",
+          "concept": "Drive = psychobiological readiness state. Yerkes-Dodson Law = optimal arousal; beyond optimum performance declines. Power Motive = capacity to influence others. Need = state of deficiency essential for survival.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 29,
+          "question": "Match List – I with List – II and select the correct answer by choosing from the codes given below :\n\n| List – I (Concept) | List – II (Explanation) |\n| --- | --- |\n| a. Syntelity | i. Dynamic source trait with an environmental origin. |\n| b. Self-sentiment | ii. Description of traits that characterize a group. |\n| c. Metaerg | iii. Causal relationship between Ergs, sentiments and Attitudes. |\n| d. Subsidiation | iv. The most powerful sentiment which organizes the entire personality. |\n\n**Codes :**\n\n| | a | b | c | d |\n| --- | --- | --- | --- | --- |\n| (1) | iv | ii | i | iii |\n| (2) | ii | iv | i | iii |\n| (3) | iv | iii | ii | i |\n| (4) | ii | iv | iii | i |",
+          "options": [
+            "(A) a=iv, b=ii, c=i, d=iii",
+            "(B) a=ii, b=iv, c=i, d=iii",
+            "(C) a=iv, b=iii, c=ii, d=i",
+            "(D) a=ii, b=iv, c=iii, d=i"
+          ],
+          "correct_answer": 2,
+          "correct_text": "a=ii, b=iv, c=i, d=iii",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Cattell's Personality Theory",
+          "concept": "In Cattell's theory: Syntelity = group traits. Self-sentiment = most powerful organizing sentiment. Metaerg = dynamic source trait of environmental origin. Subsidiation = causal chain linking ergs, sentiments, and attitudes.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 30,
+          "question": "Read each of the following two statements – Assertion (A) and Reason (R); and indicate your answer using codes given below :\n\n**Assertion (A)**: Minor frustrations will add upto produce considerable frustration but not to aggression.\n\n**Reason (R)**: Disruption of goal-directed behaviour usually leads to frustration.\n\n**Codes :**",
+          "options": [
+            "(A) Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 4,
+          "correct_text": "(A) is false, but (R) is true.",
+          "unit": "Unit 7",
+          "topic": "7.2 Motivation",
+          "subtopic": "Frustration-Aggression Hypothesis",
+          "concept": "According to the Frustration-Aggression Hypothesis (Dollard et al.), frustration does lead to aggression. The assertion claiming 'not to aggression' is false. The reason that disruption of goal-directed behaviour leads to frustration is true.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 31,
+          "question": "Which of the following are not nuclei of Thalamus?\n(a) Internal Lamina\n(b) Anterior Nucleus\n(c) Ventromedial Nucleus\n(d) Paraventricular Nucleus\n\n**Codes :**",
+          "options": [
+            "(A) (a) and (b) only",
+            "(B) (b) and (c) only",
+            "(C) (c) and (d) only",
+            "(D) (a) and (c) only"
+          ],
+          "correct_answer": 3,
+          "correct_text": "(c) and (d) only",
+          "unit": "Unit 4",
+          "topic": "4.1 Biological Basis of Behaviour",
+          "subtopic": "Thalamus and Hypothalamus",
+          "concept": "Internal Lamina (Intralaminar Nuclei) and Anterior Nucleus are thalamic nuclei. Ventromedial Nucleus (VMH) and Paraventricular Nucleus (PVH) are nuclei of the Hypothalamus, not the Thalamus.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 32,
+          "question": "Short-term memory holds information for\n(a) 50 seconds\n(b) 30 seconds or less\n(c) more than 60 seconds\n(d) between 50 and 60 seconds\n\n**Codes :**",
+          "options": [
+            "(A) (c) only",
+            "(B) (a) only",
+            "(C) (b) only",
+            "(D) (a) and (d)"
+          ],
+          "correct_answer": 3,
+          "correct_text": "(b) only",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Short-Term Memory Duration",
+          "concept": "Short-term memory holds information for approximately 20-30 seconds without rehearsal. Beyond this, information decays unless maintained through rehearsal or transferred to long-term memory.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 33,
+          "question": "Match List – I with List – II and select the correct answer by choosing from the codes given below:\n\n| List – I (Concept) | List – II (Explanation) |\n| --- | --- |\n| a. Horizontal-Vertical illusion | i. Our eyes turn inward toward one-another in order to see close objects. |\n| b. Atmospheric perspective | ii. What we perceive often is based more on what goes on in our mind than what is in front of our eyes. |\n| c. Convergence | iii. Tendency to perceive objects high in our visual field as more distant. |\n| d. Figure-ground | iv. The farther away objects are, the less distinctly they are seen. |\n\n**Codes :**\n\n| | a | b | c | d |\n| --- | --- | --- | --- | --- |\n| (1) | i | ii | ii | iv |\n| (2) | ii | iii | iv | i |\n| (3) | iii | iv | i | ii |\n| (4) | iv | i | ii | iii |",
+          "options": [
+            "(A) a=i, b=ii, c=ii, d=iv",
+            "(B) a=ii, b=iii, c=iv, d=i",
+            "(C) a=iii, b=iv, c=i, d=ii",
+            "(D) a=iv, b=i, c=ii, d=iii"
+          ],
+          "correct_answer": 3,
+          "correct_text": "a=iii, b=iv, c=i, d=ii",
+          "unit": "Unit 5",
+          "topic": "5.1 Sensation and Perception",
+          "subtopic": "Perceptual Principles and Depth Cues",
+          "concept": "Horizontal-Vertical illusion: objects higher appear more distant. Atmospheric perspective: distant objects appear less distinct. Convergence: eyes turn inward for near objects. Figure-ground: perception is influenced by cognitive organization.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 34,
+          "question": "Read each of the following two statements – Assertion (A) and Reason (R); and indicate your answer using codes given below:\n\n**Assertion (A)**: Participants of a study were shown novel geometric shapes that served as targets. Then they were shown fragments of these shapes. Participants were quicker to recognize the fragments as part of the original target.\n\n**Reason (R)**: We do not use Gestalt principles in our everyday perception.\n\n**Codes :**",
+          "options": [
+            "(A) Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 3,
+          "correct_text": "(A) is true, but (R) is false.",
+          "unit": "Unit 5",
+          "topic": "5.1 Sensation and Perception",
+          "subtopic": "Gestalt Principles of Perception",
+          "concept": "The assertion describes a valid finding — we recognize fragments more quickly when they were part of a whole (Gestalt principle). The reason is false because we DO use Gestalt principles extensively in everyday perception (closure, proximity, similarity, etc.).",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 35,
+          "question": "In problem solving if you follow rules that reduce the number of operations or allow you to take short cuts, you are using:",
+          "options": [
+            "(A) Algorithm",
+            "(B) Heuristic",
+            "(C) Strategy",
+            "(D) Skill"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Heuristic",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Problem Solving Strategies",
+          "concept": "Heuristics are mental shortcuts or rules of thumb that reduce the number of operations needed to solve a problem. Unlike algorithms (which guarantee a solution), heuristics trade completeness for speed.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 36,
+          "question": "Anticipation Method can be used in\n(a) Free Recall\n(b) Serial Learning\n(c) Verbal Discrimination\n(d) Paired Associates Learning\n\n**Codes :**",
+          "options": [
+            "(A) (a), (b) and (c) only",
+            "(B) (b), (c) and (d) only",
+            "(C) (a) and (b) only",
+            "(D) (b) and (d) only"
+          ],
+          "correct_answer": 4,
+          "correct_text": "(b) and (d) only",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Methods of Learning",
+          "concept": "The anticipation method involves presenting a stimulus and requiring the subject to anticipate the response before it appears. This method is used in Serial Learning (anticipating next item in sequence) and Paired Associates Learning (anticipating the response term). Not applicable to free recall or verbal discrimination.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 37,
+          "question": "Gestalt Psychologist Max Wertheimer attempted to train children to think in a logical and systematic way where he used several figures such as\n(a) Squares and rectangles\n(b) Parallelogram\n(c) Triangles\n(d) Circles\n\n**Codes :**",
+          "options": [
+            "(A) (a) & (b) only",
+            "(B) (b) and (c) only",
+            "(C) (c) and (d) only",
+            "(D) (a), (b) and (c) only"
+          ],
+          "correct_answer": 4,
+          "correct_text": "(a), (b) and (c) only",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Wertheimer's Productive Thinking",
+          "concept": "Wertheimer used geometric figures including squares, rectangles, parallelograms, and triangles to teach children productive (logical) thinking. He demonstrated how understanding relationships between parts leads to insight.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 38,
+          "question": "Which of the following sequence describes the energy mobilization in body?",
+          "options": [
+            "(A) Fasting phase → Absorptive phase → Cephalic phase",
+            "(B) Cephalic phase → Absorptive phase → Fasting phase",
+            "(C) Absorptive phase → Fasting phase → Cephalic phase",
+            "(D) Fasting phase → Cephalic phase → Absorptive phase"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Cephalic phase → Absorptive phase → Fasting phase",
+          "unit": "Unit 4",
+          "topic": "4.1 Biological Basis of Behaviour",
+          "subtopic": "Energy Metabolism",
+          "concept": "Energy mobilization follows: Cephalic phase (anticipatory, preparing for food) → Absorptive phase (processing absorbed nutrients) → Fasting phase (post-absorptive, mobilizing stored energy).",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 39,
+          "question": "According to Bandura, which of the following cognitive mechanisms are adopted by a person to act contrary to his or her moral principles without experiencing self-contempt:\n(a) Moral justification\n(b) Dehumanization\n(c) Displacement of Responsibility\n(d) Diffusion of Responsibility\n\n**Codes :**",
+          "options": [
+            "(A) (a), (b) and (c) only",
+            "(B) (a), (b) and (d) only",
+            "(C) (b), (c) and (d) only",
+            "(D) (a), (b), (c) and (d)"
+          ],
+          "correct_answer": 4,
+          "correct_text": "(a), (b), (c) and (d)",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Bandura's Moral Disengagement",
+          "concept": "Bandura identified eight mechanisms of moral disengagement including: moral justification, euphemistic labelling, advantageous comparison, displacement of responsibility, diffusion of responsibility, disregard/distortion of consequences, dehumanization, and attribution of blame. All four listed are valid mechanisms.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 40,
+          "question": "In Guilford's structure of Intellect Model, obtained abilities have been named in which of the following sequence :",
+          "options": [
+            "(A) Operations, contents, products",
+            "(B) Operations; products; contents",
+            "(C) Contents; operations; products",
+            "(D) Products; contents; operations"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Operations, contents, products",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Guilford's SOI Model",
+          "concept": "In Guilford's SOI model, each ability is named by the sequence: Operations (what mental process), Contents (what type of material), Products (what form of information). E.g., 'Cognition of Figural Units'.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 41,
+          "question": "Read each of the following two statements – Assertion (A) and Reason (R); and indicate your answer using codes given below :\n\n**Assertion (A)** : Differences between intelligence levels of monozygotic twins are attributed to environmental influences.\n\n**Reason (R)** : Monozygotic twins have identical genetically determined reaction range.\n\n**Codes :**",
+          "options": [
+            "(A) Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Nature-Nurture and Intelligence",
+          "concept": "MZ twins share identical genes, so any IQ differences must be environmental. Their identical genotype means they have the same reaction range (genetically determined potential range). The identical reaction range explains why differences must be environmental.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 42,
+          "question": "Match List – I with List – II and select the correct answer by choosing from the codes given below :\n\n| List – I (Explanation) | List – II (Concept) |\n| --- | --- |\n| a. Remembering meaning of words, properties of objects. | i. Sensory memory |\n| b. Helping information to be brought back to mind when it cannot be recalled spontaneously. | ii. Semantic memory |\n| c. Remembering specific experiences of the past. | iii. Retrieval cues |\n| d. Retaining representation of sensory input for brief periods of time. | iv. Episodic memory |\n\n**Codes :**\n\n| | a | b | c | d |\n| --- | --- | --- | --- | --- |\n| (1) | i | ii | iii | iv |\n| (2) | ii | iii | iv | i |\n| (3) | iii | ii | i | iv |\n| (4) | iv | ii | iii | i |",
+          "options": [
+            "(A) a=i, b=ii, c=iii, d=iv",
+            "(B) a=ii, b=iii, c=iv, d=i",
+            "(C) a=iii, b=ii, c=i, d=iv",
+            "(D) a=iv, b=ii, c=iii, d=i"
+          ],
+          "correct_answer": 2,
+          "correct_text": "a=ii, b=iii, c=iv, d=i",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Types of Memory (Tulving)",
+          "concept": "Semantic memory stores meaning of words and object properties. Retrieval cues help recall information that cannot be spontaneously retrieved. Episodic memory stores specific personal experiences. Sensory memory briefly retains sensory representations.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 43,
+          "question": "Information in short-term memory enters long-term storage through",
+          "options": [
+            "(A) selective attention",
+            "(B) elaborate rehearsal",
+            "(C) learning",
+            "(D) information-processing"
+          ],
+          "correct_answer": 2,
+          "correct_text": "elaborate rehearsal",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Memory Transfer - STM to LTM",
+          "concept": "According to the Atkinson-Shiffrin model, information transfers from STM to LTM through elaborate (semantic) rehearsal, which involves deeper processing and creating meaningful associations. Maintenance rehearsal keeps info in STM but doesn't effectively transfer it to LTM.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 44,
+          "question": "Read each of the following two statements – Assertion (A) and Reason (R); and indicate your answer using codes given below:\n\n**Assertion (A)**: A neural membrane is double-layered.\n\n**Reason (R)**: Lipid molecules turn their tails toward each other.\n\n**Codes :**",
+          "options": [
+            "(A) Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+          "unit": "Unit 4",
+          "topic": "4.1 Biological Basis of Behaviour",
+          "subtopic": "Neural Membrane Structure",
+          "concept": "The neural (cell) membrane is a phospholipid bilayer. Phospholipid molecules arrange with hydrophilic heads outward and hydrophobic tails facing each other inward, creating the double-layered structure.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 45,
+          "question": "The inputs from our sensory receptors are structured by",
+          "options": [
+            "(A) Selective principles",
+            "(B) Gestalt principles",
+            "(C) Analytical principles",
+            "(D) Learning principles"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Gestalt principles",
+          "unit": "Unit 5",
+          "topic": "5.1 Sensation and Perception",
+          "subtopic": "Gestalt Psychology of Perception",
+          "concept": "Gestalt psychologists argued that sensory inputs are organized by innate organizational principles (proximity, similarity, closure, continuity, figure-ground) rather than being built up from individual sensations.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        }
+      ]
+    },
+    {
+      "type": "passage",
+      "id": "passage_46",
+      "heading": "Instructions for Questions 46 to 50 :",
+      "text": "Read the following paragraph and answer the five questions which follow :\n\nA researcher working in the area of human intelligence wanted to develop a new verbal test of intelligence. For this purpose, he wrote 200 objective multiple-choice items. Each item had four alternatives, one of which was right and the three remaining ones were wrong. He administered this initial version to a sample of 400 subjects. Using P₂₇ and P₇₃ as the cut-off points, he obtained two groups – Low Scoring and High Scoring respectively. The item difficulty index and the item discrimination index were computed for each of the 200 items. To assess whether each item significantly discriminates between Low scoring and High scoring groups, appropriate statistical significance tests were also employed. This item analysis process retained 150 items. The final version of 150 items was administered to a fresh sample of 750 subjects. The appropriate measures of internal consistency reliability were obtained. The test norms were developed using normalized T scores (mean = 100, SD = 20) and the Wechsler type deviation IQ scores. To assess the dimensionality of verbal intelligence, the researcher also carried out the factor analysis of item scores."
+    },
+    {
+      "type": "questions_block",
+      "range": "Q46–Q50",
+      "passage_ref": "passage_46",
+      "questions": [
+        {
+          "id": 46,
+          "question": "Which one of the following test of statistical significance can be employed in the above study to evaluate whether the item significantly discriminates between the Low scoring and High scoring groups?",
+          "options": [
+            "(A) Chi-square",
+            "(B) Point-biserial correlation",
+            "(C) t test",
+            "(D) Biserial correlation"
+          ],
+          "correct_answer": 3,
+          "correct_text": "t test",
+          "unit": "Unit 3",
+          "topic": "3.1 Psychological Testing",
+          "subtopic": "Item Analysis",
+          "concept": "To test whether an item significantly discriminates between extreme groups (27% upper and lower), an independent samples t-test compares the mean scores on that item between the two groups. Point-biserial and biserial are correlational measures, not significance tests per se.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": "passage_46",
+          "table_ref": null
+        },
+        {
+          "id": 47,
+          "question": "Which of the following reliability coefficients can be computed in the above study to assess the internal consistency?\n(a) Odd-even reliability coefficient\n(b) Kuder-Richardsen reliability coefficient\n(c) Cronbach alpha coefficient\n(d) Interscorer reliability coefficient\n\n**Codes :**",
+          "options": [
+            "(A) (a) only",
+            "(B) (a) and (c) only",
+            "(C) (a), (b) and (c) only",
+            "(D) (b), (c) and (d) only"
+          ],
+          "correct_answer": 3,
+          "correct_text": "(a), (b) and (c) only",
+          "unit": "Unit 3",
+          "topic": "3.2 Psychological Testing",
+          "subtopic": "Internal Consistency Reliability",
+          "concept": "Internal consistency measures include: Odd-even (split-half with Spearman-Brown), KR-20/KR-21 (for dichotomous items), and Cronbach's alpha (generalized KR-20). Interscorer reliability is not an internal consistency measure — it assesses agreement between raters.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": "passage_46",
+          "table_ref": null
+        },
+        {
+          "id": 48,
+          "question": "For the above test, what is the expected percentile rank for the T score of 120?",
+          "options": [
+            "(A) 60",
+            "(B) 68",
+            "(C) 75",
+            "(D) 84"
+          ],
+          "correct_answer": 4,
+          "correct_text": "84",
+          "unit": "Unit 3",
+          "topic": "3.2 Psychological Testing",
+          "subtopic": "T Scores and Percentile Conversion",
+          "concept": "T score 120, Mean = 100, SD = 20. Z = (120-100)/20 = +1.0. A z-score of +1.0 corresponds to the 84th percentile (approximately 84.13%).",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": "passage_46",
+          "table_ref": null
+        },
+        {
+          "id": 49,
+          "question": "For the above test, a T score of 80 would correspond to the deviation IQ of",
+          "options": [
+            "(A) 68",
+            "(B) 80",
+            "(C) 85",
+            "(D) 115"
+          ],
+          "correct_answer": 3,
+          "correct_text": "85",
+          "unit": "Unit 3",
+          "topic": "3.2 Psychological Testing",
+          "subtopic": "Deviation IQ and T Score Conversion",
+          "concept": "T score 80, Mean = 100, SD = 20. Z = (80-100)/20 = -1.0. Wechsler Deviation IQ: Mean = 100, SD = 15. IQ = 100 + (-1.0 × 15) = 85.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": "passage_46",
+          "table_ref": null
+        },
+        {
+          "id": 50,
+          "question": "In the above study, which type of correlations can be employed to carry out the factor analysis of the test items?",
+          "options": [
+            "(A) Biserial correlations",
+            "(B) Phi coefficients",
+            "(C) Point biserial correlations",
+            "(D) Rank order correlations"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Phi coefficients",
+          "unit": "Unit 3",
+          "topic": "3.2 Psychological Testing",
+          "subtopic": "Factor Analysis of Dichotomous Items",
+          "concept": "For dichotomously scored items, the appropriate inter-item correlations for factor analysis are phi coefficients (φ), which measure the association between two dichotomous variables. Point biserial is between continuous and dichotomous; biserial assumes underlying continuity.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": "passage_46",
+          "table_ref": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1039 @@
+{
+  "paper_metadata": {
+    "title": "UGC NET/JRF Examination, December 2014",
+    "date": "December 2014",
+    "subject": "Psychology — Paper II"
+  },
+  "content": [
+    {
+      "type": "questions_block",
+      "range": "Q1–Q45",
+      "questions": [
+        {
+          "id": 1,
+          "question": "The California F-Scale measures",
+          "options": [
+            "(A) The qualities associated with feminine characteristics.",
+            "(B) The tendency for seeking sensation.",
+            "(C) A person's proneness to being rigid and authoritarian.",
+            "(D) The qualities of extroversion."
+          ],
+          "correct_answer": 3,
+          "correct_text": "A person's proneness to being rigid and authoritarian.",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Personality Assessment",
+          "concept": "The California F-Scale, developed by Adorno et al. (1950), measures authoritarian personality traits including rigidity, conventionalism, and submission to authority.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 2,
+          "question": "Raven's Standard Progressive Matrices is presumed to measure",
+          "options": [
+            "(A) Crystallized Intelligence",
+            "(B) Convergent Thinking",
+            "(C) General Intelligence",
+            "(D) Spatial Reasoning"
+          ],
+          "correct_answer": 3,
+          "correct_text": "General Intelligence",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Intelligence Tests",
+          "concept": "Raven's Progressive Matrices is a non-verbal test designed to measure Spearman's g factor (general intelligence) through pattern recognition and abstract reasoning tasks.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 3,
+          "question": "A projection apparatus used to show visual stimuli for very brief durations is called",
+          "options": [
+            "(A) Visual Cliff",
+            "(B) Tachistoscope",
+            "(C) EEG Apparatus",
+            "(D) Trapezoidal Window"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Tachistoscope",
+          "unit": "Unit 5",
+          "topic": "5.1 Attention and Perception",
+          "subtopic": "Psychological Apparatus",
+          "concept": "A tachistoscope is a device that displays visual stimuli for precisely controlled brief durations, used extensively in perception and memory research.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 4,
+          "question": "Match List – I with List – II and select the correct answer by choosing from the codes given below :\n\n| List – I (Authors) | List – II (Concepts) |\n| --- | --- |\n| p. Cattell | 1. General and Specific factors |\n| q. Spearman | 2. Fluid and Crystallized intelligence |\n| r. Gardner | 3. Triarchic theory of intelligence |\n| s. Sternberg | 4. Multiple Intelligence theory |\n\n**Codes :**\n\n|  | p | q | r | s |\n| --- | --- | --- | --- | --- |\n| (A) | 1 | 3 | 4 | 2 |\n| (B) | 2 | 1 | 4 | 3 |\n| (C) | 3 | 4 | 2 | 1 |\n| (D) | 4 | 3 | 2 | 1 |",
+          "options": [
+            "(A) p-1, q-3, r-4, s-2",
+            "(B) p-2, q-1, r-4, s-3",
+            "(C) p-3, q-4, r-2, s-1",
+            "(D) p-4, q-3, r-2, s-1"
+          ],
+          "correct_answer": 2,
+          "correct_text": "p-2, q-1, r-4, s-3",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Theories of Intelligence",
+          "concept": "Cattell proposed fluid and crystallized intelligence; Spearman proposed g and s factors; Gardner proposed multiple intelligences; Sternberg proposed the triarchic theory of intelligence.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null,
+          "explanation": "Cattell→Fluid/Crystallized intelligence, Spearman→General/Specific factors, Gardner→Multiple Intelligence, Sternberg→Triarchic theory"
+        },
+        {
+          "id": 5,
+          "question": "Match List – I with List – II and select the correct answer by choosing from the codes given below :\n\n| List – I (Part of Human Brain) | List – II (Function) |\n| --- | --- |\n| p. Thalamus | 1. Plays a special role in memory |\n| q. Medulla | 2. Involved in mediating emotions |\n| r. Hippocampus | 3. Helps in control sleeps and wakefulness |\n| s. Amygdala | 4. Helps the organism to maintain upright position |\n\n**Codes :**\n\n|  | p | q | r | s |\n| --- | --- | --- | --- | --- |\n| (A) | 3 | 4 | 1 | 2 |\n| (B) | 4 | 3 | 1 | 2 |\n| (C) | 4 | 1 | 2 | 3 |\n| (D) | 1 | 4 | 3 | 2 |",
+          "options": [
+            "(A) p-3, q-4, r-1, s-2",
+            "(B) p-4, q-3, r-1, s-2",
+            "(C) p-4, q-1, r-2, s-3",
+            "(D) p-1, q-4, r-3, s-2"
+          ],
+          "correct_answer": 1,
+          "correct_text": "p-3, q-4, r-1, s-2",
+          "unit": "Unit 4",
+          "topic": "4.1 Biological Basis of Behaviour",
+          "subtopic": "Brain Structures and Functions",
+          "concept": "Key brain structures: thalamus is a relay station controlling sleep/wakefulness; medulla controls vital functions including posture; hippocampus is critical for memory formation; amygdala mediates emotional responses.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null,
+          "explanation": "Thalamus→Sleep/wakefulness, Medulla→Upright position, Hippocampus→Memory, Amygdala→Emotions"
+        },
+        {
+          "id": 6,
+          "question": "Some factors that influence the effectiveness of rewards are\n\n1. Magnitude of the reward\n2. Reward delay\n3. Successive approximation\n4. Need\n\n**Codes :**",
+          "options": [
+            "(A) 1, 2 and 4",
+            "(B) 2 and 4",
+            "(C) 1 and 2",
+            "(D) 2, 3 and 4"
+          ],
+          "correct_answer": 1,
+          "correct_text": "1, 2 and 4",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Reinforcement",
+          "concept": "The effectiveness of rewards depends on magnitude (size of reward), delay (timing of reward delivery), and need (drive state). Successive approximation is a technique in shaping, not a factor influencing reward effectiveness.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 7,
+          "question": "Which of the following descriptions are correct?\n\n1. Weber's Ratio means that greater the magnitude of a stimulus, smaller the change required for a difference to be detected.\n2. The ability to detect, resolve and perceive fine details of a visual display is called visual acuity.\n3. Stimulation of a succession of neighbouring retinal loci is called the image retina movement system.\n4. Adaptation refers to the proportion of incident light that is reflected.",
+          "options": [
+            "(A) 1 and 4 are correct.",
+            "(B) 2 and 1 are correct.",
+            "(C) 4 and 3 are correct.",
+            "(D) 2 and 3 are correct."
+          ],
+          "correct_answer": 4,
+          "correct_text": "2 and 3 are correct.",
+          "unit": "Unit 5",
+          "topic": "5.1 Attention and Perception",
+          "subtopic": "Psychophysics",
+          "concept": "Weber's Law (ΔI/I=k) means a larger stimulus requires a proportionally larger change to detect, not smaller (Statement 1 false). Visual acuity is indeed the ability to detect fine visual details (2 true). The image-retina movement system refers to stimulation of successive neighbouring retinal loci for motion detection (3 true). Adaptation is the adjustment of sensory receptors to stimulation, not the proportion of incident light reflected (4 defines reflectance, false).",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null,
+          "explanation": "Statements 2 and 3 are correct; statement 1 reverses Weber's law and statement 4 defines reflectance, not adaptation."
+        },
+        {
+          "id": 8,
+          "question": "Read each of the following two statements – Assertion (A) and Reason (R) and indicate your answer using the codes given below:\n\n**Assertion (A)** : Both, context dependent memory and state dependent retrieval refer to the ease with which one can recall information in a similar context or state as when it was acquired.\n\n**Reason (R)** : According to encoding specificity principle retrieval of information is successful to the extent that the retrieval cues match the cues the learner used during the learning phase.\n\n**Codes :**",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are true and (R) is correct explanation of (A).",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Memory Retrieval",
+          "concept": "Context-dependent and state-dependent memory effects are explained by Tulving's encoding specificity principle, which states that retrieval succeeds when cues at retrieval match those encoded during learning.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 9,
+          "question": "Cognition refers to the mental activity associated with ______, understanding and ______ information.",
+          "options": [
+            "(A) processing; sending",
+            "(B) passing; sending",
+            "(C) processing; communicating",
+            "(D) passing; communicating"
+          ],
+          "correct_answer": 3,
+          "correct_text": "processing; communicating",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Cognitive Processes",
+          "concept": "Cognition encompasses all mental activities involved in processing, understanding, and communicating information, including thinking, knowing, remembering, and language use.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 10,
+          "question": "The left hemisphere is more skilled at",
+          "options": [
+            "(A) Seeing the forest not the trees.",
+            "(B) Interpreting speech and language.",
+            "(C) Analysing the melodies.",
+            "(D) Judging the symmetry in a photograph."
+          ],
+          "correct_answer": 2,
+          "correct_text": "Interpreting speech and language.",
+          "unit": "Unit 4",
+          "topic": "4.1 Biological Basis of Behaviour",
+          "subtopic": "Brain Lateralization",
+          "concept": "The left hemisphere is dominant for language processing, speech production and comprehension (Broca's and Wernicke's areas). The right hemisphere handles holistic processing, spatial tasks, and melody analysis.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 11,
+          "question": "The perception that one is worse off relative to those with whom one compares oneself refers to",
+          "options": [
+            "(A) Constant deprivation",
+            "(B) Continuous deprivation",
+            "(C) Marginal deprivation",
+            "(D) Relative deprivation"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Relative deprivation",
+          "unit": "Unit 8",
+          "topic": "8.1 Social Psychology",
+          "subtopic": "Social Comparison",
+          "concept": "Relative deprivation theory (Runciman, 1966) describes the perception of being disadvantaged compared to a reference group, which can lead to social discontent regardless of objective conditions.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 12,
+          "question": "On a Wechsler type intelligence scale Arish has a deviation IQ of 115. If the norms of this test are expressed in terms of normalized T scores (mean = 50, SD = 10), what would be the T score of Arish?",
+          "options": [
+            "(A) 40",
+            "(B) 60",
+            "(C) 65",
+            "(D) 84"
+          ],
+          "correct_answer": 2,
+          "correct_text": "60",
+          "unit": "Unit 3",
+          "topic": "3.1 Psychological Testing",
+          "subtopic": "Score Transformations",
+          "concept": "Deviation IQ has mean=100, SD=15. IQ 115 means z = (115-100)/15 = +1. T-score = 50 + (z × 10) = 50 + 10 = 60. T-scores have mean=50, SD=10.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 13,
+          "question": "Read each of the following two statements – Assertion (A) and Reason (R) and indicate your answer using the codes given below:\n\n**Assertion (A)**: The squared correlation between the true score and the obtained score is called reliability index.\n\n**Reason (R)**: According to the classical reliability theory, the mean of the true scores and the mean of the obtained scores are equal.\n\n**Codes :**",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are true and (R) is correct explanation of (A).",
+          "unit": "Unit 3",
+          "topic": "3.1 Psychological Testing",
+          "subtopic": "Reliability",
+          "concept": "The reliability index is r²_xt (squared correlation between true and observed scores), which equals the reliability coefficient. In classical test theory, E(X) = E(T), meaning observed and true score means are equal, which underlies this relationship.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 14,
+          "question": "Read each of the following two statements – Assertion (A) and Reason (R) and indicate your answer using the codes given below:\n\n**Assertion (A)**: Creative people usually have a broad range of knowledge about lot of subjects and are good at using mental imagery.\n\n**Reason (R)**: Creative people are often unconventional and value their autonomy.\n\n**Codes :**",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 2,
+          "correct_text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+          "unit": "Unit 6",
+          "topic": "6.3 Creativity",
+          "subtopic": "Characteristics of Creative People",
+          "concept": "Creative individuals tend to have diverse knowledge bases and strong mental imagery abilities (A is true). They also tend to be unconventional and autonomous (R is true), but unconventionality does not explain why they have broad knowledge—the two are independent characteristics of creativity.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 15,
+          "question": "Which of the following are problems with punishment?\n\n1. The effect of punishment is often temporary.\n2. Severe punishment creates fear and anxiety.\n3. Mild punishment is paired with reinforcement of the correct behaviour.\n4. Aggressive punishment can model aggressive behaviour.",
+          "options": [
+            "(A) 1 and 4",
+            "(B) 2 and 3",
+            "(C) 2, 3 and 4",
+            "(D) 1, 2 and 4"
+          ],
+          "correct_answer": 4,
+          "correct_text": "1, 2 and 4",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Punishment",
+          "concept": "Key problems with punishment include: temporary suppression (behavior returns), creation of fear/anxiety, and social modeling of aggression (Bandura). Statement 3 is not a recognized problem of punishment; it describes an unrelated procedure.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 16,
+          "question": "A numerical ability test with 50 items has a Cronbach alpha of .80. If the test is randomly divided into two halves of the same length, the expected correlation between the two halves would be",
+          "options": [
+            "(A) .40",
+            "(B) .56",
+            "(C) .67",
+            "(D) .80"
+          ],
+          "correct_answer": 3,
+          "correct_text": ".67",
+          "unit": "Unit 3",
+          "topic": "3.1 Psychological Testing",
+          "subtopic": "Reliability",
+          "concept": "Using the Spearman-Brown prophecy formula: α = 2r/(1+r), so r = α/(2-α) = 0.80/1.20 = 0.67. The split-half reliability with equal halves is .67.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 17,
+          "question": "Organizing items into familiar, manageable units, often automatically, is termed",
+          "options": [
+            "(A) Priming",
+            "(B) Chunking",
+            "(C) Shaping",
+            "(D) Encoding"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Chunking",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Memory Strategies",
+          "concept": "Chunking (Miller, 1956) is the process of grouping individual items into larger meaningful units to overcome the limited capacity of short-term memory (7±2 chunks).",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 18,
+          "question": "Match List – I with List – II and select the correct answer by choosing from the codes given below :\n\n| List – I (Memory Module) | List – II (Description) |\n| --- | --- |\n| p. Episodic memory | 1. Memory system that retains information we cannot readily express verbally. |\n| q. Semantic memory | 2. Memory for factual information that we acquired at a specific time. |\n| r. Autobiographical memory | 3. Memory system that stores general abstract knowledge about the world. |\n| s. Procedural memory | 4. Memory for information about events in our own life. |\n\n**Codes :**\n\n|  | p | q | r | s |\n| --- | --- | --- | --- | --- |\n| (A) | 3 | 4 | 1 | 2 |\n| (B) | 4 | 2 | 3 | 1 |\n| (C) | 2 | 3 | 4 | 1 |\n| (D) | 1 | 2 | 4 | 3 |",
+          "options": [
+            "(A) p-3, q-4, r-1, s-2",
+            "(B) p-4, q-2, r-3, s-1",
+            "(C) p-2, q-3, r-4, s-1",
+            "(D) p-1, q-2, r-4, s-3"
+          ],
+          "correct_answer": 3,
+          "correct_text": "p-2, q-3, r-4, s-1",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Types of Memory",
+          "concept": "Tulving's classification: Episodic memory stores events tied to specific times/places; Semantic stores general world knowledge; Autobiographical stores personal life events; Procedural stores motor skills and how-to knowledge (non-declarative).",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null,
+          "explanation": "Episodic→factual at specific time (2), Semantic→general abstract knowledge (3), Autobiographical→events in own life (4), Procedural→non-verbal (1)"
+        },
+        {
+          "id": 19,
+          "question": "Match List – I with List – II and select the correct answer by choosing from the codes given below :\n\n| List – I (Scaling Techniques) | List – II (Features) |\n| --- | --- |\n| p. Paired comparison | 1. Assesses unidimensionality of the scale. |\n| q. Equal appearing intervals | 2. Suitable for assessing multidimensional attitudes. |\n| r. Scalogram analysis | 3. Suitable for scaling a large number of attitude items. |\n| s. Summated ratings | 4. Employs Z scores as the measure of scale values. |\n\n**Codes :**\n\n|  | p | q | r | s |\n| --- | --- | --- | --- | --- |\n| (A) | 4 | 3 | 2 | 1 |\n| (B) | 3 | 4 | 1 | 2 |\n| (C) | 2 | 3 | 1 | 4 |\n| (D) | 4 | 3 | 1 | 2 |",
+          "options": [
+            "(A) p-4, q-3, r-2, s-1",
+            "(B) p-3, q-4, r-1, s-2",
+            "(C) p-2, q-3, r-1, s-4",
+            "(D) p-4, q-3, r-1, s-2"
+          ],
+          "correct_answer": 4,
+          "correct_text": "p-4, q-3, r-1, s-2",
+          "unit": "Unit 3",
+          "topic": "3.1 Psychological Testing",
+          "subtopic": "Attitude Scaling",
+          "concept": "Paired comparison uses Z-scores for scale values (Thurstone); Equal appearing intervals (Thurstone) suits large item sets; Scalogram analysis (Guttman) assesses unidimensionality; Summated ratings (Likert) can handle multidimensional attitudes.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null,
+          "explanation": "Paired comparison→Z scores (4), Equal appearing intervals→large number of items (3), Scalogram→unidimensionality (1), Summated ratings→multidimensional (2)"
+        },
+        {
+          "id": 20,
+          "question": "Among the following concepts which are related to Alfred Adler's theory of personality?\n\n1. Organ inferiority\n2. Psychoticism\n3. Archetypes\n4. Masculine protest",
+          "options": [
+            "(A) 1 and 4",
+            "(B) 2 and 3",
+            "(C) 1 and 2",
+            "(D) 4 and 3"
+          ],
+          "correct_answer": 1,
+          "correct_text": "1 and 4",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Personality Theories",
+          "concept": "Adler's Individual Psychology emphasizes organ inferiority (feelings of physical inadequacy driving compensation), masculine protest (striving for power/dominance), inferiority complex, and superiority striving. Psychoticism is Eysenck's concept; Archetypes are Jung's.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 21,
+          "question": "Which of the following are true of short term memory?\n\n1. Limited capacity.\n2. Brief storage of information.\n3. Unlimited capacity.\n4. Duration of storage less than twenty seconds.",
+          "options": [
+            "(A) 1, 3 and 4",
+            "(B) 3 and 4",
+            "(C) 1, 2 and 4",
+            "(D) 2 and 4"
+          ],
+          "correct_answer": 3,
+          "correct_text": "1, 2 and 4",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Short-term Memory",
+          "concept": "Short-term memory has limited capacity (7±2 items; statement 1 true), brief storage duration (15-30 seconds without rehearsal; statements 2 and 4 true). Statement 3 (unlimited capacity) is false—that describes long-term memory, not STM. The correct set is 1, 2 and 4.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 22,
+          "question": "Match List – I with List – II and mark your answer using the codes given below :\n\n| List – I (Theory) | List – II (Description) |\n| --- | --- |\n| p. James-Lange | 1. Triggering the feeling of pleasure and pain simultaneously. |\n| q. Cannon-Bard | 2. Emotional experience comprise of the physiological arousal and its cognitive labelling. |\n| r. Opponent-process | 3. Emotion arising stimulus simultaneously triggers physiological responses and the subjective experience of emotion. |\n| s. Two-factor | 4. Emotional experience refers to our awareness of our physiological responses to emotion arousing stimuli. |\n\n**Codes :**\n\n|  | p | q | r | s |\n| --- | --- | --- | --- | --- |\n| (A) | 4 | 3 | 2 | 1 |\n| (B) | 4 | 2 | 3 | 1 |\n| (C) | 3 | 2 | 4 | 1 |\n| (D) | 3 | 4 | 1 | 2 |",
+          "options": [
+            "(A) p-4, q-3, r-2, s-1",
+            "(B) p-4, q-2, r-3, s-1",
+            "(C) p-3, q-2, r-4, s-1",
+            "(D) p-3, q-4, r-1, s-2"
+          ],
+          "correct_answer": 1,
+          "correct_text": "p-4, q-3, r-2, s-1",
+          "unit": "Unit 7",
+          "topic": "7.3 Emotion",
+          "subtopic": "Theories of Emotion",
+          "concept": "James-Lange: emotion = awareness of physiological response; Cannon-Bard: stimulus triggers both physiological and emotional response simultaneously; Opponent-process (Solomon & Corbit): emotions swing between pleasure and pain; Two-factor (Schachter-Singer): emotion = physiological arousal + cognitive label.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 23,
+          "question": "A view of memory suggesting that the greater the effort expended in processing information will be recalled later represents",
+          "options": [
+            "(A) Neural network models of memory.",
+            "(B) Levels of processing model of memory.",
+            "(C) Multiple components model of memory.",
+            "(D) Three stage model of memory."
+          ],
+          "correct_answer": 2,
+          "correct_text": "Levels of processing model of memory.",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Memory Models",
+          "concept": "Craik and Lockhart's (1972) Levels of Processing model proposes that deeper, more effortful processing (semantic encoding) leads to better retention than shallow processing (sensory/phonemic encoding).",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 24,
+          "question": "Match List – I with List – II and indicate your answer by using the codes given below :\n\n| List – I (Concept) | List – II (Description) |\n| --- | --- |\n| p. Morpheme | 1. The set of rules by which we derive meanings from morphemes, words and sentences. |\n| q. Grammar | 2. The rules for combining words into grammatically sensible sentences. |\n| r. Semantics | 3. The system of rules that enables us to communicate with and understand others. |\n| s. Syntax | 4. The smallest unit that carries meaning, may be a word or a part of word. |\n\n**Codes :**\n\n|  | p | q | r | s |\n| --- | --- | --- | --- | --- |\n| (A) | 1 | 2 | 3 | 4 |\n| (B) | 2 | 3 | 4 | 1 |\n| (C) | 3 | 4 | 2 | 1 |\n| (D) | 4 | 3 | 1 | 2 |",
+          "options": [
+            "(A) p-1, q-2, r-3, s-4",
+            "(B) p-2, q-3, r-4, s-1",
+            "(C) p-3, q-4, r-2, s-1",
+            "(D) p-4, q-3, r-1, s-2"
+          ],
+          "correct_answer": 4,
+          "correct_text": "p-4, q-3, r-1, s-2",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Language",
+          "concept": "Linguistic concepts: Morpheme is the smallest meaningful unit; Grammar is the overall rule system; Semantics deals with meaning derivation; Syntax governs sentence structure and word combination rules.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null,
+          "explanation": "Morpheme→smallest meaningful unit (4), Grammar→system of rules for communication (3), Semantics→rules for deriving meaning (1), Syntax→rules for combining words (2)"
+        },
+        {
+          "id": 25,
+          "question": "During Resting Potential, cell membrane is\n\n1. Almost permeable to Sodium\n2. Almost permeable to Potassium\n3. Almost impermeable to Sodium\n4. Almost impermeable to Potassium",
+          "options": [
+            "(A) 1 and 4",
+            "(B) 2 and 3",
+            "(C) 1 and 2",
+            "(D) 3 and 4"
+          ],
+          "correct_answer": 2,
+          "correct_text": "2 and 3",
+          "unit": "Unit 4",
+          "topic": "4.1 Biological Basis of Behaviour",
+          "subtopic": "Neural Transmission",
+          "concept": "At resting potential (~-70mV), the cell membrane is relatively permeable to K+ (through leak channels) but almost impermeable to Na+ (sodium channels closed). This creates the electrochemical gradient maintained by the Na+/K+ ATPase pump.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 26,
+          "question": "Read each of the following two statements – Assertion (A) and Reason (R) and indicate your answer using the codes given below:\n\n**Assertion (A)** : Females score higher than males with respect to verbal activities, while males tend to score higher on visual-spatial abilities.\n\n**Reason (R)** : Gender differences in different abilities are due to interplay of heredity and environment.\n\n**Codes :**",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are true and (R) is correct explanation of (A).",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Gender Differences in Abilities",
+          "concept": "Research consistently shows females have advantages in verbal abilities while males excel in visual-spatial tasks. These differences result from complex interactions of biological (hormonal, brain structure) and environmental (socialization, practice) factors.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 27,
+          "question": "Mental grouping of similar objects, events or people is called",
+          "options": [
+            "(A) Cognition",
+            "(B) Concept",
+            "(C) Prototype",
+            "(D) Thinking"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Concept",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Concepts and Categorization",
+          "concept": "A concept is a mental category that groups objects, events, or people sharing common properties. Concepts enable efficient cognitive processing by allowing us to organize and classify the world.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 28,
+          "question": "Read each of the following two statements – Assertion (A) and Reason (R) and indicate your answer using the codes given below:\n\n**Assertion (A)** : A neuron without an Axon cannot transmit information even to other neurons immediately adjacent to it.\n\n**Reason (R)** : Dendrite receives information from other neurons and Axons transmit it forward.\n\n**Codes :**",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 4,
+          "correct_text": "(A) is false, but (R) is true.",
+          "unit": "Unit 4",
+          "topic": "4.1 Biological Basis of Behaviour",
+          "subtopic": "Neuron Structure",
+          "concept": "Amacrine cells in the retina are neurons without axons that CAN transmit information to adjacent neurons using their dendrites for both input and output. Therefore (A) is false. However, (R) is true: in typical neurons, dendrites receive information and axons transmit it forward.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 29,
+          "question": "A form of conditioning in which the onset of the Conditioned Stimulus (CS) precedes the onset of the Unconditioned Stimulus (UCS) and the presentation of CS and UCS does not overlap is termed as",
+          "options": [
+            "(A) Backward conditioning",
+            "(B) Delayed conditioning",
+            "(C) Trace conditioning",
+            "(D) Simultaneous conditioning"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Trace conditioning",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Classical Conditioning",
+          "concept": "In trace conditioning, the CS ends before the UCS begins, leaving a temporal gap (trace interval). The CS and UCS do not overlap. In delayed conditioning, the CS overlaps with the UCS. In backward conditioning, CS follows UCS.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 30,
+          "question": "Match List – I with List – II and select the correct answer using the codes given below :\n\n| List – I (Procedure) | List – II (Behavioural Outcome) |\n| --- | --- |\n| p. Positive reinforcement | 1. Learn to perform responses that produce pleasant outcome. |\n| q. Negative reinforcement | 2. Learn to suppress responses that lead to unpleasant outcome. |\n| r. Positive punishment | 3. Learn to suppress responses that lead to loss or postponement of desired stimulus. |\n| s. Negative punishment | 4. Learn to perform responses that permit to avoid or escape an unpleasant event. |\n\n**Codes :**\n\n|  | p | q | r | s |\n| --- | --- | --- | --- | --- |\n| (A) | 4 | 3 | 1 | 2 |\n| (B) | 1 | 2 | 4 | 3 |\n| (C) | 2 | 1 | 3 | 4 |\n| (D) | 1 | 4 | 2 | 3 |",
+          "options": [
+            "(A) p-4, q-3, r-1, s-2",
+            "(B) p-1, q-2, r-4, s-3",
+            "(C) p-2, q-1, r-3, s-4",
+            "(D) p-1, q-4, r-2, s-3"
+          ],
+          "correct_answer": 4,
+          "correct_text": "p-1, q-4, r-2, s-3",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Operant Conditioning",
+          "concept": "Four contingencies in operant conditioning: Positive reinforcement adds pleasant stimulus; Negative reinforcement removes aversive stimulus; Positive punishment adds aversive stimulus; Negative punishment removes pleasant stimulus.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null,
+          "explanation": "Positive reinforcement→pleasant outcome (1), Negative reinforcement→avoid/escape (4), Positive punishment→suppress unpleasant outcome (2), Negative punishment→suppress to avoid loss (3)"
+        },
+        {
+          "id": 31,
+          "question": "Match List – I (Term) with List – II (Description) and indicate your answer with the help of the codes given below :\n\n| List – I (Term) | List – II (Description) |\n| --- | --- |\n| p. Accommodation | 1. Certain minimum frequency of intermittent light necessary to be perceived as continuous. |\n| q. Critical Fusion Frequency | 2. Refers to the level of vision formed by the target on the retina. |\n| r. Visual angle | 3. Discrimination between lights of different wavelength compositions. |\n| s. Colour perception | 4. Variable refractive capacity of the lens of the eye. |\n\n**Codes :**\n\n|  | p | q | r | s |\n| --- | --- | --- | --- | --- |\n| (A) | 3 | 2 | 1 | 4 |\n| (B) | 4 | 2 | 3 | 1 |\n| (C) | 2 | 3 | 4 | 1 |\n| (D) | 4 | 1 | 2 | 3 |",
+          "options": [
+            "(A) p-3, q-2, r-1, s-4",
+            "(B) p-4, q-2, r-3, s-1",
+            "(C) p-2, q-3, r-4, s-1",
+            "(D) p-4, q-1, r-2, s-3"
+          ],
+          "correct_answer": 4,
+          "correct_text": "p-4, q-1, r-2, s-3",
+          "unit": "Unit 5",
+          "topic": "5.1 Attention and Perception",
+          "subtopic": "Visual Perception",
+          "concept": "Accommodation: lens shape adjustment for focusing; CFF: frequency at which flickering light appears steady; Visual angle: the angle subtended by a stimulus at the eye determining retinal image size; Colour perception: ability to discriminate wavelengths.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null,
+          "explanation": "Accommodation→refractive capacity of lens (4), Critical Fusion Frequency→minimum flicker frequency perceived as continuous (1), Visual angle→level of vision on retina (2), Colour perception→wavelength discrimination (3)"
+        },
+        {
+          "id": 32,
+          "question": "Match the items of List – I (Concepts) with List – II (Originator) and indicate your answer with the help of the codes given below :\n\n| List – I (Concept) | List – II (Originator) |\n| --- | --- |\n| p. Locus of Control | 1. C.G. Jung |\n| q. Learned helplessness | 2. Abraham Maslow |\n| r. Deficiency needs | 3. Martin Seligman |\n| s. Archetypes | 4. Julian Rotter |\n\n**Codes :**\n\n|  | p | q | r | s |\n| --- | --- | --- | --- | --- |\n| (A) | 1 | 2 | 3 | 4 |\n| (B) | 3 | 2 | 1 | 3 |\n| (C) | 4 | 3 | 2 | 1 |\n| (D) | 3 | 1 | 4 | 2 |",
+          "options": [
+            "(A) p-1, q-2, r-3, s-4",
+            "(B) p-3, q-2, r-1, s-3",
+            "(C) p-4, q-3, r-2, s-1",
+            "(D) p-3, q-1, r-4, s-2"
+          ],
+          "correct_answer": 3,
+          "correct_text": "p-4, q-3, r-2, s-1",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Personality Theories",
+          "concept": "Key personality concepts matched to originators: Rotter (1966) proposed locus of control; Seligman (1975) developed learned helplessness theory; Maslow (1943) distinguished D-needs from B-needs; Jung (1916) proposed collective unconscious archetypes.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null,
+          "explanation": "Locus of Control→Rotter (4), Learned helplessness→Seligman (3), Deficiency needs→Maslow (2), Archetypes→Jung (1)"
+        },
+        {
+          "id": 33,
+          "question": "Read each of the following two statements – Assertion (A) and Reason (R) and indicate your answer using the codes given below:\n\n**Assertion (A)** : Shaping and Chaining can be used to establish any form of behaviour in any organism.\n\n**Reason (R)** : 'Instinctive drift' is a tendency to return to the type of behaviour the organism displays under natural conditions.\n\n**Codes :**",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 4,
+          "correct_text": "(A) is false, but (R) is true.",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Operant Conditioning",
+          "concept": "Instinctive drift (Breland & Breland, 1961) shows that animals revert to species-specific instinctive behaviors despite operant conditioning, disproving the claim that any behavior can be shaped in any organism. The assertion is false; the reason is true.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 34,
+          "question": "Read each of the following two statements – Assertion (A) and Reason (R) and indicate your answer using the codes given below:\n\n**Assertion (A)** : Motion Parallax is the relative apparent motion of objects in the visual field as the viewer moves his head.\n\n**Reason (R)** : Motion Parallax is a monocular spatial cue.\n\n**Codes :**",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 2,
+          "correct_text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+          "unit": "Unit 5",
+          "topic": "5.1 Attention and Perception",
+          "subtopic": "Depth Perception",
+          "concept": "Motion parallax is the relative apparent motion of objects at different distances when the observer moves (A true). It is classified as a monocular cue since it requires only one eye (R true). However, the classification as monocular does not explain the mechanism of relative apparent motion — the phenomenon is caused by differences in angular velocity, not by its monocular nature. Therefore (R) is not the correct explanation of (A).",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 35,
+          "question": "Major connections in the visual system of the brain are\n\n1. Optic Chiasm\n2. Lateral geniculate nucleus of thalamus\n3. Medial geniculate nucleus\n4. Superior colliculus\n5. Inferior colliculus",
+          "options": [
+            "(A) 1, 2 and 4",
+            "(B) 1, 2 and 5",
+            "(C) 1, 3 and 4",
+            "(D) 2, 3 and 4"
+          ],
+          "correct_answer": 1,
+          "correct_text": "1, 2 and 4",
+          "unit": "Unit 4",
+          "topic": "4.1 Biological Basis of Behaviour",
+          "subtopic": "Visual System",
+          "concept": "Visual pathway: Optic chiasm (partial crossing of optic nerves) → LGN of thalamus (major relay to visual cortex) → Superior colliculus (reflexive visual responses). Medial geniculate nucleus and inferior colliculus are auditory pathway structures.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 36,
+          "question": "Ceci's Bioecological theory proposes that there are ______ rather than a single underlying ______ intelligence.",
+          "options": [
+            "(A) multiple cognitive potentials, general.",
+            "(B) metacomponents; perceptual.",
+            "(C) performance components, heritable.",
+            "(D) knowledge components, environmental."
+          ],
+          "correct_answer": 1,
+          "correct_text": "multiple cognitive potentials, general.",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Theories of Intelligence",
+          "concept": "Ceci's (1990) bioecological theory argues for multiple, domain-specific cognitive potentials influenced by biological and environmental factors, rather than a single general intelligence (g) factor.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 37,
+          "question": "Match List – I and List – II and select the right answer by picking one code.\n\n| List – I (Classification of Developmental delay) | List – II (Range of IQ Scores) |\n| --- | --- |\n| p. Mild | 1. 25 – 40 |\n| q. Profound | 2. 55 – 70 |\n| r. Severe | 3. Below 25 |\n| s. Moderate | 4. 40 – 55 |\n\n**Codes :**\n\n|  | p | q | r | s |\n| --- | --- | --- | --- | --- |\n| (A) | 4 | 2 | 1 | 3 |\n| (B) | 2 | 3 | 1 | 4 |\n| (C) | 3 | 1 | 4 | 2 |\n| (D) | 2 | 1 | 3 | 4 |",
+          "options": [
+            "(A) p-4, q-2, r-1, s-3",
+            "(B) p-2, q-3, r-1, s-4",
+            "(C) p-3, q-1, r-4, s-2",
+            "(D) p-2, q-1, r-3, s-4"
+          ],
+          "correct_answer": 2,
+          "correct_text": "p-2, q-3, r-1, s-4",
+          "unit": "Unit 9",
+          "topic": "9.1 Human Development",
+          "subtopic": "Developmental Disorders",
+          "concept": "DSM/AAMR classification of intellectual disability: Mild (IQ 55-70), Moderate (IQ 40-55), Severe (IQ 25-40), Profound (IQ below 25). Each level corresponds to different degrees of adaptive functioning deficits.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null,
+          "explanation": "Mild→55-70 (2), Profound→below 25 (3), Severe→25-40 (1), Moderate→40-55 (4)"
+        },
+        {
+          "id": 38,
+          "question": "According to ethological theory, species-specific behaviour has following characteristics :\n\n1. Fixed-action pattern\n2. Instinctive\n3. Unlearned\n4. Innate",
+          "options": [
+            "(A) 1, 3 and 4",
+            "(B) 2, 3 and 4",
+            "(C) 1, 2 and 3",
+            "(D) 1, 2, 3 and 4"
+          ],
+          "correct_answer": 4,
+          "correct_text": "1, 2, 3 and 4",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Ethology",
+          "concept": "Ethological theory (Lorenz, Tinbergen) describes species-specific behavior as: fixed action patterns (stereotyped sequences), instinctive (biologically programmed), unlearned (not acquired through experience), and innate (genetically determined). All four characteristics apply.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 39,
+          "question": "Read the following two statements – Assertion (A) and Reason (R). Indicate your answer using the codes given below:\n\n**Assertion (A)** : Operant conditioning emphasized the study of overt, observable behaviour, environmental conditions and the processes which determine behaviour.\n\n**Reason (R)** : Operant conditioning deals with the function of behaviour rather than the structure of personality. It is deterministic theory in which there is no free will.\n\n**Codes :**",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are true and (R) is correct explanation of (A).",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Operant Conditioning",
+          "concept": "Skinner's operant conditioning focuses on observable behavior-function relationships and is deterministic (behavior is shaped by environmental consequences). This functional, environmental determinism explains why it emphasizes overt behavior and environmental conditions over internal states.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 40,
+          "question": "Which of the following statements are true about the EPQ-R (Revised Eysenck Personality Questionnaire) and the NEO-PI-R (Revised NEO Personality Inventory)?\n\n1. Both the tests measure Openness to Experience.\n2. The Psychoticism scale of the EPQ-R correlates negatively with the Agreeableness and the Conscientiousness scales of the NEO-PI-R.\n3. EPQ-R has a Lie scale; NEO-PI-R does not have a Lie Scale.\n4. Extraversion and Neuroticism scales of the EPQ-R positively correlate with the corresponding NEO-PI-R scales.",
+          "options": [
+            "(A) 1 and 2 only",
+            "(B) 2 and 4 only",
+            "(C) 3 and 4 only",
+            "(D) 2, 3 and 4 only"
+          ],
+          "correct_answer": 4,
+          "correct_text": "2, 3 and 4 only",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Personality Assessment",
+          "concept": "EPQ-R measures E, N, P, L (Lie scale). NEO-PI-R measures Big Five (no Lie scale). EPQ-R Psychoticism correlates negatively with Agreeableness and Conscientiousness. E and N scales correlate positively across both instruments. EPQ-R does NOT measure Openness (statement 1 is false).",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 41,
+          "question": "Match the items List – I (Theory) with List – II (Theorist) and mark your answer with the help of codes given below :\n\n| List – I (Theory) | List – II (Theorist) |\n| --- | --- |\n| p. Dialectical humanism | 1. J.B. Watson |\n| q. Avoidance-Avoidance conflict | 2. Gordon Allport |\n| r. Behaviorism | 3. Erich Fromm |\n| s. Functional Autonomy | 4. Dollard and Miller |\n\n**Codes :**\n\n|  | p | q | r | s |\n| --- | --- | --- | --- | --- |\n| (A) | 1 | 2 | 4 | 3 |\n| (B) | 4 | 3 | 1 | 2 |\n| (C) | 3 | 4 | 1 | 2 |\n| (D) | 4 | 3 | 2 | 1 |",
+          "options": [
+            "(A) p-1, q-2, r-4, s-3",
+            "(B) p-4, q-3, r-1, s-2",
+            "(C) p-3, q-4, r-1, s-2",
+            "(D) p-4, q-3, r-2, s-1"
+          ],
+          "correct_answer": 3,
+          "correct_text": "p-3, q-4, r-1, s-2",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Personality Theories",
+          "concept": "Fromm proposed dialectical humanism (social character types); Dollard and Miller described approach-avoidance and avoidance-avoidance conflicts; Watson founded behaviorism; Allport proposed functional autonomy of motives (motives become independent of their origins).",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null,
+          "explanation": "Dialectical humanism→Fromm (3), Avoidance-Avoidance conflict→Dollard and Miller (4), Behaviorism→Watson (1), Functional Autonomy→Allport (2)"
+        },
+        {
+          "id": 42,
+          "question": "Mr. A goes out one frosty morning and finds that his car is covered with a thick layer of frost. He needs to get to work and looks for his ice scraper. Unable to find it, he thinks a moment, goes into the house, and returns with a hard plastic spatula from the kitchen. In using the spatula as a make shift ice scraper Mr. A has overcome",
+          "options": [
+            "(A) Confirmation fixedness",
+            "(B) Confirmation bias",
+            "(C) Creativity bias",
+            "(D) Functional fixedness"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Functional fixedness",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Problem Solving",
+          "concept": "Functional fixedness (Duncker, 1945) is the cognitive bias of only seeing objects in terms of their conventional function. Overcoming it—using a spatula as an ice scraper—demonstrates creative problem-solving by seeing novel uses for familiar objects.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 43,
+          "question": "Read each of the following two statements: Assertion (A) and Reason (R) and indicate your answer using the codes given below:\n\n**Assertion (A)**: Radiant energy is propagated in a continuous wave form, which can be described by its wavelength.\n\n**Reason (R)**: Radiant energy also behaves as if it is emitted as discrete quanta of energy.\n\n**Codes :**",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, and (R) is true."
+          ],
+          "correct_answer": 2,
+          "correct_text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+          "unit": "Unit 5",
+          "topic": "5.1 Attention and Perception",
+          "subtopic": "Sensory Processes",
+          "concept": "Light exhibits wave-particle duality: it propagates as electromagnetic waves (described by wavelength) AND behaves as discrete energy packets (photons/quanta). Both statements are true but the particle nature does not explain the wave nature—they are complementary aspects.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 44,
+          "question": "Byrne believed sexual motivation results from the inter-play of ______, environment and ______.",
+          "options": [
+            "(A) genes; experience",
+            "(B) genes; imagination",
+            "(C) physiology; imagination",
+            "(D) physiology; lust"
+          ],
+          "correct_answer": 3,
+          "correct_text": "physiology; imagination",
+          "unit": "Unit 7",
+          "topic": "7.2 Motivation",
+          "subtopic": "Sexual Motivation",
+          "concept": "Byrne's (1977, 1983) model of sexual motivation proposes that sexual behavior results from the interaction of physiological factors (hormones, arousal), environmental stimuli, and cognitive factors (fantasy/imagination).",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 45,
+          "question": "Read each of the following two statements: Assertion (A) and Reason (R) and indicate your answer using the codes given below:\n\n**Assertion (A)**: Lazarus believes our cognitive appraisal of a situation always precedes emotion.\n\n**Reason (R)**: Emotions influence thinking.\n\n**Codes :**",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 2,
+          "correct_text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+          "unit": "Unit 7",
+          "topic": "7.3 Emotion",
+          "subtopic": "Theories of Emotion",
+          "concept": "Lazarus's cognitive appraisal theory holds that appraisal (primary and secondary) precedes and determines emotion. While it is also true that emotions influence thinking (a bidirectional relationship recognized by Lazarus), this does not explain why cognitive appraisal precedes emotion. (A) describes the cognition→emotion pathway central to Lazarus; (R) describes the emotion→cognition pathway — a separate phenomenon, not an explanation of (A).",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        }
+      ]
+    },
+    {
+      "type": "passage",
+      "id": "passage_46",
+      "heading": "Read the following passage carefully and answer questions from 46 to 50:",
+      "text": "The research process usually begins with the identification and formulation of research problem. Once the problem is identified, the appropriate hypotheses are developed. The hypotheses are tentative solutions to the problem and represent the conjectural statements of relationship among two or more variables. The hypotheses could be classified in various ways, such as directional vs. non-directional, correlational vs. causal etc. Edwards classified the variables in psychological research as stimulus variables, organismic variables and behavioural variables. The variables are classified as the continuous variables and discrete variables, the latter having two subtypes—the real discrete variables and artificially discrete variables. The variables in research need to be properly operationalized. Robinson classified the psychological studies in four categories – Laboratory experiments, Field experiments, Ex post facto field studies and Ex post facto analysis of experiment (slightly modified). The fourth category, on its own, is accorded less respect but is essential for the advancement of Science."
+    },
+    {
+      "type": "questions_block",
+      "range": "Q46–Q50",
+      "passage_ref": "passage_46",
+      "questions": [
+        {
+          "id": 46,
+          "question": "Which of the following hypothesis/hypothes are non-directional hypotheses?\n\n1. Males and females differ on anxiety.\n2. Intelligence and academic achievement are negatively related.\n3. Anxiety disrupts academic performance of the students.\n4. Stress and work output are related.",
+          "options": [
+            "(A) 2 only",
+            "(B) 1 and 3 only",
+            "(C) 3 and 4 only",
+            "(D) 1 and 4 only"
+          ],
+          "correct_answer": 4,
+          "correct_text": "1 and 4 only",
+          "unit": "Unit 2",
+          "topic": "2.1 Research Methodology",
+          "subtopic": "Hypotheses",
+          "concept": "Non-directional hypotheses state a relationship exists without specifying the direction (e.g., 'differ', 'related'). Directional hypotheses specify the nature of the relationship (e.g., 'negatively related', 'disrupts'). Statements 1 and 4 are non-directional; 2 and 3 are directional.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": "passage_46",
+          "table_ref": null
+        },
+        {
+          "id": 47,
+          "question": "Which one of the following is an example of artificially discrete organismic variable?",
+          "options": [
+            "(A) Examination result as pass or fail.",
+            "(B) Nationality",
+            "(C) Classification of students as low, average and high intelligent",
+            "(D) Gender"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Classification of students as low, average and high intelligent",
+          "unit": "Unit 2",
+          "topic": "2.1 Research Methodology",
+          "subtopic": "Variables",
+          "concept": "An artificially discrete organismic variable is a naturally continuous variable (like intelligence) that is artificially divided into categories (low/average/high). Gender and nationality are naturally discrete (real discrete). Examination pass/fail is an artificially discrete behavioral variable.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": "passage_46",
+          "table_ref": null
+        },
+        {
+          "id": 48,
+          "question": "Which one of the following cannot be employed as the dependent variable in a psychological experiment?\n\n1. Heart rate\n2. Learning rate\n3. Reaction time\n4. Age",
+          "options": [
+            "(A) 4 only",
+            "(B) 1 and 2 only",
+            "(C) 3 and 4 only",
+            "(D) 1, 2 and 4 only"
+          ],
+          "correct_answer": 1,
+          "correct_text": "4 only",
+          "unit": "Unit 2",
+          "topic": "2.1 Research Methodology",
+          "subtopic": "Variables",
+          "concept": "Heart rate, learning rate, and reaction time can all be measured as dependent variables (outcomes). Age cannot be a dependent variable because it cannot be manipulated or caused by an independent variable—it is typically a subject variable or organismic variable.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": "passage_46",
+          "table_ref": null
+        },
+        {
+          "id": 49,
+          "question": "Arrange the following three types of investigation in ascending order in terms of the researcher's ability (usually) to control secondary variance.\n\n1. Laboratory experiments\n2. Field experiments\n3. Ex post facto field studies",
+          "options": [
+            "(A) 3, 1, 2",
+            "(B) 1, 2, 3",
+            "(C) 3, 2, 1",
+            "(D) 2, 3, 1"
+          ],
+          "correct_answer": 3,
+          "correct_text": "3, 2, 1",
+          "unit": "Unit 2",
+          "topic": "2.1 Research Methodology",
+          "subtopic": "Research Design",
+          "concept": "Control over extraneous/secondary variance: Lab experiments have maximum control (controlled environment); Field experiments have moderate control (natural setting with manipulation); Ex post facto studies have least control (no manipulation, only observation of existing differences).",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": "passage_46",
+          "table_ref": null
+        },
+        {
+          "id": 50,
+          "question": "After the catastrophic earthquake, the researcher interviewed a group of subjects to understand whether the earthquake has changed their attitude towards fate. This can best be labelled as an example of",
+          "options": [
+            "(A) Ex post facto field study",
+            "(B) Field experiment",
+            "(C) Attitude change experiment",
+            "(D) Ethological study"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Ex post facto field study",
+          "unit": "Unit 2",
+          "topic": "2.1 Research Methodology",
+          "subtopic": "Research Design",
+          "concept": "This is an ex post facto field study because the researcher did not manipulate the independent variable (earthquake)—it occurred naturally. The researcher examines the effect after the fact by comparing attitudes, with no experimental control over the 'treatment.'",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": "passage_46",
+          "table_ref": null
+        }
+      ]
+    }
+  ]
+}

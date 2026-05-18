@@ -1,0 +1,1528 @@
+{
+  "paper_metadata": {
+    "title": "UGC NET/JRF Examination, December 2014",
+    "date": "December 2014",
+    "subject": "Psychology — Paper III"
+  },
+  "content": [
+    {
+      "type": "questions_block",
+      "range": "Q1–Q70",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Among the following descriptions of major defense mechanisms, which one describes 'projection'?",
+          "options": [
+            "(A) Assigning logical or socially desirable motives to that we do.",
+            "(B) Directing a motive that cannot be gratified in one form into another channel.",
+            "(C) Denying that an unpleasant reality exists.",
+            "(D) Assigning our own undesirable qualities to others."
+          ],
+          "correct_answer": 4,
+          "correct_text": "Assigning our own undesirable qualities to others.",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Defense Mechanisms",
+          "concept": "Projection (Freud) involves attributing one's own unacceptable thoughts, feelings, or traits to others. (A) describes rationalization, (B) describes displacement/sublimation, (C) describes denial.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 2,
+          "question": "Match the items of List – I (Theory) with List – II (Explanation) and mark your answer with the help of the codes given below :\n\n| List – I (Theory) | List – II (Explanation) |\n| --- | --- |\n| p. Doctrine of specific nerve energies | 1. The basilar membrane vibrates as a whole to the frequency of the sound wave. |\n| q. Frequency theory | 2. The sensation elicited by stimulus depends primarily on the nerve excited and secondarily on the stimuli. |\n| r. Purkinje effect | 3. Refers to the tendency to perceive the simplest and the most stable figure of all possible alternatives. |\n| s. Law of Pragnanz | 4. The illumination decreases owing to the shift from photopic cone vision to scotopic rod vision. |\n\n**Codes :**\n\n|  | p | q | r | s |\n| --- | --- | --- | --- | --- |\n| (A) | 2 | 1 | 4 | 3 |\n| (B) | 3 | 4 | 1 | 2 |\n| (C) | 2 | 1 | 3 | 4 |\n| (D) | 3 | 4 | 2 | 1 |",
+          "options": [
+            "(A) 2, 1, 4, 3",
+            "(B) 3, 4, 1, 2",
+            "(C) 2, 1, 3, 4",
+            "(D) 3, 4, 2, 1"
+          ],
+          "correct_answer": 1,
+          "correct_text": "2, 1, 4, 3",
+          "unit": "Unit 5",
+          "topic": "5.1 Attention and Perception",
+          "subtopic": "Perception Theories",
+          "concept": "Müller's doctrine states sensation type depends on nerve fiber stimulated; Frequency theory (Rutherford) explains pitch perception via basilar membrane vibration; Purkinje effect is the shift in color sensitivity at low light; Law of Prägnanz (Wertheimer) is the Gestalt principle of good form.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 3,
+          "question": "Engram involves many physical changes. They are\n\n1. Change in number of receptor sites.\n2. Change in the transmission system.\n3. Changes in the sensitivity of the synapse through repeated stimulation.\n4. Changes in the dendrites.\n5. Changes in the neuron structure.\n\n**Codes :**",
+          "options": [
+            "(A) 1, 3 and 4",
+            "(B) 3 and 5",
+            "(C) 1, 2 and 4",
+            "(D) 2 and 4"
+          ],
+          "correct_answer": 1,
+          "correct_text": "1, 3 and 4",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Memory Physiology",
+          "concept": "Engrams (memory traces) involve physical changes at the neural level: changes in the number of receptor sites, changes in synaptic sensitivity through repeated stimulation (long-term potentiation), and changes in the dendrites. These modifications at synaptic and neuronal levels form the basis of memory consolidation.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 4,
+          "question": "Match List – I with List – II and indicate your answer with the help of codes given below :\n\n| List – I (Counselling Skills) | List – II (Features) |\n| --- | --- |\n| p. Self-disclosure | 1. Telling the client to view the problem from an alternate perspective. |\n| q. Directive | 2. Explaining to the client the logical outcomes of sequential thinking. |\n| r. Reframing | 3. Counsellor discloses about personal experiences from the past. |\n| s. Logical consequences | 4. Telling the client how to go about solving the problem/crisis. |\n\n**Codes :**\n\n|  | p | q | r | s |\n| --- | --- | --- | --- | --- |\n| (A) | 4 | 3 | 2 | 1 |\n| (B) | 3 | 4 | 1 | 2 |\n| (C) | 2 | 1 | 3 | 4 |\n| (D) | 1 | 2 | 4 | 3 |",
+          "options": [
+            "(A) 4, 3, 2, 1",
+            "(B) 3, 4, 1, 2",
+            "(C) 2, 1, 3, 4",
+            "(D) 1, 2, 4, 3"
+          ],
+          "correct_answer": 2,
+          "correct_text": "3, 4, 1, 2",
+          "unit": "Unit 10",
+          "topic": "10.1 Emerging Areas",
+          "subtopic": "Counselling Skills",
+          "concept": "Self-disclosure: counsellor shares personal experiences to build rapport; Directive: giving direct advice/instructions; Reframing: helping client see situation from different perspective; Logical consequences: explaining outcomes of client's thinking/actions.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 5,
+          "question": "Read each of the following two statements : Assertion (A) and Reason (R) and indicate your answer using the codes given below :\n\n**Assertion (A):** Freud's theory holds that many behaviours are caused by unconscious motivation. Personality is determined by biological drives of sex and aggression.\n\n**Reason (R):** Personality differences results from variations in learning experiences.\n\n**Codes :**",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 2,
+          "correct_text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Personality Theories",
+          "concept": "Freud's psychoanalytic theory emphasizes unconscious motivation driven by sex (Eros) and aggression (Thanatos). The reason (personality from learning experiences) describes behaviorist/social learning views, which contradict Freud's biological determinism.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 6,
+          "question": "Match the items in List – I with List – II and mark your answer using the given codes :\n\n| List – I (Therapy) | List – II (Clinical Condition) |\n| --- | --- |\n| p. Cognitive Behaviour Therapy | 1. Anxiety disorders |\n| q. Exposure Techniques | 2. Post-traumatic stress disorder |\n| r. Dialectic Behaviour Therapy | 3. Depression |\n| s. Eye-movement desensitization and reprocessing | 4. Borderline personality disorder |\n\n**Codes :**\n\n|  | p | q | r | s |\n| --- | --- | --- | --- | --- |\n| (A) | 3 | 1 | 4 | 2 |\n| (B) | 4 | 2 | 3 | 1 |\n| (C) | 2 | 4 | 1 | 3 |\n| (D) | 1 | 3 | 2 | 4 |",
+          "options": [
+            "(A) 3, 1, 4, 2",
+            "(B) 4, 2, 3, 1",
+            "(C) 2, 4, 1, 3",
+            "(D) 1, 3, 2, 4"
+          ],
+          "correct_answer": 1,
+          "correct_text": "3, 1, 4, 2",
+          "unit": "Unit 10",
+          "topic": "10.1 Emerging Areas",
+          "subtopic": "Therapeutic Approaches",
+          "concept": "CBT (Beck) is primarily used for depression; Exposure techniques treat anxiety disorders (phobias, OCD); DBT (Linehan) was developed specifically for borderline personality disorder; EMDR (Shapiro) is used for PTSD treatment.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 7,
+          "question": "Which of the following are the physiological reactions to stress ?\n\n1. Decrease in metabolic rate.\n2. Dilation of Pupils\n3. Lower Blood Pressure\n4. Increased heart rate",
+          "options": [
+            "(A) 2 and 4",
+            "(B) 1, 2 and 4",
+            "(C) 1, 3 and 4",
+            "(D) 2, 3 and 4"
+          ],
+          "correct_answer": 1,
+          "correct_text": "2 and 4",
+          "unit": "Unit 7",
+          "topic": "7.4 Stress",
+          "subtopic": "Stress Response",
+          "concept": "The fight-or-flight response (Cannon) activates the sympathetic nervous system causing: pupil dilation (enhanced vision), increased heart rate (oxygen delivery), increased blood pressure, and increased metabolic rate (energy mobilization). Statement 1 (decrease) and 3 (lower BP) are incorrect—stress increases metabolic rate via catecholamine release and elevates blood pressure via vasoconstriction. Only dilation of pupils (2) and increased heart rate (4) are correct physiological reactions.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 8,
+          "question": "According to Albert Bandura any behaviour produces two sets of consequences. They are\n\n1. Inhibition\n2. Self-evaluation\n3. External outcomes\n4. Habit",
+          "options": [
+            "(A) 1 and 2",
+            "(B) 3 and 4",
+            "(C) 2 and 3",
+            "(D) 1 and 4"
+          ],
+          "correct_answer": 3,
+          "correct_text": "2 and 3",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Social Learning Theory",
+          "concept": "Bandura's social cognitive theory proposes that behavior produces two types of consequences: external outcomes (environmental reinforcement/punishment) and self-evaluative reactions (internal standards and self-regulation).",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 9,
+          "question": "The degree to which one can control an event _______ the stress and inability to predict the occurrence of an event usually _______ the stress.",
+          "options": [
+            "(A) increases, increases",
+            "(B) increases, decreases",
+            "(C) decreases, increases",
+            "(D) decreases, decreases"
+          ],
+          "correct_answer": 3,
+          "correct_text": "decreases, increases",
+          "unit": "Unit 7",
+          "topic": "7.4 Stress",
+          "subtopic": "Stress Management",
+          "concept": "Perceived controllability reduces stress (Seligman's learned helplessness research). Predictability also reduces stress—unpredictable events are more stressful because individuals cannot prepare coping responses.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 10,
+          "question": "Match List – I (Studying Motivation) with that of List – II (Explanation) and mark your answer with the help of the codes given below :\n\n| List – I (Studying Motivation) | List – II (Explanation) |\n| --- | --- |\n| p. Behaviouristic Approach | 1. Interpersonal relations with community. |\n| q. Humanistic Approach | 2. Incentives rewards and punishment. |\n| r. Cognitive Approach | 3. Actualising needs. |\n| s. Socio-cultural Approach | 4. Behaviour is determined by our thinking and attribution |\n\n**Codes :**\n\n|  | p | q | r | s |\n| --- | --- | --- | --- | --- |\n| (A) | 2 | 3 | 4 | 1 |\n| (B) | 3 | 2 | 4 | 1 |\n| (C) | 1 | 2 | 4 | 3 |\n| (D) | 1 | 3 | 2 | 4 |",
+          "options": [
+            "(A) 2, 3, 4, 1",
+            "(B) 3, 2, 4, 1",
+            "(C) 1, 2, 4, 3",
+            "(D) 1, 3, 2, 4"
+          ],
+          "correct_answer": 1,
+          "correct_text": "2, 3, 4, 1",
+          "unit": "Unit 7",
+          "topic": "7.2 Motivation",
+          "subtopic": "Approaches to Motivation",
+          "concept": "Different approaches to motivation: Behaviorist (rewards/punishments drive behavior); Humanistic (self-actualization, Maslow); Cognitive (expectations, attributions, goals); Socio-cultural (social context, interpersonal dynamics).",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 11,
+          "question": "Read each of the following two statements Assertion (A) and Reason (R) and indicate your answer using the codes given below :\n\n**Assertion (A):** People with external locus of control are prone to learned helplessness.\n\n**Reason (R):** People with internal locus of control believe that intelligence is changeable and they work at developing new strategies.\n\n**Codes :**",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 2,
+          "correct_text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Locus of Control",
+          "concept": "External locus of control (believing outcomes depend on external factors) is associated with learned helplessness (Seligman). Internal locus is associated with growth mindset about intelligence. Both are true but R does not explain A—R describes internals, not why externals are prone to helplessness.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 12,
+          "question": "According to problem space theory, a problem solver generally operates through three states; _______ , the goal state and all possible _______ .",
+          "options": [
+            "(A) Pre state; final state.",
+            "(B) First state; outcome state",
+            "(C) Initial state; outcome state",
+            "(D) Initial state; intermediate state"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Initial state; intermediate state",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Problem Solving",
+          "concept": "Newell and Simon's (1972) problem space theory defines three components: (1) the initial state — the starting point or current situation; (2) the goal state — the desired end point; and (3) all possible intermediate states — the configurations reachable from the initial state by applying legal operators. Problem solving is the search through these intermediate states from initial to goal. 'Outcome state' is not the standard term and is redundant with 'goal state.'",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 13,
+          "question": "According to self-determination theory of motivation given by Ryan and Deci, the three inborn and universal needs are",
+          "options": [
+            "(A) Autonomy, Symmetry and Competence.",
+            "(B) Symmetry, Competence and Relatedness.",
+            "(C) Autonomy, Competence and Relatedness.",
+            "(D) Competence Relatedness and Order."
+          ],
+          "correct_answer": 3,
+          "correct_text": "Autonomy, Competence and Relatedness.",
+          "unit": "Unit 7",
+          "topic": "7.2 Motivation",
+          "subtopic": "Motivation Theories",
+          "concept": "Self-Determination Theory (Deci & Ryan, 1985, 2000) proposes three basic psychological needs: Autonomy (self-direction), Competence (mastery and effectiveness), and Relatedness (social connection and belonging). Satisfaction of these needs promotes intrinsic motivation and well-being.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 14,
+          "question": "Physiological psychologists distinguish between ______ thirst and ______ thirst which result from an increase in the concentration of solutes and low blood pressure respectively.",
+          "options": [
+            "(A) Osmotic, Hypovolumic",
+            "(B) Osmotic, Hypervolumic",
+            "(C) Hypovolumic, Osmotic",
+            "(D) Hypervolumic Osmotic"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Osmotic, Hypovolumic",
+          "unit": "Unit 4",
+          "topic": "4.1 Biological Basis of Behaviour",
+          "subtopic": "Motivational Systems",
+          "concept": "Two types of thirst: Osmotic thirst occurs when solute concentration increases (dehydration triggers hypothalamic osmoreceptors); Hypovolemic thirst occurs when blood volume/pressure drops (detected by kidney renin-angiotensin system).",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 15,
+          "question": "Sternberg's Triarchic theory identifies ______ types of components; ______ are used to plan, control and monitor in problem solving.",
+          "options": [
+            "(A) Three, Meta components",
+            "(B) Four, Performance",
+            "(C) Problem solving, Knowledge",
+            "(D) Several, Acquisition components"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Three, Meta components",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Theories of Intelligence",
+          "concept": "Sternberg's (1985) triarchic theory identifies three sub-theories: Componential (analytical), Experiential (creative), Contextual (practical). Within the componential sub-theory, metacomponents plan, monitor, and evaluate problem-solving; performance components execute strategies; knowledge-acquisition components learn new information.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 16,
+          "question": "Read each of the following two statements—Assertion (A) and Reason (R) and indicate your answer using the codes given below:\n\n**Assertion (A):** Environments that influence educational and cultural opportunities enhance crystallized intelligence.\n\n**Reason (R):** Crystallized intelligence is developed through stimulating fluid intelligence.\n\n**Codes :**",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 3,
+          "correct_text": "(A) is true, but (R) is false.",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Intelligence Theories",
+          "concept": "Crystallized intelligence (Gc, Cattell) is accumulated knowledge and skills acquired through education and culture—it IS enhanced by educational/cultural opportunities. However, Gc develops through direct learning and experience, NOT by stimulating fluid intelligence (Gf). Gf and Gc are relatively independent.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 17,
+          "question": "Read each of the following two statements Assertion (A) and Reason (R) and indicate your answer using the codes given below:\n\n**Assertion (A):** We use mental short-cuts to solve problems.\n\n**Reason (R):** Problem solving includes thinking.\n\n**Codes :**",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 2,
+          "correct_text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Problem Solving",
+          "concept": "Heuristics (mental shortcuts like availability, representativeness) are used in problem solving (A is true). Problem solving does involve thinking (R is true). However, 'problem solving includes thinking' does not explain why we use mental shortcuts—we use shortcuts because of cognitive limitations, not merely because thinking is involved.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 18,
+          "question": "Match the items of List – I (concept) with List – II (originator) and mark your answer with the help of the codes given below:\n\n| List – I (Concept) | List – II (Originator) |\n| --- | --- |\n| p. Personology | 1. George Kelly |\n| q. Individual Psychology | 2. H.J. Eysenck |\n| r. Personal Construct theory | 3. Henry Murray |\n| s. Biological Trait theory | 4. Gordon Allport |\n\n**Codes :**\n\n|  | p | q | r | s |\n| --- | --- | --- | --- | --- |\n| (A) | 3 | 4 | 1 | 2 |\n| (B) | 1 | 2 | 3 | 4 |\n| (C) | 2 | 3 | 1 | 4 |\n| (D) | 4 | 1 | 2 | 3 |",
+          "options": [
+            "(A) 3, 4, 1, 2",
+            "(B) 1, 2, 3, 4",
+            "(C) 2, 3, 1, 4",
+            "(D) 4, 1, 2, 3"
+          ],
+          "correct_answer": 1,
+          "correct_text": "3, 4, 1, 2",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Personality Theories",
+          "concept": "Murray developed personology (comprehensive personality study); Allport is associated with trait theory and individual psychology; Kelly proposed personal construct theory (people as scientists constructing reality); Eysenck developed biological trait theory (PEN model based on genetics/neurophysiology).",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 19,
+          "question": "Which of the following are the characteristics of NREM sleep?\n\n1. Decrease in heart rate.\n2. Increase in breathing rate.\n3. Muscles are relaxed.\n4. Increase in Brain's metabolic rate.\n\n**Codes :**",
+          "options": [
+            "(A) 1 and 3 are correct.",
+            "(B) 2 and 3 are correct.",
+            "(C) 1 and 4 are correct.",
+            "(D) 2, 3 and 4 are correct."
+          ],
+          "correct_answer": 1,
+          "correct_text": "1 and 3 are correct.",
+          "unit": "Unit 4",
+          "topic": "4.1 Biological Basis of Behaviour",
+          "subtopic": "Sleep",
+          "concept": "NREM (Non-Rapid Eye Movement) sleep is characterized by decreased heart rate, decreased breathing rate, relaxed muscles, decreased brain metabolic rate, and slow-wave EEG patterns. Increases in breathing rate and brain metabolic rate characterize REM sleep.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 20,
+          "question": "Match List – I with List – II using the codes given below :\n\n| List – I (Concept/Phenomenon) | List – II (Examples/Description) |\n| --- | --- |\n| p. Morpheme | 1. Adjective before the noun |\n| q. Phoneme | 2. Conclusion of statements |\n| r. Syntax | 3. Break |\n| s. Syllogism | 4. 'D' or 'A' |\n\n**Codes :**\n\n|  | p | q | r | s |\n| --- | --- | --- | --- | --- |\n| (A) | 3 | 4 | 1 | 2 |\n| (B) | 3 | 4 | 2 | 1 |\n| (C) | 4 | 3 | 2 | 1 |\n| (D) | 4 | 2 | 3 | 1 |",
+          "options": [
+            "(A) 3, 4, 1, 2",
+            "(B) 3, 4, 2, 1",
+            "(C) 4, 3, 2, 1",
+            "(D) 4, 2, 3, 1"
+          ],
+          "correct_answer": 1,
+          "correct_text": "3, 4, 1, 2",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Language",
+          "concept": "'Break' is an example of a morpheme (smallest meaningful unit); 'D' or 'A' are phonemes (smallest sound units); adjective before noun illustrates syntax (word order rules); syllogism is a logical argument with premises leading to a conclusion.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 21,
+          "question": "The 30 × 30 correlation matrix, representing the correlation among the thirty facet scales of the NEO-PI-3 were factor analyzed by three methods:\n\n1. Principal components method\n2. Maximum likelihood method\n3. Principal axes method and the five factors were extracted in each case. Usually the variance explained by the factor solution would be in the following ascending order.",
+          "options": [
+            "(A) 2, 3, 1",
+            "(B) 1, 3, 2",
+            "(C) 2, 1, 3",
+            "(D) 3, 2, 1"
+          ],
+          "correct_answer": 1,
+          "correct_text": "2, 3, 1",
+          "unit": "Unit 3",
+          "topic": "3.1 Psychological Testing",
+          "subtopic": "Factor Analysis",
+          "concept": "In terms of variance explained: Principal components extracts maximum variance (includes common, unique, and error variance). Principal axes extracts common variance only. Maximum likelihood extracts common variance with a statistical criterion that typically yields the least variance. Ascending order: ML < PA < PC.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 22,
+          "question": "Pituitary gland is called master gland because",
+          "options": [
+            "(A) Hormones secreted by Posterior Pituitary regulate the activities of other glands.",
+            "(B) Hormones secreted by Anterior Pituitary regulate the activities of other glands.",
+            "(C) Hormones secreted by both Posterior and Anterior Pituitary regulate the activities of other glands.",
+            "(D) It is located in the Central Nervous System."
+          ],
+          "correct_answer": 2,
+          "correct_text": "Hormones secreted by Anterior Pituitary regulate the activities of other glands.",
+          "unit": "Unit 4",
+          "topic": "4.1 Biological Basis of Behaviour",
+          "subtopic": "Endocrine System",
+          "concept": "The pituitary is called the 'master gland' because the anterior pituitary secretes tropic hormones (TSH, ACTH, FSH, LH, GH, prolactin) that regulate other endocrine glands. The posterior pituitary stores and releases hormones (oxytocin, ADH) produced by the hypothalamus.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 23,
+          "question": "Using Sternberg's theory as the reference, Match List – I with List – II and choose the correct code :\n\n| List – I (Components) | List – II (Type) |\n| --- | --- |\n| p. Experiential | 1. Analytic |\n| q. Contextual | 2. Creative |\n| r. Componential | 3. Practical |\n|  | 4. Successful |\n\n**Codes :**\n\n|  | p | q | r |\n| --- | --- | --- | --- |\n| (A) | 3 | 4 | 2 |\n| (B) | 2 | 3 | 1 |\n| (C) | 2 | 4 | 3 |\n| (D) | 2 | 1 | 3 |",
+          "options": [
+            "(A) 3, 4, 2",
+            "(B) 2, 3, 1",
+            "(C) 2, 4, 3",
+            "(D) 2, 1, 3"
+          ],
+          "correct_answer": 2,
+          "correct_text": "2, 3, 1",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Theories of Intelligence",
+          "concept": "Sternberg's triarchic theory: Experiential subtheory relates to creative intelligence (novelty and automation); Contextual subtheory relates to practical intelligence (adapting to environment); Componential subtheory relates to analytical intelligence (mental mechanisms).",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 24,
+          "question": "A study employed two groups, matched on intelligence, each group with 30 subjects. Each subject was required to learn a list of CVC trigrams and the number of trials required to learn the list was the dependent variable. What would be the degrees of freedom if a suitable t test is used to evaluate the mean difference?",
+          "options": [
+            "(A) 29",
+            "(B) 30",
+            "(C) 58",
+            "(D) 60"
+          ],
+          "correct_answer": 1,
+          "correct_text": "29",
+          "unit": "Unit 2",
+          "topic": "2.2 Statistics",
+          "subtopic": "Statistical Tests",
+          "concept": "For a matched-pairs (repeated measures) t-test with 30 matched pairs, df = n - 1 = 30 - 1 = 29. Since subjects were matched on intelligence, a matched-pairs t-test is appropriate rather than an independent samples t-test (which would give df = 58).",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 25,
+          "question": "______ states that allocating ______ rewards for behaviours previously ______ rewarded decreases level of motivation.\n\n**Codes :**",
+          "options": [
+            "(A) Two factor theory; extrinsic; not",
+            "(B) Theory X; monetary; intrinsically",
+            "(C) Cognitive evaluation theory; extrinsic; intrinsically",
+            "(D) Theory Y; financial; selectively"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Cognitive evaluation theory; extrinsic; intrinsically",
+          "unit": "Unit 7",
+          "topic": "7.2 Motivation",
+          "subtopic": "Motivation Theories",
+          "concept": "Cognitive Evaluation Theory (Deci & Ryan, 1975) states that providing extrinsic rewards for previously intrinsically motivated behavior undermines intrinsic motivation by shifting the perceived locus of causality from internal to external (the overjustification effect).",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 26,
+          "question": "Read each of the following two statements : Assertion (A) and Reason (R) and indicate your answer using the codes given below :\n\n**Assertion (A):** The orbital frontal cortex and the basal ganglia, especially the caudate nucleus, are the brain structures most often implicated in obsessive compulsive disorder.\n\n**Reason (R):** Reduced metabolic activity has been found in both the orbital frontal cortex and the caudate nucleus in people with obsessive compulsive disorder.\n\n**Codes :**",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 3,
+          "correct_text": "(A) is true, but (R) is false.",
+          "unit": "Unit 10",
+          "topic": "10.1 Emerging Areas",
+          "subtopic": "Psychopathology",
+          "concept": "The OFC and caudate nucleus are indeed implicated in OCD (A is true). However, neuroimaging studies show INCREASED (not reduced) metabolic activity in these regions in OCD patients, which normalizes after successful treatment. The reason is false.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 27,
+          "question": "A 17 year old woman has been binging on large quantities of food, above and beyond, what most people would eat under similar circumstances. She then engages in purging behaviour as often as 3 or 4 times a week. She feels she has no control over it. The results of her physical examination are normal and she is of normal weight.\n\nShe is most likely suffering from",
+          "options": [
+            "(A) Anorexia nervosa",
+            "(B) Bulimia nervosa",
+            "(C) Binge-eating disorder",
+            "(D) Eating disorder not otherwise specified"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Bulimia nervosa",
+          "unit": "Unit 10",
+          "topic": "10.1 Emerging Areas",
+          "subtopic": "Psychopathology",
+          "concept": "Bulimia nervosa is characterized by recurrent binge eating followed by compensatory purging behavior, occurring at least once weekly for 3 months. Unlike anorexia, weight is normal. Unlike binge-eating disorder, there is purging behavior.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 28,
+          "question": "Which of the following are characteristics of Charismatic leaders?\n\n1. Vision and Articulation\n2. Risk taking behaviour\n3. Volatile moods\n4. Sensitivity to followers' needs\n\n**Codes :**",
+          "options": [
+            "(A) 2, 3 and 4",
+            "(B) 1, 2 and 4",
+            "(C) 1, 3 and 4",
+            "(D) 1 and 4"
+          ],
+          "correct_answer": 2,
+          "correct_text": "1, 2 and 4",
+          "unit": "Unit 8",
+          "topic": "8.1 Social Psychology",
+          "subtopic": "Leadership",
+          "concept": "Charismatic leaders (Weber; House, 1976) are characterized by: clear vision and ability to articulate it, willingness to take risks, environmental sensitivity, sensitivity to follower needs, and unconventional behavior. Volatile moods are not a characteristic of charismatic leadership.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 29,
+          "question": "What would be the degrees of freedom for the second-order interaction effect in a 3 × 3 × 2 factorial design?",
+          "options": [
+            "(A) 2",
+            "(B) 4",
+            "(C) 9",
+            "(D) 18"
+          ],
+          "correct_answer": 2,
+          "correct_text": "4",
+          "unit": "Unit 2",
+          "topic": "2.2 Statistics",
+          "subtopic": "Experimental Design",
+          "concept": "In a 3×3×2 factorial design, the second-order (three-way) interaction A×B×C has df = (a-1)(b-1)(c-1) = (3-1)(3-1)(2-1) = 2×2×1 = 4.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 30,
+          "question": "Which of the following are features of Borderline Personality Disorder?\n\n1. Affective instability\n2. Lack of remorse\n3. Impulsivity\n4. Self-mutilation\n5. Over concern with order and rules.\n\n**Codes :**",
+          "options": [
+            "(A) 1, 2 and 3",
+            "(B) 1, 3 and 4",
+            "(C) 1, 2, 4 and 5",
+            "(D) 2, 3, 4 and 5"
+          ],
+          "correct_answer": 2,
+          "correct_text": "1, 3 and 4",
+          "unit": "Unit 10",
+          "topic": "10.1 Emerging Areas",
+          "subtopic": "Psychopathology",
+          "concept": "BPD features (DSM): affective instability (mood swings), impulsivity, self-harm/self-mutilation, unstable relationships, identity disturbance, fear of abandonment. Lack of remorse is Antisocial PD; over-concern with order is Obsessive-Compulsive PD.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 31,
+          "question": "Read the following two statements: Assertion (A) and Reason (R) and indicate your answer using the codes given below:\n\n**Assertion (A):** A major function of the perceptual system is to keep the appearance of objects the same inspite of change in the stimuli.\n\n**Reason (R):** The posterior brain system selects objects on the basis of location, shape or colour and the anterior system is responsible for guiding the process.\n\n**Codes :**",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 2,
+          "correct_text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+          "unit": "Unit 5",
+          "topic": "5.1 Attention and Perception",
+          "subtopic": "Perceptual Constancy",
+          "concept": "Perceptual constancy (size, shape, colour) is a core function of the perceptual system—objects appear stable despite changing stimuli (A is true). The dual-stream visual processing model (Mishkin & Ungerleider; Goodale & Milner) describes posterior systems (parietal/temporal cortex) processing object features—location, shape, colour—while anterior frontal systems provide top-down guidance and attentional control (R is true and refers to the posterior-anterior division of labour). However, R does not explain A—perceptual constancy involves multiple mechanisms beyond this division, including size/shape/colour constancy and top-down expectations.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 32,
+          "question": "Social Psychology focuses on ______ and their ______.",
+          "options": [
+            "(A) Individuals; feelings",
+            "(B) Groups; experiences",
+            "(C) People; feelings",
+            "(D) People; thoughts"
+          ],
+          "correct_answer": 4,
+          "correct_text": "People; thoughts",
+          "unit": "Unit 8",
+          "topic": "8.1 Social Psychology",
+          "subtopic": "Introduction to Social Psychology",
+          "concept": "Social psychology is the scientific study of how people think about, influence, and relate to one another. It focuses on people and their thoughts (cognitions), feelings, and behaviors in social contexts. 'Thoughts' captures the cognitive emphasis in the field's definition.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 33,
+          "question": "Arrange the following stages of Friendship in the order given by Selman:\n\nI. Two-way fair-weather cooperation.\nII. Momentary playmateship.\nIII. Autonomous interdependence.\nIV. Intimate, mutually shared relationship.\nV. One-way assistance.\n\n**Codes :**",
+          "options": [
+            "(A) II, IV, V, III, I",
+            "(B) I, III, V, IV, II",
+            "(C) II, V, I, IV, III",
+            "(D) V, I, IV, III, II"
+          ],
+          "correct_answer": 3,
+          "correct_text": "II, V, I, IV, III",
+          "unit": "Unit 9",
+          "topic": "9.1 Human Development",
+          "subtopic": "Social Development",
+          "concept": "Selman's (1981) stages of friendship: Stage 0 (3-7 yrs) Momentary playmateship; Stage 1 (4-9 yrs) One-way assistance; Stage 2 (6-12 yrs) Two-way fair-weather cooperation; Stage 3 (9-15 yrs) Intimate mutual sharing; Stage 4 (12+ yrs) Autonomous interdependence.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 34,
+          "question": "Memory problem that people with dementia, including Alzheimer's, typically have is called:",
+          "options": [
+            "(A) Psychogenic amnesia",
+            "(B) Retrograde amnesia",
+            "(C) Retroactive amnesia",
+            "(D) Anterograde amnesia"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Anterograde amnesia",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Memory Disorders",
+          "concept": "Anterograde amnesia is the inability to form new memories after the onset of the condition. Alzheimer's disease primarily affects the hippocampus and produces severe anterograde amnesia. Retrograde amnesia (loss of pre-existing memories) also occurs but anterograde is the hallmark.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 35,
+          "question": "Problem solving comprise of different stages which refer to the sequence of",
+          "options": [
+            "(A) Preparation; illumination; incubation; verification.",
+            "(B) Incubation; preparation; illumination; verification.",
+            "(C) Preparation, incubation; illumination, verification.",
+            "(D) Preparation, incubation, verification, illumination."
+          ],
+          "correct_answer": 3,
+          "correct_text": "Preparation, incubation; illumination, verification.",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Problem Solving",
+          "concept": "Wallas's (1926) four-stage model of creative problem solving: Preparation (gathering information), Incubation (unconscious processing during a break), Illumination (sudden insight or 'aha' moment), Verification (testing and evaluating the solution).",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 36,
+          "question": "Which one of the following theories predicts that work motivation will be low if employee perceives that increased effort will have little or no effect on his/her performance?",
+          "options": [
+            "(A) Just World Theory",
+            "(B) Need-Drive Theory",
+            "(C) Expectancy Theory",
+            "(D) Normative Theory"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Expectancy Theory",
+          "unit": "Unit 7",
+          "topic": "7.2 Motivation",
+          "subtopic": "Motivation Theories",
+          "concept": "Vroom's (1964) Expectancy Theory states motivation = Expectancy (effort→performance) × Instrumentality (performance→reward) × Valence (value of reward). Low expectancy (effort won't improve performance) directly reduces motivation.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 37,
+          "question": "In which of Piaget's stages of development would a child be when he has just developed object permanence?",
+          "options": [
+            "(A) Sensorimotor",
+            "(B) Pre-operational",
+            "(C) Concrete operational",
+            "(D) Formal operational."
+          ],
+          "correct_answer": 1,
+          "correct_text": "Sensorimotor",
+          "unit": "Unit 9",
+          "topic": "9.1 Human Development",
+          "subtopic": "Cognitive Development",
+          "concept": "Object permanence (understanding that objects continue to exist when out of sight) develops during the sensorimotor stage (0-2 years), reaching completion by the end of this stage (substage 6). It marks the transition to representational thought.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 38,
+          "question": "Read each of the following two statements – Assertion (A) and Reason (R) and indicate your answer using the codes given below:\n\n**Assertion (A):** Individuals who display disexecutive syndrome are unable to take decisions, are easily distracted and show tendency toward perseveration.\n\n**Reason (R):** Individuals with extensive injuries to the temporal lobes show deficits in their executive functions.\n\n**Codes :**",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 3,
+          "correct_text": "(A) is true, but (R) is false.",
+          "unit": "Unit 4",
+          "topic": "4.1 Biological Basis of Behaviour",
+          "subtopic": "Brain Functions",
+          "concept": "Dysexecutive syndrome (Baddeley) involves impaired planning, decision-making, distractibility, and perseveration. It results from prefrontal cortex damage, NOT temporal lobe damage. The reason is false because executive functions are primarily mediated by the frontal lobes.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 39,
+          "question": "A psychologist wanted to study marital love between husbands and wives in arranged and love marriages. Fifty arranged marriage couples and fifty love marriage couples were randomly chosen and both, the husbands and wives, were administered Marital Love Scale. The data should be analyzed by",
+          "options": [
+            "(A) Factorial ANOVA for independent groups.",
+            "(B) Factorial ANOVA for repeated measures.",
+            "(C) Mixed factorial ANOVA.",
+            "(D) Randomized one-way ANOVA."
+          ],
+          "correct_answer": 3,
+          "correct_text": "Mixed factorial ANOVA.",
+          "unit": "Unit 2",
+          "topic": "2.2 Statistics",
+          "subtopic": "Statistical Tests",
+          "concept": "Mixed factorial ANOVA is appropriate: Marriage type (arranged vs. love) is a between-subjects factor, while Spouse (husband vs. wife) is a within-subjects/repeated factor since both members of each couple are measured. This design requires a mixed-model approach.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 40,
+          "question": "Match List – I with List – II and indicate your answer with the help of the codes given :\n\n| List – I (Roles) | List – II (Description) |\n| --- | --- |\n| p. Liaison | 1. Transmits information to different members of the organisation. |\n| q. Disseminator | 2. Responsible for representing the organisation at major transactions. |\n| r. Negotiator | 3. Maintains a network of outside contacts who provide favours and information to the organisation. |\n| s. Entrepreneur | 4. Searches around for opportunities and also starts innovative projects |\n\n**Codes :**\n\n|  | p | q | r | s |\n| --- | --- | --- | --- | --- |\n| (A) | 3 | 1 | 2 | 4 |\n| (B) | 4 | 2 | 1 | 3 |\n| (C) | 1 | 3 | 4 | 2 |\n| (D) | 2 | 1 | 3 | 4 |",
+          "options": [
+            "(A) 3, 1, 2, 4",
+            "(B) 4, 2, 1, 3",
+            "(C) 1, 3, 4, 2",
+            "(D) 2, 1, 3, 4"
+          ],
+          "correct_answer": 1,
+          "correct_text": "3, 1, 2, 4",
+          "unit": "Unit 10",
+          "topic": "10.1 Emerging Areas",
+          "subtopic": "Organizational Behaviour",
+          "concept": "Mintzberg's (1973) managerial roles: Liaison maintains external network; Disseminator shares information internally; Negotiator represents organization in transactions; Entrepreneur identifies opportunities and initiates change.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 41,
+          "question": "According to Negative State Relief Model, people provide help to others because :\n\n1. People provide help to others to regulate their moods.\n2. Helping is a means to momentarily boost emotion.\n3. People provide help due to the fear of the consequences of help.\n4. It bolsters their spirit over long periods.\n\n**Codes :**",
+          "options": [
+            "(A) 1, 2, 3",
+            "(B) 2, 3, 4",
+            "(C) 1, 2, 4",
+            "(D) 1, 3, 4"
+          ],
+          "correct_answer": 3,
+          "correct_text": "1, 2, 4",
+          "unit": "Unit 8",
+          "topic": "8.1 Social Psychology",
+          "subtopic": "Prosocial Behaviour",
+          "concept": "Negative State Relief Model (Cialdini et al., 1973) proposes that people in a negative mood help others to relieve their own negative feelings (mood regulation). Helping provides momentary emotional relief and bolsters spirit. Fear of consequences (statement 3) relates to empathy-arousal or other models, not NSR.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 42,
+          "question": "Which is the one that is not a 'Big Five' factor of personality?",
+          "options": [
+            "(A) Extraversion",
+            "(B) Psychoticism",
+            "(C) Conscientiousness",
+            "(D) Agreeableness"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Psychoticism",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Personality Theories",
+          "concept": "The Big Five (OCEAN): Openness, Conscientiousness, Extraversion, Agreeableness, Neuroticism. Psychoticism is part of Eysenck's PEN model (Psychoticism, Extraversion, Neuroticism), not the Big Five.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 43,
+          "question": "Read each of the following two statements – Assertion (A) and Reason (R) and indicate your answer using the codes given below :\n\n**Assertion (A):** Transpersonal psychotherapy views man as a spiritual being, views consciousness as central to therapy and emphasizes emotions, feelings and experimental aspects of the client.\n\n**Reason (R):** Self-acceptance, flexibility, recognition and awareness are some important concepts of Rational Emotive behaviour therapy.\n\n**Codes :**",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 2,
+          "correct_text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+          "unit": "Unit 10",
+          "topic": "10.1 Emerging Areas",
+          "subtopic": "Psychotherapy",
+          "concept": "Transpersonal psychotherapy (Grof, Wilber) emphasizes spirituality, consciousness, and holistic experience. REBT (Ellis) emphasizes self-acceptance, flexibility, and rational awareness. Both statements are true but REBT concepts do not explain transpersonal therapy's approach.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 44,
+          "question": "Read each of the following two statements – Assertion (A) and Reason (R) and indicate your answer using the codes given below:\n\n**Assertion (A):** Organizational justice is perception of what is fair in the workplace composed of distributive, procedural and interactional justice.\n\n**Reason (R):** Employees have greater tolerance of overpayment inequities than underpayment inequities as part of distributive justice.\n\n**Codes :**",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 2,
+          "correct_text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+          "unit": "Unit 10",
+          "topic": "10.1 Emerging Areas",
+          "subtopic": "Organizational Behaviour",
+          "concept": "Organizational justice (Greenberg) includes distributive (outcomes fair), procedural (process fair), and interactional (treatment fair) justice. Adams' equity theory shows greater tolerance for overpayment than underpayment inequity. Both are true but R does not explain A.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 45,
+          "question": "A strategy designed to gain favourable response to a small request at first, with the intent of making the person more likely to agree later to a larger request is known as",
+          "options": [
+            "(A) Compliance",
+            "(B) Door-in the face",
+            "(C) Foot-in the door technique",
+            "(D) Obedience"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Foot-in the door technique",
+          "unit": "Unit 8",
+          "topic": "8.1 Social Psychology",
+          "subtopic": "Social Influence",
+          "concept": "Foot-in-the-door technique (Freedman & Fraser, 1966): Getting compliance with a small request first increases likelihood of agreeing to a larger subsequent request. Door-in-the-face is the opposite (large request first, then smaller one).",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 46,
+          "question": "The Visual Placement Tests conducted by Held and Hein were specifically intended to study",
+          "options": [
+            "(A) Development of depth perception.",
+            "(B) Relationship between sensory feedback resulting from self-initiated movement and perceptual development.",
+            "(C) Motor development.",
+            "(D) Discrimination learning."
+          ],
+          "correct_answer": 2,
+          "correct_text": "Relationship between sensory feedback resulting from self-initiated movement and perceptual development.",
+          "unit": "Unit 9",
+          "topic": "9.1 Human Development",
+          "subtopic": "Perceptual Development",
+          "concept": "Held and Hein's (1963) classic kitten carousel experiment demonstrated that active (self-produced) movement is necessary for normal perceptual development. The passive kitten that was carried did not develop normal depth perception, showing that efferent (motor) feedback is critical.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 47,
+          "question": "Which one of the following is not a correct elaboration of reading strategy in the field of literature?",
+          "options": [
+            "(A) C for careful reading",
+            "(B) A for aim of reading",
+            "(C) P refers to problem identification",
+            "(D) S refers to solution of the problem"
+          ],
+          "correct_answer": 4,
+          "correct_text": "S refers to solution of the problem",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Learning Strategies",
+          "concept": "In standard reading comprehension strategies such as SQ3R (Survey, Question, Read, Recite, Review), S stands for Survey—not 'solution of the problem.' While the CAPS strategy (Character, Aim, Problem, Solved) is used for literary analysis with S = Solved, the UGC NET answer key identifies option D as the one that is not a correct elaboration, implying the exam expected S to represent Survey, Summary, or Scan rather than 'solution.'",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 48,
+          "question": "Read each of the following two statements – Assertion (A) and Reason (R) and indicate your answer using the codes given below :\n\n**Assertion (A):** The objective of mastery goals in students is to improve, learn, seek challenges and persist inspite of difficulties.\n\n**Reason (R):** Teachers can stimulate mastery goal orientation through the techniques of self-monitoring, self-improvement and deeper understanding of subject.\n\n**Codes :**",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 2,
+          "correct_text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+          "unit": "Unit 9",
+          "topic": "9.1 Human Development",
+          "subtopic": "Educational Psychology",
+          "concept": "Mastery goals (Ames, 1992; Dweck) focus on learning, improvement, challenge-seeking, and persistence. Teachers can foster mastery orientation through self-monitoring and deeper understanding. Both are true but R describes how to promote mastery goals, not why mastery goals lead to the outcomes in A.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 49,
+          "question": "Temporary support that parents provide to a child to do a task until the child can do it alone, is termed as",
+          "options": [
+            "(A) Ageism",
+            "(B) Induction",
+            "(C) Scaffolding",
+            "(D) Power assertion"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Scaffolding",
+          "unit": "Unit 9",
+          "topic": "9.1 Human Development",
+          "subtopic": "Cognitive Development",
+          "concept": "Scaffolding (Bruner, Wood & Ross, 1976), based on Vygotsky's Zone of Proximal Development, refers to the temporary support provided by a more knowledgeable other that enables a child to accomplish a task they cannot yet do independently.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 50,
+          "question": "Read each of the following two statements – Assertion (A) and Reason (R) and indicate your answer using the codes given below :\n\n**Assertion (A):** Children of permissive-indulgent parents tend to the impulsive, aggressive, inconsiderate and demanding.\n\n**Reason (R):** Permissive-indulgent parents are high on warmth, discipline and control.\n\n**Codes :**",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 3,
+          "correct_text": "(A) is true, but (R) is false.",
+          "unit": "Unit 9",
+          "topic": "9.1 Human Development",
+          "subtopic": "Parenting",
+          "concept": "Permissive-indulgent parents are high on warmth but LOW on discipline and control. Their children tend to be impulsive, aggressive, and demanding due to lack of boundaries. The reason is false because permissive parents are characterized by low (not high) discipline and control.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 51,
+          "question": "Rogers in his Person Centred Counselling approach emphasizes ______ and ______.",
+          "options": [
+            "(A) Empathy; Sympathy",
+            "(B) Experiential focussing; Unconditional positive regard",
+            "(C) Congruence; Sympathy",
+            "(D) Unconditional Positive Regard; Empathy"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Unconditional Positive Regard; Empathy",
+          "unit": "Unit 10",
+          "topic": "10.1 Emerging Areas",
+          "subtopic": "Counselling",
+          "concept": "Rogers' (1957) person-centered therapy emphasizes three core conditions for therapeutic change: Unconditional positive regard (acceptance without judgment), Empathy (understanding client's frame of reference), and Congruence (genuineness). Sympathy is not a Rogers concept.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 52,
+          "question": "According to the frequency of their occurrence, arrange the following in ascending order:\n\n1. Alpha waves\n2. Beta waves\n3. Theta waves\n4. Delta waves",
+          "options": [
+            "(A) 4, 3, 1, 2",
+            "(B) 3, 4, 1, 2",
+            "(C) 2, 1, 3, 4",
+            "(D) 2, 1, 4, 3"
+          ],
+          "correct_answer": 1,
+          "correct_text": "4, 3, 1, 2",
+          "unit": "Unit 4",
+          "topic": "4.1 Biological Basis of Behaviour",
+          "subtopic": "Brain Waves",
+          "concept": "EEG wave frequencies (ascending order): Delta (0.5-4 Hz, deep sleep), Theta (4-8 Hz, drowsiness/light sleep), Alpha (8-13 Hz, relaxed wakefulness), Beta (13-30 Hz, active thinking/alertness).",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 53,
+          "question": "Match the items of List – I (Theory) with List – II (Description) and mark your answer with the help of the codes given below:\n\n| List – I (Theory) | List – II (Description) |\n| --- | --- |\n| p. Theory of Signal Detection | 1. Sensory subjective magnitude grows in proportion to the intensity of the stimulus raised to a power. |\n| q. The Fechner Law | 2. The minimal amount of stimulus energy required for a detection of a stimulus. |\n| r. Absolute Threshold | 3. Evaluation of the separate effects of the observer's sensory capacity and response bias. |\n| s. Stevens Power Law | 4. Larger and larger inputs in stimulus energy are required to obtain a corresponding sensory effect. |\n\n**Codes :**\n\n|  | p | q | r | s |\n| --- | --- | --- | --- | --- |\n| (A) | 1 | 2 | 3 | 4 |\n| (B) | 1 | 2 | 4 | 3 |\n| (C) | 3 | 4 | 2 | 1 |\n| (D) | 3 | 2 | 1 | 4 |",
+          "options": [
+            "(A) 1, 2, 3, 4",
+            "(B) 1, 2, 4, 3",
+            "(C) 3, 4, 2, 1",
+            "(D) 3, 2, 1, 4"
+          ],
+          "correct_answer": 3,
+          "correct_text": "3, 4, 2, 1",
+          "unit": "Unit 5",
+          "topic": "5.1 Attention and Perception",
+          "subtopic": "Psychophysics",
+          "concept": "SDT separates sensory sensitivity from response bias; Fechner's Law (logarithmic) states that equal sensory increments require progressively larger stimulus increases; Absolute threshold is the minimum detectable stimulus; Stevens' Power Law states subjective magnitude ∝ stimulus intensity^n.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 54,
+          "question": "Match List – I with List – II and select the correct answer using the codes given below :\n\n| List – I (Hypothalamic Area) | List – II (Effect of Lesion) |\n| --- | --- |\n| p. Lateral pre-optic area | 1. Deficit in physiological mechanisms of temperature regulation. |\n| q. Pre-optic area | 2. Deficit in drinking |\n| r. Ventromedial hypothalamus | 3. Under eating, weight loss and low insulin level |\n| s. Lateral hypothalamus | 4. Increased meal frequency, weight gain and high insulin level |\n\n**Codes :**\n\n|  | p | q | r | s |\n| --- | --- | --- | --- | --- |\n| (A) | 4 | 3 | 1 | 2 |\n| (B) | 3 | 4 | 2 | 1 |\n| (C) | 2 | 1 | 4 | 3 |\n| (D) | 1 | 2 | 3 | 4 |",
+          "options": [
+            "(A) 4, 3, 1, 2",
+            "(B) 3, 4, 2, 1",
+            "(C) 2, 1, 4, 3",
+            "(D) 1, 2, 3, 4"
+          ],
+          "correct_answer": 3,
+          "correct_text": "2, 1, 4, 3",
+          "unit": "Unit 4",
+          "topic": "4.1 Biological Basis of Behaviour",
+          "subtopic": "Hypothalamic Functions",
+          "concept": "Hypothalamic lesion effects: Lateral preoptic area lesions impair drinking; Preoptic area lesions disrupt temperature regulation; VMH lesions cause hyperphagia (overeating, weight gain); Lateral hypothalamus lesions cause aphagia (undereating, weight loss). VMH = 'satiety center', LH = 'hunger center'.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 55,
+          "question": "Down syndrome is associated with which of the causal factor?",
+          "options": [
+            "(A) Trisomy 18",
+            "(B) Trisomy 12",
+            "(C) Trisomy 21",
+            "(D) Trisomy 14"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Trisomy 21",
+          "unit": "Unit 9",
+          "topic": "9.1 Human Development",
+          "subtopic": "Developmental Disorders",
+          "concept": "Down syndrome is caused by Trisomy 21—an extra copy of chromosome 21 (three instead of two). It results in intellectual disability, distinctive facial features, and increased risk of heart defects. Trisomy 18 causes Edwards syndrome.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 56,
+          "question": "Salient features of classical conditioning are\n\n1. Responses are voluntary.\n2. Based on principle of association by contiguity.\n3. Antecedent stimuli are important in forming association.\n4. Goal is to increase the rate of an already occurring response.\n5. Goal is to create a new response to stimulus.\n\n**Codes :**",
+          "options": [
+            "(A) 2, 3 and 5",
+            "(B) 1, 3 and 4",
+            "(C) 2, 3, 4 and 5",
+            "(D) 1, 3, 4 and 5"
+          ],
+          "correct_answer": 1,
+          "correct_text": "2, 3 and 5",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Classical Conditioning",
+          "concept": "Classical conditioning features: based on contiguity (CS and UCS paired), antecedent stimuli (CS) trigger associations, goal is to create new responses to previously neutral stimuli. Responses are involuntary (not voluntary—statement 1 is false). Increasing response rate is operant conditioning (statement 4 is false).",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 57,
+          "question": "In which part of the brain does classical conditioning take place?",
+          "options": [
+            "(A) Reticular formation",
+            "(B) Amygdala",
+            "(C) Cerebellum",
+            "(D) Hypothalamus"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Cerebellum",
+          "unit": "Unit 4",
+          "topic": "4.1 Biological Basis of Behaviour",
+          "subtopic": "Brain Structures",
+          "concept": "Classical conditioning of motor responses (e.g., eyeblink conditioning) primarily involves the cerebellum (Thompson, 1986). The amygdala is involved in emotional/fear conditioning. The cerebellum is critical for the association between CS and UCS in basic motor classical conditioning.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 58,
+          "question": "Read each of the following two statements – Assertion (A) and Reason (R) and indicate your answer using the codes given below:\n\n**Assertion (A):** Conditioning fails to occur when unconditioned stimulus and conditioned stimulus are paired in a random order.\n\n**Reason (R):** Cognitive processes involving expectation play an important role in classical conditioning.\n\n**Codes :**",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 2,
+          "correct_text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Classical Conditioning",
+          "concept": "Random CS-UCS pairing fails because the CS does not predict the UCS (Rescorla's contingency model, 1968)—the direct explanation is lack of contingency, not cognitive expectation. While cognitive processes (expectation) do play a role in classical conditioning, the reason random pairing specifically fails is the absence of a predictive statistical relationship between CS and UCS. Thus both statements are true, but (R) is not the correct explanation of (A).",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 59,
+          "question": "Arrange the following in order of sequence of career planning and decision making:\n\n1. Educational awareness\n2. Career exploration\n3. Self-awareness\n4. Career awareness\n\n**Codes :**",
+          "options": [
+            "(A) 3, 4, 1 and 2",
+            "(B) 3, 1, 4 and 2",
+            "(C) 1, 3, 2 and 4",
+            "(D) 2, 4, 1 and 3"
+          ],
+          "correct_answer": 2,
+          "correct_text": "3, 1, 4 and 2",
+          "unit": "Unit 10",
+          "topic": "10.1 Emerging Areas",
+          "subtopic": "Career Development",
+          "concept": "Career planning sequence: First develop self-awareness (interests, abilities, values), then career awareness (understanding world of work), followed by educational awareness (linking education to careers), and finally career exploration (active investigation and decision-making).",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 60,
+          "question": "Match List – I with List – II and indicate your answer with the codes given below :\n\n| List – I (Models of memory) | List – II (Theorists) |\n| --- | --- |\n| p. Levels of processing | 1. Atkinson and Shiffrin |\n| q. Working memory | 2. Tulving |\n| r. Modal model | 3. Craik and Lockhart |\n| s. Multistore model | 4. Baddeeley and Hitch |\n\n**Codes :**\n\n|  | p | q | r | s |\n| --- | --- | --- | --- | --- |\n| (A) | 4 | 3 | 2 | 1 |\n| (B) | 2 | 1 | 3 | 4 |\n| (C) | 1 | 2 | 4 | 3 |\n| (D) | 3 | 4 | 1 | 2 |",
+          "options": [
+            "(A) 4, 3, 2, 1",
+            "(B) 2, 1, 3, 4",
+            "(C) 1, 2, 4, 3",
+            "(D) 3, 4, 1, 2"
+          ],
+          "correct_answer": 4,
+          "correct_text": "3, 4, 1, 2",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Memory Models",
+          "concept": "Craik and Lockhart (1972) proposed Levels of Processing; Baddeley and Hitch (1974) proposed the Working Memory model; Atkinson and Shiffrin (1968) proposed the Modal/Multistore model; Tulving contributed to memory systems (episodic/semantic). Option D is the closest match.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 61,
+          "question": "According to Tolman, the three parts of learning that work together as Gestalt are\n\n1. Significant\n2. Habit strength\n3. Sign\n4. Means-end-relationship\n5. Drive strength\n\n**Codes :**",
+          "options": [
+            "(A) 2, 3 and 5",
+            "(B) 3, 4 and 5",
+            "(C) 1, 2 and 3",
+            "(D) 1, 3 and 4"
+          ],
+          "correct_answer": 4,
+          "correct_text": "1, 3 and 4",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Cognitive Learning Theories",
+          "concept": "Tolman's cognitive learning theory: learning is a Gestalt involving Significant (what is learned—cognitive map), Sign (environmental cues), and Means-end-readiness (relationship between sign and significant). Habit strength and drive strength belong to Hull's theory, not Tolman's.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 62,
+          "question": "Match the items in List – I with items in List – II and mark your answer with the help of the codes given below :\n\n| List – I (Attachment Style) | List – II (Attachment Characteristic) |\n| --- | --- |\n| p. Avoidant attachment | 1. Infant, after separation from primary caregiver, shows contradictory behaviour upon his or her return. |\n| q. Secure attachment | 2. Infant rarely cries when separated from the primary care/giver and does not make contact upon his or her return. |\n| r. Disorganized-disoriented attachment | 3. Infant cries when primary caregiver leaves and actively seek the caregiver upon his or her return. |\n| s. Ambivalent (resistant) attachment | 4. Infant becomes anxious before the primary caregiver leaves, is upset during the absence and seeks at the same time avoids contact on his or her return. |\n\n**Codes :**\n\n|  | p | q | r | s |\n| --- | --- | --- | --- | --- |\n| (A) | 1 | 3 | 2 | 4 |\n| (B) | 3 | 2 | 4 | 1 |\n| (C) | 4 | 1 | 3 | 2 |\n| (D) | 2 | 3 | 1 | 4 |",
+          "options": [
+            "(A) 1, 3, 2, 4",
+            "(B) 3, 2, 4, 1",
+            "(C) 4, 1, 3, 2",
+            "(D) 2, 3, 1, 4"
+          ],
+          "correct_answer": 4,
+          "correct_text": "2, 3, 1, 4",
+          "unit": "Unit 9",
+          "topic": "9.1 Human Development",
+          "subtopic": "Attachment",
+          "concept": "Ainsworth's Strange Situation classifications: Secure (Type B): distressed at separation, seeks comfort at reunion; Avoidant (Type A): little distress, ignores caregiver; Ambivalent/Resistant (Type C): pre-separation anxiety, contradictory approach-avoidance at reunion; Disorganized (Type D): confused, fearful, contradictory behavior.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 63,
+          "question": "Which one of the following is not a correct way of stimulating creative thinking ?",
+          "options": [
+            "(A) Brainstorming",
+            "(B) Keep a diary",
+            "(C) Mind mapping",
+            "(D) Offering money"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Offering money",
+          "unit": "Unit 6",
+          "topic": "6.3 Creativity",
+          "subtopic": "Enhancing Creativity",
+          "concept": "Brainstorming (Osborn), keeping a diary/journal, and mind mapping are all recognized creativity-enhancing techniques. Offering monetary rewards can actually undermine intrinsic motivation and creativity (Amabile, 1996; Deci & Ryan's cognitive evaluation theory).",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 64,
+          "question": "Short term memories are stored in which part of the brain ?",
+          "options": [
+            "(A) Cerebellum",
+            "(B) Amygdala",
+            "(C) Hippocampus",
+            "(D) Prefrontal cortex"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Prefrontal cortex",
+          "unit": "Unit 4",
+          "topic": "4.1 Biological Basis of Behaviour",
+          "subtopic": "Brain and Memory",
+          "concept": "Short-term/working memory is primarily associated with the prefrontal cortex (Goldman-Rakic, 1995). The hippocampus is critical for converting STM to LTM. The cerebellum is involved in procedural memory. The amygdala is involved in emotional memory.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 65,
+          "question": "Match List – I with List – II and indicate your answer by using the codes given below :\n\n| List – I (Concept) | List – II (Description) |\n| --- | --- |\n| p. Heuristics | 1. Judgements made on the basis of specific kind of information that can be brought to mind. |\n| q. Representative Heuristics | 2. Tendency to use a number of value as a starting point to whom one adopts. |\n| r. Availability Heuristics | 3. Simple rules for drawing inferences in a rapid and effortless manner. |\n| s. Anchoring and Adjustment Heuristics | 4. Judgements made on the basis of resemblance of current stimuli to other stimuli. |\n\n**Codes :**\n\n|  | p | q | r | s |\n| --- | --- | --- | --- | --- |\n| (A) | 3 | 1 | 4 | 2 |\n| (B) | 3 | 4 | 2 | 1 |\n| (C) | 3 | 4 | 1 | 2 |\n| (D) | 4 | 3 | 1 | 2 |",
+          "options": [
+            "(A) 3, 1, 4, 2",
+            "(B) 3, 4, 2, 1",
+            "(C) 3, 4, 1, 2",
+            "(D) 4, 3, 1, 2"
+          ],
+          "correct_answer": 3,
+          "correct_text": "3, 4, 1, 2",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Judgment and Decision Making",
+          "concept": "Tversky & Kahneman's heuristics: General heuristics are simple cognitive shortcuts; Representative heuristic judges probability by similarity to prototypes; Availability heuristic judges frequency by ease of recall; Anchoring and adjustment uses an initial reference point for estimates.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 66,
+          "question": "A readiness to make a particular perceptual response or class of responses to particular organizations of stimuli is called",
+          "options": [
+            "(A) Perceptual vigilance",
+            "(B) Perceptual constancy",
+            "(C) Perceptual set",
+            "(D) Perceptual style"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Perceptual set",
+          "unit": "Unit 5",
+          "topic": "5.1 Attention and Perception",
+          "subtopic": "Perception",
+          "concept": "Perceptual set is a predisposition or readiness to perceive stimuli in a particular way, influenced by expectations, motivation, and context. It acts as a mental template that shapes how we organize and interpret sensory input.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 67,
+          "question": "In a 2 × 2 factorial design, with A and B as the two IVs, the F ratio MS(A×B) / MS(E) is statistically significant. It implies that",
+          "options": [
+            "(A) there is cross-over interaction.",
+            "(B) there is disordinal interaction.",
+            "(C) there is either cross-over or disordinal interaction.",
+            "(D) there are both disordinal and cross-over interactions."
+          ],
+          "correct_answer": 3,
+          "correct_text": "there is either cross-over or disordinal interaction.",
+          "unit": "Unit 2",
+          "topic": "2.2 Statistics",
+          "subtopic": "Experimental Design",
+          "concept": "A significant F-ratio for A×B interaction indicates non-parallel lines (the effect of one IV depends on the level of the other). In UGC NET terminology for 2×2 designs, this can manifest as either a cross-over interaction (lines intersect when extended) or a disordinal interaction (effect reversal across levels within the measured range). Both indicate that the simple main effects are not uniform. Option (C) is the answer because a significant interaction implies one of these two interaction patterns, not both simultaneously.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 68,
+          "question": "Read each of the following two statements – Assertion (A) and Reason (R) and indicate your answer using the codes given below:\n\n**Assertion (A):** Inaccuracy among eye-witness occurs with the passage of time between witnessing an event and testifying about what was seen and heard.\n\n**Reason (R):** Witnesses are always exposed to misleading postevent information from police, news stories and statements made by others.\n\n**Codes :**",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are true and (R) is correct explanation of (A).",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Memory and Eyewitness Testimony",
+          "concept": "Eyewitness inaccuracy increases with the passage of time (A is true—Ebbinghaus forgetting curve; Loftus, 1979). Postevent information (police interviews, news reports, statements by others) can distort memory via the misinformation effect (Loftus & Palmer, 1974). In the UGC NET framework, (R) is treated as true because postevent exposure is the well-established mechanism that explains why eyewitness accuracy declines over time—the reconstructive nature of memory makes it susceptible to misleading information. Both statements are true, and (R) correctly explains (A).",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 69,
+          "question": "From among the following who theorized mostly on the concept of 'achievement motivation' ?",
+          "options": [
+            "(A) Rogers, C.R.",
+            "(B) Julian Rotter",
+            "(C) David McClelland",
+            "(D) Frankl, V.E."
+          ],
+          "correct_answer": 3,
+          "correct_text": "David McClelland",
+          "unit": "Unit 7",
+          "topic": "7.2 Motivation",
+          "subtopic": "Achievement Motivation",
+          "concept": "McClelland (1953, 1961) is the primary theorist of achievement motivation (need for achievement, nAch), developed through the Thematic Apperception Test. He studied how achievement motivation relates to economic development and entrepreneurship. Atkinson later extended this work.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 70,
+          "question": "Concepts that closely matches the defining characteristics of a concept are known as",
+          "options": [
+            "(A) Formal concepts",
+            "(B) Natural concepts",
+            "(C) Prototype",
+            "(D) Subordinate concepts"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Prototype",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Concepts",
+          "concept": "A prototype (Rosch, 1973) is the most typical or best example of a category—the member that most closely matches the defining characteristics of that concept (e.g., robin for 'bird', apple for 'fruit'). Formal concepts are defined by rigid necessary-and-sufficient rules. Natural concepts have fuzzy boundaries organized around prototypes, not strict definitions. Subordinate concepts are narrow, specific category members. The question asks which type most closely matches the defining features of a concept → prototype.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": null,
+          "table_ref": null
+        }
+      ]
+    },
+    {
+      "type": "passage",
+      "id": "passage_71",
+      "heading": "Passage (Questions 71–75)",
+      "text": "An anxiety researcher, working in the interaction model of anxiety, wanted to factor analyse anxiety-producing situations. He had a hunch that anxiety-producing situations would broadly belong to two categories – inter-personal-evaluative and physically-threatening. His tool, assessing situation-specific anxiety, had 14 situations. For each situation, the subject was required to indicate on 11 five-point rating scales as to how he or she would respond in that situation. Thus for each situation scale, the minimum score would be 11 and the maximum score would be 55. The correlation matrix among the 14 situation scales was formed. Two factor analyses were carried out on this correlation matrix. In the first factor analysis, unities were retained in the diagonal spaces of the correlation matrix and the un-rotated factors were extracted. Using Cattell's scree plot, three factors were retained for rotation. The rotated factors had small or moderate inter-factor correlations. In the second factor analysis, appropriate communality estimates were inserted in the diagonal spaces of the correlation matrix and the three factors were rotated using the same rotation method, used in the same factor analysis."
+    },
+    {
+      "type": "questions_block",
+      "range": "Q71–Q75",
+      "passage_ref": "passage_71",
+      "questions": [
+        {
+          "id": 71,
+          "question": "Cattell's scree plot is a",
+          "options": [
+            "(A) Plot of the order of Eigen values on X axis and the actual Eigen values of the reduced correlation matrix on Y axis.",
+            "(B) Plot of the order of Eigen values on X axis and the actual Eigen values of the unreduced correlation matrix on Y axis.",
+            "(C) Plot displaying variables using the first two factor as axes.",
+            "(D) Plot of the order of the factors on X axes and the factor loading on Y axis."
+          ],
+          "correct_answer": 2,
+          "correct_text": "Plot of the order of Eigen values on X axis and the actual Eigen values of the unreduced correlation matrix on Y axis.",
+          "unit": "Unit 3",
+          "topic": "3.1 Psychological Testing",
+          "subtopic": "Factor Analysis",
+          "concept": "Cattell's scree plot graphs eigenvalues (Y-axis) against their order of extraction (X-axis) from the unreduced correlation matrix. The 'elbow' point indicates the number of factors to retain—factors before the point where the curve levels off are retained.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": "passage_71",
+          "table_ref": null
+        },
+        {
+          "id": 72,
+          "question": "In the first factor analysis, while factor analyzing the 14 × 14 correlation matrix, which one of the following four factor extraction method, has probably been used?",
+          "options": [
+            "(A) Maximum likelihood method",
+            "(B) Principal axes method",
+            "(C) Principal components method",
+            "(D) Confirmatory factor analysis method"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Principal components method",
+          "unit": "Unit 3",
+          "topic": "3.1 Psychological Testing",
+          "subtopic": "Factor Analysis",
+          "concept": "Unities in the diagonal spaces indicate Principal Components Analysis (PCA), which retains all variance (common + unique + error). Common factor methods (PA, ML) replace diagonal with communality estimates. PCA is the only method that uses 1s in the diagonal.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": "passage_71",
+          "table_ref": null
+        },
+        {
+          "id": 73,
+          "question": "Out of the following four factor rotation methods, which method/s can yield the above results?\n\n1. Oblimin rotation\n2. Varimax rotation\n3. Promax rotation\n4. Quartimax rotation",
+          "options": [
+            "(A) 1 only",
+            "(B) 1 and 2 only",
+            "(C) 1 and 3 only",
+            "(D) 3 and 4 only"
+          ],
+          "correct_answer": 3,
+          "correct_text": "1 and 3 only",
+          "unit": "Unit 3",
+          "topic": "3.1 Psychological Testing",
+          "subtopic": "Factor Analysis",
+          "concept": "The passage states 'small or moderate inter-factor correlations'—this requires oblique rotation methods. Oblimin and Promax are oblique methods that allow correlated factors. Varimax and Quartimax are orthogonal methods that force factors to be uncorrelated (inter-factor correlations = 0).",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": "passage_71",
+          "table_ref": null
+        },
+        {
+          "id": 74,
+          "question": "Which one of the following statement is true?",
+          "options": [
+            "(A) The first factor analysis used component model; the second factor analysis used common factor model.",
+            "(B) The first factor analysis used common factor model; the second factor analysis used principal component model.",
+            "(C) Both, the first and second factor analyses used component model.",
+            "(D) Both, the first and second factor analyses used common-factor model."
+          ],
+          "correct_answer": 1,
+          "correct_text": "The first factor analysis used component model; the second factor analysis used common factor model.",
+          "unit": "Unit 3",
+          "topic": "3.1 Psychological Testing",
+          "subtopic": "Factor Analysis",
+          "concept": "First analysis: unities in diagonal → Principal Components (component model). Second analysis: communality estimates in diagonal → Common Factor model (PA or ML). The component model includes all variance; the common factor model extracts only shared variance.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": "passage_71",
+          "table_ref": null
+        },
+        {
+          "id": 75,
+          "question": "Which one of the following statement is true?",
+          "options": [
+            "(A) The second factor solution would explain more percent of variance.",
+            "(B) The second factor solution would explain less percent of variance.",
+            "(C) Both factor solutions would explain same percent of variance.",
+            "(D) Such prediction is not possible."
+          ],
+          "correct_answer": 2,
+          "correct_text": "The second factor solution would explain less percent of variance.",
+          "unit": "Unit 3",
+          "topic": "3.1 Psychological Testing",
+          "subtopic": "Factor Analysis",
+          "concept": "The component model (first analysis) extracts total variance (common + unique + error), explaining more total variance. The common factor model (second analysis) extracts only common variance, explaining less total variance but providing a cleaner representation of the underlying factor structure.",
+          "era": "UGC",
+          "year": 2014,
+          "passage_ref": "passage_71",
+          "table_ref": null
+        }
+      ]
+    }
+  ]
+}

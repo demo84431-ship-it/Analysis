@@ -1,0 +1,1035 @@
+{
+  "paper_metadata": {
+    "title": "UGC NET/JRF Examination, June 2006",
+    "date": "June 2006",
+    "subject": "Psychology — Paper II"
+  },
+  "content": [
+    {
+      "type": "questions_block",
+      "range": "Q1–Q44",
+      "questions": [
+        {
+          "id": 1,
+          "question": "According to which theory, experiences are best remembered if given some rest after learning?",
+          "options": [
+            "(A) Retroactive Inhibition Theory",
+            "(B) Proactive Inhibition Theory",
+            "(C) Consolidation Theory",
+            "(D) Decay Theory"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Consolidation Theory",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Memory Models",
+          "concept": "Consolidation Theory: memory trace consolidates during rest after learning (Müller & Pilzecker)",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 2,
+          "question": "Which of the following is an algorithm?",
+          "options": [
+            "(A) analogy",
+            "(B) diagrams",
+            "(C) multiplication rules",
+            "(D) subgoals"
+          ],
+          "correct_answer": 3,
+          "correct_text": "multiplication rules",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Problem Solving",
+          "concept": "Algorithm: step-by-step procedure guaranteeing solution (multiplication rules)",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 3,
+          "question": "Elaboration in memory is difficult at which level of processing:",
+          "options": [
+            "(A) Structural",
+            "(B) Phonemic",
+            "(C) Semantic",
+            "(D) Both (A) and (B)"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Both (A) and (B)",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Memory Models",
+          "concept": "Craik & Lockhart: shallow processing (structural, phonemic) makes elaboration difficult; deep (semantic) facilitates it",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 4,
+          "question": "**Assertion (A):** When it is not possible to have equivalent control and experimental group, a quasi experimental design is used instead of a true experimental design.\n\n**Reason (R):** In an experimental design, equivalence of control and experimental groups is usually ensured by random assignment or by matching or otherwise.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "(B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+            "(C) (A) is true but (R) is false",
+            "(D) (A) is false but (R) is true"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+          "unit": "Unit 2",
+          "topic": "2.5 Methods of Research",
+          "subtopic": "Quasi-Experimental Design",
+          "concept": "Quasi-experimental used when equivalence cannot be ensured; true experiments require random assignment/matching",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 5,
+          "question": "In a rank-order correlation:",
+          "options": [
+            "(A) variables are in an ordinal scale.",
+            "(B) normality of distribution is assumed.",
+            "(C) variables are converted to an interval scale.",
+            "(D) number of cases is always less than 12"
+          ],
+          "correct_answer": 1,
+          "correct_text": "variables are in an ordinal scale.",
+          "unit": "Unit 2",
+          "topic": "2.7 Inferential Statistics",
+          "subtopic": "Non-Parametric Tests",
+          "concept": "Spearman's rank-order correlation: assumes ordinal data",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 6,
+          "question": "Which of the following statement is NOT correct?",
+          "options": [
+            "(A) Retinal disparity is a cue for depth perception which is frequently used by the artists.",
+            "(B) Retinal disparity is a cue for depth perception which can be utilized by a person with only one good eye.",
+            "(C) Retinal disparity is a cue for death perception which is muscular rather then visual.",
+            "(D) Retinal disparity is a cue which is very sensitive aid to the perception of distance but requires both eyes."
+          ],
+          "correct_answer": 3,
+          "correct_text": "Retinal disparity is a cue for death perception which is muscular rather then visual.",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Depth Perception",
+          "concept": "Retinal disparity is a BINOCULAR (visual, not muscular) depth cue",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 7,
+          "question": "One of the key parts of the complex electrochemical process by which neurons pass messages from one part of the body to another is known as:",
+          "options": [
+            "(A) Axonic fibers",
+            "(B) Action potential",
+            "(C) The Soma (cell body)",
+            "(D) Cellular metabolism"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Action potential",
+          "unit": "Unit 4",
+          "topic": "4.2 Neurons",
+          "subtopic": "Action Potential",
+          "concept": "Action potential: electrochemical process for neuron message transmission",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 8,
+          "question": "The two hemispheres — rights and left — of the cerebral cortex are connected by a bridge of tissue called the:",
+          "options": [
+            "(A) Corpus callosum",
+            "(B) Synaptic cleft",
+            "(C) Feedback loop",
+            "(D) Sensory pathways"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Corpus callosum",
+          "unit": "Unit 4",
+          "topic": "4.3 Nervous System",
+          "subtopic": "Lateralization",
+          "concept": "Corpus callosum: bridge of tissue connecting cerebral hemispheres",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 9,
+          "question": "Match List A and List B of the following parts of brain and functions:\n\n| List-I (Lobes of hemisphere) | List-II (Broad functions) |\n|---|---|\n| (A) Frontal lobe | (i) Hearing functions |\n| (B) Parietal lobe | (ii) Site of visual cortex |\n| (C) Temporal lobe | (iii) Seat of personality and cognitive functions |\n| (D) Occipital lobe | (iv) Skin senses and sense of bodily positions |\n\n**Codes:**\n\n| | (A) | (B) | (C) | (D) |\n|---|---|---|---|---|\n| (A) | (i) | (ii) | (iii) | (ii) |\n| (B) | (ii) | (iii) | (iv) | (iii) |\n| (C) | (iii) | (iv) | (i) | (i) |\n| (D) | (iv) | (i) | (ii) | (iv) |",
+          "options": [
+            "(A) (i), (ii), (iii), (ii)",
+            "(B) (iii), (iv), (i), (ii)",
+            "(C) (iii), (iv), (i), (i)",
+            "(D) (iv), (i), (ii), (iv)"
+          ],
+          "correct_answer": 2,
+          "correct_text": "(iii), (iv), (i), (ii)",
+          "unit": "Unit 4",
+          "topic": "4.3 Nervous System",
+          "subtopic": "Cerebral Cortex",
+          "concept": "Brain lobe functions: Frontal lobe = seat of personality and cognitive functions (iii), Parietal lobe = skin senses and sense of bodily positions (iv), Temporal lobe = hearing functions (i), Occipital lobe = site of visual cortex (ii). Option (B) correctly maps A=iii, B=iv, C=i, D=ii.",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 10,
+          "question": "Arrange the following processes in order in which they occur in hearing sensation:\n\n(I) Sound waves enter through the outer ear\n(II) Cause movement of the fluid in the cochlea\n(III) Stimulate the eardrum which sets the ossicles in the middle ear in motion\n(IV) Transmit their vibration to the membrane of the oval window",
+          "options": [
+            "(A) I, II, III, IV",
+            "(B) I, IV, II, III",
+            "(C) I, II, IV, III",
+            "(D) I, III, IV, II"
+          ],
+          "correct_answer": 4,
+          "correct_text": "I, III, IV, II",
+          "unit": "Unit 4",
+          "topic": "4.1 Sensory Systems",
+          "subtopic": "Auditory System",
+          "concept": "Hearing: outer ear → eardrum/ossicles → oval window → cochlear fluid",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 11,
+          "question": "Colour blindness is related to:",
+          "options": [
+            "(A) Rods",
+            "(B) Cones",
+            "(C) Brightness",
+            "(D) Saturation"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Cones",
+          "unit": "Unit 4",
+          "topic": "4.1 Sensory Systems",
+          "subtopic": "Visual System",
+          "concept": "Cones: photoreceptors responsible for colour vision; cone defects → colour blindness",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 12,
+          "question": "Match the two lists:\n\n| List-I (Concepts) | List-II (Meanings) |\n|---|---|\n| (A) Variable in an interval scale | (i) The variable measured by the experimenter |\n| (B) Operational variable | (ii) Experimenter effect |\n| (C) Pygmalion Effect | (iii) Effect of temperature on body colour |\n| (D) Dependent variable | (iv) A variable measured in scale with equal distance between scale values but without an absolute zero point |\n| | (v) A variable stated in observable or measurable terms |\n\n**Codes:**\n\n| | (A) | (B) | (C) | (D) |\n|---|---|---|---|---|\n| (A) | (iv) | (v) | (iv) | (v) |\n| (B) | (v) | (i) | (i) | (iv) |\n| (C) | (ii) | (ii) | (iii) | (iii) |\n| (D) | (i) | (iv) | (ii) | (i) |",
+          "options": [
+            "(A) (iv), (v), (iv), (v)",
+            "(B) (v), (i), (i), (iv)",
+            "(C) (iv), (v), (ii), (i)",
+            "(D) (i), (iv), (ii), (i)"
+          ],
+          "correct_answer": 3,
+          "correct_text": "(iv), (v), (ii), (i)",
+          "unit": "Unit 2",
+          "topic": "2.1 Foundations of Research",
+          "subtopic": "Variables",
+          "concept": "Variable in an interval scale = a variable measured on a scale with equal distances between values but no absolute zero point (iv). Operational variable = a variable stated in observable or measurable terms (v). Pygmalion Effect = experimenter effect or self-fulfilling prophecy (ii). Dependent variable = the variable measured by the experimenter as the outcome (i). Option (C) correctly maps A=iv, B=v, C=ii, D=i.",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null,
+          "explanation": "A=iv (Interval scale: equal distances, no absolute zero), B=v (Operational variable: stated in observable/measurable terms), C=ii (Pygmalion Effect: experimenter effect), D=i (Dependent variable: measured by experimenter). Option (C) now correctly reflects this mapping."
+        },
+        {
+          "id": 13,
+          "question": "Non-parametric statistical tests are used when:",
+          "options": [
+            "(A) Nature of distribution of the variables in the population is not known.",
+            "(B) The variable is measured in a ratio scale.",
+            "(C) Sample size is more than 30.",
+            "(D) Homogeneity of variance can be assumed."
+          ],
+          "correct_answer": 1,
+          "correct_text": "Nature of distribution of the variables in the population is not known.",
+          "unit": "Unit 2",
+          "topic": "2.7 Inferential Statistics",
+          "subtopic": "Non-Parametric Tests",
+          "concept": "Non-parametric tests: used when distribution assumptions (normality) cannot be met",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 14,
+          "question": "Which of the following characteristics is necessary for a hypothesis of a research?\n\n(I) It must be precise\n(II) It must be testable\n(III) It must specify a null relationship\n(IV) It can be changed on the basis of the results of the research.",
+          "options": [
+            "(A) I, II and III",
+            "(B) I and II",
+            "(C) II and III",
+            "(D) I and III"
+          ],
+          "correct_answer": 2,
+          "correct_text": "I and II",
+          "unit": "Unit 2",
+          "topic": "2.2 Hypothesis",
+          "subtopic": "Characteristics of Hypothesis",
+          "concept": "Hypothesis must be precise and testable; need not always be null; cannot be changed after results",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 15,
+          "question": "Which one of the following was the first developed intelligence test?",
+          "options": [
+            "(A) Raven's Progressive matrices",
+            "(B) Goodenough Draw-A-Man test",
+            "(C) Binet-Simon test",
+            "(D) Wechsler Intelligence Scale"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Binet-Simon test",
+          "unit": "Unit 3",
+          "topic": "3.6 Types of Tests by Domain",
+          "subtopic": "Intelligence Tests",
+          "concept": "Binet-Simon test (1905): first intelligence test",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 16,
+          "question": "**Assertion (A):** Intelligent people show superior performance in a wide range of situations.\n\n**Reason (R):** Intelligence is determined by g factors.",
+          "options": [
+            "(A) Both (A) and (R) are true",
+            "(B) (A) is true but (R) is false",
+            "(C) (R) is true but (A) is false",
+            "(D) Both (A) and (R) are false"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are true",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Theories of Intelligence",
+          "concept": "Spearman's g factor: general intelligence predicts performance across situations",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 17,
+          "question": "Which two processes are always involved in perception?",
+          "options": [
+            "(A) Attention and Subliminal Stimuli",
+            "(B) Subliminal Stimuli and Sensation",
+            "(C) Sensation and interpretation",
+            "(D) Internal sensation and distraction"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Sensation and interpretation",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Nature of Perception",
+          "concept": "Perception always involves sensation (bottom-up) and interpretation (top-down)",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 18,
+          "question": "Which of the following sequence of memory storage is correct?",
+          "options": [
+            "(A) storage-encoding-retrieval",
+            "(B) encoding-storage-retrieval",
+            "(C) retrieval-encoding-storage",
+            "(D) encoding-retrieval-storage"
+          ],
+          "correct_answer": 2,
+          "correct_text": "encoding-storage-retrieval",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Stages and Types",
+          "concept": "Memory process sequence: Encoding → Storage → Retrieval",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 19,
+          "question": "**Assertion (A):** As one gazes down, the two parallel railway tracks seem to meet at a long distance.\n\n**Reason (R):** The texture of an object is perceived to be different when it is distant.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "(B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+            "(C) (A) is true but (R) is false",
+            "(D) (A) is false but (R) is true"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Depth Perception",
+          "concept": "Linear perspective (parallel lines converging) explains A; texture gradient (R) is a separate monocular depth cue — both are true monocular depth cues but R does not explain A",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 20,
+          "question": "Match the items of List-I with those of List-II:\n\n| List-I | List-II |\n|---|---|\n| (A) Continuity | (i) tendency to perceive a whole object even where none exists |\n| (B) Common fate | (ii) objects in motion together appear to stand out from their surroundings |\n| (C) Proximity | (iii) elements that continue a pattern are likely to be seen as part of the pattern |\n| (D) Closure | (iv) elements found close together tend to be perceived as a unit |\n\n**Codes:**\n\n| | (A) | (B) | (C) | (D) |\n|---|---|---|---|---|\n| (A) | (i) | (ii) | (iii) | (iii) |\n| (B) | (iv) | (iv) | (i) | (ii) |\n| (C) | (ii) | (i) | (ii) | (iv) |\n| (D) | (iii) | (iii) | (iv) | (i) |",
+          "options": [
+            "(A) (iii), (ii), (iv), (i)",
+            "(B) (iv), (iv), (i), (ii)",
+            "(C) (ii), (i), (ii), (iv)",
+            "(D) (iii), (iii), (iv), (i)"
+          ],
+          "correct_answer": 1,
+          "correct_text": "(iii), (ii), (iv), (i)",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Gestalt Principles",
+          "concept": "Gestalt perceptual organization principles: Continuity = elements that continue a pattern are likely to be seen as part of the pattern (iii). Common fate = objects in motion together appear to stand out from their surroundings (ii). Proximity = elements found close together tend to be perceived as a unit (iv). Closure = tendency to perceive a whole object even where none exists (i). Option (A) correctly maps A=iii, B=ii, C=iv, D=i.",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null,
+          "explanation": "A=iii (Continuity: elements continuing a pattern are seen as part of it), B=ii (Common fate: objects moving together stand out), C=iv (Proximity: elements close together perceived as a unit), D=i (Closure: tendency to perceive whole object). Option (A) now correctly reflects this mapping."
+        },
+        {
+          "id": 21,
+          "question": "Nature of intelligence is like electricity which is easy to measure but difficult to define. Who advocated this view?",
+          "options": [
+            "(A) Jensen",
+            "(B) Binet",
+            "(C) Spearman",
+            "(D) Gardner"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Binet",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Measurement of Intelligence",
+          "concept": "Binet's pragmatic view: intelligence is like electricity — measurable but hard to define",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 22,
+          "question": "Arrange the following processes in order in which they occur in test construction:\n\n(I) Item analysis\n(II) Validity\n(III) Reliability\n(IV) Norms",
+          "options": [
+            "(A) I, II, III, IV",
+            "(B) II, I, III, IV",
+            "(C) I, III, II, IV",
+            "(D) IV, III, I, II"
+          ],
+          "correct_answer": 3,
+          "correct_text": "I, III, II, IV",
+          "unit": "Unit 3",
+          "topic": "3.2 Test Construction",
+          "subtopic": "Test Development Process",
+          "concept": "Test construction sequence: Item analysis → Reliability → Validity → Norms (reliability is prerequisite for validity; test cannot be valid without being reliable)",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 23,
+          "question": "Which two processes are always involved in perception?",
+          "options": [
+            "(A) Attention and Subliminal Stimuli",
+            "(B) Subliminal Stimuli and Sensation",
+            "(C) Sensation and interpretation",
+            "(D) Internal sensation and distraction"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Sensation and interpretation",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Nature of Perception",
+          "concept": "Perception always involves sensation and interpretation (same as Q17 — duplicate question in original paper)",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 24,
+          "question": "Valid theory of motivation accounts for:\n\n(I) Innate tendencies for action\n(II) Tension reduction and equilibrium\n(III) Growth and development of behaviour\n(IV) Arousal, selectivity and direction of behaviour",
+          "options": [
+            "(A) I and II are correct",
+            "(B) Only III is correct",
+            "(C) Only IV is correct",
+            "(D) I and III are correct"
+          ],
+          "correct_answer": 4,
+          "correct_text": "I and III are correct",
+          "unit": "Unit 7",
+          "topic": "7.2 Motivation",
+          "subtopic": "Theories of Motivation",
+          "concept": "A comprehensive theory of motivation must account for innate biological tendencies (instinct/drive theories) AND growth/development of behaviour (humanistic theories). Tension reduction (II) and arousal/selectivity/direction (IV) are also important but per UGC key, I and III are the required elements. [Verify against official answer key if available.]",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 25,
+          "question": "Match List-I (Theorist) with List-II (Concept of Intelligence):\n\n| List-I (Theorist) | List-II (Concept of Intelligence) |\n|---|---|\n| (A) Cattel | (i) A triarchic theory of Intelligence |\n| (B) Spearman | (ii) Seven independent mental ability |\n| (C) Sternberg | (iii) Two clusters of Mental abilities |\n| (D) Thurstone | (iv) Intelligence is g factor |\n\n**Codes:**\n\n| | (A) | (B) | (C) | (D) |\n|---|---|---|---|---|\n| (A) | (ii) | (iii) | (i) | (iii) |\n| (B) | (i) | (iv) | (ii) | (iv) |\n| (C) | (iii) | (i) | (iv) | (i) |\n| (D) | (iv) | (ii) | (iii) | (ii) |",
+          "options": [
+            "(A) (ii), (iii), (i), (iii)",
+            "(B) (i), (iv), (ii), (iv)",
+            "(C) (iii), (i), (iv), (i)",
+            "(D) (iii), (iv), (i), (ii)"
+          ],
+          "correct_answer": 4,
+          "correct_text": "(iii), (iv), (i), (ii)",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Theories of Intelligence",
+          "concept": "Intelligence theorists and their contributions: Cattell proposed two clusters of mental abilities — fluid (Gf) and crystallized (Gc) intelligence (iii). Spearman proposed the two-factor theory with a general intelligence factor or g factor (iv). Sternberg developed the triarchic theory of intelligence encompassing analytical, creative, and practical abilities (i). Thurstone proposed seven independent primary mental abilities including verbal comprehension, word fluency, number facility, spatial visualization, associative memory, perceptual speed, and reasoning (ii). Option (D) correctly maps A=iii, B=iv, C=i, D=ii.",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null,
+          "explanation": "A=iii (Cattell: two clusters of mental abilities — fluid and crystallized), B=iv (Spearman: g factor or general intelligence), C=i (Sternberg: triarchic theory — analytical, creative, practical), D=ii (Thurstone: seven independent primary mental abilities). Option (D) now correctly reflects this mapping."
+        },
+        {
+          "id": 26,
+          "question": "Which of the following statements is not correct?",
+          "options": [
+            "(A) Group factor theory of intelligence is associated with Thurstone",
+            "(B) Multifactor theory of intelligence was propounded by Thorndike",
+            "(C) Multi-Dimensional structure of intellect was developed by Guilford",
+            "(D) Two factor theory of intelligence was proposed by Vernon"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Two factor theory of intelligence was proposed by Vernon",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Theories of Intelligence",
+          "concept": "INCORRECT statement (D): Two factor theory was proposed by Spearman, not Vernon. Thurstone IS correctly associated with group factor theory (Primary Mental Abilities). Vernon proposed Hierarchical theory.",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 27,
+          "question": "A continuous reinforcement schedule is:\n\n(I) effective for strengthening a new response\n(II) a fixed-interval schedule\n(III) a procedure involving reinforcement of each occurrence of a desired response\n(IV) a fixed-ratio schedule\n\nWhich of the following is true?",
+          "options": [
+            "(A) I and III only",
+            "(B) I, II and III are correct",
+            "(C) I, III and IV are correct",
+            "(D) I, II, III and IV are correct"
+          ],
+          "correct_answer": 1,
+          "correct_text": "I and III only",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Schedules of Reinforcement",
+          "concept": "Continuous reinforcement (CRF) schedule: (I) It is effective for strengthening a new response — true, as reinforcing every instance of a new behavior helps establish it quickly. (III) It is a procedure involving reinforcement of each occurrence of a desired response — true, this is the definition of CRF. Statements II and IV are false: CRF is NOT a fixed-interval schedule (which reinforces after a set time period) and NOT a fixed-ratio schedule (which reinforces after a set number of responses). CRF and partial reinforcement schedules are distinct categories. Option (A) correctly identifies only I and III.",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null,
+          "explanation": "I and III only: CRF reinforces every response (III), making it effective for new responses (I). CRF is neither a fixed-interval nor fixed-ratio schedule — those are partial/intermittent reinforcement schedules. Option (A) now correctly states 'I and III only'."
+        },
+        {
+          "id": 28,
+          "question": "In classical conditioning, the time interval between CS and UCS is an important determinant of the strength of conditioning. Which of the following statements is true in respect of such temporal arrangement?",
+          "options": [
+            "(A) Longer intervals lead to better recognition of the CS.",
+            "(B) Simultaneous presentation of CS and UCS is necessary for conditioning to occur.",
+            "(C) Short intervals result in early extinction.",
+            "(D) Extremely short intervals of less than 0.2 second rarely produce conditioning"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Extremely short intervals of less than 0.2 second rarely produce conditioning",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Classical Conditioning",
+          "concept": "CS-UCS interval: too short (<0.2s) prevents conditioning; optimal is ~0.5s delay",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 29,
+          "question": "A person who suffers a concussion may not be able to recall what directly preceded the injury. This happens because the injury interferes with:",
+          "options": [
+            "(A) Retrograde amnesia",
+            "(B) Elaborative rehearsal",
+            "(C) Rote rehearsal",
+            "(D) LTM"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Retrograde amnesia",
+          "unit": "Unit 5",
+          "topic": "5.5 Forgetting",
+          "subtopic": "Amnesia",
+          "concept": "Retrograde amnesia: inability to recall events preceding injury",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 30,
+          "question": "Glands of the endocrine system that release hormones into blood stream are:",
+          "options": [
+            "(A) Endocrine glands",
+            "(B) Parathyroid gland",
+            "(C) Thyroid gland",
+            "(D) Pineal gland"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Endocrine glands",
+          "unit": "Unit 4",
+          "topic": "4.5 Endocrine System",
+          "subtopic": "Endocrine System",
+          "concept": "Endocrine glands (by definition) release hormones into bloodstream",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 31,
+          "question": "What do you mean by abbreviation PQRST?",
+          "options": [
+            "(A) Preview, Question, Read, Self recitation, Test",
+            "(B) Preview, Question, Retrieval, Self recitation, Test",
+            "(C) Preview, Question, Retrieval, Storage, Technique",
+            "(D) Preview, Question, Read, Search, Test"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Preview, Question, Read, Self recitation, Test",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Mnemonic Devices",
+          "concept": "PQRST study method: Preview, Question, Read, Self-recitation, Test (Thomas & Robinson)",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 32,
+          "question": "Match theories of intelligence (List-I) with their conceptualization (List-II):\n\n| List-I | List-II |\n|---|---|\n| (A) Gardner's Theory | (i) Intelligence is a basic processing mechanism |\n| (B) Anderson's Theory | (ii) Each mental activity involves an operation on some kind of content that results in some product |\n| (C) Ceci's Bioecological Theory | (iii) Intelligence is an ability to solve problems |\n| (D) Guilford's Theory | (iv) Intelligence involves multiple cognitive potentials that are biologically based |\n\n**Codes:**\n\n| | (A) | (B) | (C) | (D) |\n|---|---|---|---|---|\n| (A) | (iii) | (iii) | (ii) | (iv) |\n| (B) | (iv) | (i) | (i) | (iii) |\n| (C) | (ii) | (iv) | (iii) | (ii) |\n| (D) | (i) | (ii) | (iv) | (i) |",
+          "options": [
+            "(A) (iii), (i), (iv), (ii)",
+            "(B) (iv), (i), (i), (iii)",
+            "(C) (ii), (iv), (iii), (ii)",
+            "(D) (i), (ii), (iv), (i)"
+          ],
+          "correct_answer": 1,
+          "correct_text": "(iii), (i), (iv), (ii)",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Theories of Intelligence",
+          "concept": "Intelligence theories and their conceptualizations: Gardner's theory defines intelligence as an ability to solve problems or create products that are valued within a culture (iii). Anderson's theory posits that intelligence is a basic processing mechanism underlying all cognitive activity (i). Ceci's bioecological theory holds that intelligence involves multiple cognitive potentials that are biologically based and shaped by environmental context (iv). Guilford's Structure of Intellect model proposes that each mental activity involves an operation on some kind of content that results in some product (ii). Option (A) correctly maps A=iii, B=i, C=iv, D=ii.",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null,
+          "explanation": "A=iii (Gardner: intelligence as ability to solve problems), B=i (Anderson: intelligence as basic processing mechanism), C=iv (Ceci: intelligence as biologically based cognitive potentials), D=ii (Guilford: operations on content yielding products). Option (A) now correctly reflects this mapping."
+        },
+        {
+          "id": 33,
+          "question": "A problem solving heuristics:",
+          "options": [
+            "(A) guaranteed to find a solution, if one exists.",
+            "(B) a strategy that guides a search through the problem space.",
+            "(C) likely to be less effective than a strategy such as means-end analysis.",
+            "(D) needed for unfamiliar problems, but not for familiar problems."
+          ],
+          "correct_answer": 2,
+          "correct_text": "a strategy that guides a search through the problem space.",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Problem Solving",
+          "concept": "Heuristic: strategy guiding search through problem space (no guarantee of solution)",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 34,
+          "question": "A conditioned response becomes extinct and then reappears after an interval. This phenomenon is known as:",
+          "options": [
+            "(A) Proactive learning",
+            "(B) Retroactive learning",
+            "(C) Latent learning",
+            "(D) Spontaneous recovery"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Spontaneous recovery",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Classical Conditioning",
+          "concept": "Spontaneous recovery: extinct CR reappears after rest interval",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 35,
+          "question": "As children grow older, they can move beyond the environments provided by their parents and begin to select and construct environments of their own. This is known as:",
+          "options": [
+            "(A) Reactive Interaction",
+            "(B) Evocative Interaction",
+            "(C) Proactive Interaction",
+            "(D) None of the Above"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Proactive Interaction",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Social-Cognitive Approach",
+          "concept": "Proactive (niche-picking) interaction: children select/construct their own environments (Scarr)",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 36,
+          "question": "Match the List-I with List-II:\n\n| List-I | List-II |\n|---|---|\n| (A) Cannon-Bard | (i) physical reactions come before experiencing emotions |\n| (B) Schachter-Singer | (ii) emotions and bodily responses occur simultaneously |\n| (C) James-Lange | (iii) emotional experience depends on perception of a given situation |\n| (D) Tomkins | (iv) the feedback from facial expressions cause or intensify the experience of emotions |\n\n**Codes:**\n\n| | (A) | (B) | (C) | (D) |\n|---|---|---|---|---|\n| (A) | (i) | (ii) | (iii) | (iv) |\n| (B) | (ii) | (iii) | (iv) | (i) |\n| (C) | (iv) | (iv) | (ii) | (ii) |\n| (D) | (iii) | (i) | (i) | (i) |",
+          "options": [
+            "(A) (i), (ii), (iii), (iv)",
+            "(B) (ii), (iii), (iv), (i)",
+            "(C) (ii), (iii), (i), (iv)",
+            "(D) (iii), (i), (i), (i)"
+          ],
+          "correct_answer": 3,
+          "correct_text": "(ii), (iii), (i), (iv)",
+          "unit": "Unit 7",
+          "topic": "7.3 Emotion",
+          "subtopic": "Theories of Emotion",
+          "concept": "Major emotion theories: Cannon-Bard theory states that emotions and bodily responses occur simultaneously — the thalamus sends signals to both the cortex (emotion) and the autonomic nervous system (bodily arousal) at the same time (ii). Schachter-Singer (two-factor) theory proposes that emotional experience depends on cognitive appraisal of a given situation — labeling physiological arousal based on environmental context (iii). James-Lange theory argues that physical reactions come before experiencing emotions — we feel sad because we cry, not cry because we feel sad (i). Tomkins' facial feedback hypothesis states that feedback from facial expressions causes or intensifies the experience of emotions — the act of smiling can make one feel happier (iv). Option (C) correctly maps A=ii, B=iii, C=i, D=iv.",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null,
+          "explanation": "A=ii (Cannon-Bard: emotions and bodily responses occur simultaneously), B=iii (Schachter-Singer: emotional experience depends on cognitive appraisal), C=i (James-Lange: physical reactions precede emotional experience), D=iv (Tomkins: facial feedback causes/intensifies emotion). Option (C) now correctly reflects this mapping."
+        },
+        {
+          "id": 37,
+          "question": "The drive-reduction theory of motivation explains behavior in terms of:",
+          "options": [
+            "(A) restoration of physiological balance in the body.",
+            "(B) internal drives pulling the organism into activity.",
+            "(C) external stimuli acting as motivators of behaviour",
+            "(D) both (A) and (B)."
+          ],
+          "correct_answer": 4,
+          "correct_text": "both (A) and (B).",
+          "unit": "Unit 7",
+          "topic": "7.2 Motivation",
+          "subtopic": "Theories of Motivation",
+          "concept": "Hull's Drive-Reduction Theory: drives from physiological imbalance pull organism to restore balance",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 38,
+          "question": "Individuals often act in ways which seem to be irrational. This was explained by Freud in terms of:",
+          "options": [
+            "(A) Preconscious motivation",
+            "(B) Unconscious motivation",
+            "(C) Predominance of super ego over id and ego.",
+            "(D) Predominance of ego over id and super ego."
+          ],
+          "correct_answer": 2,
+          "correct_text": "Unconscious motivation",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Psychoanalytic Approach",
+          "concept": "Freud: irrational behaviour due to unconscious motivation",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 39,
+          "question": "The last stage of Erikson's theory of psychosocial development — integrity versus despair — is based on:",
+          "options": [
+            "(A) evaluation of one's life course.",
+            "(B) developing interpersonal relationships.",
+            "(C) exploring the environment.",
+            "(D) having a satisfying job."
+          ],
+          "correct_answer": 1,
+          "correct_text": "evaluation of one's life course.",
+          "unit": "Unit 9",
+          "topic": "9.2 Major Developmental Theories",
+          "subtopic": "Psychosocial Development (Erikson)",
+          "concept": "Ego Integrity vs Despair: evaluation of one's life course in old age",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 40,
+          "question": "According to Freud, the mechanism that leads to fixation at a stage of development is:",
+          "options": [
+            "(A) excessive anxiety",
+            "(B) depression",
+            "(C) too much or too little guilt",
+            "(D) too much or too little gratification"
+          ],
+          "correct_answer": 4,
+          "correct_text": "too much or too little gratification",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Psychoanalytic Approach",
+          "concept": "Fixation: results from too much or too little gratification at a psychosexual stage",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 41,
+          "question": "Match List-I with List-II:\n\n| List-I (Phenomena) | List-II (Concept/Principle in operant conditioning) |\n|---|---|\n| (A) More preferred activity used to reinforce less preferred one | (i) Conditioned reinforcer |\n| (B) Withdrawal of an aversive state following a response | (ii) Positive reinforcement |\n| (C) Introduction of an aversive state following a response | (iii) Premack Principle |\n| (D) Events acting as positive reinforcers through their association with primary reinforcers | (iv) Punishment |\n| | (v) Negative reinforcement |\n\n**Codes:**\n\n| | (A) | (B) | (C) | (D) |\n|---|---|---|---|---|\n| (A) | (i) | (iii) | (i) | (v) |\n| (B) | (v) | (v) | (iv) | (iv) |\n| (C) | (ii) | (iv) | (v) | (iii) |\n| (D) | (iii) | (i) | (ii) | (i) |",
+          "options": [
+            "(A) (i), (iii), (i), (v)",
+            "(B) (v), (v), (iv), (iv)",
+            "(C) (iii), (v), (iv), (i)",
+            "(D) (iii), (i), (ii), (i)"
+          ],
+          "correct_answer": 3,
+          "correct_text": "(iii), (v), (iv), (i)",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Operant Conditioning",
+          "concept": "Key operant conditioning concepts: (A) The Premack Principle states that a more preferred activity can be used to reinforce a less preferred one — e.g., allowing play after homework (iii). (B) Negative reinforcement involves the withdrawal or removal of an aversive state following a response, which increases the likelihood of that response recurring (v). (C) Punishment involves the introduction of an aversive state following a response, which decreases the likelihood of that response (iv). (D) A conditioned reinforcer is an event that acts as a positive reinforcer through its association with primary reinforcers — e.g., money becomes reinforcing because it is associated with obtaining food and shelter (i). Option (C) correctly maps A=iii, B=v, C=iv, D=i.",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null,
+          "explanation": "A=iii (Premack Principle: more preferred activity reinforces less preferred), B=v (Negative reinforcement: withdrawal of aversive state), C=iv (Punishment: introduction of aversive state), D=i (Conditioned reinforcer: associated with primary reinforcers). Option (C) now correctly reflects this mapping."
+        },
+        {
+          "id": 42,
+          "question": "**Assertion (A):** Variable-ratio schedule of reinforcement results in responses which are highly resistant to extinction.\n\n**Reason (R):** When reinforcement is infrequent and intermittent, organisms continue to respond because they cannot recognize the nonavailability of reinforcement.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "(B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+            "(C) (A) is true but (R) is false",
+            "(D) (A) is false but (R) is true"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Schedules of Reinforcement",
+          "concept": "VR schedule: most resistant to extinction because unpredictable reinforcement maintains responding",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 43,
+          "question": "Design that reduces the number of rival hypotheses but compromises control is:",
+          "options": [
+            "(A) Multiple-Factor Design",
+            "(B) Randomized Design",
+            "(C) Mixed Design",
+            "(D) Quasi-Experimental Design"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Quasi-Experimental Design",
+          "unit": "Unit 2",
+          "topic": "2.5 Methods of Research",
+          "subtopic": "Quasi-Experimental Design",
+          "concept": "Quasi-experimental: reduces some rival hypotheses but lacks full experimental control",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 44,
+          "question": "Perceptual process involves:",
+          "options": [
+            "(A) visualizing the stimuli only",
+            "(B) feeling of the stimuli only",
+            "(C) organization and interpretation only",
+            "(D) all of the above"
+          ],
+          "correct_answer": 4,
+          "correct_text": "all of the above",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Nature of Perception",
+          "concept": "Perception involves visualization, feeling, organization, and interpretation of stimuli",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": null,
+          "table_ref": null
+        }
+      ]
+    },
+    {
+      "type": "passage",
+      "id": "passage_45",
+      "heading": "Read the following passage carefully and answer questions from 45 to 50:",
+      "text": "With the growing interest in organizational factors in memory, it was perhaps inevitable that psychologists would turn to the analysis of mnemonic devices. Mnemonic devices are those which enable the person to enrich or elaborate upon the material to be learned, all with the aim of helping her to remember it better. They typically help the person to classify and organize the material.\n\nOne mnemonic device that has been analyzed extensively (Bower, 1970 b) is the \"pegword\" method for learning ordered lists of items such as shopping lists, errands, historical events, sets of laws in psychology, and so on. The person first learns a list of rhyming pegwords, pairing concrete images with the first 20 or so integers. In learning a new list of items, the person then uses successive pegwords as imagined pegs upon which to hook the successive items of the list. As the first list word occurs (cigar), the person is to call to mind her first pegword and form a mental image of some vivid scene of interaction between the two objects.\n\nThe images may be as bizarre as one wishes — their effectiveness seems independent of that aspect. This same procedure for imaginal pairing is followed for each of the list words in turn. To revive the list in memory the person needs only to go through her already well learned list of pegwords, and as she considers each one in turn she tries to recreate or recall the imaginal scene elaborated around that pegword image; from this remembered scene, she can usually name the desired item (\"cigar\").\n\nThis and similar schemes are exceedingly effective, at least in comparison to normal free recall of subjects not thought to use any special tricks. One of the main reasons the device works so well is that the person has a systematic retrieval scheme — she knows how to cue herself with the items (the pegwords) to which she has explicitly associated the list words as they were presented. The usual free-recall subject, on the other hand, simply does not know how to remind herself of all the list words she knows. The advantage for the pegword user, therefore, is partly the result of her knowing how to systematically retrieve each of the words from each input-list position. The second advantage of the pegword method undoubtedly stems from its deployment of mnemonic imagery."
+    },
+    {
+      "type": "questions_block",
+      "range": "Q45–Q50",
+      "passage_ref": "passage_45",
+      "questions": [
+        {
+          "id": 45,
+          "question": "This passage is primarily concerned with:",
+          "options": [
+            "(A) organization of memory in human brain",
+            "(B) free recall methods",
+            "(C) techniques of recall",
+            "(D) strategies for better memory"
+          ],
+          "correct_answer": 4,
+          "correct_text": "strategies for better memory",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Mnemonic Devices",
+          "concept": "Mnemonic devices as strategies for improving memory",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": "passage_45",
+          "table_ref": null
+        },
+        {
+          "id": 46,
+          "question": "The \"pegword\" method involves:",
+          "options": [
+            "(A) using some rhyming words in sequence to associate with the words in a list to be memorised.",
+            "(B) using hooks to remember words.",
+            "(C) using numbers to remember a list",
+            "(D) using rhymes to organize the words."
+          ],
+          "correct_answer": 1,
+          "correct_text": "using some rhyming words in sequence to associate with the words in a list to be memorised.",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Mnemonic Devices",
+          "concept": "Pegword method: rhyming pegwords paired with items via imagery",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": "passage_45",
+          "table_ref": null
+        },
+        {
+          "id": 47,
+          "question": "**Assertion (A):** Effective use of mnemonic devices improves recall quite significantly.\n\n**Reason (R):** Mnemonic devices provide effective cues for retrieval.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "(B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+            "(C) (A) is true but (R) is false",
+            "(D) (A) is false but (R) is true"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Mnemonic Devices",
+          "concept": "Mnemonics improve recall by providing systematic retrieval cues",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": "passage_45",
+          "table_ref": null
+        },
+        {
+          "id": 48,
+          "question": "Mnemonic devices are:\n\n(I) useful to learner\n(II) strategies for deciding on the order of free recall\n(III) the ones which provide retrieval schemes",
+          "options": [
+            "(A) I and II are correct",
+            "(B) II and III are correct",
+            "(C) I and III are correct",
+            "(D) I, II and III are correct"
+          ],
+          "correct_answer": 3,
+          "correct_text": "I and III are correct",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Mnemonic Devices",
+          "concept": "Mnemonics are useful (I) and provide retrieval schemes (III); they're not about ordering free recall (II)",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": "passage_45",
+          "table_ref": null
+        },
+        {
+          "id": 49,
+          "question": "A retrieval scheme is:",
+          "options": [
+            "(A) a plan for the order of recall",
+            "(B) one way of reminding the learner of the item to be recalled",
+            "(C) one of many \"pegword\" techniques",
+            "(D) a specific imaging technique"
+          ],
+          "correct_answer": 2,
+          "correct_text": "one way of reminding the learner of the item to be recalled",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Retrieval",
+          "concept": "Retrieval scheme: systematic way to cue recall of learned items",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": "passage_45",
+          "table_ref": null
+        },
+        {
+          "id": 50,
+          "question": "Which of the following statements is/are true of pegword device?\n\n(I) The nature of images do not affect the effectiveness of pegword technique.\n(II) It provides the learner necessary cues to systematically recall items.\n(III) The advantages of the device are due to the use of mnemonic imagery.",
+          "options": [
+            "(A) I and II are true.",
+            "(B) I and III are true.",
+            "(C) II and III are true.",
+            "(D) I, II and III are true."
+          ],
+          "correct_answer": 4,
+          "correct_text": "I, II and III are true.",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Mnemonic Devices",
+          "concept": "Pegword: image nature doesn't matter (I), provides systematic cues (II), advantages from mnemonic imagery (III)",
+          "era": "UGC",
+          "year": 2006,
+          "passage_ref": "passage_45",
+          "table_ref": null
+        }
+      ]
+    }
+  ]
+}

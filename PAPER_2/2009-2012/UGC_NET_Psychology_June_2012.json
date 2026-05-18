@@ -1,0 +1,1034 @@
+{
+  "paper_metadata": {
+    "title": "UGC NET/JRF Examination, June 2012",
+    "date": "June 2012",
+    "subject": "Psychology — Paper II"
+  },
+  "content": [
+    {
+      "type": "questions_block",
+      "range": "Q1–Q30",
+      "questions": [
+        {
+          "id": 1,
+          "question": "We sometimes attempt to solve problems by applying the techniques that worked in similar situations in the past. What type of method are we using?",
+          "options": [
+            "(A) Trial and error",
+            "(B) Analogy",
+            "(C) Algorithms",
+            "(D) Heuristics"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Analogy",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Problem Solving",
+          "concept": "Analogical problem solving — using strategies from similar past situations",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 2,
+          "question": "The fact that a nearer object may obscure a more distant object from the view is due to:",
+          "options": [
+            "(A) Figure and ground",
+            "(B) Proximity",
+            "(C) Interposition",
+            "(D) Closure"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Interposition",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Depth Perception",
+          "concept": "Interposition — monocular depth cue where near object overlaps distant object",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 3,
+          "question": "Match List-I with List-II and indicate your answer with the help of codes given below:\n\n| List – I (Phenomenon) | List – II (Psychologist) |\n| --- | --- |\n| p. Learned helplessness | 1. Bandura |\n| q. Cognitive map | 2. Seligman |\n| r. Observational learning | 3. Wolpe |\n| s. Systematic desensitization | 4. Tolman |\n\n**Codes**:\n\n|   | p | q | r | s |\n| --- | --- | --- | --- | --- |\n| (A) | 2 | 4 | 1 | 3 |\n| (B) | 3 | 4 | 2 | 1 |\n| (C) | 1 | 3 | 4 | 2 |\n| (D) | 4 | 2 | 3 | 1 |",
+          "options": [
+            "(A) p→2, q→4, r→1, s→3",
+            "(B) p→3, q→4, r→2, s→1",
+            "(C) p→1, q→3, r→4, s→2",
+            "(D) p→4, q→2, r→3, s→1"
+          ],
+          "correct_answer": 1,
+          "correct_text": "p→2, q→4, r→1, s→3",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Learning Concepts",
+          "concept": "Matching: Learned helplessness-Seligman, Cognitive map-Tolman, Observational learning-Bandura, Systematic desensitization-Wolpe",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 4,
+          "question": "In a $3 \\times 4$ contingency table, using chi-square test, the degrees of freedom associated with the chi-square will be:",
+          "options": [
+            "(A) 12",
+            "(B) 9",
+            "(C) 7",
+            "(D) 6"
+          ],
+          "correct_answer": 4,
+          "correct_text": "6",
+          "unit": "Unit 2",
+          "topic": "2.7 Inferential Statistics",
+          "subtopic": "Non-Parametric Tests",
+          "concept": "Chi-square degrees of freedom: (rows-1)(columns-1) = (3-1)(4-1) = 6",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 5,
+          "question": "Match List-I with List-II and indicate your answer using the codes given below:\n\n| List – I (Function) | List – II (Area of the Brain) |\n| --- | --- |\n| p. Visuo-spatial function | 1. Hypothalamus |\n| q. Social norms | 2. Cerebellum |\n| r. Releasing factors | 3. Orbito-frontal cortex |\n| s. Balance | 4. Parietal cortex |\n\n**Codes**:\n\n|   | p | q | r | s |\n| --- | --- | --- | --- | --- |\n| (A) | 2 | 1 | 4 | 3 |\n| (B) | 1 | 2 | 3 | 4 |\n| (C) | 4 | 3 | 2 | 1 |\n| (D) | 4 | 3 | 1 | 2 |",
+          "options": [
+            "(A) p→2, q→1, r→4, s→3",
+            "(B) p→1, q→2, r→3, s→4",
+            "(C) p→4, q→3, r→2, s→1",
+            "(D) p→4, q→3, r→1, s→2"
+          ],
+          "correct_answer": 4,
+          "correct_text": "p→4, q→3, r→1, s→2",
+          "unit": "Unit 4",
+          "topic": "4.3 Nervous System",
+          "subtopic": "Brain Structures and Functions",
+          "concept": "Brain function matching: Visuospatial-Parietal cortex, Social norms-Orbitofrontal cortex, Releasing factors-Hypothalamus, Balance-Cerebellum",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 6,
+          "question": "Read each of the following two statements – Assertion (A) and Reason (R) and indicate your answer using the codes below:\n\n**Assertion (A)**: In Edwards Personal Preference Schedule (EPPS), forced choice format is used.\n\n**Reason (R)**: Forced choice format reduces acquiescence response set.\n\n**Codes**:",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true but (R) is not the correct explanation of (A).",
+            "(C) (A) is true but (R) is false.",
+            "(D) (A) is false but (R) is true."
+          ],
+          "correct_answer": 3,
+          "correct_text": "(A) is true but (R) is false.",
+          "unit": "Unit 3",
+          "topic": "3.6 Types of Tests by Domain",
+          "subtopic": "Personality Tests",
+          "concept": "EPPS uses forced-choice format to reduce social desirability bias, not acquiescence response set",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 7,
+          "question": "Why do individuals with high need for achievement quit early when faced by very difficult task?",
+          "options": [
+            "(A) Get tired easily",
+            "(B) Have poor perseverance",
+            "(C) Have high anxiety",
+            "(D) Have high need for efficiency"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Have high need for efficiency",
+          "unit": "Unit 7",
+          "topic": "7.2 Motivation",
+          "subtopic": "Theories of Motivation",
+          "concept": "McClelland's nAch theory — high achievers prefer moderate challenges; they quit very difficult tasks as they view them as inefficient since success depends on luck, not effort",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 8,
+          "question": "**Assertion (A)**: According to R. B. Cattell, source traits are important in the understanding of personality.\n\n**Reason (R)**: Oblique rotation is used for uncovering source traits.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true but (R) is not the correct explanation of (A).",
+            "(C) (A) is true but (R) is false.",
+            "(D) (A) is false but (R) is true."
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Trait and Type Theories",
+          "concept": "Cattell's source traits identified through oblique rotation factor analysis",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 9,
+          "question": "Which of the following represents the Tetrad equation as given by Spearman?",
+          "options": [
+            "(A) $r_{12} \\times r_{34} = r_{14} \\times r_{23}$",
+            "(B) $r_{13} \\times r_{24} = r_{14} \\times r_{23}$",
+            "(C) $r_{14} \\times r_{23} = r_{13} \\times r_{24}$",
+            "(D) All of these"
+          ],
+          "correct_answer": 4,
+          "correct_text": "All of these",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Theories of Intelligence",
+          "concept": "Spearman's tetrad criterion — r12×r34, r13×r24, and r14×r23 are all equivalent tetrad equality expressions verifying a single common factor (g)",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 10,
+          "question": "What among the following define a problem space?\n\n1. An initial state\n2. A goal state\n3. A set of operations",
+          "options": [
+            "(A) 1, 3",
+            "(B) 1, 2",
+            "(C) 2, 3",
+            "(D) 1, 2, 3"
+          ],
+          "correct_answer": 4,
+          "correct_text": "1, 2, 3",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Problem Solving",
+          "concept": "Newell & Simon's problem space — initial state, goal state, and set of operators",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 11,
+          "question": "A generalized picture or model of an object or event, learned in the past and stored in memory, is:",
+          "options": [
+            "(A) perceptual constancy",
+            "(B) memory trace",
+            "(C) prototype",
+            "(D) cognitive map"
+          ],
+          "correct_answer": 3,
+          "correct_text": "prototype",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Concept Formation",
+          "concept": "Prototype theory (Rosch) — generalized mental model of category exemplars",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 12,
+          "question": "**Assertion (A)**: We are able to recognize the similarity and differences of two objects.\n\n**Reason (R)**: Dissociable subsystems operate simultaneously in each cerebral hemisphere.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true but (R) is not the correct explanation of (A).",
+            "(C) (A) is true but (R) is false.",
+            "(D) Both (A) and (R) are false."
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Pattern Recognition",
+          "concept": "Dissociable subsystems in each cerebral hemisphere process features simultaneously, enabling object similarity/difference recognition — R correctly explains A",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 13,
+          "question": "What is the correct sequence of events given below?\n\n1. Releasing of neurotransmitters\n2. Post synaptic potential\n3. Binding on receptor sites\n4. Synthesis of neurotransmitters",
+          "options": [
+            "(A) 1 2 3 4",
+            "(B) 4 3 2 1",
+            "(C) 4 1 3 2",
+            "(D) 2 4 1 3"
+          ],
+          "correct_answer": 3,
+          "correct_text": "4 1 3 2",
+          "unit": "Unit 4",
+          "topic": "4.2 Neurons",
+          "subtopic": "Synaptic Transmission",
+          "concept": "Synaptic transmission sequence: Synthesis → Release → Receptor binding → Postsynaptic potential",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 14,
+          "question": "**Assertion (A)**: The amplitude of the action potential in a neuron does not go beyond $+40 \\mathrm{mV}$.\n\n**Reason (R)**: Neurons function on \"all or none\" basis.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true but (R) is not the correct explanation of (A).",
+            "(C) (A) is true but (R) is false.",
+            "(D) (A) is false but (R) is true."
+          ],
+          "correct_answer": 2,
+          "correct_text": "Both (A) and (R) are true but (R) is not the correct explanation of (A).",
+          "unit": "Unit 4",
+          "topic": "4.2 Neurons",
+          "subtopic": "Action Potential",
+          "concept": "Action potential amplitude (~+40mV) and all-or-none law — both true but independently correct",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 15,
+          "question": "A man reflects his anger from his boss to his child, is an example of:",
+          "options": [
+            "(A) Projection",
+            "(B) Reaction Formation",
+            "(C) Displacement",
+            "(D) Regression"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Displacement",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Psychoanalytic Approach",
+          "concept": "Displacement — redirecting emotions from threatening source to safer target",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 16,
+          "question": "Speed and power tests can be distinguished on the basis of:\n\n1. Time limit\n2. Difficulty level\n3. Verbal/Non-verbal content",
+          "options": [
+            "(A) 1 and 2",
+            "(B) 1 and 3",
+            "(C) 2 and 3",
+            "(D) 1, 2 and 3"
+          ],
+          "correct_answer": 1,
+          "correct_text": "1 and 2",
+          "unit": "Unit 3",
+          "topic": "3.1 Principles of Testing",
+          "subtopic": "Types of Tests",
+          "concept": "Speed tests have time limits with easy items; power tests have no time limit with increasing difficulty",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 17,
+          "question": "Natural concepts are based on:",
+          "options": [
+            "(A) prototypes",
+            "(B) a set of rules/properties",
+            "(C) schemas",
+            "(D) propositions"
+          ],
+          "correct_answer": 1,
+          "correct_text": "prototypes",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Concept Formation",
+          "concept": "Natural concepts organized around prototypes (Rosch) — most typical exemplar",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 18,
+          "question": "Match List-I with List-II and indicate your answer using the codes given below:\n\n| List – I (Presentation of reinforcement) | List – II (Type of reinforcement) |\n| --- | --- |\n| p. An unpleasant stimulus is presented to decrease behaviour | 1. Positive reinforcement |\n| q. An unpleasant stimulus is removed to increase behaviour | 2. Negative reinforcement |\n| r. A pleasant stimulus is presented to increase behaviour | 3. Positive punishment |\n| s. A pleasant stimulus is removed to decrease behaviour | 4. Negative punishment |\n\n**Codes**:\n\n|   | p | q | r | s |\n| --- | --- | --- | --- | --- |\n| (A) | 1 | 2 | 3 | 4 |\n| (B) | 2 | 3 | 4 | 1 |\n| (C) | 4 | 1 | 3 | 2 |\n| (D) | 3 | 2 | 1 | 4 |",
+          "options": [
+            "(A) p→1, q→2, r→3, s→4",
+            "(B) p→2, q→3, r→4, s→1",
+            "(C) p→4, q→1, r→3, s→2",
+            "(D) p→3, q→2, r→1, s→4"
+          ],
+          "correct_answer": 4,
+          "correct_text": "p→3, q→2, r→1, s→4",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Operant Conditioning",
+          "concept": "Reinforcement/punishment types: unpleasant presented-positive punishment, unpleasant removed-negative reinforcement, pleasant presented-positive reinforcement, pleasant removed-negative punishment",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 19,
+          "question": "Short term memory is capable of holding approximately how many items of unrelated information?",
+          "options": [
+            "(A) one",
+            "(B) two to four",
+            "(C) five to nine",
+            "(D) ten to twelve"
+          ],
+          "correct_answer": 3,
+          "correct_text": "five to nine",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Short-Term Memory",
+          "concept": "Miller's magical number 7 ± 2 — STM capacity of 5 to 9 items",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 20,
+          "question": "Learning of fears is best explained by:",
+          "options": [
+            "(A) Operant conditioning",
+            "(B) Classical conditioning",
+            "(C) Observational learning",
+            "(D) Latent learning"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Classical conditioning",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Classical Conditioning",
+          "concept": "Fear conditioning through classical conditioning (Watson & Rayner, Little Albert)",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 21,
+          "question": "Choose the correct sequence of emergence of the following theories of emotion:\n\n1. James – Lange\n2. Cannon – Bard\n3. Schachter and Singer\n4. Darwin",
+          "options": [
+            "(A) 1 3 2 4",
+            "(B) 4 3 2 1",
+            "(C) 4 1 2 3",
+            "(D) 1 2 3 4"
+          ],
+          "correct_answer": 3,
+          "correct_text": "4 1 2 3",
+          "unit": "Unit 7",
+          "topic": "7.3 Emotion",
+          "subtopic": "Theories of Emotion",
+          "concept": "Chronological order: Darwin (1872) → James-Lange (1884/1885) → Cannon-Bard (1927) → Schachter-Singer (1962)",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 22,
+          "question": "What is true of drives?\n\n1. Internal states\n2. Aroused by tension\n3. Underlying need\n4. Guided by external stimuli",
+          "options": [
+            "(A) 1, 2 and 4",
+            "(B) 1, 2 and 3",
+            "(C) 2, 3 and 4",
+            "(D) 1, 2, 3 and 4"
+          ],
+          "correct_answer": 2,
+          "correct_text": "1, 2 and 3",
+          "unit": "Unit 7",
+          "topic": "7.2 Motivation",
+          "subtopic": "Nature of Motivation",
+          "concept": "Drive characteristics: internal states, aroused by tension, based on underlying needs (Hull's Drive Theory)",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 23,
+          "question": "Intellectual functioning is mainly in the domain of which lobe of the Cortex?",
+          "options": [
+            "(A) Occipital lobe",
+            "(B) Frontal lobe",
+            "(C) Parietal lobe",
+            "(D) Temporal lobe"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Frontal lobe",
+          "unit": "Unit 4",
+          "topic": "4.3 Nervous System",
+          "subtopic": "Cerebral Cortex",
+          "concept": "Frontal lobe — executive functions, planning, reasoning, intellectual functioning",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 24,
+          "question": "A nerve cell that responds to a vertical line but not to horizontal line is an example of",
+          "options": [
+            "(A) linear perspective system",
+            "(B) feature detector",
+            "(C) pattern analyser",
+            "(D) selection and organization process"
+          ],
+          "correct_answer": 2,
+          "correct_text": "feature detector",
+          "unit": "Unit 4",
+          "topic": "4.1 Sensory Systems",
+          "subtopic": "Vision",
+          "concept": "Feature detectors (Hubel & Wiesel) — neurons responding to specific visual features like orientation",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 25,
+          "question": "The visual signals from each retina reach striate cortex via which of the following?",
+          "options": [
+            "(A) Lateral geniculate nucleus",
+            "(B) Medical geniculate nucleus",
+            "(C) Infero-temporal cortex",
+            "(D) Posterior parietal cortex"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Lateral geniculate nucleus",
+          "unit": "Unit 4",
+          "topic": "4.1 Sensory Systems",
+          "subtopic": "Visual Pathway",
+          "concept": "Visual pathway: Retina → Lateral Geniculate Nucleus (LGN) → Striate cortex (V1)",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 26,
+          "question": "Observational learning involves:\n\n1. Attention and retention\n2. Attention and Reinforcement\n3. Production processes and motivation\n4. Reinforcement and motivation",
+          "options": [
+            "(A) 1 and 3 only",
+            "(B) 2 and 4 only",
+            "(C) 3 and 4 only",
+            "(D) 1 and 2 only"
+          ],
+          "correct_answer": 1,
+          "correct_text": "1 and 3 only",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Observational Learning",
+          "concept": "Bandura's observational learning processes: Attention, Retention, Reproduction (Production), Motivation",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 27,
+          "question": "Which of the following factors reduce the accuracy of eyewitness testimony?\n\n1. Suggestibility\n2. Source monitoring errors\n3. Interference\n4. Decay of memory traces\n5. Illusion of outgroup homogeneity",
+          "options": [
+            "(A) 1, 2 and 3",
+            "(B) 1, 3 and 4",
+            "(C) 1, 2 and 5",
+            "(D) 2, 3 and 5"
+          ],
+          "correct_answer": 3,
+          "correct_text": "1, 2 and 5",
+          "unit": "Unit 5",
+          "topic": "5.5 Forgetting",
+          "subtopic": "Eyewitness Testimony",
+          "concept": "Factors reducing eyewitness accuracy: suggestibility, source monitoring errors, illusion of outgroup homogeneity",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 28,
+          "question": "Microsleep occurs mainly due to one of the following:",
+          "options": [
+            "(A) Sleep disorder",
+            "(B) Drugged state",
+            "(C) Sleep deprivation",
+            "(D) Dreaming state"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Sleep deprivation",
+          "unit": "Unit 4",
+          "topic": "4.3 Nervous System",
+          "subtopic": "Sleep and Arousal",
+          "concept": "Microsleep — brief involuntary sleep episodes caused by sleep deprivation",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 29,
+          "question": "Self-Efficacy is",
+          "options": [
+            "(A) A person's mental model of his or her ability and attitudes.",
+            "(B) A generalised evaluative attitude toward the self that influences both moods and behaviour",
+            "(C) The process by which a person comes to know or perceive the personal attributes",
+            "(D) A set of beliefs that one can perform adequately in a particular situation."
+          ],
+          "correct_answer": 4,
+          "correct_text": "A set of beliefs that one can perform adequately in a particular situation.",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Social-Cognitive Approach",
+          "concept": "Bandura's self-efficacy — situation-specific beliefs about capability to perform",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 30,
+          "question": "Which one of the following is a product in Guilford's model?",
+          "options": [
+            "(A) Evaluation",
+            "(B) Cognition",
+            "(C) Transformation",
+            "(D) Symbols"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Transformation",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Theories of Intelligence",
+          "concept": "Guilford's SOI model — Products include Units, Classes, Relations, Systems, Transformations, Implications",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        }
+      ]
+    },
+    {
+      "type": "passage",
+      "id": "passage_31",
+      "heading": "Passage (Questions 31–34)",
+      "text": "A researcher wanted to test the hypothesis that a given drug would adversely affect the rate of learning. A group of 40 subjects was employed in the research. Each subject was required to learn a task upto two errorless trials. Then each subject was given a specified drug dosage (1mg/body weight in kilogram) and thirty minutes after, the subject was required to learn another equated learning task upto two errorless trials. The number of trials required to learn each task followed a normal distribution. The mean number of trials required to learn the tasks were 24 and 20 only for normal and 'drugged conditions', respectively. The two conditions had comparable standard deviations. The mean difference was tested by a suitable statistical test and the difference was found to be significant at .01 level."
+    },
+    {
+      "type": "questions_block",
+      "range": "Q31–Q34",
+      "passage_ref": "passage_31",
+      "questions": [
+        {
+          "id": 31,
+          "question": "What can you conclude about the researcher's hypothesis?",
+          "options": [
+            "(A) The hypothesis has been verified",
+            "(B) The hypothesis has been rejected",
+            "(C) The hypothesis has been partially verified",
+            "(D) The data are inadequate to evaluate researcher's hypothesis."
+          ],
+          "correct_answer": 2,
+          "correct_text": "The hypothesis has been rejected",
+          "unit": "Unit 2",
+          "topic": "2.1 Foundations of Research",
+          "subtopic": "Hypothesis Testing",
+          "concept": "Hypothesis predicted drug would adversely affect learning (increase trials) but drugged condition showed fewer trials",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": "passage_31",
+          "table_ref": null
+        },
+        {
+          "id": 32,
+          "question": "What statistical test appears to be suitable for evaluating mean differences?",
+          "options": [
+            "(A) Independent samples t test",
+            "(B) One-way ANOVA for independent groups",
+            "(C) Paired samples t-test",
+            "(D) Chi-square test"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Paired samples t-test",
+          "unit": "Unit 2",
+          "topic": "2.7 Inferential Statistics",
+          "subtopic": "Parametric Tests",
+          "concept": "Same subjects under two conditions (within-subjects) — paired samples t-test appropriate",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": "passage_31",
+          "table_ref": null
+        },
+        {
+          "id": 33,
+          "question": "The dependent variable in this experiment is:",
+          "options": [
+            "(A) Drug dosage",
+            "(B) Trials required to learn the task",
+            "(C) Body weight",
+            "(D) Time interval between the drug administration and learning the second task"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Trials required to learn the task",
+          "unit": "Unit 2",
+          "topic": "2.1 Foundations of Research",
+          "subtopic": "Variables",
+          "concept": "DV is the measured outcome — number of trials to learn the task",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": "passage_31",
+          "table_ref": null
+        },
+        {
+          "id": 34,
+          "question": "The above information suggests that:\n\n1. Parametric model should be followed in data analysis\n2. Non-parametric model should be followed in data analysis.\n3. The scores under two conditions appear to have homogeneity of variance\n4. The scores under two conditions appear to be heterogeneous for variance.",
+          "options": [
+            "(A) 1 and 3 only",
+            "(B) 1 and 4 only",
+            "(C) 2 and 3 only",
+            "(D) 2 and 4 only"
+          ],
+          "correct_answer": 1,
+          "correct_text": "1 and 3 only",
+          "unit": "Unit 2",
+          "topic": "2.7 Inferential Statistics",
+          "subtopic": "Parametric Assumptions",
+          "concept": "Normal distribution and comparable SDs indicate parametric approach with homogeneity of variance",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": "passage_31",
+          "table_ref": null
+        }
+      ]
+    },
+    {
+      "type": "questions_block",
+      "range": "Q35–Q50",
+      "questions": [
+        {
+          "id": 35,
+          "question": "Railroad tracks that seem to draw closer together as they recede into the distance are an example of",
+          "options": [
+            "(A) linear perspective",
+            "(B) relative size",
+            "(C) binocular vision",
+            "(D) feature detection"
+          ],
+          "correct_answer": 1,
+          "correct_text": "linear perspective",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Depth Perception",
+          "concept": "Linear perspective — monocular depth cue where parallel lines converge with distance",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 36,
+          "question": "Memory for particular events is called:",
+          "options": [
+            "(A) semantic",
+            "(B) sensory",
+            "(C) episodic",
+            "(D) procedural"
+          ],
+          "correct_answer": 3,
+          "correct_text": "episodic",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Types of Long-Term Memory",
+          "concept": "Episodic memory (Tulving) — memory for personally experienced events",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 37,
+          "question": "A test of Abstract Thinking had the norms in terms of normalized T scores (Mean = 50, SD = 10). If the subject received a T score of 60, what would be his percentile rank?",
+          "options": [
+            "(A) 16",
+            "(B) 60",
+            "(C) 66",
+            "(D) 84"
+          ],
+          "correct_answer": 4,
+          "correct_text": "84",
+          "unit": "Unit 3",
+          "topic": "3.5 Norms and Standardization",
+          "subtopic": "Derived Scores",
+          "concept": "T score of 60 = 1 SD above mean → z = 1.0 → approximately 84th percentile",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 38,
+          "question": "Match List-I with List-II and indicate your answer using the codes given below:\n\n| List – I (Childhood experience) | List – II (Personality characteristic) |\n| --- | --- |\n| p. Little gratification in oral stage | 1. Overly dependent |\n| q. Excessive gratification in oral stage | 2. Impulsive |\n| r. Overly harsh toilet training in Anal stage | 3. Hostile |\n| s. Relieved toilet training in Anal stage | 4. Compulsive |\n\n**Codes**:\n\n|   | p | q | r | s |\n| --- | --- | --- | --- | --- |\n| (A) | 2 | 4 | 3 | 1 |\n| (B) | 1 | 3 | 4 | 2 |\n| (C) | 1 | 4 | 2 | 3 |\n| (D) | 2 | 3 | 1 | 4 |",
+          "options": [
+            "(A) p→2, q→4, r→3, s→1",
+            "(B) p→1, q→3, r→4, s→2",
+            "(C) p→1, q→4, r→2, s→3",
+            "(D) p→2, q→3, r→1, s→4"
+          ],
+          "correct_answer": 2,
+          "correct_text": "p→1, q→3, r→4, s→2",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Psychoanalytic Approach",
+          "concept": "Freud's psychosexual development: Little oral gratification-dependent, Excessive oral-hostile, Harsh anal training-compulsive, Permissive anal-impulsive",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 39,
+          "question": "Multiple Abstract Variance Analysis is used to study the effect of",
+          "options": [
+            "(A) one independent variable on more than one dependent variables",
+            "(B) more than one independent variables on one dependent variable",
+            "(C) more than one independent variables on more than one dependent variables",
+            "(D) None of these"
+          ],
+          "correct_answer": 4,
+          "correct_text": "None of these",
+          "unit": "Unit 2",
+          "topic": "2.7 Inferential Statistics",
+          "subtopic": "Advanced Techniques",
+          "concept": "MAVA (Cattell) — partitions trait variance into genetic and environmental components using multiple kinship sources; does not fit the traditional IV-DV analysis framework",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 40,
+          "question": "Match List-I with List-II and indicate your answer using the codes given below:\n\n| List – I (Brief description) | List – II (Type of reinforcement) |\n| --- | --- |\n| p. reinforcement occurs after a set time period | 1. fixed ratio |\n| q. reinforcement occurs after a set number of responses | 2. variable interval |\n| r. reinforcement occurs after a varying time period | 3. fixed interval |\n| s. reinforcement occurs after a varying number of responses | 4. variable ratio |\n\n**Codes**:\n\n|   | p | q | r | s |\n| --- | --- | --- | --- | --- |\n| (A) | 3 | 1 | 2 | 4 |\n| (B) | 1 | 4 | 3 | 2 |\n| (C) | 4 | 3 | 1 | 2 |\n| (D) | 2 | 4 | 3 | 1 |",
+          "options": [
+            "(A) p→3, q→1, r→2, s→4",
+            "(B) p→1, q→4, r→3, s→2",
+            "(C) p→4, q→3, r→1, s→2",
+            "(D) p→2, q→4, r→3, s→1"
+          ],
+          "correct_answer": 1,
+          "correct_text": "p→3, q→1, r→2, s→4",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Schedules of Reinforcement",
+          "concept": "Reinforcement schedules: set time-FI, set responses-FR, varying time-VI, varying responses-VR",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 41,
+          "question": "Which of the following effectors is mainly responsible for instrumental (motor) response?",
+          "options": [
+            "(A) Smooth muscles",
+            "(B) Cardiac muscles",
+            "(C) Skeletal muscle",
+            "(D) Adrenal gland"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Skeletal muscle",
+          "unit": "Unit 4",
+          "topic": "4.3 Nervous System",
+          "subtopic": "Somatic Nervous System",
+          "concept": "Skeletal (voluntary) muscles execute instrumental/operant motor responses",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 42,
+          "question": "A process following learning during which a memory becomes more firmly established is called:",
+          "options": [
+            "(A) over-learning",
+            "(B) consolidation",
+            "(C) transfer period",
+            "(D) constructive processing"
+          ],
+          "correct_answer": 2,
+          "correct_text": "consolidation",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Memory Consolidation",
+          "concept": "Memory consolidation — post-learning process stabilizing memory trace",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 43,
+          "question": "**Assertion (A)**: A large body of research indicates that violence and aggression is learned through observation.\n\n**Reason (R)**: Learning through observation takes place due to exposure to similar situation and experienced reinforcement.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true but (R) is not the correct explanation of (A).",
+            "(C) (A) is true but (R) is false.",
+            "(D) Both (A) and (R) are false."
+          ],
+          "correct_answer": 3,
+          "correct_text": "(A) is true but (R) is false.",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Observational Learning",
+          "concept": "Observational learning (Bandura) occurs through vicarious reinforcement, not direct experienced reinforcement; (R) is false because the mechanism is modeling/observation, not exposure to similar situations with reinforcement",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 44,
+          "question": "Some steps in test construction are listed below:\n\n1. Internal consistency assessment\n2. Item analysis\n3. Test-retest reliability\n4. Item writing\n\nUsually, the above steps are carried out in the following sequence.",
+          "options": [
+            "(A) 4, 2, 1, 3",
+            "(B) 4, 1, 3, 2",
+            "(C) 2, 4, 1, 3",
+            "(D) 4, 3, 2, 1"
+          ],
+          "correct_answer": 1,
+          "correct_text": "4, 2, 1, 3",
+          "unit": "Unit 3",
+          "topic": "3.2 Test Construction",
+          "subtopic": "Steps in Test Construction",
+          "concept": "Test construction sequence: Item writing → Item analysis → Internal consistency → Test-retest reliability",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 45,
+          "question": "What is the correct order of the following conflicts occurring in an individual's life?\n\n1. Autonomy V/s self doubt\n2. Identity V/s Role confusion\n3. Competence V/s Inferiority\n4. Intimacy V/s Isolation",
+          "options": [
+            "(A) 1 2 3 4",
+            "(B) 2 1 4 3",
+            "(C) 1 3 2 4",
+            "(D) 3 2 4 1"
+          ],
+          "correct_answer": 3,
+          "correct_text": "1 3 2 4",
+          "unit": "Unit 9",
+          "topic": "9.2 Major Developmental Theories",
+          "subtopic": "Psychosocial Development",
+          "concept": "Erikson's stages: Autonomy vs Shame (2-3y) → Industry vs Inferiority (6-12y) → Identity vs Role Confusion (adolescence) → Intimacy vs Isolation (young adult)",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 46,
+          "question": "Which of the following attitude scaling method/s has/have been proposed by L.L. Thurstone?\n\n1. Paired comparison\n2. Summated ratings\n3. Scalogram\n4. Equal appearing intervals",
+          "options": [
+            "(A) 2 only",
+            "(B) 4 only",
+            "(C) 1 and 4 only",
+            "(D) 2 and 3 only"
+          ],
+          "correct_answer": 3,
+          "correct_text": "1 and 4 only",
+          "unit": "Unit 3",
+          "topic": "3.6 Types of Tests by Domain",
+          "subtopic": "Attitude Scales",
+          "concept": "Thurstone's attitude scaling: Paired Comparison and Equal Appearing Intervals (Summated ratings-Likert, Scalogram-Guttman)",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 47,
+          "question": "Match List-I with List-II and indicate your answer using the given codes:\n\n| List – I (Validity type) | List – II (Brief description) |\n| --- | --- |\n| p. Predictive validity | 1. Covering all the important areas in a given course of study |\n| q. Concurrent validity | 2. Yielding theoretically consistent results |\n| r. Construct validity | 3. High relationship between the new test and the established test of same trait |\n| s. Content validity | 4. Forecasting some significant behaviour on the basis of test scores |\n\n**Codes**:\n\n|   | p | q | r | s |\n| --- | --- | --- | --- | --- |\n| (A) | 3 | 4 | 2 | 1 |\n| (B) | 4 | 3 | 1 | 2 |\n| (C) | 2 | 1 | 4 | 3 |\n| (D) | 4 | 3 | 2 | 1 |",
+          "options": [
+            "(A) p→3, q→4, r→2, s→1",
+            "(B) p→4, q→3, r→1, s→2",
+            "(C) p→2, q→1, r→4, s→3",
+            "(D) p→4, q→3, r→2, s→1"
+          ],
+          "correct_answer": 4,
+          "correct_text": "p→4, q→3, r→2, s→1",
+          "unit": "Unit 3",
+          "topic": "3.4 Validity",
+          "subtopic": "Types of Validity",
+          "concept": "Validity matching: Predictive-forecasting behavior, Concurrent-correlation with established test, Construct-theoretical consistency, Content-course coverage",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 48,
+          "question": "During emotions skin conductance changes occur due to the activity of some of the following:\n\n1. Sweat glands\n2. Adrenal glands\n3. Parasympathetic nervous system",
+          "options": [
+            "(A) 1 and 2",
+            "(B) 1 and 3",
+            "(C) 2 and 3",
+            "(D) 1, 2 and 3"
+          ],
+          "correct_answer": 1,
+          "correct_text": "1 and 2",
+          "unit": "Unit 7",
+          "topic": "7.3 Emotion",
+          "subtopic": "Physiology of Emotion",
+          "concept": "Skin conductance changes in emotion due to sweat gland activity and adrenal gland activation",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 49,
+          "question": "What among the following is true for mental set?\n\n1. It can enhance the quality and speed of perceiving and problem solving under some conditions.\n2. It can enhance the quality and speed of perceiving and problem solving in new situations.\n3. It may inhibit or distort the quality of mental activities in new situations.\n4. It may inhibit or distort the quality of mental activities under same conditions.",
+          "options": [
+            "(A) 1 and 2 only",
+            "(B) 2 and 3 only",
+            "(C) 1 and 3 only",
+            "(D) 3 and 4 only"
+          ],
+          "correct_answer": 3,
+          "correct_text": "1 and 3 only",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Problem Solving",
+          "concept": "Mental set (Einstellung) — facilitates performance in familiar conditions but inhibits in novel situations",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 50,
+          "question": "Match the following:\n\n| List – I | List – II |\n| --- | --- |\n| 1. Thinking | p. Mental activity through which we transform available information in order to reach conclusions |\n| 2. Reasoning | q. An activity that involves the manipulation of mental representation of various features of the external world. |\n| 3. Decision making | r. Processing information in various ways in order to move toward desired goals. |\n| 4. Problem solving | s. The process of choosing between two or more alternatives on the basis of information about them. |\n\n**Codes**:\n\n|   | p | q | r | s |\n| --- | --- | --- | --- | --- |\n| (A) | 4 | 3 | 2 | 1 |\n| (B) | 2 | 1 | 4 | 3 |\n| (C) | 3 | 4 | 2 | 1 |\n| (D) | 2 | 3 | 1 | 4 |",
+          "options": [
+            "(A) p→4, q→3, r→2, s→1",
+            "(B) p→2, q→1, r→4, s→3",
+            "(C) p→3, q→4, r→2, s→1",
+            "(D) p→2, q→3, r→1, s→4"
+          ],
+          "correct_answer": 2,
+          "correct_text": "p→2, q→1, r→4, s→3",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Nature of Thinking",
+          "concept": "Thinking concepts: Thinking-manipulation of mental representations, Reasoning-reach conclusions, Problem solving-processing toward goals, Decision making-choosing alternatives",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        }
+      ]
+    }
+  ]
+}

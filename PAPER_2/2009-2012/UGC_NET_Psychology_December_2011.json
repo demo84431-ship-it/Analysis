@@ -1,0 +1,1028 @@
+{
+  "paper_metadata": {
+    "title": "UGC NET/JRF Examination, December 2011",
+    "date": "December 2011",
+    "subject": "Psychology — Paper II"
+  },
+  "content": [
+    {
+      "type": "questions_block",
+      "range": "Q1–Q47",
+      "questions": [
+        {
+          "id": 1,
+          "question": "When the membrane of a neuron shows −72 mV electrical potential (inside to outside), it is said to be",
+          "options": [
+            "(A) Excitatory post synaptic potential",
+            "(B) Spike potential",
+            "(C) Inhibitory post synaptic potential",
+            "(D) Rest potential"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Rest potential",
+          "unit": "Unit 4",
+          "topic": "4.2 Neurons",
+          "subtopic": "Action potential",
+          "concept": "Resting membrane potential of neuron is approximately -70 to -72 mV (inside negative relative to outside)",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 2,
+          "question": "Arrange the following structures of brain in terms of their ascendance from lower to upper position :\n\n1. Hypothalamus\n2. Corpus Callosum\n3. Pons\n4. Midbrain",
+          "options": [
+            "(A) 3, 4, 1, 2",
+            "(B) 1, 2, 4, 3",
+            "(C) 3, 2, 4, 1",
+            "(D) 1, 3, 4, 2"
+          ],
+          "correct_answer": 1,
+          "correct_text": "3, 4, 1, 2",
+          "unit": "Unit 4",
+          "topic": "4.3 Nervous System",
+          "subtopic": "Brain structures",
+          "concept": "Brain structures from lower to upper: Pons → Midbrain → Hypothalamus → Corpus Callosum",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 3,
+          "question": "Match List – I with List – II :\n\n| List – I | List – II |\n| --- | --- |\n| (a) Audition | 1. Frontal lobe |\n| (b) General sensations | 2. Occipital lobe |\n| (c) Visual Functions | 3. Temporal lobe |\n| (d) Motor Functions | 4. Parietal lobe |\n\nCodes :",
+          "options": [
+            "(A) a-1, b-2, c-3, d-4",
+            "(B) a-3, b-4, c-2, d-1",
+            "(C) a-4, b-3, c-2, d-1",
+            "(D) a-2, b-1, c-4, d-3"
+          ],
+          "correct_answer": 2,
+          "correct_text": "a-3, b-4, c-2, d-1",
+          "unit": "Unit 4",
+          "topic": "4.3 Nervous System",
+          "subtopic": "Cerebral cortex",
+          "concept": "Cortical functions: Audition=Temporal, General sensations=Parietal, Visual=Occipital, Motor=Frontal lobe",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 4,
+          "question": "Choose the correct answer :\n\n**Assertion (A):** Human beings cannot locate targets in the dark like bats through echolocation.\n\n**Reason (R):** Our auditory organs do not respond to ultrasonic waves.",
+          "options": [
+            "(A) Both (A) and (R) are incorrect.",
+            "(B) Both (A) and (R) are correct and (R) is the correct explanation of (A).",
+            "(C) (A) is correct, but (R) is not correct.",
+            "(D) Both (A) and (R) are correct, but (R) is not the correct explanation of (A)."
+          ],
+          "correct_answer": 2,
+          "correct_text": "Both (A) and (R) are correct and (R) is the correct explanation of (A).",
+          "unit": "Unit 4",
+          "topic": "4.1 Sensory Systems",
+          "subtopic": "Audition",
+          "concept": "Humans cannot echolocate because our auditory range (20-20000 Hz) does not include ultrasonic frequencies used in echolocation",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 5,
+          "question": "Match List – I with List – II :\n\n| List – I | List – II |\n| --- | --- |\n| (a) Soon after lateral hypothalamus lesion | 1. Adepsia and alphagia |\n| (b) After 20 days of lateral hypothalamus lesion | 2. Adipsia and liquid food consumption |\n| (c) After 40 days of lateral hypothalamus lesion | 3. No plain water but wet and palatable food |\n| (d) Long after lateral hypothalamus lesion | 4. Take dry food and water |\n\nCodes :",
+          "options": [
+            "(A) a-1, b-2, c-3, d-4",
+            "(B) a-4, b-3, c-2, d-1",
+            "(C) a-2, b-3, c-4, d-1",
+            "(D) a-3, b-1, c-4, d-2"
+          ],
+          "correct_answer": 1,
+          "correct_text": "a-1, b-2, c-3, d-4",
+          "unit": "Unit 4",
+          "topic": "4.3 Nervous System",
+          "subtopic": "Hypothalamus",
+          "concept": "Lateral hypothalamus lesion recovery: Soon=Adepsia & Alphagia → 20 days=Adepsia & liquid food → 40 days=only palatable wet food → Long after=dry food and water",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 6,
+          "question": "Choose the correct answer :\n\n**Assertion (A):** Lateral hypothalamus is the hunger centre.\n\n**Reason (R):** Electrical stimulation of lateral hypothalamus shall make the animal stop eating.",
+          "options": [
+            "(A) (A) is correct, but (R) is not.",
+            "(B) (A) and (R) are correct and (R) is the correct explanation of (A).",
+            "(C) (A) is not correct, but (R) is the correct statement.",
+            "(D) Neither (A) is correct nor (R) is correct."
+          ],
+          "correct_answer": 1,
+          "correct_text": "(A) is correct, but (R) is not.",
+          "unit": "Unit 4",
+          "topic": "4.3 Nervous System",
+          "subtopic": "Hypothalamus",
+          "concept": "Lateral hypothalamus IS the hunger center; electrical stimulation makes animal EAT (not stop). Ventromedial hypothalamus is the satiety center.",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 7,
+          "question": "Choose the correct sequencing of brain waves as per their increasing cycle per second (Hz).",
+          "options": [
+            "(A) Alpha, Beta, Theta, Delta",
+            "(B) Beta, Delta, Alpha, Theta",
+            "(C) Delta, Theta, Alpha, Beta",
+            "(D) Theta, Beta, Delta, Alpha"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Delta, Theta, Alpha, Beta",
+          "unit": "Unit 4",
+          "topic": "4.4 Methods of Physiological Psychology",
+          "subtopic": "EEG",
+          "concept": "Brain waves by increasing frequency: Delta (1-4 Hz) → Theta (4-8 Hz) → Alpha (8-13 Hz) → Beta (13-30 Hz)",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 8,
+          "question": "Choose the odd one :",
+          "options": [
+            "(A) Pituitary gland",
+            "(B) Cardiac muscle",
+            "(C) Tendons",
+            "(D) Skeletal muscle"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Pituitary gland",
+          "unit": "Unit 4",
+          "topic": "4.5 Endocrine System",
+          "subtopic": "Pituitary gland",
+          "concept": "Pituitary gland is an endocrine organ; cardiac muscle, tendons, and skeletal muscle are all musculoskeletal tissues",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 9,
+          "question": "Choose the odd one :",
+          "options": [
+            "(A) Need",
+            "(B) Incentive",
+            "(C) Drive",
+            "(D) Punishment"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Punishment",
+          "unit": "Unit 7",
+          "topic": "7.2 Motivation",
+          "subtopic": "Concepts",
+          "concept": "Need, incentive, and drive are motivational concepts; punishment is a behavioral consequence (learning concept), not a motivational concept",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 10,
+          "question": "Choose the correct answer :\n\n**Assertion (A):** Error variance in Latin Square Design is less than the error variance in Randomized Group Design.\n\n**Reason (R):** By increasing the number of independent variables, we can reduce error variance.",
+          "options": [
+            "(A) Both (A) and (R) are correct, but (R) is not the correct explanation of (A).",
+            "(B) Neither (A) is correct nor (R) is correct.",
+            "(C) (A) is correct, but (R) is incorrect.",
+            "(D) Both (A) and (R) are correct and (R) is the correct explanation of (A)."
+          ],
+          "correct_answer": 3,
+          "correct_text": "(A) is correct, but (R) is incorrect.",
+          "unit": "Unit 2",
+          "topic": "2.5 Methods of Research",
+          "subtopic": "Experimental designs",
+          "concept": "Latin Square has less error variance than Randomized Group Design due to systematic blocking of two nuisance variables; Reason is incorrect — error variance is reduced by controlling extraneous variables, not by increasing independent variables",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 11,
+          "question": "Choose the correct answer :\n\n**Assertion (A):** Scales are indirect method of measuring attitudes.\n\n**Reason (R):** Scales can measure all aspects of human behaviour.",
+          "options": [
+            "(A) Both (A) and (R) are correct, but (R) is not the correct explanation of (A).",
+            "(B) Neither (A) nor (R) is correct.",
+            "(C) (A) is correct, but (R) is incorrect.",
+            "(D) Both (A) and (R) are correct and (R) is the correct explanation of (A)."
+          ],
+          "correct_answer": 3,
+          "correct_text": "(A) is correct, but (R) is incorrect.",
+          "unit": "Unit 3",
+          "topic": "3.6 Types of Tests by Domain",
+          "subtopic": "Attitude Scales",
+          "concept": "Scales indirectly measure attitudes through behavioral indicators; scales cannot measure ALL aspects of human behavior",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 12,
+          "question": "Arrange the following errors in a sequence in which they appear in the research process :\n\n1. Non-representative sample\n2. Type-I or Type-II error\n3. False hypothesis\n4. Bias in scoring",
+          "options": [
+            "(A) 3 1 4 2",
+            "(B) 1 3 2 4",
+            "(C) 3 2 4 1",
+            "(D) 1 2 3 4"
+          ],
+          "correct_answer": 1,
+          "correct_text": "3 1 4 2",
+          "unit": "Unit 2",
+          "topic": "2.8 Research Ethics",
+          "subtopic": "Research errors",
+          "concept": "Errors in research process order: False hypothesis → Non-representative sample → Bias in scoring → Type I/II statistical errors",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 13,
+          "question": "Arrange the following norms in terms of their increasing rigourness :\n\n1. Standard Score\n2. Normalised Standard Score\n3. Percentile\n4. Deviation Score",
+          "options": [
+            "(A) 3 4 1 2",
+            "(B) 1 4 3 2",
+            "(C) 2 4 3 1",
+            "(D) 4 3 1 2"
+          ],
+          "correct_answer": 1,
+          "correct_text": "3 4 1 2",
+          "unit": "Unit 3",
+          "topic": "3.5 Norms and Standardization",
+          "subtopic": "Derived scores",
+          "concept": "Increasing rigor of norms: Percentile (least rigorous) → Deviation Score → Standard Score → Normalised Standard Score (most rigorous)",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 14,
+          "question": "Match List – I with List – II :\n\n| List – I | List – II |\n| --- | --- |\n| (a) Single Sample | 1. Kruskal Wallis Test |\n| (b) Matched Groups | 2. Wilcoxon Sign Test |\n| (c) Two Independent Groups | 3. Chi-Square Test |\n| (d) More than two Groups | 4. Mann-Whitney U Test |\n\nCodes :",
+          "options": [
+            "(A) a-3, b-1, c-4, d-2",
+            "(B) a-3, b-2, c-4, d-1",
+            "(C) a-4, b-1, c-2, d-3",
+            "(D) a-4, b-2, c-1, d-3"
+          ],
+          "correct_answer": 2,
+          "correct_text": "a-3, b-2, c-4, d-1",
+          "unit": "Unit 2",
+          "topic": "2.7 Inferential Statistics",
+          "subtopic": "Non-Parametric Tests",
+          "concept": "Non-parametric test matching: Single sample=Chi-Square, Matched groups=Wilcoxon Sign Test, Two independent=Mann-Whitney U, More than two=Kruskal-Wallis",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 15,
+          "question": "Match List – I with List – II :\n\n| List – I | List – II |\n| --- | --- |\n| (a) Murray | 1. Word Association Test |\n| (b) Eysenck | 2. Culture Fair Intelligence Test |\n| (c) Cattell | 3. Thematic Apperception Test |\n| (d) Kent Rosenoff | 4. Maudsley Personality Inventory |\n\nCodes :",
+          "options": [
+            "(A) a-2, b-3, c-1, d-4",
+            "(B) a-3, b-2, c-1, d-4",
+            "(C) a-4, b-3, c-2, d-1",
+            "(D) a-3, b-4, c-2, d-1"
+          ],
+          "correct_answer": 4,
+          "correct_text": "a-3, b-4, c-2, d-1",
+          "unit": "Unit 3",
+          "topic": "3.6 Types of Tests by Domain",
+          "subtopic": "Tests and their developers",
+          "concept": "Matching: Murray=TAT, Eysenck=Maudsley Personality Inventory, Cattell=Culture Fair Intelligence Test, Kent-Rosenoff=Word Association Test",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 16,
+          "question": "Power of a statistical test is defined as the",
+          "options": [
+            "(A) Ability to reject a false hypothesis.",
+            "(B) Ability to accept a true hypothesis.",
+            "(C) Ability of a test to reject a false hypothesis in comparison to another test.",
+            "(D) Ability of a test to accept a true hypothesis in comparison to another test."
+          ],
+          "correct_answer": 1,
+          "correct_text": "Ability to reject a false hypothesis.",
+          "unit": "Unit 2",
+          "topic": "2.2 Hypothesis",
+          "subtopic": "Statistical Power",
+          "concept": "Statistical power (1-β): probability of correctly rejecting a false null hypothesis",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 17,
+          "question": "NEO-PI personality Inventory is based on",
+          "options": [
+            "(A) Behaviouristic Approach",
+            "(B) Cognitive Approach",
+            "(C) Psycho-dynamic Approach",
+            "(D) Trait Approach"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Trait Approach",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Trait and Type Theories",
+          "concept": "NEO-PI-R measures Big Five traits (Costa & McCrae) — based on trait/factor-analytic approach",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 18,
+          "question": "Cattell's Culture Fair Intelligence Test is an example of",
+          "options": [
+            "(A) Speed Test",
+            "(B) Power Test",
+            "(C) Speed Cum Power Test",
+            "(D) Verbal Test"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Speed Cum Power Test",
+          "unit": "Unit 3",
+          "topic": "3.6 Types of Tests by Domain",
+          "subtopic": "Intelligence Tests",
+          "concept": "Cattell's Culture Fair Test is a speed cum power test (has timed subtests with increasing difficulty; measures both speed and depth of ability; non-verbal)",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 19,
+          "question": "Which of the following is not a non-parametric test?",
+          "options": [
+            "(A) Kruskal – Wallis Test",
+            "(B) Friedman's Test",
+            "(C) Fisher's Ratio",
+            "(D) Kolmogorov-Smirnov's Test"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Fisher's Ratio",
+          "unit": "Unit 2",
+          "topic": "2.7 Inferential Statistics",
+          "subtopic": "Non-Parametric Tests",
+          "concept": "Fisher's F-ratio is a parametric test (used in ANOVA); Kruskal-Wallis, Friedman, Kolmogorov-Smirnov are non-parametric",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 20,
+          "question": "Match List – I with List – II :\n\n| List – I | List – II |\n| --- | --- |\n| (a) Thurstone | 1. Equal-appearing scale |\n| (b) Guttman | 2. Social Distance Scale |\n| (c) Osgood | 3. Summated Rating Scale |\n| (d) Bogardus | 4. Semantic Differential Scale |\n\nCodes :",
+          "options": [
+            "(A) a-2, b-4, c-1, d-3",
+            "(B) a-1, b-3, c-4, d-2",
+            "(C) a-3, b-2, c-1, d-4",
+            "(D) a-2, b-4, c-3, d-1"
+          ],
+          "correct_answer": 2,
+          "correct_text": "a-1, b-3, c-4, d-2",
+          "unit": "Unit 3",
+          "topic": "3.6 Types of Tests by Domain",
+          "subtopic": "Attitude Scales",
+          "concept": "Matching: Thurstone=Equal-appearing intervals, Guttman=Summated/Cumulative scale, Osgood=Semantic Differential, Bogardus=Social Distance Scale",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 21,
+          "question": "The method of Loci-Loci refers to",
+          "options": [
+            "(A) Patterns",
+            "(B) Process",
+            "(C) Place",
+            "(D) Position"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Place",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Mnemonic strategies",
+          "concept": "Method of Loci: mnemonic technique using familiar places/locations to organize and retrieve information",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 22,
+          "question": "Match List – I with List – II :\n\n| List – I | List – II |\n| --- | --- |\n| (a) Episodic Memory | 1. Makes use of language possible |\n| (b) Sensory Memory | 2. Stores memories of specific past events |\n| (c) Semantic Memory | 3. Registers information from the senses |\n| (d) Visual Sensory Memory | 4. Stores memories of visual images |\n\nCodes :",
+          "options": [
+            "(A) a-2, b-3, c-1, d-4",
+            "(B) a-4, b-1, c-2, d-3",
+            "(C) a-1, b-2, c-4, d-3",
+            "(D) a-2, b-3, c-4, d-1"
+          ],
+          "correct_answer": 1,
+          "correct_text": "a-2, b-3, c-1, d-4",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Stages and Types",
+          "concept": "Memory types: Episodic=specific past events, Sensory=registers from senses, Semantic=makes language possible, Visual sensory=visual images (iconic)",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 23,
+          "question": "Match List – I with List – II :\n\n| List – I | List – II |\n| --- | --- |\n| (a) Biological perspective | 1. Understanding behaviour in terms of unconscious motives from sexual and aggressive impulses. |\n| (b) Behavioural perspective | 2. Understanding the neurobiological process that underline behaviour and mental processes. |\n| (c) Psychoanalytic perspective | 3. Understanding behaviour from subjective realities people actively construct. |\n| (d) Subjectivist perspective | 4. Understanding observable behaviour in terms of conditioning and reinforcement. |\n\nCodes :",
+          "options": [
+            "(A) a-2, b-4, c-1, d-3",
+            "(B) a-3, b-1, c-4, d-2",
+            "(C) a-3, b-4, c-1, d-2",
+            "(D) a-3, b-2, c-4, d-1"
+          ],
+          "correct_answer": 1,
+          "correct_text": "a-2, b-4, c-1, d-3",
+          "unit": "Unit 1",
+          "topic": "1.2 Western Schools of Psychology",
+          "subtopic": "Schools overview",
+          "concept": "Perspectives: Biological=neurobiological processes, Behavioural=conditioning/reinforcement, Psychoanalytic=unconscious motives, Subjectivist=subjective realities",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 24,
+          "question": "The apparent size of an after image is directly related to the apparent distance of the surface on which it is perceived refers to",
+          "options": [
+            "(A) Emmert's Law",
+            "(B) Steven's Power Law",
+            "(C) Fechner's Law",
+            "(D) Weber's Ratio"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Emmert's Law",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Perceptual Constancy",
+          "concept": "Emmert's Law: afterimage size is proportional to perceived distance of the surface it is projected onto",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 25,
+          "question": "A visual disorder in which reading is impaired by a perceptual confusion of letters is called",
+          "options": [
+            "(A) Dyslexia",
+            "(B) Dysosmia",
+            "(C) Dysgensia",
+            "(D) Paranoia"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Dyslexia",
+          "unit": "Unit 9",
+          "topic": "9.3 Psychopathology",
+          "subtopic": "Neurodevelopmental disorders",
+          "concept": "Dyslexia: learning disability involving difficulty reading due to problems with speech sound and letter decoding",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 26,
+          "question": "A phenomenon that raises the threshold for a stimulus due to the presence of another stimulus is called",
+          "options": [
+            "(A) Looming",
+            "(B) Masking",
+            "(C) Distraction",
+            "(D) Constancy"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Masking",
+          "unit": "Unit 5",
+          "topic": "5.1 Attention",
+          "subtopic": "Selective Attention",
+          "concept": "Masking: one stimulus raises detection threshold for another stimulus (visual or auditory masking)",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 27,
+          "question": "Among the following, which is not a performance test of intelligence?",
+          "options": [
+            "(A) Picture completion",
+            "(B) Picture arrangement",
+            "(C) Object assembly",
+            "(D) Finger-Dexterity"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Finger-Dexterity",
+          "unit": "Unit 3",
+          "topic": "3.6 Types of Tests by Domain",
+          "subtopic": "Intelligence Tests",
+          "concept": "Picture completion, picture arrangement, object assembly are WAIS performance subtests; finger dexterity is a psychomotor/aptitude test, not intelligence",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 28,
+          "question": "Choose the correct answer :\n\n**Assertion (A):** Pavlov's conditioning is also called respondent conditioning.\n\n**Reason (R):** Pavlov's conditioning is the earliest theory of conditioning.",
+          "options": [
+            "(A) (A) is correct, but (R) is wrong.",
+            "(B) Both (A) and (R) are wrong.",
+            "(C) Both (A) and (R) are correct, but (R) is not the correct explanation of (A).",
+            "(D) Both (A) and (R) are correct and (R) is the correct explanation of (A)."
+          ],
+          "correct_answer": 3,
+          "correct_text": "Both (A) and (R) are correct, but (R) is not the correct explanation of (A).",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Classical Conditioning",
+          "concept": "Pavlov's conditioning IS called respondent conditioning (Skinner's term); it IS earliest, but being earliest doesn't explain why it's called 'respondent'",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 29,
+          "question": "Choose the correct answer :\n\n**Assertion (A):** Sir Bartlett found that people after reading a bizarre folktale tended to shorten and simplify the same.\n\n**Reason (R):** Modifications during recall are due to reconstructive processes.",
+          "options": [
+            "(A) (A) is correct, but (R) is wrong.",
+            "(B) Both (A) and (R) are wrong.",
+            "(C) Both (A) and (R) are correct and (R) is the correct explanation of (A).",
+            "(D) Both (A) and (R) are correct, but (R) is not the correct explanation of (A)."
+          ],
+          "correct_answer": 3,
+          "correct_text": "Both (A) and (R) are correct and (R) is the correct explanation of (A).",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Memory Models",
+          "concept": "Bartlett's War of the Ghosts study: memory is reconstructive — people rationalize and simplify using schemas",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 30,
+          "question": "Which one of the sequence observational learning follows?",
+          "options": [
+            "(A) Attention, Motivation, Retention, Production process",
+            "(B) Attention, Retention, Production process, Motivation",
+            "(C) Attention, Retention, Motivation, Production process",
+            "(D) Attention, Production process, Retention, Motivation"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Attention, Retention, Production process, Motivation",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Observational/Social Learning",
+          "concept": "Bandura's observational learning sequence: Attention → Retention → Production (Motor Reproduction) → Motivation",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 31,
+          "question": "Arrange the following books in accordance to the years of publication from early to recent :\n\n1. Principles of Behaviour - Hull\n2. Purposive Behaviour in animals and Men - Tolman\n3. Beyond Freedom and Dignity - Skinner\n4. Science and Human Behaviour - Skinner",
+          "options": [
+            "(A) 2 1 4 3",
+            "(B) 2 4 1 3",
+            "(C) 1 4 3 2",
+            "(D) 1 3 2 4"
+          ],
+          "correct_answer": 1,
+          "correct_text": "2 1 4 3",
+          "unit": "Unit 1",
+          "topic": "1.2 Western Schools of Psychology",
+          "subtopic": "Behaviorism",
+          "concept": "Publication order: Tolman (1932) → Hull (1943) → Skinner (1953) → Skinner (1971)",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 32,
+          "question": "Arrange the contributors on memory research in order from early to late period :",
+          "options": [
+            "(A) Ebbinghaus, Bartlett, Broadbent, Baddeley",
+            "(B) Ebbinghaus, Bartlett, Baddeley, Broadbent",
+            "(C) Ebbinghaus, Baddeley, Bartlett, Broadbent",
+            "(D) Bartlett, Ebbinghaus, Broadbent, Baddeley"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Ebbinghaus, Bartlett, Broadbent, Baddeley",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Memory research history",
+          "concept": "Memory researchers chronological order: Ebbinghaus (1885) → Bartlett (1932) → Broadbent (1958) → Baddeley (1974)",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 33,
+          "question": "If the learning list presents the numbers in a sequence as 304, 116, 345, 231, 435, then the correct order of recall in a free recall test would be",
+          "options": [
+            "(A) 304, 116, 345, 231, 435",
+            "(B) 304, 345, 116, 435, 231",
+            "(C) 345, 435, 116, 304, 231",
+            "(D) All of the above"
+          ],
+          "correct_answer": 4,
+          "correct_text": "All of the above",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Retrieval",
+          "concept": "In free recall, items can be recalled in ANY order — all sequences are valid since there is no prescribed order",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 34,
+          "question": "Choose the odd one :",
+          "options": [
+            "(A) Relearning (Saving)",
+            "(B) Memory",
+            "(C) Recall",
+            "(D) Recognition"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Memory",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Retrieval",
+          "concept": "Relearning, Recall, and Recognition are methods of measuring memory; Memory is the general concept itself, not a measurement method",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 35,
+          "question": "Psychologists have discovered a number of strategies used for problem solving. Among following which is the most basic?",
+          "options": [
+            "(A) Simultaneous Scanning",
+            "(B) Focussed Gambling",
+            "(C) Change in Mental Set",
+            "(D) Successive Scanning"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Successive Scanning",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Problem Solving",
+          "concept": "Successive scanning (testing one hypothesis at a time) is the most basic concept attainment strategy (Bruner)",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 36,
+          "question": "Match List – I with List – II :\n\n| List – I | List – II |\n| --- | --- |\n| (a) Social Learning | 1. Adler |\n| (b) Trait Approach | 2. Bandura |\n| (c) Humanistic Approach | 3. Eysenck |\n| (d) Analytical Psychology | 4. Rogers |\n\nCodes :",
+          "options": [
+            "(A) a-2, b-3, c-4, d-1",
+            "(B) a-2, b-3, c-1, d-4",
+            "(C) a-3, b-2, c-4, d-1",
+            "(D) a-4, b-1, c-2, d-3"
+          ],
+          "correct_answer": 1,
+          "correct_text": "a-2, b-3, c-4, d-1",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Personality approaches",
+          "concept": "Matching: Social Learning=Bandura, Trait=Eysenck, Humanistic=Rogers, Analytical Psychology=Jung (Adler's approach is Individual Psychology; exam answer maps to Adler but this is a known discrepancy)",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 37,
+          "question": "According to Carl Jung, the collective unconscious addresses to",
+          "options": [
+            "(A) Cultural concerns",
+            "(B) Developmental concern",
+            "(C) Spiritual concerns",
+            "(D) Sexual concerns"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Spiritual concerns",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Neo-Freudian Theories",
+          "concept": "Jung's collective unconscious contains archetypes related to spiritual/transpersonal themes, not sexual (Freud) concerns",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 38,
+          "question": "In which psycho-sexual development stage the focus of child is on \"coping with incestuous sexual feelings\".",
+          "options": [
+            "(A) Anal",
+            "(B) Phallic",
+            "(C) Latency",
+            "(D) Genital"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Phallic",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Psychoanalytic Approach",
+          "concept": "Phallic stage (3-6 years): Oedipus/Electra complex — child deals with incestuous feelings toward opposite-sex parent",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 39,
+          "question": "Who has used the term \"unconditional positive regard\" for explaining an attitude of total acceptance toward another person?",
+          "options": [
+            "(A) Abraham Maslow",
+            "(B) Carl Rogers",
+            "(C) Albert Bandura",
+            "(D) Edward Chang"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Carl Rogers",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Humanistic/Existential Approach",
+          "concept": "Carl Rogers coined 'unconditional positive regard' — complete acceptance without judgment in client-centered therapy",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 40,
+          "question": "How do we see or describe ourselves including our behaviour is called?",
+          "options": [
+            "(A) Self-assessment",
+            "(B) Self-awareness",
+            "(C) Self-concept",
+            "(D) Self-actualization"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Self-concept",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Humanistic/Existential Approach",
+          "concept": "Self-concept: the totality of how we perceive and describe ourselves, including our behaviors and characteristics",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 41,
+          "question": "Match List – I with List – II :\n\n| List – I | List – II |\n| --- | --- |\n| (a) Albedo | 1. The amount of light falling on a surface. |\n| (b) Ganzfeld | 2. Increased sensitivity to taste. |\n| (c) Hypergeusia | 3. A completely textureless and homogenous field of uniform brightness. |\n| (d) Illuminance | 4. Proportion of incident light that is reflected. |\n\nCodes :",
+          "options": [
+            "(A) a-3, b-4, c-2, d-1",
+            "(B) a-4, b-3, c-2, d-1",
+            "(C) a-1, b-2, c-3, d-4",
+            "(D) a-4, b-3, c-1, d-2"
+          ],
+          "correct_answer": 2,
+          "correct_text": "a-4, b-3, c-2, d-1",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Visual perception concepts",
+          "concept": "Albedo=proportion of light reflected, Ganzfeld=homogeneous visual field, Hypergeusia=increased taste sensitivity, Illuminance=light falling on surface",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 42,
+          "question": "Match List – I with List – II :\n\n| List – I | List – II |\n| --- | --- |\n| (a) Spinal Gate Control Theory | 1. Motion sickness is due to disruption of the sensory input to visual and vestibular systems. |\n| (b) Young Helmholtz Theory | 2. The perception of spoken language is a result of the knowledge of the articulatory gestures involved in speech. |\n| (c) Motor Theory | 3. There are three sets of receptor cones that respond differently to different wavelengths. |\n| (d) Sensory Conflict Theory | 4. Theory of pain that focuses on afferent nerve impulse transmission from the skin to the spinal cord. |\n\nCodes :",
+          "options": [
+            "(A) a-4, b-3, c-2, d-1",
+            "(B) a-1, b-2, c-3, d-4",
+            "(C) a-3, b-2, c-1, d-2",
+            "(D) a-3, b-1, c-2, d-4"
+          ],
+          "correct_answer": 1,
+          "correct_text": "a-4, b-3, c-2, d-1",
+          "unit": "Unit 4",
+          "topic": "4.1 Sensory Systems",
+          "subtopic": "Sensory theories",
+          "concept": "Gate Control=pain modulation at spinal cord, Young-Helmholtz=trichromatic color theory, Motor Theory=speech perception, Sensory Conflict=motion sickness",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 43,
+          "question": "Choose the correct answer :\n\n**Assertion (A):** Visual perception is largely based on our experience with the visual environment.\n\n**Reason (R):** In Ames' illusions the individual is forced to violate one set of assumptions about the spatial environment to preserve another.",
+          "options": [
+            "(A) Both (A) and (R) are correct and (R) is correct explanation of (A).",
+            "(B) Both (A) and (R) are wrong.",
+            "(C) (A) is right, but (R) is wrong.",
+            "(D) Both (A) and (R) are correct, but (R) is not the correct explanation of (A)."
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are correct and (R) is correct explanation of (A).",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Visual Illusions",
+          "concept": "Visual perception IS largely based on learned experience (top-down processing); the Ames room demonstrates that violating spatial assumptions leads to perceptual distortion, showing how deeply experience shapes perception",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 44,
+          "question": "Choose the correct answer :\n\n**Assertion (A):** The visual illusions may be due to optical-retinal and cognitive components.\n\n**Reason (R):** Distortion of depth and distance cues and misapplication of size constancy do not distort perception.",
+          "options": [
+            "(A) Both (A) and (R) are wrong.",
+            "(B) (A) is right, but (R) is wrong.",
+            "(C) Both (A) and (R) are correct and (R) is the correct explanation of (A).",
+            "(D) Both (A) and (R) are correct, but (R) is not the correct explanation of (A)."
+          ],
+          "correct_answer": 2,
+          "correct_text": "(A) is right, but (R) is wrong.",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Visual Illusions",
+          "concept": "Visual illusions arise from optical-retinal AND cognitive factors; (R) is wrong — distortion of depth cues and misapplication of size constancy DO distort perception",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 45,
+          "question": "Who among the following viewed that 'language development' is akin to \"sexual maturation\"?",
+          "options": [
+            "(A) Chomsky",
+            "(B) Shanks",
+            "(C) Skinner",
+            "(D) Vygotsky"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Chomsky",
+          "unit": "Unit 9",
+          "topic": "9.2 Major Developmental Theories",
+          "subtopic": "Language Development",
+          "concept": "Chomsky's nativist view: language development is biologically programmed like sexual maturation, driven by Language Acquisition Device (LAD)",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 46,
+          "question": "Choose the correct answer :\n\n**Assertion (A):** Language development can be explained with learning principles.\n\n**Reason (R):** Language development takes place at its own.",
+          "options": [
+            "(A) Both (A) and (R) are correct and (R) is the correct explanation of (A).",
+            "(B) (A) is true, but (R) is not true.",
+            "(C) Both (A) and (R) are not true.",
+            "(D) Both (A) and (R) are true, but (R) is not the correct explanation of (A)."
+          ],
+          "correct_answer": 2,
+          "correct_text": "(A) is true, but (R) is not true.",
+          "unit": "Unit 9",
+          "topic": "9.2 Major Developmental Theories",
+          "subtopic": "Language Development",
+          "concept": "Skinner argued language CAN be explained by learning principles (reinforcement, shaping); language does NOT simply 'take place on its own' — it requires environmental interaction",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 47,
+          "question": "Whorf has suggested that language determines the way people think and that people with different languages think differently. This is called",
+          "options": [
+            "(A) Algorithm",
+            "(B) Syntax",
+            "(C) Linguistic relativity",
+            "(D) Linguistic dissonance"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Linguistic relativity",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Language and Thought",
+          "concept": "Whorf-Sapir Linguistic Relativity Hypothesis: language shapes and determines thought patterns",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        }
+      ]
+    },
+    {
+      "type": "passage",
+      "id": "passage_48",
+      "heading": "Passage (Questions 48–50)",
+      "text": "People vary in their abilities to understand and influence other people. Success in interpersonal interaction is easy for some people and difficult for others. Some are diplomats while others are boors. The construct of such intelligence tries to capture the ways in which individuals differ from one another in their interpersonal skills. A similar idea about the existence of such a cluster of abilities has also arisen from a different source. A prominent psychologist interested in educational implications of individual differences, Howard Gardner, devised a theory of \"multiple intelligence\" which has become influential in the field of education. This theory claims that all human beings have at least seven different intelligences - seven different ways of knowing about the world - and that people differ from one another in their relative strengths in each domain. These seven intelligences include knowing the world through language, logical-mathematical analysis, spatial representation, musical thinking, bodily-kinesthetic intelligence and understanding of self and others. Thus under this approach, each person is characterized by a profile of intelligences rather than by a single, global measure of intelligence, such as an IQ."
+    },
+    {
+      "type": "questions_block",
+      "range": "Q48–Q50",
+      "passage_ref": "passage_48",
+      "questions": [
+        {
+          "id": 48,
+          "question": "The intelligence which explains about the interpersonal interactions is called",
+          "options": [
+            "(A) Practical intelligence",
+            "(B) Social intelligence",
+            "(C) Cognitive intelligence",
+            "(D) Emotional intelligence"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Social intelligence",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Social Intelligence",
+          "concept": "Social intelligence: ability to understand and influence other people in interpersonal interactions",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": "passage_48",
+          "table_ref": null
+        },
+        {
+          "id": 49,
+          "question": "Name the psychologist who had given the concept of multiple intelligence.",
+          "options": [
+            "(A) Galton",
+            "(B) Thurstone",
+            "(C) Gardner",
+            "(D) Goalman"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Gardner",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Multiple Intelligences",
+          "concept": "Howard Gardner proposed the Theory of Multiple Intelligences (7-8 distinct intelligences)",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": "passage_48",
+          "table_ref": null
+        },
+        {
+          "id": 50,
+          "question": "Which form of intelligence is not the part of multiple intelligence?",
+          "options": [
+            "(A) Bodily-Kinesthetic intelligence",
+            "(B) Logical thinking",
+            "(C) Logical-Mathematical analysis",
+            "(D) Spatial representation"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Logical thinking",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Multiple Intelligences",
+          "concept": "Gardner's MI includes Logical-Mathematical (not 'logical thinking'), Bodily-Kinesthetic, and Spatial; 'logical thinking' as stated is not a Gardner MI category",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": "passage_48",
+          "table_ref": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1029 @@
+{
+  "paper_metadata": {
+    "title": "UGC NET/JRF Examination, November 2017",
+    "date": "November 2017",
+    "subject": "Psychology — Paper II"
+  },
+  "content": [
+    {
+      "type": "questions_block",
+      "range": "Q1–Q45",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Match List - I with List - II and select the correct answer by choosing from the code given below :\n\n|  List - I (Concept) | List - II (Description)  |\n| --- | --- |\n|  1) Type | (i) Consistent style of behaviour or emotion, a person displays across the situations  |\n|  2) Trait | (ii) A cluster of many dispositions  |\n|  3) System | (iii) Enduring qualities that define the individual and distinguish individuals from one another  |\n|  4) Structure | (iv) A collection of highly interconnected parts of personality whose overall behaviour reflects them being organised  |\n\n**Codes :**\n\n|  1) | 2) | 3) | 4)  |\n| --- | --- | --- | --- |\n|  (1) (i) | (ii) | (iii) | (iv)  |\n|  (2) (ii) | (i) | (iv) | (iii)  |\n|  (3) (iii) | (ii) | (i) | (iv)  |\n|  (4) (iv) | (iii) | (ii) | (i)  |",
+          "options": [
+            "1) (a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+            "2) (a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+            "3) (a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+            "4) (a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+          ],
+          "correct_answer": 2,
+          "correct_text": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+          "unit": "Unit 7",
+          "topic": "7.2 Personality",
+          "subtopic": "Personality Concepts and Terminology",
+          "concept": "In personality psychology, 'type' refers to a consistent style of behaviour or emotion displayed across situations; a 'trait' refers to enduring qualities that define and distinguish individuals; a 'system' is a collection of highly interconnected organised parts; and 'structure' is a cluster of many dispositions.",
+          "era": "UGC",
+          "year": 2017,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 2,
+          "question": "Which of the following is true for Tip_of_the Tongue (TOT) state ?\n\n1) Feeling of Knowing\n2) Feeling that memory is available\n3) Retrievable memory\n4) Maintenance recoding\n\n**Codes :**",
+          "options": [
+            "1) 1) and 2) only",
+            "2) 1) and 3) only",
+            "3) 2) and 4) only",
+            "4) 3) and 4) only"
+          ],
+          "correct_answer": 1,
+          "correct_text": "1) and 2) only",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Tip of the Tongue Phenomenon",
+          "concept": "Tip of the Tongue (TOT) state is characterised by a 'feeling of knowing' — the sensation that the information is in memory and can be recalled with the right cue. It involves both the feeling of knowing and the feeling that the memory is available, even though retrieval temporarily fails.",
+          "era": "UGC",
+          "year": 2017,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 3,
+          "question": "Read each of the following two statements - Assertion (A) and Reason (R); and indicate your answer using code given below:\n\n**Assertion (A):** Conditioning done using partial reinforcement schedule decreases resistance to change.\n\n**Reason (R):** Partial reinforcement schedules influence rate of responding.\n\n**Code:**",
+          "options": [
+            "1) Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+            "2) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "3) (A) is true, but (R) is false.",
+            "4) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 4,
+          "correct_text": "(A) is false, but (R) is true.",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Reinforcement Schedules",
+          "concept": "The partial reinforcement effect states that behaviour reinforced intermittently is MORE resistant to extinction (not less) compared to continuous reinforcement. So Assertion (A) is false. The Reason (R) is true — partial reinforcement schedules do influence the rate of responding.",
+          "era": "UGC",
+          "year": 2017,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 4,
+          "question": "Arrange the clinical scales of MMPI - II in correct sequence.",
+          "options": [
+            "1) Depression → Hypochondriasis → Hysteria → Psychopathic Deviate → Masculinity-Femininity → Paranoia → Psychasthenia → Schizophrenia → Hypomania → Social Introversion",
+            "2) Hypochondriasis → Depression → Hysteria → Psychopathic Deviate → Masculinity-Femininity → Paranoia → Psychasthenia → Schizophrenia → Hypomania → Social Introversion",
+            "3) Social Introversion → Hypomania → Hypochondriasis → Depression → Hysteria → Psychopathic Deviate → Masculinity-Femininity → Paranoia → Psychasthenia → Schizophrenia",
+            "4) Social introversion → Hypomania → Schizophrenia → Psychasthenia → Paranoia → Masculinity-Femininity → Psychopathic deviate → Hysteria → Depression → Hypochondriasis"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Hypochondriasis → Depression → Hysteria → Psychopathic Deviate → Masculinity-Femininity → Paranoia → Psychasthenia → Schizophrenia → Hypomania → Social Introversion",
+          "unit": "Unit 3",
+          "topic": "3.3 Psychological Tests",
+          "subtopic": "MMPI-2 Clinical Scales",
+          "concept": "The 10 clinical scales of MMPI-2 are numbered 1 through 10: Hypochondriasis (1), Depression (2), Hysteria (3), Psychopathic Deviate (4), Masculinity-Femininity (5), Paranoia (6), Psychasthenia (7), Schizophrenia (8), Hypomania (9), and Social Introversion (0).",
+          "era": "UGC",
+          "year": 2017,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 5,
+          "question": "Allport defined personality as:\n\n(1) Response style\n(2) Social stimulus value\n(3) Intervening variable\n(4) Thinking style",
+          "options": [
+            "1) Response style",
+            "2) Social stimulus value",
+            "3) Intervening variable",
+            "4) Thinking style"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Intervening variable",
+          "unit": "Unit 7",
+          "topic": "7.2 Personality",
+          "subtopic": "Allport's Personality Theory",
+          "concept": "Gordon Allport defined personality as 'the individual's characteristic reactions to social stimuli and the quality of his adaptation to the social features of his environment' — essentially emphasizing social stimulus value.",
+          "era": "UGC",
+          "year": 2017,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 6,
+          "question": "Read each of the following two statements - Assertion (A) and Reason (R); and indicate your answer using code given below:\n\n**Assertion (A):** Increase in synaptic strength is due to the simultaneous stimulation of pre - synaptic and post - synaptic neurons.\n\n**Reason (R):** Long term potentiation can be induced in the laboratory by stimulating the pre - synaptic neurons with pulses of high frequency of electricity for few seconds.\n\n**Code:**",
+          "options": [
+            "1) Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+            "2) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "3) (A) is true, but (R) is false.",
+            "4) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both 1) and (R) are true and (R) is the correct explanation of (A).",
+          "unit": "Unit 4",
+          "topic": "4.1 Biological Basis of Behaviour",
+          "subtopic": "Long-Term Potentiation",
+          "concept": "LTP (Long-Term Potentiation) involves strengthening of synapses through simultaneous stimulation of pre-synaptic and post-synaptic neurons (Hebbian learning: 'neurons that fire together wire together'). LTP can be induced in the lab by high-frequency electrical stimulation of pre-synaptic neurons. Both statements are true, and the Reason correctly explains the mechanism by which the Assertion occurs — option 1.",
+          "era": "UGC",
+          "year": 2017,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 7,
+          "question": "Concepts allow us to identify things without ________.\n\n(1) Learning\n(2) Relearning\n(3) Recognition\n(4) Remembering",
+          "options": [
+            "1) Learning",
+            "2) Relearning",
+            "3) Recognition",
+            "4) Remembering"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Relearning",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Concepts and Categorisation",
+          "concept": "Concepts allow us to identify and classify things without needing to remember every specific instance. They enable efficient cognitive processing by grouping similar objects/events under common categories.",
+          "era": "UGC",
+          "year": 2017,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 8,
+          "question": "Below given are some concepts. Indicate which is the correct sequence in terms of levels of increasing abstraction?\n\nConcepts are:\n\n1) Negation concept\n2) Alternative denial concept\n3) Disjunction concept\n\n**Codes :**",
+          "options": [
+            "1) (a), (b), (c)",
+            "2) (a), (c), (b)",
+            "3) (b), (a), (c)",
+            "4) (c), (b), (a)"
+          ],
+          "correct_answer": 1,
+          "correct_text": "(a), (b), (c)",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Levels of Concept Abstraction",
+          "concept": "In terms of increasing abstraction: Negation concept (simplest — defining by what something is NOT) < Alternative denial concept (NAND — more abstract) < Disjunction concept (OR — most abstract). The sequence moves from simplest to most complex logical operations.",
+          "era": "UGC",
+          "year": 2017,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 9,
+          "question": "Match List - I with List - II and select the correct answer by choosing from the code given below :\n\n|  List - I (Description) | List - II (Concept)  |\n| --- | --- |\n|  1) Transformation of the order of items | (i) Non - specific transfer  |\n|  2) Transformation in contents of items | (ii) Learning to learn  |\n|  3) Use of coding devices and mediators | (iii) Coding  |\n|  4) Learning how to perform the task | (iv) Clustering  |\n\n**Codes :**\n\n|  1) | 2) | 3) | 4)  |\n| --- | --- | --- | --- |\n|  (1) (iii) | (iv) | (i) | (ii)  |\n|  (2) (iv) | (iii) | (ii) | (i)  |\n|  (3) (ii) | (i) | (iv) | (iii)  |\n|  (4) (i) | (ii) | (iii) | (iv)  |",
+          "options": [
+            "1) (a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+            "2) (a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+            "3) (a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+            "4) (a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)"
+          ],
+          "correct_answer": 2,
+          "correct_text": "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Memory Strategies and Transfer",
+          "concept": "Transformation of order of items relates to non-specific transfer; transformation in contents relates to learning to learn; use of coding devices and mediators is coding; and learning how to perform the task corresponds to clustering in memory organisation.",
+          "era": "UGC",
+          "year": 2017,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 10,
+          "question": "Binocular cues depend on :\n\n1) Combination of the images in the left and right retinas\n2) The way two eyes work together\n3) Image in either right or left eye\n4) Difference between the images in the two eyes\n\n**Codes :**",
+          "options": [
+            "1) (a), 2) and 4) only",
+            "2) (a), 3) and 4) only",
+            "3) (c), 1) and 2) only",
+            "4) (b), 3) and 4) only"
+          ],
+          "correct_answer": 1,
+          "correct_text": "(a), 2) and 4) only",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Binocular Cues",
+          "concept": "Binocular cues (stereopsis, convergence) depend on both eyes working together. They involve combination of images from both retinas (a) and the slight differences (disparity) between the two images (d). The way two eyes work together (b) refers to convergence, another binocular mechanism. Image in either eye alone (c) is a monocular cue.",
+          "era": "UGC",
+          "year": 2017,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 11,
+          "question": "The correct order of the stages of Master's and Johnson's sexual response cycle is :",
+          "options": [
+            "1) plateau, excitement, orgasm, resolution",
+            "2) excitement, plateau, orgasm, resolution",
+            "3) excitement, orgasm, plateau, resolution",
+            "4) excitement, plateau, orgasm, refractory"
+          ],
+          "correct_answer": 2,
+          "correct_text": "excitement, plateau, orgasm, resolution",
+          "unit": "Unit 7",
+          "topic": "7.3 Motivation and Emotion",
+          "subtopic": "Sexual Response Cycle",
+          "concept": "Masters and Johnson's sexual response cycle has four stages in order: Excitement (initial arousal), Plateau (sustained arousal at high level), Orgasm (peak of sexual response), and Resolution (return to unaroused state).",
+          "era": "UGC",
+          "year": 2017,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 12,
+          "question": "Where is Broca's area located?",
+          "options": [
+            "1) Frontal Lobe",
+            "2) Occipital Lobe",
+            "3) Parietal Lobe",
+            "4) Temporal Lobe"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Frontal Lobe",
+          "unit": "Unit 4",
+          "topic": "4.1 Biological Basis of Behaviour",
+          "subtopic": "Brain Structures — Broca's Area",
+          "concept": "Broca's area is located in the left frontal lobe (specifically the inferior frontal gyrus). It is responsible for speech production and motor aspects of language. Damage results in Broca's aphasia (expressive aphasia).",
+          "era": "UGC",
+          "year": 2017,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 13,
+          "question": "Read each of the following two statements - Assertion 1) and Reason (R); and indicate your answer using code given below :\n\n**Assertion (A):** Generally, performance is optimal when arousal is low.\n\n**Reason (R):** On easy tasks performance becomes optimal.\n\n**Codes :**",
+          "options": [
+            "1) Both 1) and (R) are true, and (R) is the correct explanation of (A).",
+            "2) Both 1) and (R) are true, but (R) is not the correct explanation of (A).",
+            "3) 1) is true, but (R) is false.",
+            "4) 1) is false, but (R) is true."
+          ],
+          "correct_answer": 4,
+          "correct_text": "4) 1) is false, but (R) is true.",
+          "unit": "Unit 7",
+          "topic": "7.3 Motivation and Emotion",
+          "subtopic": "Arousal and Performance (Yerkes-Dodson Law)",
+          "concept": "According to the Yerkes-Dodson Law, optimal performance occurs at moderate arousal, not low arousal (for most tasks). So Assertion 1) is false. However, for easy tasks, performance can be optimal even at higher arousal levels — the Reason statement about easy tasks is true.",
+          "era": "UGC",
+          "year": 2017,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 14,
+          "question": "Motivation is best understood as a state that:",
+          "options": [
+            "1) Reduces a drive",
+            "2) Aims at satisfying a biological need",
+            "3) Energises an organism to act",
+            "4) Energises and directs behaviour"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Energises and directs behaviour",
+          "unit": "Unit 7",
+          "topic": "7.3 Motivation and Emotion",
+          "subtopic": "Nature of Motivation",
+          "concept": "Motivation is best defined as a process that both energises (provides activation/arousal) and directs (guides toward specific goals) behaviour. Option (3) is incomplete as it only mentions energising. Modern definitions emphasise both the energising and directional components.",
+          "era": "UGC",
+          "year": 2017,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 15,
+          "question": "Match List - I with List - II and select the correct answer by choosing from the code given below :\n\n|  List - I (Concept) | List - II (Phenomenon)  |\n| --- | --- |\n|  1) Functional fixedness hypothesis | (i) A kind of set that would make the images of all material almost similar  |\n|  2) Functional equivalence hypothesis | (ii) Mental manipulation performed on images of objects made to be similar to those that would be performed on actual objects  |\n|  3) Functional manipulative hypothesis | (iii) A kind of set that would point thoughts in the wrong direction  |\n|  4) Functional object imagery | (iv) Mental manipulation performed on images of objects which are very similar to those that would be performed on actual objects  |\n\n**Codes :**\n\n|  1) | 2) | 3) | 4)  |\n| --- | --- | --- | --- |\n|  (1) (i) | (ii) | (iii) | (iv)  |\n|  (2) (ii) | (iii) | (iv) | (i)  |\n|  (3) (iii) | (iv) | (ii) | (i)  |\n|  (4) (iv) | (iii) | (i) | (ii)  |",
+          "options": [
+            "1) (a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+            "2) (a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+            "3) (a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+            "4) (a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)"
+          ],
+          "correct_answer": 3,
+          "correct_text": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Mental Imagery and Thinking",
+          "concept": "As per the official answer key (option 3): (a) Functional fixedness hypothesis = (iii) A kind of set that would point thoughts in the wrong direction; (b) Functional equivalence hypothesis = (iv) Mental manipulation performed on images of objects which are very similar to those that would be performed on actual objects; (c) Functional manipulative hypothesis = (ii) Mental manipulation performed on images of objects made to be similar to those that would be performed on actual objects; (d) Functional object imagery = (i) A kind of set that would make the images of all material almost similar.",
+          "era": "UGC",
+          "year": 2017,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 16,
+          "question": "Match List - I with List - II and select the correct answer by choosing from the code given below :\n\n|  List - I (Concept) | List - II (Explanation)  |\n| --- | --- |\n|  1) Procedural memory | (i) Memory for facts, words, dates, names of objects  |\n|  2) Declarative memory | (ii) Combining several letters, words, phrases into one \"stack\" of information  |\n|  3) Episodic memory | (iii) Memory for typing, driving, riding a bicycle  |\n|  4) Recoding | (iv) Memory about \"what\", \"where\" and \"when\" of our lives  |\n\n**Codes :**\n\n|  1) | 2) | 3) | 4)  |\n| --- | --- | --- | --- |\n|  (1) (i) | (ii) | (iii) | (iv)  |\n|  (2) (iii) | (i) | (iv) | (ii)  |\n|  (3) (iv) | (iii) | (ii) | (i)  |\n|  (4) (ii) | (iv) | (iii) | (i)  |",
+          "options": [
+            "1) (a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+            "2) (a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+            "3) (a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+            "4) (a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"
+          ],
+          "correct_answer": 2,
+          "correct_text": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Types of Memory",
+          "concept": "Procedural memory is implicit memory for skills (typing, driving). Declarative memory is explicit memory for facts (words, dates, names). Episodic memory is autobiographical memory of personal events (what, where, when). Recoding (chunking) combines information into manageable units.",
+          "era": "UGC",
+          "year": 2017,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 17,
+          "question": "Purposive manipulation of reinforcement contingencies, which encourage desirable behaviour, is called :",
+          "options": [
+            "1) Contingency management",
+            "2) Contingency contracting",
+            "3) Contingent reinforcement",
+            "4) Non-contingent reinforcement"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Contingency management",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Behaviour Modification Techniques",
+          "concept": "Contingency management is the deliberate, purposive manipulation of reinforcement contingencies to encourage desirable behaviour. It involves systematically arranging environmental consequences to shape and maintain target behaviours.",
+          "era": "UGC",
+          "year": 2017,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 18,
+          "question": "Which of the following depth cue is based on muscular feedback?",
+          "options": [
+            "1) Texture gradients",
+            "2) Motion parallax",
+            "3) Accommodation",
+            "4) Light and Shadow"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Accommodation",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Monocular Depth Cues",
+          "concept": "Accommodation is a monocular depth cue based on muscular feedback — the ciliary muscles adjust the lens shape to focus on objects at different distances. The brain uses feedback from these muscle adjustments as a cue to depth perception.",
+          "era": "UGC",
+          "year": 2017,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 19,
+          "question": "Nomothetic approach in personality research was mainly emphasised by :\n\n1) Allport\n2) Skinner\n3) Cattell\n4) Eysenk\n\n**Codes :**",
+          "options": [
+            "1) 1) and 3) only",
+            "2) 1) and 2) only",
+            "3) 2) and 3) only",
+            "4) 3) and 4) only"
+          ],
+          "correct_answer": 4,
+          "correct_text": "3) and 4) only",
+          "unit": "Unit 7",
+          "topic": "7.2 Personality",
+          "subtopic": "Nomothetic vs Idiographic Approaches",
+          "concept": "The nomothetic approach seeks universal laws applicable to all individuals. Cattell (16 PF, factor analysis) and Eysenck (PEN model, typology) are the main proponents of this approach. Allport is associated with the idiographic approach, emphasizing individual uniqueness.",
+          "era": "UGC",
+          "year": 2017,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 20,
+          "question": "Read each of the following two statements - Assertion 1) and Reason (R); and indicate your answer using code given below :\n\n**Assertion (A):** Spearman proposed the existence of specific factor of intelligence.\n\n**Reason (R):** It was observed that tetrad differences are always equal to zero.\n\n**Codes :**",
+          "options": [
+            "1) Both 1) and (R) are true, and (R) is the correct explanation of (A).",
+            "2) Both 1) and (R) are true, but (R) is not the correct explanation of (A).",
+            "3) 1) is true, but (R) is false.",
+            "4) 1) is false, but (R) is true."
+          ],
+          "correct_answer": 3,
+          "correct_text": "(A) is true, but (R) is false.",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Spearman's Two-Factor Theory",
+          "concept": "Spearman proposed both a general factor (g) and specific factors (s) of intelligence. The Assertion is true. However, the Reason is false — tetrad differences being equal to zero supports the existence of a GENERAL factor (g), not specific factors. The tetrad difference method was used to demonstrate g, while specific factors (s) were inferred as residual variance after g is accounted for.",
+          "era": "UGC",
+          "year": 2017,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 21,
+          "question": "Which theory of emotion implies that every emotion is associated with a unique physiological reaction?",
+          "options": [
+            "1) James - Lange theory",
+            "2) Cannon - Bard theory",
+            "3) Two factor theory",
+            "4) Opponent - process theory"
+          ],
+          "correct_answer": 1,
+          "correct_text": "James - Lange theory",
+          "unit": "Unit 7",
+          "topic": "7.3 Motivation and Emotion",
+          "subtopic": "Theories of Emotion",
+          "concept": "The James-Lange theory proposes that each emotion has a unique physiological pattern — we feel emotion BECAUSE of specific bodily responses. Different emotions produce different physiological reactions, making this the theory most associated with unique physiological patterns per emotion.",
+          "era": "UGC",
+          "year": 2017,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 22,
+          "question": "Read each of the following two statements - Assertion 1) and Reason (R); and indicate your answer using code given below:\n\n**Assertion (A):** Some people perceive wolf as dog.\n\n**Reason (R):** External features in a category of concepts are associated with each other.\n\n**Codes :**",
+          "options": [
+            "1) Both 1) and (R) are true, and (R) is the correct explanation of (A).",
+            "2) Both 1) and (R) are true, but (R) is not the correct explanation of (A).",
+            "3) 1) is true, but (R) is false.",
+            "4) 1) is false, but (R) is true."
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both 1) and (R) are true, and (R) is the correct explanation of (A).",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Concept Formation and Categorisation",
+          "concept": "People may misperceive a wolf as a dog because concepts are formed partly by associating external features within a category. Since wolves and dogs share many external features, the associative nature of concept categories can lead to such perceptual confusion.",
+          "era": "UGC",
+          "year": 2017,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 23,
+          "question": "The frequency with which an operant response occurs before it is systematically reinforced, is called:",
+          "options": [
+            "1) Rate of responding",
+            "2) Operant level",
+            "3) Orienting reflex",
+            "4) Autoclitic behaviour"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Operant level",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Operant Conditioning Concepts",
+          "concept": "Operant level is the baseline rate at which a specific response occurs naturally, before any systematic reinforcement is applied. It provides a reference point against which changes in response frequency due to reinforcement can be measured.",
+          "era": "UGC",
+          "year": 2017,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 24,
+          "question": "An important factor which enables one to adapt to inverted vision is:",
+          "options": [
+            "1) Orientation",
+            "2) Active movement",
+            "3) New learning",
+            "4) Frame of reference"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Active movement",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Perceptual Adaptation",
+          "concept": "Research on inverted vision (e.g., Stratton's experiments) shows that active movement and exploration are critical for perceptual adaptation. When subjects actively interact with their environment while wearing inverting goggles, they gradually adapt to the inverted visual field.",
+          "era": "UGC",
+          "year": 2017,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 25,
+          "question": "______ defined intelligence as the ability to 'see relations and to educe correlates'.",
+          "options": [
+            "1) Binet",
+            "2) Spearman",
+            "3) Terman",
+            "4) Boring"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Spearman",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Spearman's Concept of Intelligence",
+          "concept": "Charles Spearman defined intelligence as the ability to 'educe relations and correlates' — meaning the capacity to perceive relationships between ideas and to derive correlations from given information. This definition underpins his g-factor theory.",
+          "era": "UGC",
+          "year": 2017,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 26,
+          "question": "Which of the following statements are true about Eysenck Personality Questionnaire-Revised (EPQ - R) and the NEO - Personality Inventory - 3 (NEO - PI - 3)?\n\n1) Both EPQ - R and NEO - PI - 3 have Extraversion and Neuroticism scales.\n2) Eysenckian Psychoticism scale correlates positively with Agreeableness, and negatively with conscientiousness scales of NEO - PI - 3.\n3) Eysenckian Psychoticism scale correlates negatively with Agreeableness and conscientiousness scales of NEO - PI - 3.\n4) Only EPQ - R has lie scale; NEO - PI - 3 does not have lie scale.\n\n**Codes :**",
+          "options": [
+            "1) 1) and 2) only",
+            "2) 1) and 3) only",
+            "3) (a), 2) and 3) only",
+            "4) (a), 3) and 4) only"
+          ],
+          "correct_answer": 4,
+          "correct_text": "1) and 3) and 4) only",
+          "unit": "Unit 3",
+          "topic": "3.3 Psychological Tests",
+          "subtopic": "Personality Inventories — EPQ-R and NEO-PI-3",
+          "concept": "Both EPQ-R and NEO-PI-3 measure Extraversion and Neuroticism (statement 1 is true). Eysenckian Psychoticism correlates NEGATIVELY with both Agreeableness and Conscientiousness of NEO-PI-3 (statement 3 is true, statement 2 is false). Only EPQ-R has a Lie scale; NEO-PI-3 does not (statement 4 is true). The correct option is 1), 3) and 4) only.",
+          "era": "UGC",
+          "year": 2017,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 27,
+          "question": "Afferent and Efferent nerves are found in which of the following?",
+          "options": [
+            "1) Sympathetic Nervous System",
+            "2) Para - Sympathetic Nervous System",
+            "3) Somatic Nervous System",
+            "4) Central Nervous System"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Somatic Nervous System",
+          "unit": "Unit 4",
+          "topic": "4.1 Biological Basis of Behaviour",
+          "subtopic": "Peripheral Nervous System",
+          "concept": "The Somatic Nervous System (SNS) is part of the peripheral nervous system and contains both afferent (sensory) nerves carrying signals to the CNS and efferent (motor) nerves carrying signals from the CNS to skeletal muscles.",
+          "era": "UGC",
+          "year": 2017,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 28,
+          "question": "Match List - I with List - II and select the correct answer by choosing from the code given below :\n\n|  List - I (Type of Test) | List - II (Example)  |\n| --- | --- |\n|  1) Forced choice personality inventory | (i) Minnesota Multiphasic Personality Inventory (MMPI - 2)  |\n|  2) Ipsative Scale | (ii) Rosenzweig Picture Frustration Study  |\n|  3) Personality inventory with a lie scale | (iii) Edwards Personal Preference Schedule (EPPS)  |\n|  4) Projective test | (iv) Allport - Vernon - Lindzey's Study of Values  |\n\n**Codes :**\n\n|  1) | 2) | 3) | 4)  |\n| --- | --- | --- | --- |\n|  (1) (iv) | (iii) | (ii) | (i)  |\n|  (2) (iii) | (iv) | (i) | (ii)  |\n|  (3) (iii) | (i) | (iv) | (ii)  |\n|  (4) (iv) | (ii) | (iii) | (i)  |",
+          "options": [
+            "1) (a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+            "2) (a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+            "3) (a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+            "4) (a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)"
+          ],
+          "correct_answer": 2,
+          "correct_text": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+          "unit": "Unit 3",
+          "topic": "3.3 Psychological Tests",
+          "subtopic": "Types of Personality Tests",
+          "concept": "EPPS is a forced-choice personality inventory. Allport-Vernon-Lindzey Study of Values uses ipsative scoring. MMPI-2 is a personality inventory with a lie scale (L scale). Rosenzweig Picture Frustration Study is a projective test.",
+          "era": "UGC",
+          "year": 2017,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 29,
+          "question": "Which is the correct sequence of parts of ear through which sound travels in the ear?",
+          "options": [
+            "1) Tymphanic membrane → Stapes → Incus → Malleus → Cochlea",
+            "2) Tymphanic membrane → Incus → Stapes → Malleus → Cochlea",
+            "3) Malleus → Incus → Stapes → Cochlea → Tymphanic membrane",
+            "4) Tymphanic membrane → Malleus → Incus → Stapes → Cochlea"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Tymphanic membrane → Malleus → Incus → Stapes → Cochlea",
+          "unit": "Unit 4",
+          "topic": "4.1 Biological Basis of Behaviour",
+          "subtopic": "Auditory System — Structure of Ear",
+          "concept": "Sound enters the ear and travels through: Tympanic membrane (eardrum) → Malleus (hammer) → Incus (anvil) → Stapes (stirrup) → Cochlea (inner ear). The ossicles (malleus, incus, stapes) are the three smallest bones in the body.",
+          "era": "UGC",
+          "year": 2017,
+          "passage_ref": null,
+          "table_ref": null,
+          "explanation": "Tympanic membrane → Malleus → Incus → Stapes → Cochlea"
+        },
+        {
+          "id": 30,
+          "question": "The 1986 Symposium on intelligence identified the main loci of intelligence :\n\n1) Intelligence within the individual\n2) Intelligence within the environment\n3) Intelligence within the interaction between the individual and environment\n4) Intelligence to be measured by psychometric measures\n\n**Codes :**",
+          "options": [
+            "1) 1) and 2) only",
+            "2) 3) and 4) only",
+            "3) (a), 2) and 3) only",
+            "4) (b), 3) and 4) only"
+          ],
+          "correct_answer": 3,
+          "correct_text": "(a), 2) and 3) only",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Contemporary Views on Intelligence",
+          "concept": "The 1986 Symposium on Intelligence identified three main loci: intelligence within the individual, intelligence within the environment, and intelligence within the interaction between individual and environment. Psychometric measurement is a method, not a locus.",
+          "era": "UGC",
+          "year": 2017,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 31,
+          "question": "Match List - I with List - II and select the correct answer by choosing from the code given below :\n\n|  List - I (Terms) | List - II (Explanation)  |\n| --- | --- |\n|  1) Anorexia nervosa | (i) Sudden death occurs as terrified person's parasympathetic nervous system over reacts due to which heart slows down to stop  |\n|  2) Bulimia nervosa | (ii) A resting period after orgasm, during which a person cannot achieve another orgasm  |\n|  3) Refractory period | (iii) An eating disorder in which a person significantly becomes underweight  |\n|  4) Voodo Curse | (iv) An eating disorder marked by over eating  |\n\n**Codes :**\n\n|  1) | 2) | 3) | 4)  |\n| --- | --- | --- | --- |\n|  (1) (i) | (ii) | (iii) | (iv)  |\n|  (2) (ii) | (iii) | (iv) | (i)  |\n|  (3) (iii) | (iv) | (i) | (ii)  |\n|  (4) (iii) | (iv) | (ii) | (i)  |",
+          "options": [
+            "1) (a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+            "2) (a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+            "3) (a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+            "4) (a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"
+          ],
+          "correct_answer": 4,
+          "correct_text": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+          "unit": "Unit 7",
+          "topic": "7.3 Motivation and Emotion",
+          "subtopic": "Eating Disorders and Psychosomatic Phenomena",
+          "concept": "Anorexia nervosa is characterised by severe underweight due to food restriction. Bulimia nervosa involves cycles of binge eating. Refractory period is the post-orgasm resting phase. Voodoo curse death involves parasympathetic overreaction causing cardiac arrest.",
+          "era": "UGC",
+          "year": 2017,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 32,
+          "question": "The most commonly overlooked and obvious reason for forgetting is :",
+          "options": [
+            "1) Encoding specificity",
+            "2) Encoding failure",
+            "3) Lack of sleep",
+            "4) Faulty eating habits"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Encoding failure",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Forgetting",
+          "concept": "Encoding failure is the most commonly overlooked reason for forgetting — information never gets properly encoded into long-term memory in the first place, so it cannot be retrieved later. Many apparent 'forgetting' failures are actually encoding failures.",
+          "era": "UGC",
+          "year": 2017,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 33,
+          "question": "Which of the following sequence is correctly arranged ?",
+          "options": [
+            "1) Incoming information → Rehearsal buffer → Selective attention",
+            "2) Rehearsal Buffer → Selective attention → Incoming information",
+            "3) Selective attention → Rehearsal Buffer → Incoming information",
+            "4) Incoming information → Selective attention → Rehearsal buffer"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Incoming information → Selective attention → Rehearsal buffer",
+          "unit": "Unit 5",
+          "topic": "5.1 Attention",
+          "subtopic": "Information Processing Sequence",
+          "concept": "In information processing, the sequence is: incoming information first arrives, then selective attention filters relevant information, and finally the rehearsal buffer (working memory) maintains and processes the selected information.",
+          "era": "UGC",
+          "year": 2017,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 34,
+          "question": "Match List - I with List - II and select the correct answer by choosing from the code given below :\n\n|  List - I (Concept) | List - II (Explanation)  |\n| --- | --- |\n|  1) Inattentional blindness | (i) Failure to perceive a stimulus that is in plain view, but not the focus of attention  |\n|  2) Habituation | (ii) Tendency to respond less to predictable and unchanging stimuli  |\n|  3) Adaption level | (iii) Medium point of one's personal frame of reference  |\n|  4) Perceptual habits | (iv) Ingrained patterns of organisation and attention  |\n\n**Codes :**\n\n|  1) | 2) | 3) | 4)  |\n| --- | --- | --- | --- |\n|  (1) (iii) | (iv) | (i) | (ii)  |\n|  (2) (ii) | (i) | (iii) | (iv)  |\n|  (3) (iii) | (ii) | (iv) | (i)  |\n|  (4) (iv) | (iii) | (ii) | (i)  |",
+          "options": [
+            "1) (a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+            "2) (a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+            "3) (a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+            "4) (a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+          ],
+          "correct_answer": 2,
+          "correct_text": "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+          "unit": "Unit 5",
+          "topic": "5.1 Attention and 5.2 Perception",
+          "subtopic": "Attention and Perceptual Concepts",
+          "concept": "Inattentional blindness (ii) — failure to perceive a stimulus that is in plain view, but not the focus of attention. Habituation (i) — tendency to respond less to predictable and unchanging stimuli. Adaptation level (iii) — medium point of one's personal frame of reference. Perceptual habits (iv) — ingrained patterns of organisation and attention.",
+          "era": "UGC",
+          "year": 2017,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 35,
+          "question": "Match List - I with List - II and select the correct answer by choosing from the code given below :\n\n|  List - I (Tests) | List - II (Authors)  |\n| --- | --- |\n|  1) Cognitive Assessment Battery | (i) Cattell, RB  |\n|  2) Deviation IQ | (ii) Terman  |\n|  3) Cognitive Assessment System | (iii) Wechsler  |\n|  4) Stanford - Binet Scales | (iv) Naglieri and Das  |\n\n**Codes :**\n\n|  1) | 2) | 3) | 4)  |\n| --- | --- | --- | --- |\n|  (1) (i) | (ii) | (iii) | (iv)  |\n|  (2) (ii) | (iii) | (iv) | (i)  |\n|  (3) (iv) | (iii) | (i) | (ii)  |\n|  (4) (i) | (iii) | (iv) | (ii)  |",
+          "options": [
+            "1) (a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+            "2) (a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+            "3) (a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+            "4) (a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)"
+          ],
+          "correct_answer": 4,
+          "correct_text": "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)",
+          "unit": "Unit 3",
+          "topic": "3.3 Psychological Tests",
+          "subtopic": "Intelligence Tests and Authors",
+          "concept": "Cognitive Assessment Battery was developed by Cattell. Deviation IQ concept was introduced by Wechsler. Cognitive Assessment System (CAS) was developed by Naglieri and Das (based on PASS model). Stanford-Binet Scales were originally developed by Terman.",
+          "era": "UGC",
+          "year": 2017,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 36,
+          "question": "Read each of the following two statements - Assertion 1) and Reason (R); and indicate your answer using code given below :\n\n**Assertion (A):** Some persons engage in activities such as collecting things, being good listeners, or being gullible persons.\n\n**Reason (R):** In Freudian psychoanalysis, it is assumed that fixation at oral stage results in the development of oral incorporative character.\n\n**Codes :**",
+          "options": [
+            "1) Both 1) and (R) are true, and (R) is the correct explanation of (A).",
+            "2) Both 1) and (R) are true, but (R) is not the correct explanation of (A).",
+            "3) 1) is true, but (R) is false.",
+            "4) 1) is false, but (R) is true."
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both 1) and (R) are true, and (R) is the correct explanation of (A).",
+          "unit": "Unit 7",
+          "topic": "7.2 Personality",
+          "subtopic": "Freud's Psychosexual Stages — Fixation",
+          "concept": "Fixation at the oral stage in Freudian theory leads to oral incorporative personality characteristics such as collecting things, being overly trusting/gullible, and being good listeners. The oral incorporative character reflects the oral stage's theme of incorporation.",
+          "era": "UGC",
+          "year": 2017,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 37,
+          "question": "A researcher wants to scale nine attitude items by the method of paired comparison. What would be the number of pairs of the attitude items?",
+          "options": [
+            "1) 81",
+            "2) 72",
+            "3) 36",
+            "4) 9"
+          ],
+          "correct_answer": 3,
+          "correct_text": "36",
+          "unit": "Unit 2",
+          "topic": "2.2 Research Methods and Statistics",
+          "subtopic": "Scaling Methods — Paired Comparison",
+          "concept": "In the method of paired comparisons with n items, the number of pairs = n(n-1)/2. With 9 items: 9×8/2 = 36 pairs. Each item is compared with every other item exactly once.",
+          "era": "UGC",
+          "year": 2017,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 38,
+          "question": "Which of the following are regulated by Sympathetic Nervous System?\n\n1) Dilation of pupils\n2) Decreased activity of Adrenal Gland\n3) Digestion is stimulated\n4) Increased Heart Rate\n(e) Dryness in mouth\n\n**Codes :**",
+          "options": [
+            "1) (a), 2) and 3) only",
+            "2) 2) and 3) only",
+            "3) (a), 4) and (e) only",
+            "4) (a), (c), 4) and (e) only"
+          ],
+          "correct_answer": 3,
+          "correct_text": "(a), 4) and (e) only",
+          "unit": "Unit 4",
+          "topic": "4.1 Biological Basis of Behaviour",
+          "subtopic": "Autonomic Nervous System — Sympathetic Division",
+          "concept": "The sympathetic nervous system (fight-or-flight) causes: pupil dilation, increased heart rate, and dryness of mouth (reduced salivation). Decreased adrenal activity and stimulated digestion are parasympathetic functions (rest-and-digest).",
+          "era": "UGC",
+          "year": 2017,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 39,
+          "question": "Which of the following can cause errors in reasoning?\n\n1) Premise phrasing manner\n2) Foreclosure effects\n3) Confirmation bias\n\n**Codes :**",
+          "options": [
+            "1) 1) and (b)",
+            "2) 1) and (c)",
+            "3) 2) and (c)",
+            "4) (a), 2) and (c)"
+          ],
+          "correct_answer": 4,
+          "correct_text": "(a), (b) and (c)",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Errors in Reasoning",
+          "concept": "All three factors can cause errors in reasoning: (a) Premise phrasing manner (framing effects, syllogistic errors), (b) Foreclosure effects (premature closure on a solution without considering alternatives), and (c) Confirmation bias (seeking information that confirms existing beliefs).",
+          "era": "UGC",
+          "year": 2017,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 40,
+          "question": "Read each of the following two statements - Assertion 1) and Reason (R); and indicate your answer using code given below :\n\n**Assertion (A):** The names of objects, days of the week, the seasons and other general facts are all quite lasting and we do not forget them.\n\n**Reason (R):** Most of our basic factual knowledge about the world is almost totally immune to forgetting.\n\n**Codes :**",
+          "options": [
+            "1) Both 1) and (R) are true and (R) is the correct explanation of (A).",
+            "2) Both 1) and (R) are true, but (R) is not the correct explanation of (A).",
+            "3) 1) is true, but (R) is false.",
+            "4) 1) is false, but (R) is true."
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Semantic Memory and Forgetting",
+          "concept": "Both the Assertion (semantic knowledge like names of objects, days of the week, seasons are quite lasting) and the Reason (basic factual knowledge is almost totally immune to forgetting) are true. The Reason correctly explains WHY the Assertion is true — semantic memory for general facts is highly resistant to forgetting due to its nature as well-consolidated, overlearned knowledge stored in LTM.",
+          "era": "UGC",
+          "year": 2017,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 41,
+          "question": "According to Skinner, which of the following are the characteristics of 'Respondent Behaviour'?\n\n1) It is elicited.\n2) It is emitted.\n3) It is conditioned.\n4) It is unconditioned.\n\n**Codes :**",
+          "options": [
+            "1) 1) and 3) only",
+            "2) 2) and 3) only",
+            "3) (a), 3) and 4) only",
+            "4) (b), 3) and 4) only"
+          ],
+          "correct_answer": 3,
+          "correct_text": "(a), 3) and 4) only",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Skinner's Classification of Behaviour",
+          "concept": "According to Skinner, respondent behaviour is elicited by stimuli (not emitted). It includes both conditioned responses (learned) and unconditioned responses (innate). Operant behaviour, by contrast, is emitted by the organism.",
+          "era": "UGC",
+          "year": 2017,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 42,
+          "question": "Read each of the following two statements - Assertion 1) and Reason (R); and indicate your answer using code given below:\n\n**Assertion (A):** To use a computer, we must learn to pay attention to specific stimuli, such as icons, commands and signals.\n\n**Reason (R):** Learning creates perceptual habits that affect our daily experience.\n\n**Codes :**",
+          "options": [
+            "1) Both 1) and (R) are true and (R) is the correct explanation of (A).",
+            "2) Both 1) and (R) are true, but (R) is not the correct explanation of (A).",
+            "3) 1) is true, but (R) is false.",
+            "4) 1) is false, but (R) is true."
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+          "unit": "Unit 5",
+          "topic": "5.1 Attention and 5.3 Learning",
+          "subtopic": "Attention and Perceptual Learning",
+          "concept": "Both statements are true — using computers requires selective attention to icons, commands, and signals, and learning does create perceptual habits. The Reason correctly explains WHY we must learn to pay attention to computer stimuli — learning-generated perceptual habits shape what we attend to in daily experience.",
+          "era": "UGC",
+          "year": 2017,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 43,
+          "question": "Arrange Thurston's primary abilities in correct sequence:",
+          "options": [
+            "1) Verbal Comprehension; Verbal Fluency; Numerical Ability; Memory; Perceptual Speed; Inductive Reasoning, Spatial Visualization",
+            "2) Verbal Fluency; Verbal Comprehension; Numerical Ability; Memory; Perceptual Speed; Spatial Visualization; Inductive Reasoning",
+            "3) Numerical Ability; Verbal Comprehension; Verbal Fluency; Memory; Inductive Reasoning; Spatial Visualization; Perceptual Speed",
+            "4) Spatial Visualization; Inductive Reasoning; Memory; Perceptual Speed; Numerical Ability; Verbal Fluency; Verbal Comprehension"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Verbal Comprehension; Verbal Fluency; Numerical Ability; Memory; Perceptual Speed; Inductive Reasoning, Spatial Visualization",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Thurstone's Primary Mental Abilities",
+          "concept": "Thurstone identified seven primary mental abilities: Verbal Comprehension, Verbal Fluency, Numerical Ability, Memory, Perceptual Speed, Inductive Reasoning, and Spatial Visualization. This is the standard sequence.",
+          "era": "UGC",
+          "year": 2017,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 44,
+          "question": "Read each of the following two statements - Assertion 1) and Reason (R); and indicate your answer using code given below :\n\n**Assertion (A):** According to the Classical Test Theory (CTT), the true score component and the error component of the observed score are assumed to be uncorrelated.\n\n**Reason (R):** According to the CTT, the error component is assumed to be distributed with a mean of zero.\n\n**Codes :**",
+          "options": [
+            "1) Both 1) and (R) are true and (R) is the correct explanation of (A).",
+            "2) Both 1) and (R) are true, but (R) is not the correct explanation of (A).",
+            "3) 1) is true, but (R) is false.",
+            "4) 1) is false, but (R) is true."
+          ],
+          "correct_answer": 2,
+          "correct_text": "Both 1) and (R) are true, but (R) is not the correct explanation of (A).",
+          "unit": "Unit 3",
+          "topic": "3.1 Psychological Testing",
+          "subtopic": "Classical Test Theory",
+          "concept": "CTT assumes true scores and error scores are uncorrelated (a fundamental assumption). CTT also assumes errors have a mean of zero. However, the zero-mean assumption does not explain WHY true and error scores are uncorrelated — these are independent assumptions of CTT.",
+          "era": "UGC",
+          "year": 2017,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 45,
+          "question": "Arish, on a Wechsler type of scale, has a DIQ (deviation IQ) of 85. His percentile rank would be:",
+          "options": [
+            "1) 16",
+            "2) 34",
+            "3) 68",
+            "4) 85"
+          ],
+          "correct_answer": 1,
+          "correct_text": "16",
+          "unit": "Unit 3",
+          "topic": "3.1 Psychological Testing",
+          "subtopic": "IQ Scores and Percentile Ranks",
+          "concept": "On Wechsler scales, mean IQ = 100, SD = 15. An IQ of 85 is one SD below the mean (100 - 15 = 85). In a normal distribution, one SD below the mean corresponds to approximately the 16th percentile.",
+          "era": "UGC",
+          "year": 2017,
+          "passage_ref": null,
+          "table_ref": null
+        }
+      ]
+    },
+    {
+      "type": "passage",
+      "id": "passage_46",
+      "heading": "Read the following passage carefully and answer questions from 46 to 50:",
+      "text": "A psychologist, working in the area of Learning and Memory hypothesized that a particular drug would adversely affect the learning rate. One hundred and fifty subjects, 75 boys and 75 girls, studying in the first year of a degree college, in the age range of 18 to 20 years, were available for the study. It was ensured that all the subjects were in the DIQ (deviation IQ) range of 85 to 115. Three groups - A, B and C - of equal size were formed by random assignment. Group A received high dosage of drug, Group B received moderate dosage of drug, and Group C received only placebo. A list of 15 CVC trigrams, each having an association value in the range of 50 to 70 was already prepared. Each subject was required to learn the list upto two errorless trials using method of anticipation on a memory drum. The mean trials required to learn the list were 12, 15 and 20 respectively. The intergroup mean differences were statistically significant at .01 level."
+    },
+    {
+      "type": "questions_block",
+      "range": "Q46–Q50",
+      "passage_ref": "passage_46",
+      "questions": [
+        {
+          "id": 46,
+          "question": "Which one of the following conclusions can be drawn on the basis of the above study?",
+          "options": [
+            "1) The researcher's hypothesis has been verified.",
+            "2) The researcher's hypothesis has been rejected.",
+            "3) The researcher's hypothesis has been partially accepted.",
+            "4) Inadequate data to evaluate the hypothesis."
+          ],
+          "correct_answer": 1,
+          "correct_text": "The researcher's hypothesis has been verified.",
+          "unit": "Unit 2",
+          "topic": "2.2 Research Methods and Statistics",
+          "subtopic": "Experimental Design and Hypothesis Testing",
+          "concept": "The hypothesis was that the drug would adversely affect learning rate. Group C (placebo) took 12 trials, Group B (moderate dose) took 15 trials, Group A (high dose) took 20 trials. More drug dosage led to more trials needed to learn, indicating worse learning performance. This supports the hypothesis that the drug adversely affects learning rate — the hypothesis has been verified.",
+          "era": "UGC",
+          "year": 2017,
+          "passage_ref": "passage_46",
+          "table_ref": null
+        },
+        {
+          "id": 47,
+          "question": "In the above study, 'association value' can be labelled as :\n\n1) Continuous variable\n2) Controlled variable\n3) Organismic variable\n4) Stimulus variable\n\n**Codes :**",
+          "options": [
+            "1) 1) and 2) only",
+            "2) 1) and 3) only",
+            "3) (a), 2) and 3) only",
+            "4) (a), 2) and 4) only"
+          ],
+          "correct_answer": 4,
+          "correct_text": "(a), 2) and 4) only",
+          "unit": "Unit 2",
+          "topic": "2.2 Research Methods and Statistics",
+          "subtopic": "Types of Variables",
+          "concept": "Association value (50-70 range for all trigrams) is a continuous variable (measured on a continuum), a controlled variable (held in a specific range), and a stimulus variable (property of the stimulus material). It is not an organismic variable (which relates to subject characteristics).",
+          "era": "UGC",
+          "year": 2017,
+          "passage_ref": "passage_46",
+          "table_ref": null
+        },
+        {
+          "id": 48,
+          "question": "Read each of the following two statements - Assertion 1) and Reason (R); and indicate your answer using code given below :\n\n**Assertion (A):** In the above study, the subjects have been randomly assigned to the three groups.\n\n**Reason (R):** The independent variable is manipulated more effectively with random assignment of subjects.\n\n**Codes :**",
+          "options": [
+            "1) Both 1) and (R) are true and (R) is the correct explanation of (A).",
+            "2) Both 1) and (R) are true, but (R) is not the correct explanation of (A).",
+            "3) 1) is true, but (R) is false.",
+            "4) 1) is false, but (R) is true."
+          ],
+          "correct_answer": 3,
+          "correct_text": "(A) is true, but (R) is false.",
+          "unit": "Unit 2",
+          "topic": "2.2 Research Methods and Statistics",
+          "subtopic": "Random Assignment",
+          "concept": "The passage confirms random assignment was used, so (A) is true. However, (R) is false — random assignment ensures groups are equivalent at baseline (controls for confounding variables), but it does not make manipulation of the independent variable more effective. The IV (drug dosage) is manipulated through the experimental procedure, not through random assignment.",
+          "era": "UGC",
+          "year": 2017,
+          "passage_ref": "passage_46",
+          "table_ref": null
+        },
+        {
+          "id": 49,
+          "question": "Match List - I with List - II in the context of above study and select the correct answer by choosing from the code given below :\n\n|  List - I | List - II  |\n| --- | --- |\n|  1) Independent variable | (i) Intelligence  |\n|  2) Dependent variable | (ii) Drug dosage  |\n|  3) Controlled variable | (iii) Gender  |\n|  4) Discrete variable | (iv) Trials required to learn the list  |\n\n**Codes :**\n\n|  1) | 2) | 3) | 4)  |\n| --- | --- | --- | --- |\n|  (1) (iv) | (ii) | (iii) | (i)  |\n|  (2) (iv) | (ii) | (i) | (iii)  |\n|  (3) (ii) | (iv) | (iii) | (i)  |\n|  (4) (ii) | (iv) | (i) | (iii)  |",
+          "options": [
+            "1) (a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+            "2) (a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+            "3) (a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+            "4) (a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+          ],
+          "correct_answer": 4,
+          "correct_text": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+          "unit": "Unit 2",
+          "topic": "2.2 Research Methods and Statistics",
+          "subtopic": "Types of Variables in Experiments",
+          "concept": "Independent variable = Drug dosage (manipulated). Dependent variable = Trials required to learn (measured outcome). Controlled variable = Intelligence (DIQ range 85-115 controlled). Discrete variable = Gender (categorical: boys/girls).",
+          "era": "UGC",
+          "year": 2017,
+          "passage_ref": "passage_46",
+          "table_ref": null
+        },
+        {
+          "id": 50,
+          "question": "In the above study, the variance caused by Drug dosage can be labelled as :",
+          "options": [
+            "1) Primary variance",
+            "2) Secondary variance",
+            "3) Controlled variance",
+            "4) Error variance"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Primary variance",
+          "unit": "Unit 2",
+          "topic": "2.2 Research Methods and Statistics",
+          "subtopic": "Sources of Variance in Experiments",
+          "concept": "Variance caused by the independent variable (drug dosage) in an experiment is termed primary variance or treatment variance. It represents the systematic variation attributable to the experimental manipulation.",
+          "era": "UGC",
+          "year": 2017,
+          "passage_ref": "passage_46",
+          "table_ref": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1528 @@
+{
+  "paper_metadata": {
+    "title": "UGC NET/JRF Examination, July 2016",
+    "date": "July 2016",
+    "subject": "Psychology — Paper III"
+  },
+  "content": [
+    {
+      "type": "questions_block",
+      "range": "Q1–Q70",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Amit met with an accident and later turned into impulsive, irresponsible and less concerned with the consequences of his actions. He must have suffered damage in",
+          "options": [
+            "(A) Parietal lobe",
+            "(B) Frontal lobe",
+            "(C) Occipital lobe",
+            "(D) Temporal lobe"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Frontal lobe",
+          "unit": "Unit 4",
+          "topic": "4.2 Nervous System",
+          "subtopic": "Brain Lobes",
+          "concept": "The frontal lobe, particularly the prefrontal cortex, is responsible for executive functions including impulse control, decision-making, planning, and judgment. Damage to this area results in impulsive, irresponsible behaviour and poor concern for consequences.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 2,
+          "question": "Effective teaching may include conceptual scaffolding, which is best described by the following statement:",
+          "options": [
+            "(A) introducing practice sessions after every module.",
+            "(B) gradually fading support as student proficiency increases.",
+            "(C) punishing student for incorrect answers.",
+            "(D) encouraging brighter students to help weaker students."
+          ],
+          "correct_answer": 2,
+          "correct_text": "gradually fading support as student proficiency increases.",
+          "unit": "Unit 9",
+          "topic": "9.3 Educational Psychology",
+          "subtopic": "Scaffolding",
+          "concept": "Scaffolding (from Vygotsky's ZPD concept) refers to providing temporary support that is gradually removed (faded) as the learner becomes more competent and proficient. This allows students to work just beyond their current ability level.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 3,
+          "question": "Read each of the following two statements – Assertion (A) and Reason (R) and indicate your answer using codes given below:\n\n**Assertion (A)**: Individuals high in achievement motivation are more attracted to tasks of intermediate difficulty.\n\n**Reason (R)**: Individuals high in achievement motivation are highly motivated to avoid failure.\n\n**Codes :**",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+          "unit": "Unit 7",
+          "topic": "7.2 Motivation",
+          "subtopic": "Achievement Motivation",
+          "concept": "According to Atkinson, individuals high in achievement motivation (high nAch) prefer tasks of intermediate difficulty — challenging enough to feel accomplishment but not so easy as to be meaningless. This is because they are motivated to avoid failure while seeking success.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 4,
+          "question": "A social worker, appointed to assist the psychiatrist, used to administer and interpret Rorschach test. This is an",
+          "options": [
+            "(A) ethically incorrect practice",
+            "(B) ethically correct practice",
+            "(C) ethically correct practice provided the results are used only for diagnostic purpose.",
+            "(D) ethically correct practice provided the results are kept confidential and are used only for diagnostic purpose."
+          ],
+          "correct_answer": 1,
+          "correct_text": "ethically incorrect practice",
+          "unit": "Unit 3",
+          "topic": "3.3 Psychological Tests",
+          "subtopic": "Test Ethics",
+          "concept": "The Rorschach is a projective personality test requiring specialized training for administration and interpretation. A social worker without proper psychological training administering and interpreting it violates APA/RCI ethical standards regarding competence and scope of practice.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 5,
+          "question": "Facial feedback hypothesis means\n(a) Your facial expression affects other's emotions.\n(b) Other's facial expression affects your emotions.\n(c) Facial expression provides feedback to the brain about emotions.\n(d) All the three\n\n**Codes :**",
+          "options": [
+            "(A) (a) only",
+            "(B) (a) and (b)",
+            "(C) (c) only",
+            "(D) (d) and (c)"
+          ],
+          "correct_answer": 3,
+          "correct_text": "(c) only",
+          "unit": "Unit 7",
+          "topic": "7.3 Emotion",
+          "subtopic": "Theories of Emotion",
+          "concept": "The Facial Feedback Hypothesis (Tomkins, Izard) proposes that facial muscle movements send afferent feedback to the brain, influencing the subjective experience of emotion. It means your own facial expression provides feedback to your brain about your emotional state.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 6,
+          "question": "The following instrument can not be utilized in the measurement of emotions:",
+          "options": [
+            "(A) Sphygmomanometer",
+            "(B) Galvanic skin response",
+            "(C) Digital thermometer",
+            "(D) Pupillary measurement camera"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Digital thermometer",
+          "unit": "Unit 7",
+          "topic": "7.3 Emotion",
+          "subtopic": "Measuring Emotions",
+          "concept": "A digital thermometer measures body temperature, which is not a standard psychophysiological measure of emotion. GSR (electrodermal activity), sphygmomanometer (blood pressure/cardiovascular reactivity), and pupillary measurement (pupil dilation) are all established physiological indicators of emotional arousal used in emotion research.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 7,
+          "question": "Match the items of List – I with List – II :\n\n| List – I (Disorder) | List – II (Typical Symptoms) |\n|---|---|\n| a. PTSD | i. Pill rolling movement |\n| b. Major depressive disorder | ii. Flashbacks |\n| c. Parkinson's Disease | iii. Echolalia |\n| d. Catatonic Schizophrenia | iv. Appetite loss |\n\n**Codes :**\n\n| | a | b | c | d |\n|---|---|---|---|---|\n| (1) | i | ii | iii | iv |\n| (2) | iv | iii | ii | i |\n| (3) | iii | i | iv | ii |\n| (4) | ii | iv | i | iii |",
+          "options": [
+            "(A) a→i, b→ii, c→iii, d→iv",
+            "(B) a→iv, b→iii, c→ii, d→i",
+            "(C) a→iii, b→i, c→iv, d→ii",
+            "(D) a→ii, b→iv, c→i, d→iii"
+          ],
+          "correct_answer": 4,
+          "correct_text": "a→ii, b→iv, c→i, d→iii",
+          "unit": "Unit 10",
+          "topic": "10.1 Clinical Psychology",
+          "subtopic": "Disorders and Symptoms",
+          "concept": "PTSD is characterized by flashbacks (re-experiencing traumatic events). Major depressive disorder commonly presents with appetite loss. Parkinson's Disease shows pill-rolling tremor (resting tremor). Catatonic Schizophrenia features echolalia (repeating others' speech).",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 8,
+          "question": "Arrange in sequence the stage of personality development according to Rollo May",
+          "options": [
+            "(A) Innocence → ordinary consciousness of self → rebellion → creative consciousness of self",
+            "(B) Innocence → rebellion → ordinary consciousness of self → creative consciousness of self",
+            "(C) Ordinary consciousness of self → innocence → rebellion → creative consciousness of self",
+            "(D) Rebellion → innocence → ordinary consciousness of self → creative consciousness of self"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Innocence → rebellion → ordinary consciousness of self → creative consciousness of self",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Humanistic-Existential Theories",
+          "concept": "Rollo May described personality development through stages: Innocence (pre-self-awareness) → Rebellion (asserting independence) → Ordinary consciousness of self (developing self-awareness) → Creative consciousness of self (self-actualization through creativity).",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 9,
+          "question": "The rapid change in performance as the size of reinforcement in varied is called",
+          "options": [
+            "(A) Crespi effect",
+            "(B) Disequilibrium hypothesis",
+            "(C) Premack principal",
+            "(D) Programmed learning"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Crespi effect",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Reinforcement Magnitude",
+          "concept": "The Crespi effect (1942) refers to the rapid change (contrast effect) in running speed/behaviour when the magnitude of reinforcement is suddenly increased or decreased. This demonstrates that organisms are sensitive to changes in reward magnitude.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 10,
+          "question": "Creativity has been conceptualized in terms of following :\n\n(a) Creativity as a product\n(b) Creativity as a process\n(c) Creativity as a potential\n(d) Creativity as perseverance\n\n**Codes :**",
+          "options": [
+            "(A) (a) and (b) only",
+            "(B) (b) and (c) only",
+            "(C) (a), (b) and (c) only",
+            "(D) (a), (b) and (d) only"
+          ],
+          "correct_answer": 3,
+          "correct_text": "(a), (b) and (c) only",
+          "unit": "Unit 6",
+          "topic": "6.3 Creativity",
+          "subtopic": "Concepts of Creativity",
+          "concept": "Creativity has been conceptualized in three main ways: as a product (novel, useful outputs), as a process (cognitive steps in creative thinking), and as a potential (individual capacity/traits enabling creativity). Perseverance is a contributing factor, not a conceptualization framework.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 11,
+          "question": "In Solomon Asch's study on conformity, subjects conformed to the Group approximately what percent of time",
+          "options": [
+            "(A) 25%",
+            "(B) 35%",
+            "(C) 45%",
+            "(D) over 50%"
+          ],
+          "correct_answer": 2,
+          "correct_text": "35%",
+          "unit": "Unit 8",
+          "topic": "8.1 Social Psychology",
+          "subtopic": "Conformity",
+          "concept": "In Asch's (1951) line judgment conformity experiments, subjects conformed to the incorrect group majority on approximately 35% of critical trials. About 75% of participants conformed at least once.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 12,
+          "question": "Perceived fairness of the amount and rewards among individuals refers to ________ while perceived fairness of the ways used for rewards and pays refers to ________.",
+          "options": [
+            "(A) Organizational justice, Distributive justice",
+            "(B) Equity, Organizational justice",
+            "(C) Distributive justice; Procedural justice",
+            "(D) Procedural justice; Distributive justice"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Distributive justice; Procedural justice",
+          "unit": "Unit 8",
+          "topic": "8.2 Organizational Behaviour",
+          "subtopic": "Justice in Organizations",
+          "concept": "Distributive justice refers to perceived fairness of outcome allocation (amounts and rewards). Procedural justice refers to perceived fairness of the processes and methods used to determine those outcomes.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 13,
+          "question": "Match List – I with List – II and select the correct answer by choosing from the codes given below :\n\n| List – I (Verbal Responses) | List – II (Explanations) |\n|---|---|\n| a. Mand | i. Verbal command that is reinforced when the listener carries out the command |\n| b. Tact | ii. Verbal behaviour of naming things |\n| c. Echoic behaviour | iii. Repeating someone else's utterances |\n| d. Autoclitic behaviour | iv. Provides grammatical framework for verbal behaviour |\n\n**Codes :**\n\n| | a | b | c | d |\n|---|---|---|---|---|\n| (1) | iv | iii | ii | i |\n| (2) | iii | iv | i | ii |\n| (3) | iii | iv | ii | i |\n| (4) | iv | iii | i | ii |",
+          "options": [
+            "(A) a→iv, b→iii, c→ii, d→i",
+            "(B) a→iii, b→iv, c→i, d→ii",
+            "(C) a→iii, b→iv, c→ii, d→i",
+            "(D) a→iv, b→iii, c→i, d→ii"
+          ],
+          "correct_answer": 1,
+          "correct_text": "a→iv, b→iii, c→ii, d→i",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Skinner's Verbal Behaviour",
+          "concept": "As per the UGC NET accepted answer key: Mand provides grammatical framework for verbal behaviour (iv). Tact involves repeating someone else's utterances (iii). Echoic behaviour refers to verbal behaviour of naming things (ii). Autoclitic behaviour is a verbal command that is reinforced when the listener carries out the command (i).",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 14,
+          "question": "Match List – I with List – II and select the correct answer by choosing from the codes given below :\n\n| List – I (Scale) | List – II (Test) |\n|---|---|\n| a. Structural scales | i. Rorschach Inkblot Test |\n| b. Lambda | ii. Zukerman-Kuhlman Personality Questionnaire |\n| c. Abasement | iii. California Psychological Inventory |\n| d. Impulsive Sensation Seeking | iv. Thematic Apperception Test |\n\n**Codes :**\n\n| | a | b | c | d |\n|---|---|---|---|---|\n| (1) | i | ii | iii | iv |\n| (2) | iii | i | iv | ii |\n| (3) | ii | iii | i | iv |\n| (4) | iv | i | ii | iii |",
+          "options": [
+            "(A) a→i, b→ii, c→iii, d→iv",
+            "(B) a→iii, b→i, c→iv, d→ii",
+            "(C) a→ii, b→iii, c→i, d→iv",
+            "(D) a→iv, b→i, c→ii, d→iii"
+          ],
+          "correct_answer": 2,
+          "correct_text": "a→iii, b→i, c→iv, d→ii",
+          "unit": "Unit 3",
+          "topic": "3.3 Psychological Tests",
+          "subtopic": "Personality Tests",
+          "concept": "Structural scales are part of CPI (California Psychological Inventory). Lambda is a ratio in Rorschach scoring. Abasement is a need in Murray's TAT. Impulsive Sensation Seeking is a scale in Zuckerman-Kuhlman Personality Questionnaire (ZKPQ).",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 15,
+          "question": "The concept of ______ is vital in the understanding of fractional antedating goal response",
+          "options": [
+            "(A) Drive stimulus reduction",
+            "(B) Reactive Inhibition",
+            "(C) Secondary Reinforcement",
+            "(D) Conditioned Inhibition"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Secondary Reinforcement",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Hull's Learning Theory",
+          "concept": "Fractional antedating goal responses (rG) are responses that occur before reaching the goal. These become conditioned to stimuli present earlier through secondary reinforcement, creating anticipatory goal responses that guide behaviour toward the goal.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 16,
+          "question": "Match List – I with List – II and select the correct answer by choosing from the codes given below :\n\n| List – I (Term in factor analysis) | List – II (Example/Brief explanation) |\n|---|---|\n| a. Factor extraction method | i. Correlations among varimax rotated factors |\n| b. Cattell's scree | ii. Promax |\n| c. Factor rotation method | iii. Principal axes |\n| d. Inter-factor correlation matrix | iv. Correlation among oblique-rotated factors |\n| | v. Method to decide number of factors for rotation |\n\n**Codes :**\n\n| | a | b | c | d |\n|---|---|---|---|---|\n| (1) | iii | v | ii | iv |\n| (2) | iii | v | ii | i |\n| (3) | v | iii | ii | iv |\n| (4) | ii | iii | v | iv |",
+          "options": [
+            "(A) a→iii, b→v, c→ii, d→iv",
+            "(B) a→iii, b→v, c→ii, d→i",
+            "(C) a→v, b→iii, c→ii, d→iv",
+            "(D) a→ii, b→iii, c→v, d→iv"
+          ],
+          "correct_answer": 1,
+          "correct_text": "a→iii, b→v, c→ii, d→iv",
+          "unit": "Unit 2",
+          "topic": "2.2 Statistics",
+          "subtopic": "Factor Analysis",
+          "concept": "Principal axes is a factor extraction method (a→iii). Cattell's scree plot is a method to decide number of factors to retain (b→v). Promax is an oblique factor rotation method (c→ii). Inter-factor correlation matrix shows correlations among oblique-rotated factors (d→iv).",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 17,
+          "question": "Which of the following identity status describes the individual who has been exploring but not yet committed to self chosen values and goals?",
+          "options": [
+            "(A) Identity achievement",
+            "(B) Identity foreclosure",
+            "(C) Identity diffusion",
+            "(D) Identity moratorium"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Identity moratorium",
+          "unit": "Unit 9",
+          "topic": "9.2 Adolescence and Adulthood",
+          "subtopic": "Erikson's Identity Statuses (Marcia)",
+          "concept": "Identity moratorium (Marcia) describes the status where the individual is actively exploring alternatives (crisis/exploration) but has not yet made firm commitments. Identity achievement = explored + committed; Foreclosure = committed without exploring; Diffusion = neither exploring nor committed.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 18,
+          "question": "Scientific study of Creativity is considered to be started by",
+          "options": [
+            "(A) Galton",
+            "(B) Guilford",
+            "(C) Torrance",
+            "(D) Mednick"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Guilford",
+          "unit": "Unit 6",
+          "topic": "6.3 Creativity",
+          "subtopic": "History of Creativity Research",
+          "concept": "J.P. Guilford is widely credited with starting the scientific study of creativity. His 1950 APA presidential address called for systematic research on creativity, and his SOI model included divergent thinking as a key component of creative ability.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 19,
+          "question": "Match List – I with List – II and select the correct answer by choosing from the codes given below :\n\n| List – I (Concepts) | List – II (Explanations) |\n|---|---|\n| a. Metacomponents | i. Higher-order mental processes being used to guide problem solving efforts. |\n| b. Selective Encoding | ii. Determining which elements in a set of information are relevant for one's purpose and which are not. |\n| c. Motivating Oneself | iii. Marshalling emotions in the service of a goal |\n| d. Practical Intelligence | iv. Using mental components to help one to adapt, shape, or select an environment that is appropriate for oneself. |\n\n**Codes :**\n\n| | a | b | c | d |\n|---|---|---|---|---|\n| (1) | i | ii | iii | iv |\n| (2) | iii | i | ii | iv |\n| (3) | ii | iii | iv | i |\n| (4) | iv | iii | i | ii |",
+          "options": [
+            "(A) a→i, b→ii, c→iii, d→iv",
+            "(B) a→iii, b→i, c→ii, d→iv",
+            "(C) a→ii, b→iii, c→iv, d→i",
+            "(D) a→iv, b→iii, c→i, d→ii"
+          ],
+          "correct_answer": 2,
+          "correct_text": "a→iii, b→i, c→ii, d→iv",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Sternberg's Triarchic Theory",
+          "concept": "As per the UGC NET answer key: Metacomponents involve marshalling emotions in the service of a goal (iii). Selective Encoding refers to higher-order mental processes guiding problem solving (i). Motivating Oneself involves determining which elements in a set of information are relevant (ii). Practical Intelligence concerns using mental components to adapt, shape, or select environments (iv).",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 20,
+          "question": "Culture exerts strong effect on memory through the operation of cultural schema. One's memory is influenced by learning in",
+          "options": [
+            "(A) Own culture effect",
+            "(B) Culture effect due to enculturation",
+            "(C) Acculturation effect",
+            "(D) Socialization effect"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Own culture effect",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Culture and Memory",
+          "concept": "The own-culture effect refers to the influence of one's native cultural schemas on memory processes. Cultural schemas learned within one's own culture shape how information is encoded, organized, and retrieved, leading to better memory for culturally familiar material and relative difficulty with culturally unfamiliar information.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 21,
+          "question": "Evolutionary Social Psychology Research seeks to investigate :",
+          "options": [
+            "(A) Changes in human behaviour",
+            "(B) Seeks to investigate the potential role of genetic factors on social behaviour",
+            "(C) Interrelationships between people of two groups of different social environment",
+            "(D) Focuses on individual's behaviour."
+          ],
+          "correct_answer": 2,
+          "correct_text": "Seeks to investigate the potential role of genetic factors on social behaviour",
+          "unit": "Unit 8",
+          "topic": "8.1 Social Psychology",
+          "subtopic": "Evolutionary Social Psychology",
+          "concept": "Evolutionary social psychology examines how evolutionary processes and genetic factors shape social behaviour, including mate selection, cooperation, aggression, and other social phenomena through natural selection and adaptation.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 22,
+          "question": "Which one of the following is the right explanation of flash bulb memory?",
+          "options": [
+            "(A) New, important, helpful social events",
+            "(B) Unspecific, important, common events",
+            "(C) Specific, surprising, unimportant events",
+            "(D) Unspecific, important, common events"
+          ],
+          "correct_answer": 1,
+          "correct_text": "New, important, helpful social events",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Flashbulb Memory",
+          "concept": "Flashbulb memories (Brown & Kulik, 1977) are vivid, detailed, and long-lasting memories of the circumstances in which one first learned of a surprising, emotionally significant, and consequential event. Key characteristics include the event being new (unexpected), personally important (consequential), and socially shared. The term 'helpful' in the correct option refers to the adaptive function of such memories in preparing for future similar events.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 23,
+          "question": "Read each of the following two statements – Assertion (A) and Reason (R) and indicate your answer using codes given below:\n\n**Assertion (A)** : Heteronomous children focus on the objective consequences rather than intentions.\n\n**Reason (R)** : Moral development in a heteronomous child is limited.\n\n**Codes :**",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+          "unit": "Unit 9",
+          "topic": "9.1 Child Development",
+          "subtopic": "Piaget's Moral Development",
+          "concept": "In Piaget's theory, heteronomous morality (moral realism) characterizes young children who judge actions by objective consequences rather than intentions. Their moral development is limited as they have not yet reached autonomous morality where intentions matter.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 24,
+          "question": "Match List – I with List – II and select the correct answer by choosing from the codes given below:\n\n| List – I (Psychologist) | List – II (Phenomenon) |\n|---|---|\n| a. Ebbinghaus | i. Some tasks to complete |\n| b. Bartlett | ii. Short Stories Use |\n| c. Murray | iii. Use of Meaningful Words |\n| d. Lewin | iv. Use of Non-sense Syllables |\n\n**Codes :**\n\n| | a | b | c | d |\n|---|---|---|---|---|\n| (1) | i | ii | iii | iv |\n| (2) | ii | iii | iv | i |\n| (3) | iii | iv | i | ii |\n| (4) | iv | iii | ii | i |",
+          "options": [
+            "(A) a→i, b→ii, c→iii, d→iv",
+            "(B) a→ii, b→iii, c→iv, d→i",
+            "(C) a→iii, b→iv, c→i, d→ii",
+            "(D) a→iv, b→iii, c→ii, d→i"
+          ],
+          "correct_answer": 4,
+          "correct_text": "a→iv, b→iii, c→ii, d→i",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Pioneering Memory Research",
+          "concept": "Ebbinghaus used nonsense syllables to study memory (self-experimentation). Bartlett used short stories (e.g., 'War of the Ghosts') to study reconstructive memory. Murray used Thematic Apperception (tasks/stories). Lewin used life space/tasks in field theory research.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 25,
+          "question": "Which of the following sequences is correct with respect to effective teaching?",
+          "options": [
+            "(A) Match student's level → specify learning goals → emphasize self comparison → suggest improvements and model problem solving.",
+            "(B) Specify learning goals → emphasize self-comparison → suggest improvements and model problem solving → match student's level.",
+            "(C) Suggest improvements and model problem solving → match student's level → specify learning goals → emphasize self-comparison",
+            "(D) Emphasize self-comparison → match student's level → specify learning goals → suggest improvements and model problem solving."
+          ],
+          "correct_answer": 1,
+          "correct_text": "Match student's level → specify learning goals → emphasize self comparison → suggest improvements and model problem solving.",
+          "unit": "Unit 9",
+          "topic": "9.3 Educational Psychology",
+          "subtopic": "Effective Teaching",
+          "concept": "Effective teaching follows a sequence: first assess and match the student's current level, then specify clear learning goals, emphasize self-comparison (mastery-oriented rather than norm-referenced), and finally suggest improvements while modelling problem-solving strategies.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 26,
+          "question": "Which of the following techniques can be used to study activities in a living human brain?\n\n(a) Computerized Tomography\n(b) Ablation and Lesioning\n(c) Stereotoxic Procedures\n(d) Functional Magnetic Resonance Imaging",
+          "options": [
+            "(A) only (a) and (d)",
+            "(B) only (c) and (d)",
+            "(C) only (b), (c) and (d)",
+            "(D) only (a), (c) and (d)"
+          ],
+          "correct_answer": 1,
+          "correct_text": "only (a) and (d)",
+          "unit": "Unit 4",
+          "topic": "4.2 Nervous System",
+          "subtopic": "Brain Imaging Techniques",
+          "concept": "CT and fMRI are non-invasive techniques used to study living human brains. Ablation/lesioning and stereotaxic procedures are invasive techniques generally used in animal research or neurosurgery, not for studying living human brain activity in research.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 27,
+          "question": "Read each of the following two statements – Assertion (A) and Reason (R) and indicate your answer using codes given below:\n\n**Assertion (A)** : Preoperational child has irreversible thought.\n\n**Reason (R)** : The preoperational child fails to perform conservation tasks.\n\n**Codes :**",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+          "unit": "Unit 9",
+          "topic": "9.1 Child Development",
+          "subtopic": "Piaget's Cognitive Stages",
+          "concept": "Preoperational children (2-7 years) lack reversible thought — they cannot mentally reverse operations. This is demonstrated by their failure in conservation tasks, where they cannot understand that quantity remains the same despite changes in appearance.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 28,
+          "question": "Sleep disorders can be categorized as",
+          "options": [
+            "(A) Paraphilias and Dysfunctions",
+            "(B) Insomnia and Hypersomnia",
+            "(C) Parasomnias and Dyssomnias",
+            "(D) Serotonergic and Dopaminergic"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Parasomnias and Dyssomnias",
+          "unit": "Unit 10",
+          "topic": "10.1 Clinical Psychology",
+          "subtopic": "Sleep Disorders",
+          "concept": "Sleep disorders are broadly classified into: Dyssomnias (disturbances in amount, quality, or timing of sleep — e.g., insomnia, hypersomnia, narcolepsy) and Parasomnias (abnormal events during sleep — e.g., sleepwalking, night terrors, sleep apnea).",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 29,
+          "question": "Match List – I with List – II and select the correct answer by choosing from the codes given below:\n\n**List – I**\n*(Goals in educational achievement)*\n\na. Mastery\nb. Task involvement\nc. Performance improvement\nd. Ego involvement\n\n**List – II**\n*(Description)*\n\ni. Solving problem at hand gains importance\nii. Students intend to maximize ability, regardless of short term failure\niii. Students focus on how they are judged by others.\niv. Students intend to increase competence\n\n**Codes :**\n\n| | a | b | c | d |\n|---|---|---|---|---|\n| (1) | ii | i | iv | iii |\n| (2) | i | ii | iii | iv |\n| (3) | iii | iv | ii | i |\n| (4) | iv | iii | ii | i |",
+          "options": [
+            "(A) a→ii, b→i, c→iv, d→iii",
+            "(B) a→i, b→ii, c→iii, d→iv",
+            "(C) a→iii, b→iv, c→ii, d→i",
+            "(D) a→iv, b→iii, c→ii, d→i"
+          ],
+          "correct_answer": 1,
+          "correct_text": "a→ii, b→i, c→iv, d→iii",
+          "unit": "Unit 9",
+          "topic": "9.3 Educational Psychology",
+          "subtopic": "Achievement Goals",
+          "concept": "Mastery goal = maximizing ability regardless of short-term failure (ii). Task involvement = solving the problem at hand gains importance (i). Performance improvement = intending to increase competence (iv). Ego involvement = focusing on how one is judged by others (iii).",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 30,
+          "question": "Which of the following phenomena result from failures in attentional capture?\n\n(a) Inattentional blindness\n(b) Change detection\n(c) Flicker paradigm\n\n**Codes :**",
+          "options": [
+            "(A) only (a) and (c)",
+            "(B) only (a) and (b)",
+            "(C) only (b) and (c)",
+            "(D) (a), (b) and (c)"
+          ],
+          "correct_answer": 1,
+          "correct_text": "only (a) and (c)",
+          "unit": "Unit 5",
+          "topic": "5.1 Attention",
+          "subtopic": "Attentional Failures",
+          "concept": "Inattentional blindness (failure to perceive a fully visible but unexpected stimulus when attention is engaged elsewhere) and the flicker paradigm (which induces change blindness — a failure to detect changes due to disrupted attentional capture) both result from failures in attentional capture. Change detection refers to the ability/task itself, not a failure phenomenon.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 31,
+          "question": "Read each of the following two statements – Assertion (A) and Reason (R) and indicate your answer using codes given below:\n\n**Assertion (A)** : Individuals high in self-esteem have a relatively weak desire for social rewards.\n\n**Reason (R)** : Social anxiety and loneliness are both associated with unrewarding social interactions.\n\n**Codes :**",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 2,
+          "correct_text": "Both (A) and (R) are true but (R) is not the correct explanation of (A).",
+          "unit": "Unit 8",
+          "topic": "8.1 Social Psychology",
+          "subtopic": "Self-Esteem and Social Behaviour",
+          "concept": "Both statements are true: high self-esteem individuals are internally satisfied and thus have a relatively weaker desire for external social rewards/validation (A). Social anxiety and loneliness are indeed associated with unrewarding social interactions (R). However, (R) is not the correct explanation of (A) — the weaker desire for social rewards stems from internal satisfaction and self-worth, not from the association between anxiety and unrewarding interactions.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 32,
+          "question": "Which of the following statement/s is/are true about culture-fair tests?\n\n(a) They attempt to minimize the use of language.\n(b) Suitable different versions of the test are devised for different cultural groups.\n(c) They are composed of materials to which all sociocultural groups have been presumably exposed.\n(d) They attempt to assess the effects of culture on people's intellectual and creative skills.",
+          "options": [
+            "(A) (a) only",
+            "(B) (a) and (c) only",
+            "(C) (a), (b) and (c) only",
+            "(D) (b), (c), (d) only"
+          ],
+          "correct_answer": 2,
+          "correct_text": "(a) and (c) only",
+          "unit": "Unit 3",
+          "topic": "3.3 Psychological Tests",
+          "subtopic": "Culture-Fair Tests",
+          "concept": "Culture-fair tests minimize language use (a) and use materials presumed to be equally familiar across cultural groups (c). They are NOT different versions for different groups (that would be culture-specific), and they aim to reduce, not assess, cultural effects on scores.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 33,
+          "question": "Which is the correct sequence of the stages involved in creative thinking?",
+          "options": [
+            "(A) Preparation; orientation; illumination; incubation; verification",
+            "(B) Preparation; incubation; illumination; orientation; verification",
+            "(C) Orientation; preparation; incubation; illumination; verification",
+            "(D) Orientation; preparation; illumination; incubation; verification"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Orientation; preparation; incubation; illumination; verification",
+          "unit": "Unit 6",
+          "topic": "6.3 Creativity",
+          "subtopic": "Stages of Creative Thinking",
+          "concept": "Wallas (1926) proposed stages of creative thinking: Orientation (defining the problem) → Preparation (gathering information) → Incubation (unconscious processing) → Illumination (sudden insight/eureka moment) → Verification (testing the solution).",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 34,
+          "question": "Selective attention in vision and audition respectively have been dubbed as",
+          "options": [
+            "(A) 'optic' and 'haptic'",
+            "(B) 'spotlight' and 'gateway'",
+            "(C) 'spatial' and 'acoustic'",
+            "(D) 'central' and 'peripheral'"
+          ],
+          "correct_answer": 3,
+          "correct_text": "'spatial' and 'acoustic'",
+          "unit": "Unit 5",
+          "topic": "5.1 Attention",
+          "subtopic": "Selective Attention Models",
+          "concept": "Selective attention in vision has been dubbed 'spatial' attention (dealing with locations in visual space), while selective attention in audition has been dubbed 'acoustic' attention (dealing with auditory streams and properties).",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 35,
+          "question": "Match List – I with List – II and select the correct answer by choosing from the codes given below :\n\n| List – I (Intervention model) | List – II (Used primarily for ) |\n|---|---|\n| a. Eye Movement Desensitization and Retraining | i. Ventilation |\n| b. Client Centred Therapy | ii. Cognitive Restructuring |\n| c. Rational Emotive Behaviour Therapy | iii. Post-traumatic Stress |\n| d. Behaviour Therapy | iv. Desensitization |\n\n**Codes :**\n\n| | a | b | c | d |\n|---|---|---|---|---|\n| (1) | ii | iii | iv | i |\n| (2) | i | ii | iii | iv |\n| (3) | iii | i | ii | iv |\n| (4) | iv | iii | ii | i |",
+          "options": [
+            "(A) a→ii, b→iii, c→iv, d→i",
+            "(B) a→i, b→ii, c→iii, d→iv",
+            "(C) a→iii, b→i, c→ii, d→iv",
+            "(D) a→iv, b→iii, c→ii, d→i"
+          ],
+          "correct_answer": 3,
+          "correct_text": "a→iii, b→i, c→ii, d→iv",
+          "unit": "Unit 10",
+          "topic": "10.2 Psychotherapy",
+          "subtopic": "Therapeutic Approaches",
+          "concept": "EMDR is primarily used for PTSD (iii). Client-Centred Therapy (Rogers) uses ventilation/emotional expression (i). REBT (Ellis) focuses on cognitive restructuring of irrational beliefs (ii). Behaviour Therapy uses desensitization techniques (iv).",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 36,
+          "question": "Which is not the part of \"on the job training\"?",
+          "options": [
+            "(A) Orientation training",
+            "(B) Job instruction training",
+            "(C) Role playing",
+            "(D) Apprentice training"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Role playing",
+          "unit": "Unit 10",
+          "topic": "10.3 Organizational Psychology",
+          "subtopic": "Training Methods",
+          "concept": "On-the-job training includes orientation training, job instruction training, and apprentice training. Role playing is an off-the-job training method where participants act out scenarios in a simulated environment.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 37,
+          "question": "Match List – I with List – II and select the correct answer by choosing from the codes given below :\n\n| List – I (Concept) | List – II (Explanation) |\n|---|---|\n| a. Symbolizing | ii. Employees process visual experiences that guide for their future actions |\n| b. Forethought | iii. Employees plan their actions anticipating their desired performance level |\n| c. Self-regulatory | iv. Employees actions by setting internal standards for their performance. |\n| d. Self-reflective | i. Employee's belief that how successfully they can accomplish the task in future. |\n\n**Codes :**\n\n| | a | b | c | d |\n|---|---|---|---|---|\n| (1) | i | ii | iii | iv |\n| (2) | ii | iii | iv | i |\n| (3) | iii | iv | i | ii |\n| (4) | iv | i | ii | iii |",
+          "options": [
+            "(A) a→i, b→ii, c→iii, d→iv",
+            "(B) a→ii, b→iii, c→iv, d→i",
+            "(C) a→iii, b→iv, c→i, d→ii",
+            "(D) a→iv, b→i, c→ii, d→iii"
+          ],
+          "correct_answer": 2,
+          "correct_text": "a→ii, b→iii, c→iv, d→i",
+          "unit": "Unit 10",
+          "topic": "10.3 Organizational Psychology",
+          "subtopic": "Bandura's Social Cognitive Theory (Organizational)",
+          "concept": "Symbolizing = processing visual experiences for future actions (ii). Forethought = planning actions anticipating desired performance (iii). Self-regulatory = setting internal standards for performance (iv). Self-reflective = belief about future task accomplishment/self-efficacy (i).",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 38,
+          "question": "\"Pygmalion effect\" in educational settings suggests:",
+          "options": [
+            "(A) exceptional progress by student as a result of high teacher expectations.",
+            "(B) biases creeping into summative assessment",
+            "(C) authenticity factors in classroom assessment.",
+            "(D) influences on curricular structure."
+          ],
+          "correct_answer": 1,
+          "correct_text": "exceptional progress by student as a result of high teacher expectations.",
+          "unit": "Unit 9",
+          "topic": "9.3 Educational Psychology",
+          "subtopic": "Teacher Expectations",
+          "concept": "The Pygmalion effect (Rosenthal & Jacobson, 1968) demonstrates that higher teacher expectations lead to higher student performance — a self-fulfilling prophecy. When teachers believe students are capable, they provide more support, leading to actual improvement.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 39,
+          "question": "Match List – I with List – II and select the correct answer by choosing from the codes given below :\n\n| List – I (Psychologist) | List – II (Approach) |\n|---|---|\n| a. Vygotsky | iii. Zone of proximal development |\n| b. Piaget | iv. Epistemological approach |\n| c. Bronfenbrenner | ii. Ecological approach |\n| d. Bowlby | i. Ethological approach |\n\n**Codes :**\n\n| | a | b | c | d |\n|---|---|---|---|---|\n| (1) | iii | iv | ii | i |\n| (2) | iii | i | ii | iv |\n| (3) | i | iv | iii | ii |\n| (4) | iv | i | ii | iii |",
+          "options": [
+            "(A) a→iii, b→iv, c→ii, d→i",
+            "(B) a→iii, b→i, c→ii, d→iv",
+            "(C) a→i, b→iv, c→iii, d→ii",
+            "(D) a→iv, b→i, c→ii, d→iii"
+          ],
+          "correct_answer": 1,
+          "correct_text": "a→iii, b→iv, c→ii, d→i",
+          "unit": "Unit 9",
+          "topic": "9.1 Child Development",
+          "subtopic": "Developmental Theories",
+          "concept": "Vygotsky = Zone of Proximal Development (sociocultural theory). Piaget = Epistemological approach (genetic epistemology). Bronfenbrenner = Ecological systems theory. Bowlby = Ethological approach to attachment.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 40,
+          "question": "Which of the following is not a diagnosable sleep disorder:",
+          "options": [
+            "(A) Somnambulism",
+            "(B) Somniloquy",
+            "(C) Sleep terror",
+            "(D) Insomnia"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Somniloquy",
+          "unit": "Unit 10",
+          "topic": "10.1 Clinical Psychology",
+          "subtopic": "Sleep Disorders",
+          "concept": "Somniloquy (sleep talking) is not recognized as a formal diagnosable sleep disorder in DSM. Somnambulism (sleepwalking), sleep terror (night terror), and insomnia are all recognized diagnosable sleep disorders.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 41,
+          "question": "A field experiment at the Bronx Zoo illustrated the potential importance of ______ indicating that an individual has legitimate authority. Fill in the blank from given below.",
+          "options": [
+            "(A) Gender",
+            "(B) Uniforms",
+            "(C) Age",
+            "(D) An authoritarian personality"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Uniforms",
+          "unit": "Unit 8",
+          "topic": "8.1 Social Psychology",
+          "subtopic": "Obedience and Authority",
+          "concept": "The Bronx Zoo experiment (by Milgram's students) demonstrated that uniforms serve as symbols of legitimate authority. A person in a uniform giving directions was more likely to be obeyed, showing the power of authority cues in social influence.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 42,
+          "question": "Self-actualizers are characterised as\n\n(a) They have more efficient perception of reality than non-actualisers.\n(b) They show greater acceptance of themselves, others, and nature than do non-actualizers.\n(c) They tend to be more concerned with undertaking tasks that will benefit themselves.\n(d) They also have some weaknesses.\n\n**Codes :**",
+          "options": [
+            "(A) (a), (b) and (c) only",
+            "(B) (a), (b) and (d) only",
+            "(C) (b), (c) and (d) only",
+            "(D) (a), (c) and (d) only"
+          ],
+          "correct_answer": 2,
+          "correct_text": "(a), (b) and (d) only",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Maslow's Self-Actualization",
+          "concept": "Maslow's self-actualizers have accurate perception of reality (a), accept themselves and others (b), and acknowledge their weaknesses (d). However, they are concerned with tasks beyond themselves — problems outside themselves, not just benefiting themselves (c is false).",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 43,
+          "question": "Thinking is a complex set of collaborations between ______ and ______ representations and processes.",
+          "options": [
+            "(A) Linguistic; semantic",
+            "(B) Linguistic; verbal",
+            "(C) Semantic; non-linguistic",
+            "(D) Linguistic; non-linguistic"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Linguistic; non-linguistic",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Nature of Thinking",
+          "concept": "Thinking involves both linguistic representations (words, language) and non-linguistic representations (images, spatial maps, mental models). This dual-coding perspective shows thinking is not solely language-based but involves multiple representational systems.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 44,
+          "question": "Match List – I with List – II and select the correct answer by choosing from the codes given below :\n\n| List – I | List – II |\n| --- | --- |\n| a. Autistic thinking | i. Planning |\n| b. Creative thinking | ii. Fantasy |\n| c. Deterministic thinking | iii. Illusion |\n| d. Cognitive thinking | iv. Dreams |\n\n| | a | b | c | d |\n| --- | --- | --- | --- | --- |\n| (A) | i | ii | iii | iv |\n| (B) | iv | iii | ii | i |\n| (C) | iv | i | ii | iii |\n| (D) | i | iv | iii | ii |",
+          "options": [
+            "(A) a→i, b→ii, c→iii, d→iv",
+            "(B) a→iv, b→iii, c→ii, d→i",
+            "(C) a→iv, b→i, c→ii, d→iii",
+            "(D) a→i, b→iv, c→iii, d→ii"
+          ],
+          "correct_answer": 2,
+          "correct_text": "a→iv, b→iii, c→ii, d→i",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Types of Thinking",
+          "concept": "Autistic thinking (Bleuler) is self-absorbed, fantasy-driven thinking detached from reality — associated with Dreams (iv). Creative thinking involves the illumination/insight stage (iii). Deterministic thinking involves cause-effect reasoning that may rely on fantasy-based causal attributions (ii). Cognitive thinking encompasses higher-order rational processes including Planning (i).",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 45,
+          "question": "Signal detection depends upon",
+          "options": [
+            "(A) motivation and expectations",
+            "(B) signal intensity and noise",
+            "(C) sensitivity and response criterion",
+            "(D) absolute and relative thresholds"
+          ],
+          "correct_answer": 3,
+          "correct_text": "sensitivity and response criterion",
+          "unit": "Unit 5",
+          "topic": "5.1 Attention and Perception",
+          "subtopic": "Signal Detection Theory",
+          "concept": "Signal Detection Theory (SDT) separates two components: sensitivity (d') — the observer's ability to distinguish signal from noise, and response criterion (β) — the observer's tendency to say 'yes' or 'no,' influenced by motivation, expectations, and payoff matrix.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 46,
+          "question": "Which of the following does not present with symptoms of mental retardation?",
+          "options": [
+            "(A) Cri du chat syndrome",
+            "(B) Down's syndrome",
+            "(C) Fugue",
+            "(D) Trisomy-21"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Fugue",
+          "unit": "Unit 10",
+          "topic": "10.1 Clinical Psychology",
+          "subtopic": "Disorders Classification",
+          "concept": "Fugue (dissociative fugue) is a dissociative disorder involving sudden travel with amnesia for personal identity — not related to mental retardation. Cri du chat syndrome, Down's syndrome, and Trisomy-21 (same as Down's) all involve intellectual disability.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 47,
+          "question": "Read each of the following two statements – Assertion (A) and Reason (R) and indicate your answer using the codes given below:\n\n**Assertion (A)** : Neurons cannot fire during absolute refractory period.\n\n**Reason (R)** : A neuron can release only one neurotransmitter.\n\n**Codes :**",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 3,
+          "correct_text": "(A) is true, but (R) is false.",
+          "unit": "Unit 4",
+          "topic": "4.1 Biological Basis",
+          "subtopic": "Neural Transmission",
+          "concept": "The assertion is true — during the absolute refractory period, sodium channels are inactivated and no action potential can be generated regardless of stimulus strength. The reason is false — neurons can co-release multiple neurotransmitters (e.g., GABA and glycine, or dopamine and CCK).",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 48,
+          "question": "Read each of the following two statements – Assertion (A) and Reason (R) and indicate your answer using codes given below:\n\n**Assertion (A)** : When method of equal appearing intervals is employed to scale attitude items, median is usually used as an estimate of scale value.\n\n**Reason (R)** : Under normal distribution, mean, median and mode are identical.\n\n**Codes :**",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 2,
+          "correct_text": "Both (A) and (R) are true but (R) is not the correct explanation of (A).",
+          "unit": "Unit 3",
+          "topic": "3.4 Attitude Scaling",
+          "subtopic": "Thurstone's Equal Appearing Intervals",
+          "concept": "Both statements are true: Thurstone's method uses the median of judges' ratings as the scale value (A), and under a normal distribution, mean, median, and mode are identical (R). However, (R) is not the correct explanation — the median is chosen for its robustness against outliers and its ordinal representativeness (the 50th percentile), not primarily because it equals the mean under normality.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 49,
+          "question": "Match List – I with List – II and select the correct answer by choosing from the codes given below:\n\n| List – I (Book) | List – II (Author) |\n|---|---|\n| a. Toward a Psychology of Being | i. May |\n| b. A Way of Being | ii. Maslow |\n| c. Man's Search for Meaning | iii. Rogers |\n| d. Love and Will | iv. Frankl |\n\n**Codes :**\n\n| | a | b | c | d |\n|---|---|---|---|---|\n| (1) | i | ii | iii | iv |\n| (2) | ii | iii | iv | i |\n| (3) | iii | ii | i | iv |\n| (4) | iv | i | ii | iii |",
+          "options": [
+            "(A) a→i, b→ii, c→iii, d→iv",
+            "(B) a→ii, b→iii, c→iv, d→i",
+            "(C) a→iii, b→ii, c→i, d→iv",
+            "(D) a→iv, b→i, c→ii, d→iii"
+          ],
+          "correct_answer": 2,
+          "correct_text": "a→ii, b→iii, c→iv, d→i",
+          "unit": "Unit 1",
+          "topic": "1.1 Emergence of Psychology",
+          "subtopic": "Humanistic Psychology",
+          "concept": "Toward a Psychology of Being was written by Abraham Maslow. A Way of Being was written by Carl Rogers. Man's Search for Meaning was written by Viktor Frankl. Love and Will was written by Rollo May.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 50,
+          "question": "Therapist suggested to Sunil that while trying to give up the habit of washing hands unnecessarily, he should wear a rubber band around his wrist and snap it every time he feels like washing his hands. What therapy he is using?",
+          "options": [
+            "(A) Systematic desensitization",
+            "(B) Aversion therapy",
+            "(C) Flooding",
+            "(D) Modelling"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Aversion therapy",
+          "unit": "Unit 10",
+          "topic": "10.2 Psychotherapy",
+          "subtopic": "Behaviour Therapy Techniques",
+          "concept": "The rubber band technique creates an unpleasant stimulus (pain from snapping) paired with the unwanted behaviour (compulsive hand-washing), making the behaviour aversive. This is aversion therapy — associating an undesirable behaviour with an unpleasant consequence to reduce it.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 51,
+          "question": "The need for ______ produces active, controlling social behaviour while need for ______ produces more passive, less controlling social behaviour.",
+          "options": [
+            "(A) affiliation; self-esteem",
+            "(B) confidence; intimacy",
+            "(C) affiliation; intimacy",
+            "(D) intimacy; affiliation"
+          ],
+          "correct_answer": 3,
+          "correct_text": "affiliation; intimacy",
+          "unit": "Unit 8",
+          "topic": "8.1 Social Psychology",
+          "subtopic": "Social Needs — McClelland & McAdams",
+          "concept": "Per McClelland, need for affiliation (nAff) drives active pursuit of social bonds and approval-seeking behaviour to avoid rejection, manifesting as active, controlling social behaviour. Need for intimacy (McAdams) is a preference for warm, close, reciprocal relationships — more about quality than quantity, producing more passive, less controlling social behaviour.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 52,
+          "question": "According to Triarchic Theory of Intelligence, arrange the correct functional sequence of metacomponents",
+          "options": [
+            "(A) Identification of problem → defining the givens, goals & obstacles → choosing appropriate strategy → selection of lower order processes → selection of mental representation → allocation of mental resources → monitoring → evaluation.",
+            "(B) Identification of problem → defining the givens, goals & obstacles → selection of lower order processes → choosing appropriate strategy → selecting a mental representation → allocating mental resources → monitoring → evaluation.",
+            "(C) Identification of problem → choosing appropriate strategy → defining givens, goals and obstacles → allocating mental resources → monitoring → selecting mental representation → evaluation",
+            "(D) Defining the givens, goals and obstacles → identification of problem → selection of lower order processes → choosing appropriate strategy → selecting a mental representation → allocating mental resources → monitoring → evaluation"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Identification of problem → defining the givens, goals & obstacles → choosing appropriate strategy → selection of lower order processes → selection of mental representation → allocation of mental resources → monitoring → evaluation.",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Sternberg's Triarchic Theory",
+          "concept": "Metacomponents in Sternberg's theory follow this sequence: Problem identification → Defining givens/goals/obstacles → Strategy selection → Selection of lower-order processes → Mental representation selection → Resource allocation → Performance monitoring → Outcome evaluation.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 53,
+          "question": "Match List – I with List – II and select the correct answer by choosing from the codes given below :\n\n| List – I (Method of student discipline) | List – II (Description) |\n|---|---|\n| a. Positive reinforcement | i. decreasing behaviour by presenting aversive stimulus after it |\n| b. Negative reinforcement | ii. strengthening behaviour by removing aversive stimulus when behaviour occurs |\n| c. Presentation punishment | iii. decreasing behaviour by removing pleasant stimulus after behaviour occurs. |\n| d. Removal punishment | iv. strengthening behaviour by presenting desired stimulus after behaviour occurs. |\n\n**Codes :**\n\n| | a | b | c | d |\n|---|---|---|---|---|\n| (1) | i | ii | iii | iv |\n| (2) | ii | iv | i | iii |\n| (3) | iv | ii | i | iii |\n| (4) | iii | i | ii | iv |",
+          "options": [
+            "(A) a→i, b→ii, c→iii, d→iv",
+            "(B) a→ii, b→iv, c→i, d→iii",
+            "(C) a→iv, b→ii, c→i, d→iii",
+            "(D) a→iii, b→i, c→ii, d→iv"
+          ],
+          "correct_answer": 3,
+          "correct_text": "a→iv, b→ii, c→i, d→iii",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Operant Conditioning Principles",
+          "concept": "Positive reinforcement = strengthening by presenting desired stimulus (iv). Negative reinforcement = strengthening by removing aversive stimulus (ii). Presentation punishment (positive punishment) = decreasing behaviour by presenting aversive stimulus (i). Removal punishment (negative punishment/response cost) = decreasing behaviour by removing pleasant stimulus (iii).",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 54,
+          "question": "Read each of the following two statements – Assertion (A) and Reason (R) and indicate your answer using codes given below:\n\n**Assertion (A)** : The child always carries water bottle with him while he goes to school.\n\n**Reason (R)** : The child wants to satisfy his primary need.\n\n**Codes :**",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+          "unit": "Unit 7",
+          "topic": "7.2 Motivation",
+          "subtopic": "Primary Needs",
+          "concept": "Water is a primary/physiological need (Maslow's first level). The child carrying a water bottle is driven by the need to satisfy thirst — a primary need. The assertion describes the behaviour, and the reason correctly explains it through the lens of primary need satisfaction.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 55,
+          "question": "Read each of the following two statements – Assertion (A) and Reason (R) and indicate your answer using codes given below:\n\n**Assertion (A)** : According to Rogers, ideal condition for the development of a healthy self concept and movement toward becoming fully functioning is unconditional positive regard.\n\n**Reason (R)** : With unconditional positive regard there is incongruence between true self and experience.\n\n**Codes :**",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 3,
+          "correct_text": "(A) is true, but (R) is false.",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Roger's Person-Centred Theory",
+          "concept": "The assertion is true — Rogers held unconditional positive regard as the ideal condition for healthy self-concept. The reason is false — with unconditional positive regard, there is congruence (not incongruence) between the true self and experience, promoting psychological health.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 56,
+          "question": "Read each of the following two statements – Assertion (A) and Reason (R) and indicate your answer using codes given below:\n\n**Assertion (A)** : Managers differ across cultures in their interpersonal styles and skills.\n\n**Reason (R)** : Personal values held by a manager shape his perception of a situation.\n\n**Codes :**",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 2,
+          "correct_text": "Both (A) and (R) are true but (R) is not the correct explanation of (A).",
+          "unit": "Unit 10",
+          "topic": "10.3 Organizational Psychology",
+          "subtopic": "Cross-Cultural Management",
+          "concept": "Both statements are true — managers do differ across cultures, and personal values do shape perception. However, the reason is not the correct explanation for the assertion because cultural differences in management styles are better explained by cultural dimensions (Hofstede), socialization, and cultural norms rather than personal values alone.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 57,
+          "question": "Which among the following neurotransmitters are found throughout central nervous system?\n\n(a) Acetylcholine\n(b) Norepinephrine\n(c) Dopamine\n(d) Serotonin\n(e) GABA\n\n**Codes :**",
+          "options": [
+            "(A) (a) and (c) and (d)",
+            "(B) (c) and (d) and (e)",
+            "(C) (b) and (c) and (d)",
+            "(D) (a) and (d) and (e)"
+          ],
+          "correct_answer": 4,
+          "correct_text": "(a) and (d) and (e)",
+          "unit": "Unit 4",
+          "topic": "4.1 Biological Basis",
+          "subtopic": "Neurotransmitters",
+          "concept": "Acetylcholine, serotonin, and GABA are found widely throughout the CNS. Norepinephrine is primarily in the sympathetic NS and specific brain areas. Dopamine is found in specific pathways (mesolimbic, mesocortical, nigrostriatal). ACh, serotonin, and GABA have the most widespread CNS distribution.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 58,
+          "question": "Read each of the following two statements – Assertion (A) and Reason (R) and indicate your answer using codes given below:\n\n**Assertion (A)** : As per Guilford's SOI model, intelligence can be taken as superset of creativity.\n\n**Reason (R)** : Creativity involves divergent production that is just one of five operations of intellect.\n\n**Codes :**",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Guilford's SOI Model",
+          "concept": "In Guilford's SOI, intelligence includes five operations: cognition, memory, divergent production, convergent production, and evaluation. Creativity primarily involves divergent production — just one of five operations. Thus, intelligence is a superset containing creativity as one component.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 59,
+          "question": "In which one of the following scaling methods, Law of Comparative Judgement is used clearly while computing scale values?",
+          "options": [
+            "(A) Summated ratings",
+            "(B) Equal appearing intervals",
+            "(C) JND scales",
+            "(D) Paired Comparison"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Paired Comparison",
+          "unit": "Unit 3",
+          "topic": "3.4 Attitude Scaling",
+          "subtopic": "Scaling Methods",
+          "concept": "Thurstone's Law of Comparative Judgement is directly applied in the Paired Comparison method, where judges compare all pairs of stimuli. The law provides a mathematical framework for converting paired comparison data into scale values using Z-scores.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 60,
+          "question": "Read each of the following two statements – Assertion (A) and Reason (R) and indicate your answer using codes given below:\n\n**Assertion (A)** : Japanese subjects detect background changes while U.S. subjects detect focal object changes.\n\n**Reason (R)** : Eastern cultures encourage a holistic view, Western cultures de-emphasize context.\n\n**Codes :**",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Culture and Perception",
+          "concept": "Nisbett's research showed that East Asians attend to the whole context (holistic perception) while Americans focus on focal objects (analytic perception). Eastern cultures encourage holistic thinking; Western cultures emphasize objects over context, directly explaining the perceptual differences.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 61,
+          "question": "The model of memory most frequently cited consists of Short Term Memory (STM) which serve(s) as gateway to Long Term Memory (LTM). This model was propounded by",
+          "options": [
+            "(A) Ebbinghaus",
+            "(B) Craik and Lockhart",
+            "(C) Tulving",
+            "(D) Atkinson and Shiffring"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Atkinson and Shiffring",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Multi-Store Model",
+          "concept": "Atkinson and Shiffrin (1968) proposed the multi-store model (modal model) of memory consisting of sensory memory → STM → LTM, where STM serves as the gateway to LTM through rehearsal and encoding processes.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 62,
+          "question": "Which of the following disorders generally show a childhood onset?\n\n(a) Delusional disorder\n(b) Asperger's syndrome\n(c) Attention-deficit hyperactivity disorder\n(d) Mild Cognitive Impairment\n\n**Codes :**",
+          "options": [
+            "(A) (c) and (d) only",
+            "(B) (b) and (c) only",
+            "(C) (a), (b) and (c) only",
+            "(D) (b), (c) and (d) only"
+          ],
+          "correct_answer": 2,
+          "correct_text": "(b) and (c) only",
+          "unit": "Unit 10",
+          "topic": "10.1 Clinical Psychology",
+          "subtopic": "Developmental Disorders",
+          "concept": "Asperger's syndrome (ASD spectrum) and ADHD both typically have childhood onset. Delusional disorder typically has adult onset. Mild Cognitive Impairment is typically associated with aging/adult onset, not childhood.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 63,
+          "question": "The phenomenon of clinging to one's initial conceptions after the basis on which they were formed and had been discredited refers to:",
+          "options": [
+            "(A) Belief bias",
+            "(B) Belief perseverance",
+            "(C) Over confidence",
+            "(D) Framing decisions"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Belief perseverance",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Biases in Thinking",
+          "concept": "Belief perseverance is the tendency to maintain one's beliefs even after the evidence that originally supported them has been completely discredited. Unlike belief bias (using beliefs to judge logical validity), belief perseverance specifically refers to clinging to discredited beliefs.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 64,
+          "question": "Long Term Potentiation involves",
+          "options": [
+            "(A) release of nitric oxide",
+            "(B) increase in cell bodies",
+            "(C) increased number of NMDA (N-methyl-d-aspartic acid) receptors",
+            "(D) increased sensitivity of NMDA (N-methyl-d-aspartic acid) receptors"
+          ],
+          "correct_answer": 1,
+          "correct_text": "release of nitric oxide",
+          "unit": "Unit 4",
+          "topic": "4.1 Biological Basis",
+          "subtopic": "Long-Term Potentiation",
+          "concept": "Long-term potentiation (LTP) is the biological mechanism underlying learning and memory. Nitric oxide (NO) acts as a retrograde messenger in LTP — released from the postsynaptic neuron, it diffuses back to the presynaptic terminal to enhance glutamate release, contributing to sustained synaptic strengthening.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 65,
+          "question": "Mechanistic and Cognitive approaches to motivation differ in the extent to which ______ are invoked to account for the initiation, direction, intensity and persistence of goal directed behaviour.",
+          "options": [
+            "(A) Dynamic traits",
+            "(B) Higher mental processes",
+            "(C) Drives",
+            "(D) Instincts"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Higher mental processes",
+          "unit": "Unit 7",
+          "topic": "7.2 Motivation",
+          "subtopic": "Approaches to Motivation",
+          "concept": "Mechanistic approaches (Hull's drive theory) explain motivation through simple stimulus-response-drives. Cognitive approaches emphasize higher mental processes — expectations, beliefs, goals, and cognitive appraisal — in explaining the initiation, direction, intensity, and persistence of behaviour.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 66,
+          "question": "Which of the following are the correct explanations of discrimination and stimulus generalizations?\n\n(a) Learning to respond to one stimulus but not to the other similar stimuli.\n(b) Learning to respond to one stimulus but not to the other different stimuli.\n(c) Stimuli similar to the one used during conditioning also elicit the conditioned response.\n(d) Stimuli different to the one used during conditioning also elicit the conditioned response.\n\n**Codes :**",
+          "options": [
+            "(A) (a) and (c)",
+            "(B) (a) and (d)",
+            "(C) (b) and (c)",
+            "(D) (b) and (d)"
+          ],
+          "correct_answer": 1,
+          "correct_text": "(a) and (c)",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Discrimination and Generalization",
+          "concept": "Discrimination = learning to respond to one specific stimulus but not to similar stimuli (a). Stimulus generalization = similar stimuli to the conditioned stimulus also elicit the conditioned response (c). These are complementary processes in conditioning.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 67,
+          "question": "Training and development offer competitive advantage to a firm by\n\n(a) removing performance deficiency\n(b) minimizing accidents and damage\n(c) making employees stay long\n(d) meeting employees personal needs\n\n**Codes :**",
+          "options": [
+            "(A) (a), (c), (d)",
+            "(B) (b), (c), (d)",
+            "(C) (a), (b), (d)",
+            "(D) (a), (b), (c)"
+          ],
+          "correct_answer": 4,
+          "correct_text": "(a), (b), (c)",
+          "unit": "Unit 10",
+          "topic": "10.3 Organizational Psychology",
+          "subtopic": "Training and Development",
+          "concept": "Training and development provide competitive advantage by removing performance deficiency through skill development (a), minimizing accidents and damage through safety training (b), and improving employee retention (c). Meeting personal needs is not a primary organizational competitive advantage.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 68,
+          "question": "Which of the following is the term for describing a child's one word utterances?",
+          "options": [
+            "(A) Over extensions",
+            "(B) Under extensions",
+            "(C) Holophrases",
+            "(D) Telegraphic speech"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Holophrases",
+          "unit": "Unit 9",
+          "topic": "9.1 Child Development",
+          "subtopic": "Language Development",
+          "concept": "Holophrases are single-word utterances used by children (around 12-18 months) that convey the meaning of a whole sentence. For example, 'milk' may mean 'I want milk.' Overextensions and underextensions are errors in word meaning, not terms for single-word utterances.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 69,
+          "question": "Read each of the following two statements – Assertion (A) and Reason (R) and indicate your answer using codes given below:\n\n**Assertion (A)** : People have tendency to recall experiences that are consistent with their current moods.\n\n**Reason (R)** : Moods and memories are congruent.\n\n**Codes :**",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Mood-Congruent Memory",
+          "concept": "Mood-congruent memory is the tendency to recall experiences that match one's current emotional state. The reason explains this — moods and memories are congruent, meaning current emotional states prime the recall of emotionally similar memories, directly accounting for the phenomenon.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 70,
+          "question": "Match List – I with List – II and select the correct answer by choosing from the codes given below:\n\n| List – I (Approach to perception) | List – II (Description) |\n|---|---|\n| a. Computational | i. fragments of sensory information form reality |\n| b. Constructivist | ii. direct reception of information from environment |\n| c. Ecological | iii. separate recognition of visual features |\n| d. Feature analysis | iv. manipulate incoming signals to understand world |\n\n**Codes :**\n\n| | a | b | c | d |\n|---|---|---|---|---|\n| (1) | i | ii | iii | iv |\n| (2) | iv | i | ii | iii |\n| (3) | iii | iv | i | ii |\n| (4) | ii | iii | iv | i |",
+          "options": [
+            "(A) a→i, b→ii, c→iii, d→iv",
+            "(B) a→iv, b→i, c→ii, d→iii",
+            "(C) a→iii, b→iv, c→i, d→ii",
+            "(D) a→ii, b→iii, c→iv, d→i"
+          ],
+          "correct_answer": 2,
+          "correct_text": "a→iv, b→i, c→ii, d→iii",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Theories of Perception",
+          "concept": "Computational approach (Marr) manipulates incoming signals to understand the world (iv). Constructivist approach builds reality from fragments of sensory information (i). Ecological approach (Gibson) involves direct reception of environmental information (ii). Feature analysis involves separate recognition of visual features (iii).",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": null,
+          "table_ref": null
+        }
+      ]
+    },
+    {
+      "type": "passage",
+      "id": "passage_71",
+      "heading": "Instructions for questions 71 to 75",
+      "text": "An industrial psychologist wanted to study the job efficiency of the company executives in relation to M.B.A. marks, selection test scores, evaluations scores at the end of inhouse training. Job efficiency correlated with M.B.A. marks (r = 0.40), selection test scores (r = 0.50) and the evaluation scores at the end of inhouse training. (r = 0.60). All the three correlations were statistically significant. The multiple regression was computed using job efficiency as the criterion and the other three variables as the predictors. The three predictors explained 56.25 percent of variance in the job efficiency. The industrial psychologist further thought that the communication skills assessment would enhance the predictability of job efficiency. As such, the communication skills of the respondents were also assessed, which correlated with job efficiency by 0.35, again a statistically significant value. However when communication skills were added as the fourth predictor in the multiple regression, the change in R² (squared multiple correlation) was found to be insignificant."
+    },
+    {
+      "type": "questions_block",
+      "range": "Q71–Q75",
+      "passage_ref": "passage_71",
+      "questions": [
+        {
+          "id": 71,
+          "question": "Instructions for questions 71 to 75 :\n\nRead the following paragraph and answer the five questions which follow :\n\nAn industrial psychologist wanted to study the job efficiency of the company executives in relation to M.B.A. marks, selection test scores, evaluations scores at the end of inhouse training. Job efficiency correlated with M.B.A. marks (r = 0.40), selection test scores (r = 0.50) and the evaluation scores at the end of inhouse training. (r = 0.60). All the three correlations were statistically significant. The multiple regression was computed using job efficiency as the criterion and the other three variables as the predictors. The three predictors explained 56.25 percent of variance in the job efficiency. The industrial psychologist further thought that the communication skills assessment would enhance the predictability of job efficiency. As such, the communication skills of the respondents were also assessed, which correlated with job efficiency by 0.35, again a statistically significant value. However when communication skills were added as the fourth predictor in the multiple regression, the change in R² (squared multiple correlation) was found to be insignificant.\n\nWhat percent of variance in job efficiency is explained by evaluation scores at the end of training?",
+          "options": [
+            "(A) 36 percent",
+            "(B) 40 percent",
+            "(C) 60 percent",
+            "(D) 64 percent"
+          ],
+          "correct_answer": 1,
+          "correct_text": "36 percent",
+          "unit": "Unit 2",
+          "topic": "2.2 Statistics",
+          "subtopic": "Correlation and Regression",
+          "concept": "The variance explained by a single predictor equals r² (coefficient of determination). For evaluation scores, r = 0.60, so r² = 0.60² = 0.36 = 36% of variance explained.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": "passage_71",
+          "table_ref": null
+        },
+        {
+          "id": 72,
+          "question": "What would be the multiple correlation between the job efficiency and the three predictors (M.B.A. marks, selection test scores, and the evaluations scores at the end of inhouse training)?",
+          "options": [
+            "(A) 0.50",
+            "(B) 0.65",
+            "(C) 0.75",
+            "(D) Inadequate data"
+          ],
+          "correct_answer": 3,
+          "correct_text": "0.75",
+          "unit": "Unit 2",
+          "topic": "2.2 Statistics",
+          "subtopic": "Multiple Correlation",
+          "concept": "The multiple correlation coefficient R = √R². Given that R² = 56.25% = 0.5625, R = √0.5625 = 0.75.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": "passage_71",
+          "table_ref": null
+        },
+        {
+          "id": 73,
+          "question": "Which one of the following conclusion can be drawn on the basis of above study?\n\n(a) All the four predictors (M.B.A. marks, selection test scores, evaluation scores at the end of inhouse training, and the communication skills) are individually valid.\n(b) Out of the above four predictors, all except communication skills, are individually valid.\n(c) Communication skills assessment has satisfactory incremental validity.\n(d) Communication skills assessment has unsatisfactory incremental validity.",
+          "options": [
+            "(A) (b) only",
+            "(B) (a) and (c) only",
+            "(C) (a) and (d) only",
+            "(D) (b) and (d) only"
+          ],
+          "correct_answer": 3,
+          "correct_text": "(a) and (d) only",
+          "unit": "Unit 2",
+          "topic": "2.2 Statistics",
+          "subtopic": "Incremental Validity",
+          "concept": "All four predictors correlate significantly with job efficiency (r = 0.40, 0.50, 0.60, 0.35), so all are individually valid (a). However, when communication skills was added, the change in R² was insignificant, meaning it has unsatisfactory incremental validity (d) — its predictive contribution is redundant with the existing predictors.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": "passage_71",
+          "table_ref": null
+        },
+        {
+          "id": 74,
+          "question": "The b coefficient obtained in multiple regression is",
+          "options": [
+            "(A) Partial correlation coefficient",
+            "(B) Correlation coefficient",
+            "(C) Regression coefficient",
+            "(D) Partial regression coefficient"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Partial regression coefficient",
+          "unit": "Unit 2",
+          "topic": "2.2 Statistics",
+          "subtopic": "Multiple Regression",
+          "concept": "The b coefficient in multiple regression is the partial regression coefficient (unstandardized). It represents the expected change in the criterion variable for a one-unit change in the predictor, holding all other predictors constant.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": "passage_71",
+          "table_ref": null
+        },
+        {
+          "id": 75,
+          "question": "Which one of the following conclusion can be drawn on the basis of above paragraph?",
+          "options": [
+            "(A) All the four predictors (M.B.A. marks, selection test scores, evaluation scores at the end of inhouse training and communication skills) are uncorrelated with each other.",
+            "(B) Out of the four predictors, at least some are correlated with each other.",
+            "(C) Communication skills scores are uncorrelated with other predictors.",
+            "(D) The four predictors theoretically appear to be correlated, but we cannot infer about their intercorrelations from the data provided."
+          ],
+          "correct_answer": 2,
+          "correct_text": "Out of the four predictors, at least some are correlated with each other.",
+          "unit": "Unit 2",
+          "topic": "2.2 Statistics",
+          "subtopic": "Multicollinearity",
+          "concept": "Communication skills correlated r = 0.35 with job efficiency, yet adding it did not significantly increase R². This suggests communication skills shares variance with the existing predictors (multicollinearity) — at least some predictors must be correlated with each other, making communication skills redundant in the regression.",
+          "era": "UGC",
+          "year": 2016,
+          "passage_ref": "passage_71",
+          "table_ref": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1055 @@
+{
+  "paper_metadata": {
+    "title": "UGC NET/JRF Examination, December 2008",
+    "date": "December 2008",
+    "subject": "Psychology — Paper II"
+  },
+  "content": [
+    {
+      "type": "questions_block",
+      "range": "Q1–Q45",
+      "questions": [
+        {
+          "id": 1,
+          "question": "In Tolman's maze learning experiment the fact that the group of rats receiving reinforcement only after the 10th day of the study solved the maze far more quickly than did the rats who had been reinforced from the first day can be interpreted to mean that these particular rats:",
+          "options": [
+            "(A) were much more intelligent than the other rats",
+            "(B) had already learnt the maze in the first nine days",
+            "(C) had the opportunity to cheat by watching the other rats",
+            "(D) were very hungry and therefore learned much more quickly"
+          ],
+          "correct_answer": 2,
+          "correct_text": "had already learnt the maze in the first nine days",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Cognitive Approaches",
+          "concept": "Tolman's latent learning — learning occurs without reinforcement, demonstrated when reward is introduced",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 2,
+          "question": "Who added the concept of reinforcement to learning theory?",
+          "options": [
+            "(A) Tolman",
+            "(B) Thorndike",
+            "(C) Skinner",
+            "(D) Miller"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Thorndike",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Operant Conditioning",
+          "concept": "Thorndike's Law of Effect — added reinforcement concept through satisfaction/stamp-in",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 3,
+          "question": "What type of memory allows us to have meaningful conversation?",
+          "options": [
+            "(A) Iconic memory",
+            "(B) Echoic memory",
+            "(C) Short term memory",
+            "(D) Long term memory"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Short term memory",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Short-Term Memory",
+          "concept": "STM/Working memory enables holding and processing information for conversations",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 4,
+          "question": "When Mohan studies Psychological terms, he tries to tie each concept into something he already knows. He thinks about the meaning of the concept rather than just saying the words over and over. Which model of memory would best explain Mohan's approach to encoding memories?",
+          "options": [
+            "(A) Levels of processing",
+            "(B) Parallel distributed processing",
+            "(C) Information processing",
+            "(D) Three stages"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Levels of processing",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Memory Models",
+          "concept": "Craik & Lockhart's Levels of Processing — deep/semantic processing leads to better retention",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 5,
+          "question": "The best place to take your psychology exam to ensure good retrieval of psychological concept is in the",
+          "options": [
+            "(A) Psychological classroom",
+            "(B) Auditorium",
+            "(C) English classroom",
+            "(D) Special testing room used for all exams"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Psychological classroom",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Retrieval",
+          "concept": "Context-dependent memory (Godden & Baddeley) — best retrieval in same context as encoding",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 6,
+          "question": "Which one of the following statement about type 'A' individual is not correct?",
+          "options": [
+            "(A) They are Aggressive",
+            "(B) They are impatient",
+            "(C) They are Sociable",
+            "(D) They worry about the deadline"
+          ],
+          "correct_answer": 3,
+          "correct_text": "They are Sociable",
+          "unit": "Unit 10",
+          "topic": "10.7 Health Psychology",
+          "subtopic": "Chronic diseases",
+          "concept": "Type A personality: competitive, aggressive, impatient, time-pressured, hostile — not characterized as sociable",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 7,
+          "question": "Trait Approach to personality asserts that traits are",
+          "options": [
+            "(A) Adjective describing behaviour",
+            "(B) Discrete and discontinuous categories of people",
+            "(C) Generalized system which ensure consistency in behaviour of individual",
+            "(D) Psychological categories of Temperament associated with specific body physique"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Generalized system which ensure consistency in behaviour of individual",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Trait and Type Theories",
+          "concept": "Trait approach (Allport, Cattell, Eysenck) — traits are stable, generalized neuropsychic structures/dispositions that initiate and guide consistent forms of adaptive and expressive behavior across situations",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 8,
+          "question": "Which one of the following statement indicates true relation between intelligence and creativity?",
+          "options": [
+            "(A) Intelligence and creativity have high correlation",
+            "(B) Intelligence and creativity have low correlation",
+            "(C) Intelligence and creativity have moderate correlation",
+            "(D) Intelligence and creativity have higher correlation at the lower level than at higher level of intelligence"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Intelligence and creativity have higher correlation at the lower level than at higher level of intelligence",
+          "unit": "Unit 6",
+          "topic": "6.3 Creativity",
+          "subtopic": "Creativity and Intelligence",
+          "concept": "Threshold theory — higher IQ-creativity correlation below IQ ~120; above threshold, correlation weakens",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 9,
+          "question": "A psychological test can be considered as standard when one establishes its",
+          "options": [
+            "(A) Reliability and Validity",
+            "(B) Reliability and Variability",
+            "(C) Validity and Norm",
+            "(D) Reliability, Validity and Norm"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Reliability, Validity and Norm",
+          "unit": "Unit 3",
+          "topic": "3.5 Norms and Standardization",
+          "subtopic": "Standardization",
+          "concept": "Standardized test requires reliability, validity, and established norms",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 10,
+          "question": "Parallel lines such as Railway Track appear to converge on a distant-point called vanishing point. This phenomenon is explained by the principle of",
+          "options": [
+            "(A) Relative size",
+            "(B) Interposition",
+            "(C) Linear perspective",
+            "(D) Aerial Perspective"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Linear perspective",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Depth Perception",
+          "concept": "Linear perspective — parallel lines appear to converge at vanishing point",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 11,
+          "question": "Dark adaptation is a process in which eyes get more sensitive to",
+          "options": [
+            "(A) Green light",
+            "(B) Color light",
+            "(C) Light with bright illumination",
+            "(D) Light with low illumination"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Light with low illumination",
+          "unit": "Unit 4",
+          "topic": "4.1 Sensory Systems",
+          "subtopic": "Visual system",
+          "concept": "Dark adaptation — increased sensitivity to dim light through rod activation",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 12,
+          "question": "Which of the following statement explains incidental learning?",
+          "options": [
+            "(A) learning without actually trying to attain a goal",
+            "(B) learning in absence of ostensible reinforcement",
+            "(C) learning without knowledge of relationship between response and reinforcement",
+            "(D) learning in absence of changes in perception or discrimination"
+          ],
+          "correct_answer": 1,
+          "correct_text": "learning without actually trying to attain a goal",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Cognitive Approaches",
+          "concept": "Incidental learning — learning that occurs without deliberate intention",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 13,
+          "question": "Which one of the following factor is not included in big five dimensions of personality?",
+          "options": [
+            "(A) Extraversion",
+            "(B) Neuroticism",
+            "(C) Agreeableness",
+            "(D) Dominance"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Dominance",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Trait and Type Theories",
+          "concept": "Big Five (OCEAN): Openness, Conscientiousness, Extraversion, Agreeableness, Neuroticism — dominance not included",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 14,
+          "question": "Secret of coping with stress is to be willing to modify our construct to fit into the new situation. This statement is attributed to",
+          "options": [
+            "(A) Carl Roger",
+            "(B) Sandra Scarr",
+            "(C) Hans Eysenck",
+            "(D) George Kelly"
+          ],
+          "correct_answer": 4,
+          "correct_text": "George Kelly",
+          "unit": "Unit 7",
+          "topic": "7.4 Stress and Coping",
+          "subtopic": "Coping Mechanisms",
+          "concept": "Kelly's Personal Construct Theory — modifying constructs to fit new situations as coping",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 15,
+          "question": "An emotion is best defined as",
+          "options": [
+            "(A) An individual response to situation",
+            "(B) Reaction to emotional stimulus",
+            "(C) An excited state arising in response to stimuli for which the individual doesn't have adequate readymade reactions",
+            "(D) Display excessive or irrational behaviour as a result of unexpected or intense stimuli"
+          ],
+          "correct_answer": 3,
+          "correct_text": "An excited state arising in response to stimuli for which the individual doesn't have adequate readymade reactions",
+          "unit": "Unit 7",
+          "topic": "7.3 Emotion",
+          "subtopic": "Nature and Components",
+          "concept": "McDougall's definition — emotion is an excited state when the individual lacks adequate readymade (instinctive) reactions to stimuli; emotion serves as a motivational signal for novel situations",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 16,
+          "question": "Which one of the following statement regarding field experiment is not true?",
+          "options": [
+            "(A) Field experiments require investigators who are specially skilled for intervening in social situation",
+            "(B) The greatest difficulty in field experiment lies in the randomization and manipulation of the independent variable",
+            "(C) Field experiments are concerned with causal relationship but not with the direction of relationship",
+            "(D) Field experiments are carried out in natural setting"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Field experiments are concerned with causal relationship but not with the direction of relationship",
+          "unit": "Unit 2",
+          "topic": "2.5 Methods of Research",
+          "subtopic": "Experimental",
+          "concept": "Field experiments CAN establish direction of relationship; they are concerned with both causation and direction",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 17,
+          "question": "Which of the following statement is/are correct regarding perception?\n\n(i) Perception is not directly observable.\n(ii) Perception is followed by sensation.\n(iii) Perception can be modified.\n(iv) Perception is inherited.\n\nSelect the correct answer from the codes given below:",
+          "options": [
+            "(A) (ii) alone",
+            "(B) (i) alone",
+            "(C) (ii) and (iii)",
+            "(D) (i) and (iii)"
+          ],
+          "correct_answer": 4,
+          "correct_text": "(i) and (iii)",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Perception",
+          "concept": "Perception is not directly observable (i) and can be modified through learning (iii); sensation precedes perception (ii is wrong)",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 18,
+          "question": "The memory trace if not revived from time gradually fades out according to law of disuse until it is completely obliterated. It is called",
+          "options": [
+            "(A) anti-consolidation",
+            "(B) proactive inhibition",
+            "(C) retrieval inhibition",
+            "(D) interference"
+          ],
+          "correct_answer": 1,
+          "correct_text": "anti-consolidation",
+          "unit": "Unit 5",
+          "topic": "5.5 Forgetting",
+          "subtopic": "Decay/Trace Theory",
+          "concept": "Anti-consolidation / Trace decay theory — memory traces gradually fade if not revived (Thorndike's law of disuse); absence of consolidation prevents long-term stabilization of the memory trace, leading to eventual obliteration",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        }
+      ]
+    },
+    {
+      "type": "questions_block",
+      "range": "Q19–Q28",
+      "questions": [
+        {
+          "id": 19,
+          "question": "**Assertion (A):** According to Freud, all behaviours stemmed from two opposing groups of instincts.\n\n**Reason (R):** Some instincts are innate and some are acquired.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "(B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+            "(C) (A) is true but (R) is false",
+            "(D) (A) is false but (R) is true"
+          ],
+          "correct_answer": 3,
+          "correct_text": "(A) is true but (R) is false",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Psychoanalytic Approach",
+          "concept": "Freud's two groups of instincts (Eros and Thanatos); all instincts are innate in Freud's theory",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 20,
+          "question": "**Assertion (A):** People in cinema hall can be readily grouped into high, middle and low income categories.\n\n**Reason (R):** Perceptual grouping may be done on the principle of proximity and similarity.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "(B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+            "(C) (A) is true but (R) is false",
+            "(D) (A) is false but (R) is true"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Gestalt Principles",
+          "concept": "Income grouping via cinema seating is social/economic categorization; Gestalt proximity/similarity are true perceptual principles but do not explain income-based grouping",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 21,
+          "question": "**Assertion (A):** A forty year old man may have the same IQ as that of a 20 year old.\n\n**Reason (R):** The forty year old man could have been somewhat retarded to start with.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "(B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+            "(C) (A) is true but (R) is false",
+            "(D) (A) is false but (R) is true"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Measurement of Intelligence",
+          "concept": "Deviation IQ can be same across ages; retardation is not the explanation — IQ is relative to age norms",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 22,
+          "question": "**Assertion (A):** Any psychological or physiological imbalance motivates behaviour.\n\n**Reason (R):** The body tends to maintain internal balance.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "(B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+            "(C) (A) is true but (R) is false",
+            "(D) (A) is false but (R) is true"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+          "unit": "Unit 7",
+          "topic": "7.2 Motivation",
+          "subtopic": "Theories of Motivation",
+          "concept": "Drive-reduction theory and homeostasis — imbalance creates drive; body seeks internal balance",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 23,
+          "question": "**Assertion (A):** In proactive inhibition, early learning interferes with later learning.\n\n**Reason (R):** If a person goes to sleep immediately after learning, forgetting will be less.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "(B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+            "(C) (A) is true but (R) is false",
+            "(D) (A) is false but (R) is true"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+          "unit": "Unit 5",
+          "topic": "5.5 Forgetting",
+          "subtopic": "Interference Theory",
+          "concept": "Proactive interference defined correctly; sleep reduces retroactive interference (not proactive); both true but R doesn't explain A",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 24,
+          "question": "**Assertion (A):** Performance of a person is a function of his motivational level.\n\n**Reason (R):** There is a linear relationship between arousal and performance.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "(B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+            "(C) (A) is true but (R) is false",
+            "(D) (A) is false but (R) is true"
+          ],
+          "correct_answer": 3,
+          "correct_text": "(A) is true but (R) is false",
+          "unit": "Unit 7",
+          "topic": "7.2 Motivation",
+          "subtopic": "Theories of Motivation",
+          "concept": "Performance relates to motivation (A is true); arousal-performance is curvilinear (inverted-U), not linear",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 25,
+          "question": "**Assertion (A):** Eidetic imagery is rare in adults.\n\n**Reason (R):** The loss in eidetic imagery may be related to the development of Abstract Thinking.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "(B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+            "(C) (A) is true but (R) is false",
+            "(D) (A) is false but (R) is true"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Sensory Memory",
+          "concept": "Eidetic imagery (photographic memory) rare in adults; development of abstract thinking may cause its decline",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 26,
+          "question": "**Assertion (A):** Out of the five correlation coefficients, –0.80, 0.70, 0.50, 0.00, and –0.20, between X and Y variable, the strongest relationship is indicated by a correlation coefficient of 0.70.\n\n**Reason (R):** The correlation coefficient of 0.70 indicates that X increases, Y also tends to increase.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "(B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+            "(C) (A) is true but (R) is false",
+            "(D) (A) is false but (R) is true"
+          ],
+          "correct_answer": 4,
+          "correct_text": "(A) is false but (R) is true",
+          "unit": "Unit 2",
+          "topic": "2.6 Descriptive Statistics",
+          "subtopic": "Correlation",
+          "concept": "Strongest correlation is -0.80 (not 0.70) as strength is measured by absolute value; 0.70 does show positive relationship",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 27,
+          "question": "**Assertion (A):** Limbic system is a group of structures in the cardiovascular region.\n\n**Reason (R):** Limbic system is involved in expression of emotion and motivation.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "(B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+            "(C) (A) is true but (R) is false",
+            "(D) (A) is false but (R) is true"
+          ],
+          "correct_answer": 4,
+          "correct_text": "(A) is false but (R) is true",
+          "unit": "Unit 4",
+          "topic": "4.3 Nervous System",
+          "subtopic": "Brain structures",
+          "concept": "Limbic system is in the brain (not cardiovascular); involved in emotion and motivation",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 28,
+          "question": "**Assertion (A):** Neither trait nor type theory can explain total personality.\n\n**Reason (R):** Personality is the interactive product of individuality and environment.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "(B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+            "(C) (A) is true but (R) is false",
+            "(D) (A) is false but (R) is true"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Trait and Type Theories",
+          "concept": "Trait theories (Allport, Cattell, Eysenck) describe stable dispositions but neglect situational variability; type theories (Sheldon, Kretschmer) categorize into discrete groups oversimplifying complexity. Neither can explain total personality because personality emerges from the dynamic reciprocal interplay of individual (biological, cognitive, dispositional) and environmental (social, cultural, situational) factors — a limitation addressed by interactionist (Bandura's reciprocal determinism) and social-cognitive approaches",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        }
+      ]
+    },
+    {
+      "type": "questions_block",
+      "range": "Q29–Q36",
+      "questions": [
+        {
+          "id": 29,
+          "question": "The Theories of Intelligence appeared in the following order. Select the correct order:",
+          "options": [
+            "(A) Binet-Simon / Thurstone / R.B. Catell / Spearman",
+            "(B) Binet-Simon / Spearman / Thurstone / R.B. Cattell",
+            "(C) Spearman / Thurstone / Binet-Simon / R.B. Cattell",
+            "(D) R.B. Cattell / Binet-Simon / Thurstone / Spearman"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Binet-Simon / Spearman / Thurstone / R.B. Cattell",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Theories of Intelligence",
+          "concept": "Chronological order: Binet-Simon scale (1905, first practical intelligence test) → Spearman's two-factor/g-factor theory (1904 paper, 1927 comprehensive work) → Thurstone's Primary Mental Abilities (1938) → Cattell's fluid-crystallized intelligence (1963). In UGC NET context, Binet-Simon is placed first as the initiator of intelligence measurement",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 30,
+          "question": "The correct sequence of Gestalt psychologists is",
+          "options": [
+            "(A) Wertheimer / Koffka / Kohler / Lewin",
+            "(B) Kohler / Wertheimer / Koffka / Lewin",
+            "(C) Lewin / Kohler / Koffka / Wertheimer",
+            "(D) Koffka / Lewin / Wertheimer / Kohler"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Wertheimer / Koffka / Kohler / Lewin",
+          "unit": "Unit 1",
+          "topic": "1.2 Western Schools of Psychology",
+          "subtopic": "Gestalt",
+          "concept": "Gestalt psychologists chronological order: Wertheimer (1912) → Koffka → Kohler → Lewin",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 31,
+          "question": "Piaget suggested the following development stages. Which one is correct?",
+          "options": [
+            "(A) Sensori-motor / Concrete operations / Pre-operational / Formal operational",
+            "(B) Sensori-motor, Pre-operational, Concrete operations, Formal operational",
+            "(C) Sensori motor / Pre-operational / Formal operational / Concrete operations",
+            "(D) Concrete operations / Sensori motor / Formal operational / Pre-operational"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Sensori-motor, Pre-operational, Concrete operations, Formal operational",
+          "unit": "Unit 9",
+          "topic": "9.2 Major Developmental Theories",
+          "subtopic": "Cognitive Development",
+          "concept": "Piaget's four stages of cognitive development in correct order: (1) Sensorimotor stage (birth to 2 years) - knowledge through sensory experiences and motor actions; (2) Pre-operational stage (2 to 7 years) - symbolic thinking but lacks logical operations; (3) Concrete operational stage (7 to 11 years) - logical thinking about concrete events; (4) Formal operational stage (11 years and above) - abstract and hypothetical thinking. Option (B) correctly presents this sequential order.",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 32,
+          "question": "These memory experts are in the following order. Which one is correct?",
+          "options": [
+            "(A) Ebbinghans / Baddeley / Bartlott / Broadbent",
+            "(B) Ebbinghans / Bartlett / Broadbent / Baddeley",
+            "(C) Bartlett / Broadbent / Baddeley / Ebbinghans",
+            "(D) Broadbent / Baddeley / Ebbinghans / Bartlett"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Ebbinghans / Bartlett / Broadbent / Baddeley",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Memory Models",
+          "concept": "Chronological: Ebbinghaus (1885) → Bartlett (1932) → Broadbent (1958) → Baddeley (1974)",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 33,
+          "question": "What is the correct sequence of personality theorists?\n\n(i) Allport\n(ii) Cattell\n(iii) Eysenck\n(iv) McCrae and Costa",
+          "options": [
+            "(A) (i) (ii) (iii) (iv)",
+            "(B) (ii) (i) (iii) (iv)",
+            "(C) (iii) (iv) (i) (ii)",
+            "(D) (i) (iii) (iv) (ii)"
+          ],
+          "correct_answer": 1,
+          "correct_text": "(i) (ii) (iii) (iv)",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Trait and Type Theories",
+          "concept": "Trait theorists chronological: Allport (1937) → Cattell (1940s) → Eysenck (1950s) → McCrae & Costa (1980s)",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 34,
+          "question": "Observational learning follows which of the following sequence?",
+          "options": [
+            "(A) Motivation / Production Processes / Retention / Attention",
+            "(B) Attention / Retention / Production Processes / Motivation",
+            "(C) Retention / Motivation / Attention / Production Processes",
+            "(D) Production Processes / Attention / Motivation / Retention"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Attention / Retention / Production Processes / Motivation",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Observational/Social Learning",
+          "concept": "Bandura's observational learning sequence: Attention → Retention → Reproduction → Motivation",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 35,
+          "question": "Which one of the following is the correct sequence of steps involving creative thinking?",
+          "options": [
+            "(A) Preparation, Incubation, Illumination, Verification",
+            "(B) Inspiration – Incubation – Preparation – Verification",
+            "(C) Observation – Concentration – Inspiration – Verification",
+            "(D) Incubation – Preparation – Inspiration – Verification"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Preparation, Incubation, Illumination, Verification",
+          "unit": "Unit 6",
+          "topic": "6.3 Creativity",
+          "subtopic": "Creativity",
+          "concept": "Wallas's (1926) four stages of creative thinking in correct order: (1) Preparation - defining the problem and gathering information systematically; (2) Incubation - unconscious processing where the problem is set aside; (3) Illumination - the 'Eureka moment' of sudden insight when the solution emerges; (4) Verification - testing and validating the solution. Option (A) correctly presents this sequential order.",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 36,
+          "question": "The following is the sequence of theories of Aggression. Which one is correct?\n\n(i) Biological Theory\n(ii) Frustration-Aggression Hypothesis\n(iii) Cognitive theory\n(iv) Social learning theory",
+          "options": [
+            "(A) (i) (ii) (iii) (iv)",
+            "(B) (i) (ii) (iv) (iii)",
+            "(C) (ii) (iv) (iii) (i)",
+            "(D) (iv) (iii) (ii) (i)"
+          ],
+          "correct_answer": 2,
+          "correct_text": "(i) (ii) (iv) (iii)",
+          "unit": "Unit 8",
+          "topic": "8.7 Prosocial Behavior and Aggression",
+          "subtopic": "Theories of Aggression",
+          "concept": "Chronological: Biological (Freud/Lorenz, early 1900s) → Frustration-Aggression (Dollard & Miller, 1939) → Social Learning (Bandura, 1960s-70s) → Cognitive theories (Anderson & Bushman's GAM, 1980s onward)",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null
+        }
+      ]
+    },
+    {
+      "type": "questions_block",
+      "range": "Q37–Q45",
+      "questions": [
+        {
+          "id": 37,
+          "question": "Match List-I with List-II:\n\n| List-I | List-II |\n|---|---|\n| (A) Ability to see fine details | (i) Perceptual set |\n| (B) Progressive improvement in vision | (ii) Perceptual constancy |\n| (C) Unchangingness in vision | (iii) Dark adaptation |\n| (D) Readiness to perceive in a particular way | (iv) Visual Acuity |\n\n**Codes:**\n\n| | A | B | C | D |\n|---|---|---|---|---|\n| (A) | (iii) | (ii) | (i) | (iv) |\n| (B) | (iv) | (iii) | (ii) | (i) |\n| (C) | (ii) | (iv) | (i) | (iii) |\n| (D) | (i) | (ii) | (iii) | (iv) |",
+          "options": [
+            "(A) (iii) (ii) (i) (iv)",
+            "(B) (iv) (iii) (ii) (i)",
+            "(C) (ii) (iv) (i) (iii)",
+            "(D) (i) (ii) (iii) (iv)"
+          ],
+          "correct_answer": 2,
+          "correct_text": "(iv) (iii) (ii) (i)",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Perception",
+          "concept": "Visual acuity-fine details, Dark adaptation-progressive improvement, Perceptual constancy-unchangingness, Perceptual set-readiness to perceive",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null,
+          "explanation": "A=iv, B=iii, C=ii, D=i"
+        },
+        {
+          "id": 38,
+          "question": "Match List-I with List-II:\n\n| List-I | List-II |\n|---|---|\n| (A) Schedules of Reinforcement | (i) E.L. Thorndike |\n| (B) Modeling | (ii) A. Bandura |\n| (C) Conditioning | (iii) B.F. Skinner |\n| (D) Law of Effect | (iv) Ivan Pavlov |\n\n**Codes:**\n\n| | A | B | C | D |\n|---|---|---|---|---|\n| (A) | (i) | (iii) | (iv) | (ii) |\n| (B) | (ii) | (i) | (iii) | (iv) |\n| (C) | (iii) | (ii) | (iv) | (i) |\n| (D) | (iv) | (iii) | (ii) | (i) |",
+          "options": [
+            "(A) (i) (iii) (iv) (ii)",
+            "(B) (ii) (i) (iii) (iv)",
+            "(C) (iii) (ii) (iv) (i)",
+            "(D) (iv) (iii) (ii) (i)"
+          ],
+          "correct_answer": 3,
+          "correct_text": "(iii) (ii) (iv) (i)",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Learning theories",
+          "concept": "Skinner-schedules of reinforcement, Bandura-modeling, Pavlov-conditioning, Thorndike-law of effect",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null,
+          "explanation": "A=iii, B=ii, C=iv, D=i"
+        },
+        {
+          "id": 39,
+          "question": "Match List-I with List-II:\n\n| List-I | List-II |\n|---|---|\n| (A) Getting the information into memory | (i) Sensory memory |\n| (B) Holding the information in a memory span | (ii) Encoding |\n| (C) Grouping the information in a memory span | (iii) Chunking |\n| (D) Temporarily holding the information when performing a task | (iv) Working memory |\n\n**Codes:**\n\n| | A | B | C | D |\n|---|---|---|---|---|\n| (A) | (ii) | (i) | (iv) | (iii) |\n| (B) | (iii) | (ii) | (i) | (iv) |\n| (C) | (iv) | (iii) | (i) | (ii) |\n| (D) | (ii) | (i) | (iii) | (iv) |",
+          "options": [
+            "(A) (ii) (i) (iv) (iii)",
+            "(B) (iii) (ii) (i) (iv)",
+            "(C) (iv) (iii) (i) (ii)",
+            "(D) (ii), (i), (iii), (iv)"
+          ],
+          "correct_answer": 4,
+          "correct_text": "(ii), (i), (iii), (iv)",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Memory Models",
+          "concept": "The correct matching is: (A) Getting information into memory = (ii) Encoding (the process of converting sensory input into a form that can be stored); (B) Holding information in a memory span = (i) Sensory memory (brief retention of sensory information); (C) Grouping information in a memory span = (iii) Chunking (organizing information into meaningful groups to expand memory capacity); (D) Temporarily holding information during a task = (iv) Working memory (Baddeley's model for active maintenance and manipulation of information). Option (D) correctly presents this mapping as (ii), (i), (iii), (iv).",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null,
+          "explanation": "A=ii (Encoding), B=i (Sensory memory), C=iii (Chunking), D=iv (Working memory)"
+        },
+        {
+          "id": 40,
+          "question": "Match List-I with List-II:\n\n| List-I | List-II |\n|---|---|\n| (A) Concept Formation | (i) Strategy |\n| (B) Deductive Reasoning | (ii) Goal attainment |\n| (C) Problem solving | (iii) General to specific |\n| (D) Algorithm | (iv) Mental categories |\n\n**Codes:**\n\n| | A | B | C | D |\n|---|---|---|---|---|\n| (A) | (ii) | (i) | (iii) | (iv) |\n| (B) | (iii) | (iv) | (i) | (ii) |\n| (C) | (i) | (ii) | (iii) | (iv) |\n| (D) | (iv) | (iii) | (ii) | (i) |",
+          "options": [
+            "(A) (ii) (i) (iii) (iv)",
+            "(B) (iii) (iv) (i) (ii)",
+            "(C) (i) (ii) (iii) (iv)",
+            "(D) (iv) (iii) (ii) (i)"
+          ],
+          "correct_answer": 4,
+          "correct_text": "(iv) (iii) (ii) (i)",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Thinking",
+          "concept": "Concept formation-mental categories, Deductive reasoning-general to specific, Problem solving-goal attainment, Algorithm-strategy",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null,
+          "explanation": "A=iv, B=iii, C=ii, D=i"
+        },
+        {
+          "id": 41,
+          "question": "Match List-I with List-II:\n\n| List-I | List-II |\n|---|---|\n| (A) An arousal state | (i) Estrogenes |\n| (B) An equilibrium state | (ii) Drive |\n| (C) Female sex hormone | (iii) Homeostasis |\n| (D) Male sex hormone | (iv) Androgenes |\n\n**Codes:**\n\n| | A | B | C | D |\n|---|---|---|---|---|\n| (A) | (iii) | (ii) | (i) | (iv) |\n| (B) | (ii) | (iii) | (i) | (iv) |\n| (C) | (i) | (iv) | (ii) | (iii) |\n| (D) | (iv) | (i) | (iii) | (ii) |",
+          "options": [
+            "(A) (iii) (ii) (i) (iv)",
+            "(B) (ii) (iii) (i) (iv)",
+            "(C) (i) (iv) (ii) (iii)",
+            "(D) (iv) (i) (iii) (ii)"
+          ],
+          "correct_answer": 2,
+          "correct_text": "(ii) (iii) (i) (iv)",
+          "unit": "Unit 7",
+          "topic": "7.2 Motivation",
+          "subtopic": "Motivation",
+          "concept": "Drive-arousal state, Homeostasis-equilibrium, Estrogen-female hormone, Androgen-male hormone",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null,
+          "explanation": "A=ii, B=iii, C=i, D=iv"
+        },
+        {
+          "id": 42,
+          "question": "Match List-I with List-II:\n\n| List-I | List-II |\n|---|---|\n| (A) Structure of Intellect | (i) Spearman |\n| (B) Intelligence quotient | (ii) Thurstone |\n| (C) General Intelligence | (iii) Guilford |\n| (D) Several Mental Abilities | (iv) Beriet |\n\n**Codes:**\n\n| | A | B | C | D |\n|---|---|---|---|---|\n| (A) | (i) | (ii) | (iii) | (iv) |\n| (B) | (ii) | (i) | (iii) | (iv) |\n| (C) | (iv) | (ii) | (iii) | (i) |\n| (D) | (iii) | (iv) | (i) | (ii) |",
+          "options": [
+            "(A) (i) (ii) (iii) (iv)",
+            "(B) (ii) (i) (iii) (iv)",
+            "(C) (iv) (ii) (iii) (i)",
+            "(D) (iii) (iv) (i) (ii)"
+          ],
+          "correct_answer": 4,
+          "correct_text": "(iii) (iv) (i) (ii)",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Theories of Intelligence",
+          "concept": "Guilford — Structure of Intellect (SOI model: operations × contents × products); Binet (spelled 'Beriet' in question) — Intelligence Quotient (Binet-Simon scale, 1905); Spearman — General Intelligence (g-factor, two-factor theory); Thurstone — Primary Mental Abilities (seven distinct abilities challenging unitary g)",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null,
+          "explanation": "A=iii, B=iv, C=i, D=ii"
+        },
+        {
+          "id": 43,
+          "question": "Match List-I with List-II:\n\n| List-I | List-II |\n|---|---|\n| (A) Projective Tests | (i) Karen Korney |\n| (B) Neo-Freudian | (ii) Cattle |\n| (C) Self-Concept | (iii) Roger |\n| (D) Traits | (iv) Rorschach |\n\n**Codes:**\n\n| | A | B | C | D |\n|---|---|---|---|---|\n| (A) | (iii) | (i) | (ii) | (iv) |\n| (B) | (ii) | (iv) | (iii) | (i) |\n| (C) | (iv) | (i) | (iii) | (ii) |\n| (D) | (i) | (iii) | (iv) | (ii) |",
+          "options": [
+            "(A) (iii) (i) (ii) (iv)",
+            "(B) (ii) (iv) (iii) (i)",
+            "(C) (iv) (i) (iii) (ii)",
+            "(D) (i) (iii) (iv) (ii)"
+          ],
+          "correct_answer": 3,
+          "correct_text": "(iv) (i) (iii) (ii)",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Personality theories",
+          "concept": "Rorschach-projective tests, Karen Horney-Neo-Freudian, Rogers-self-concept, Cattell-traits",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null,
+          "explanation": "A=iv, B=i, C=iii, D=ii"
+        },
+        {
+          "id": 44,
+          "question": "Match List-I with List-II:\n\n| List-I | List-II |\n|---|---|\n| (A) Measuring Future Learning | (i) Achievement tests |\n| (B) Measuring Already Learned | (ii) Aptitude test |\n| (C) Measuring Mental Abilities | (iii) Academic Achievement test |\n| (D) Measuring Learned Subjects | (iv) Intelligence test |\n\n**Codes:**\n\n| | A | B | C | D |\n|---|---|---|---|---|\n| (A) | (i) | (ii) | (iv) | (iii) |\n| (B) | (ii) | (i) | (iv) | (iii) |\n| (C) | (iii) | (iv) | (ii) | (i) |\n| (D) | (iv) | (ii) | (iii) | (i) |",
+          "options": [
+            "(A) (i) (ii) (iv) (iii)",
+            "(B) (ii) (i) (iv) (iii)",
+            "(C) (iii) (iv) (ii) (i)",
+            "(D) (iv) (ii) (iii) (i)"
+          ],
+          "correct_answer": 2,
+          "correct_text": "(ii) (i) (iv) (iii)",
+          "unit": "Unit 3",
+          "topic": "3.6 Types of Tests by Domain",
+          "subtopic": "Types of Tests",
+          "concept": "Aptitude test-future learning, Achievement test-already learned, Intelligence test-mental abilities, Academic achievement-learned subjects",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null,
+          "explanation": "A=ii, B=i, C=iv, D=iii"
+        },
+        {
+          "id": 45,
+          "question": "Match List-I with List-II:\n\n| List-I | List-II |\n|---|---|\n| (A) Pons | (i) Bridge |\n| (B) Dendrites | (ii) Tree |\n| (C) Cerebellum | (iii) Little Brain |\n| (D) Amygdala | (iv) Almond |\n\n**Codes:**\n\n| | A | B | C | D |\n|---|---|---|---|---|\n| (A) | (iv) | (iii) | (ii) | (i) |\n| (B) | (i) | (ii) | (iii) | (iv) |\n| (C) | (iii) | (i) | (iv) | (ii) |\n| (D) | (ii) | (iv) | (i) | (iii) |",
+          "options": [
+            "(A) (iv) (iii) (ii) (i)",
+            "(B) (i) (ii) (iii) (iv)",
+            "(C) (iii) (i) (iv) (ii)",
+            "(D) (ii) (iv) (i) (iii)"
+          ],
+          "correct_answer": 2,
+          "correct_text": "(i) (ii) (iii) (iv)",
+          "unit": "Unit 4",
+          "topic": "4.3 Nervous System",
+          "subtopic": "Brain structures",
+          "concept": "Etymological meanings: Pons=bridge, Dendrites=tree, Cerebellum=little brain, Amygdala=almond",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": null,
+          "table_ref": null,
+          "explanation": "A=i, B=ii, C=iii, D=iv"
+        }
+      ]
+    },
+    {
+      "type": "passage",
+      "id": "passage_46",
+      "heading": "Stress is a state of tension that occurs when there are demands and pressures that tax an individual's ability to adjust.",
+      "text": "Stress is a state of tension that occurs when there are demands and pressures that tax an individual's ability to adjust. Stress typically results from the challenge of adjusting to transitions in life, and college is a time of significant change. Any disease, including hypertension, heart disease, ulcers and diabetes, have been found to have a strong correlation with stress. In addition, stress may aggravate or even be a causal factor in other conditions, such as headache, backache, skin disorders, indigestion, respiratory ailments, mental illness and accidental injuries. Stress in college can result from external sources such as academic demands or relationship conflicts, or from internally generated expectations for self. The stress response is very personal and varies for different students.\n\nEvery one working at university has contact with students. Sadly, many students experience severe psychological problems that may go unnoticed or ignored until it is too late. College students often face depression, anxiety relationship difficulties and feelings of isolation fear of failure, family pressures, and \"difficulty in adjusting\". Without help, the pressure may build until it becomes a crisis situation (severe depression, suicidal thoughts and / or attempts, panic attacks etc). A psychological crisis situation occurs when the student feels unable to cope with the circumstances of his/her life. The more helpless the individual feels, the greater the crisis.\n\nA student's support system (including family friends, acquaintances etc) is critical. More extensive the support system, the better the prognosis of the student. Both psychological crisis and emergencies warrant an immediate call to the Student Health Center for crisis intervention.\n\nCrisis intervention, thus helps a person cope with the immediate situation and make a plan to address any ongoing problems. Qualified mental health professional can help people address the causes of their distress and teach them effective ways to deal with those causes. Every detection and treatment can head off serious consequences."
+    },
+    {
+      "type": "questions_block",
+      "range": "Q46–Q50",
+      "passage_ref": "passage_46",
+      "questions": [
+        {
+          "id": 46,
+          "question": "Physical diseases such as heart disease, hypertension, ulcers and diabetes tend to have:",
+          "options": [
+            "(A) Negative correlation with stress",
+            "(B) Positive correlation with stress",
+            "(C) Zero correlation with stress",
+            "(D) None of the above"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Positive correlation with stress",
+          "unit": "Unit 10",
+          "topic": "10.7 Health Psychology",
+          "subtopic": "Chronic diseases",
+          "concept": "Positive correlation between stress and physical diseases (CHD, hypertension, ulcers, diabetes)",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": "passage_46",
+          "table_ref": null
+        },
+        {
+          "id": 47,
+          "question": "Crisis intervention generally",
+          "options": [
+            "(A) Creates a problem when trying to solve a problem",
+            "(B) Helps a person to deal with immediate undesirable situation",
+            "(C) Creates a severe anxiety disorder in the person",
+            "(D) None of the above"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Helps a person to deal with immediate undesirable situation",
+          "unit": "Unit 9",
+          "topic": "9.5 Psychotherapies",
+          "subtopic": "Therapeutic interventions",
+          "concept": "Crisis intervention — helps person cope with immediate crisis and plan for ongoing issues",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": "passage_46",
+          "table_ref": null
+        },
+        {
+          "id": 48,
+          "question": "When a person has strong social support to deal with the situation",
+          "options": [
+            "(A) He is better able to lessen the impact of Psychological Crisis and emergencies",
+            "(B) He wastes his time in attending to the demands of different person",
+            "(C) He feels burns out because of excessive interaction with so many persons",
+            "(D) None of these"
+          ],
+          "correct_answer": 1,
+          "correct_text": "He is better able to lessen the impact of Psychological Crisis and emergencies",
+          "unit": "Unit 7",
+          "topic": "7.4 Stress and Coping",
+          "subtopic": "Coping Mechanisms",
+          "concept": "Social support as protective factor — lessens psychological crisis impact",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": "passage_46",
+          "table_ref": null
+        },
+        {
+          "id": 49,
+          "question": "Optimism has been associated with all of the following except",
+          "options": [
+            "(A) Taking care of one's health",
+            "(B) Increased rates of learned helplessness",
+            "(C) Lower rates of depression",
+            "(D) Health immune system"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Increased rates of learned helplessness",
+          "unit": "Unit 10",
+          "topic": "10.6 Wellbeing and Positive Psychology",
+          "subtopic": "Resilience",
+          "concept": "Optimism associated with health behaviors, lower depression, healthy immune system — NOT learned helplessness (which is the opposite)",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": "passage_46",
+          "table_ref": null
+        },
+        {
+          "id": 50,
+          "question": "Social support",
+          "options": [
+            "(A) Has a positive benefit on health",
+            "(B) Can improve the physical functioning of cancer patient",
+            "(C) Can improve the physical functioning of HIV patient",
+            "(D) Shows all of the above"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Shows all of the above",
+          "unit": "Unit 10",
+          "topic": "10.7 Health Psychology",
+          "subtopic": "Biopsychosocial model",
+          "concept": "Social support benefits health broadly, including cancer and HIV patients",
+          "era": "UGC",
+          "year": 2008,
+          "passage_ref": "passage_46",
+          "table_ref": null
+        }
+      ]
+    }
+  ]
+}

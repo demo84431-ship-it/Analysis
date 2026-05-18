@@ -1,0 +1,1028 @@
+{
+  "paper_metadata": {
+    "title": "UGC NET/JRF Examination, December 2015",
+    "date": "December 2015",
+    "subject": "Psychology — Paper II"
+  },
+  "content": [
+    {
+      "type": "questions_block",
+      "range": "Q1–Q45",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Motion sickness can occur when :\n\n(a) one loses his vestibular sense.\n(b) one relies only on visual information.\n(c) one's visual information and vestibular system's information are congruent.\n(d) one's visual system and vestibular system are in conflict.",
+          "options": [
+            "(A) (a) only",
+            "(B) (a) and (b)",
+            "(C) (d) only",
+            "(D) (a) and (d)"
+          ],
+          "correct_answer": 3,
+          "correct_text": "(d) only",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Sensory Processes - Vestibular System",
+          "concept": "Motion sickness occurs due to sensory conflict between visual and vestibular inputs (sensory conflict theory). The official answer key confirms option (d) only — when visual and vestibular systems are in conflict, motion sickness results. Loss of vestibular sense (a) is not a direct cause.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 2,
+          "question": "Read each of the following two statements - Assertion (A) and Reason (R) and indicate your answer using the codes given below :\n\n**Assertion (A):** Iconic store is a discrete visual sensory store.\n\n**Reason (R):** Because information is believed to be stored in the form of visual codes.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 3,
+          "correct_text": "(A) is true, but (R) is false.",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Sensory Memory / Iconic Store",
+          "concept": "The official Dec 2015 answer key confirms (A) is true — the iconic store is described as a discrete visual sensory store. However, (R) is false — information in iconic store is not only in visual codes; it also involves spatial and other properties. Therefore (A) is true but (R) is false.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 3,
+          "question": "Backward Conditioning occurs when :",
+          "options": [
+            "(A) CS and US are presented simultaneously",
+            "(B) CS is presented first and US is presented before the termination of CS",
+            "(C) CS is presented first and US is presented after the termination of CS",
+            "(D) US is presented first and CS is presented after the termination of US"
+          ],
+          "correct_answer": 4,
+          "correct_text": "US is presented first and CS is presented after the termination of US",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Classical Conditioning - Types of Conditioning",
+          "concept": "In backward conditioning, the US is presented first followed by the CS. This is the least effective procedure for establishing a conditioned response.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 4,
+          "question": "Which among the following defines problem space?\n\n(a) An initial state\n(b) A goal state\n(c) A set of operations",
+          "options": [
+            "(A) (a) and (c)",
+            "(B) (a) and (b)",
+            "(C) (b) and (c)",
+            "(D) (a), (b) and (c)"
+          ],
+          "correct_answer": 4,
+          "correct_text": "(a), (b) and (c)",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking and Reasoning",
+          "subtopic": "Problem Solving",
+          "concept": "Newell and Simon's problem space consists of an initial state, a goal state, and a set of operators/operations that transform one state into another.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 5,
+          "question": "The James-Lange theory and the cognitive theory of emotion disagree on whether:",
+          "options": [
+            "(A) specific brain centers are involved in specific emotions.",
+            "(B) bodily feedback determines which emotion is felt.",
+            "(C) individuals can judge their emotions accurately.",
+            "(D) there is no any biological involvement in human emotions."
+          ],
+          "correct_answer": 2,
+          "correct_text": "bodily feedback determines which emotion is felt.",
+          "unit": "Unit 7",
+          "topic": "7.3 Emotion",
+          "subtopic": "Theories of Emotion",
+          "concept": "James-Lange theory states that bodily arousal causes the emotion (we feel afraid because we tremble). Cognitive theories (Schachter-Singer) argue that cognitive appraisal along with arousal determines the emotion. The disagreement centers on whether bodily feedback determines which emotion is felt.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 6,
+          "question": "Match List-I with List-II and select the correct answer by choosing from the codes given below:\n\n| List-I | List-II |\n| --- | --- |\n| (a) Binet | (i) Intelligent people often have intelligent relatives |\n| (b) Broca | (ii) Performance based intelligence tests eliminate cultural bias |\n| (c) Wechsler | (iii) Correlation between intelligence and brain size |\n| (d) Galton | (iv) Intelligence is a collection of mental abilities |",
+          "options": [
+            "(A) (a)→(i), (b)→(ii), (c)→(iii), (d)→(iv)",
+            "(B) (a)→(ii), (b)→(iii), (c)→(iv), (d)→(i)",
+            "(C) (a)→(iii), (b)→(iv), (c)→(i), (d)→(ii)",
+            "(D) (a)→(iv), (b)→(iii), (c)→(ii), (d)→(i)"
+          ],
+          "correct_answer": 4,
+          "correct_text": "(a)→(iv), (b)→(iii), (c)→(ii), (d)→(i)",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Historical Perspectives on Intelligence",
+          "concept": "Binet viewed intelligence as a collection of mental abilities. Broca found correlation between intelligence and brain size. Wechsler developed performance-based tests to reduce cultural bias. Galton studied hereditary basis of intelligence (intelligent relatives).",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 7,
+          "question": "Biologically based emotional and behavioural tendencies that are evident in early childhood represent:",
+          "options": [
+            "(A) Trait",
+            "(B) Type",
+            "(C) Temperament",
+            "(D) Style"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Temperament",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Temperament",
+          "concept": "Temperament refers to biologically based individual differences in emotional and behavioural reactivity that are evident from early childhood. It is the constitutional basis of personality, distinct from traits (which are more stable psychological characteristics).",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 8,
+          "question": "In Jungian theory, the idea that energy is automatically redistributed in the psyche in order to achieve equilibrium or balance depicts:",
+          "options": [
+            "(A) Principle of Equivalence",
+            "(B) Principle of Synchronicity",
+            "(C) Principle of Entropy",
+            "(D) Principle of Opposites"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Principle of Entropy",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Jung's Analytical Psychology",
+          "concept": "Jung's Principle of Entropy states that psychic energy is automatically redistributed in the psyche to achieve equilibrium or balance — analogous to the second law of thermodynamics. The Principle of Equivalence (not Entropy) concerns conservation of psychic energy; Entropy specifically describes the directional flow toward equilibrium and equalisation of differences in psychic intensity across the psyche.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 9,
+          "question": "After the recent terrorist attacks in France, a psychologist proposed a study wherein he would interview two hundred French citizens to find whether their attitude towards fate as a consequence of the attack. This study can best be labelled as:",
+          "options": [
+            "(A) attitude change experiment",
+            "(B) field experiment",
+            "(C) ex post facto study",
+            "(D) psychometric study"
+          ],
+          "correct_answer": 3,
+          "correct_text": "ex post facto study",
+          "unit": "Unit 2",
+          "topic": "2.1 Research Methodology",
+          "subtopic": "Ex Post Facto Research",
+          "concept": "An ex post facto study investigates a cause that has already occurred. Since the terrorist attack has already happened and the researcher is examining its effect on attitudes after the fact, this is an ex post facto research design.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 10,
+          "question": "Match List-I with List-II and select the correct answer by choosing from the codes given below:\n\n| List-I (Cutaneous receptors) | List-II (Responds to) |\n| --- | --- |\n| (a) Free nerve endings | (i) Sudden displacement of skin |\n| (b) Ruffini endings | (ii) Gradual skin indentation |\n| (c) Merkel's disks | (iii) Gradual skin stretch |\n| (d) Pacinian corpuscles | (iv) Temperature change and pain |",
+          "options": [
+            "(A) (a)→(i), (b)→(ii), (c)→(iii), (d)→(iv)",
+            "(B) (a)→(ii), (b)→(iii), (c)→(iv), (d)→(i)",
+            "(C) (a)→(iii), (b)→(iv), (c)→(i), (d)→(ii)",
+            "(D) (a)→(iv), (b)→(iii), (c)→(ii), (d)→(i)"
+          ],
+          "correct_answer": 4,
+          "correct_text": "(a)→(iv), (b)→(iii), (c)→(ii), (d)→(i)",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Cutaneous / Skin Senses",
+          "concept": "Free nerve endings respond to temperature change and pain. Ruffini endings detect gradual skin stretch. Merkel's disks respond to gradual skin indentation. Pacinian corpuscles detect sudden displacement of skin (vibration/pressure).",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 11,
+          "question": "Read each of the following two statements - Assertion (A) and Reason (R) and indicate your answer using the codes given below:\n\n**Assertion (A):** A tree shall appear in same perceived size whether one views it from near or far point.\n\n**Reason (R):** The size of retinal image remains invariant.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 3,
+          "correct_text": "(A) is true, but (R) is false.",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Size Constancy",
+          "concept": "Size constancy means an object appears the same size regardless of distance (A is true). However, the retinal image does NOT remain invariant — it changes with distance (R is false). Size constancy occurs despite changes in retinal image size.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 12,
+          "question": "Which of the following is correct while comparing classical and operant conditioning?",
+          "options": [
+            "(A) Operant conditioning takes place before reinforcement while classical conditioning takes place after reinforcement.",
+            "(B) Operant conditioning takes place as a result of some voluntary action while classical conditioning takes place without choice.",
+            "(C) In operant conditioning, response is elicited while in classical conditioning it is emitted.",
+            "(D) In operant conditioning magnitude of the response is the index of conditioning while in classical conditioning it is the rate of response."
+          ],
+          "correct_answer": 2,
+          "correct_text": "Operant conditioning takes place as a result of some voluntary action while classical conditioning takes place without choice.",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Classical vs Operant Conditioning",
+          "concept": "Operant conditioning involves voluntary (emitted) behaviour that is strengthened or weakened by consequences. Classical conditioning involves involuntary (elicited) reflexive responses that occur without choice.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 13,
+          "question": "Words learned under water are recalled :",
+          "options": [
+            "(A) Better on land than under water",
+            "(B) Better above land (sky) than on land",
+            "(C) Better above land (sky) than under water",
+            "(D) Better under water than on land"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Better under water than on land",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Context-Dependent Memory / Encoding Specificity",
+          "concept": "Godden and Baddeley (1975) demonstrated encoding specificity — words learned underwater were recalled better underwater, and words learned on land were recalled better on land. Recall is best when the retrieval context matches the encoding context.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 14,
+          "question": "Read each of the following two statements - Assertion (A) and Reason (R) and indicate your answer using the codes given below:\n\n**Assertion (A):** People overlook flaws if the overall issue is perceived as important.\n\n**Reason (R):** People have some biases.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+          "unit": "Unit 8",
+          "topic": "8.1 Social Cognition",
+          "subtopic": "Biases in Social Judgement",
+          "concept": "The halo effect (overlooking flaws for important issues) is indeed a cognitive bias (A is true). The reason explains this — people rely on heuristics/biases when evaluating important matters, leading them to focus on overall impressions rather than details (R is true and correctly explains A).",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 15,
+          "question": "Simi is totally blind, but she follows a 24-hr day-night cycle like the rest of us, and seems comfortably adapted to it. Studies on animals suggest she relies on:\n\n(a) a built-in rhythm in her Supra-Chiasmatic Nucleus (SCN).\n(b) non-visual receptors in her eyes.\n(c) social activity\n(d) clocks",
+          "options": [
+            "(A) (b) only",
+            "(B) (d) only",
+            "(C) (c) and (d)",
+            "(D) (a), (c) and (d)"
+          ],
+          "correct_answer": 1,
+          "correct_text": "(b) only",
+          "unit": "Unit 4",
+          "topic": "4.2 Biological Rhythms",
+          "subtopic": "Circadian Rhythms",
+          "concept": "Studies on animals suggest that totally blind individuals rely on non-visual photoreceptors in their eyes (intrinsically photosensitive retinal ganglion cells, ipRGCs) which contain melanopsin and help regulate circadian rhythms independent of visual function. This maintains their 24-hour cycle despite blindness.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 16,
+          "question": "Flynn effect is:",
+          "options": [
+            "(A) High IQ score of a generation in comparison to succeeding generation.",
+            "(B) High IQ score of a generation in comparison to preceding generation.",
+            "(C) A person's increase in accumulated knowledge with increase in age.",
+            "(D) A person's change in accumulated knowledge with increase in age."
+          ],
+          "correct_answer": 2,
+          "correct_text": "High IQ score of a generation in comparison to preceding generation.",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Flynn Effect",
+          "concept": "The Flynn effect (James Flynn) refers to the observed rise in IQ scores over generations, where each successive generation scores higher than the preceding generation on intelligence tests.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 17,
+          "question": "Which of the following sequence is correct?",
+          "options": [
+            "(A) Oral phase → Anal phase → Latency → Phallic → Genital",
+            "(B) Anal → Oral → Phallic → Latency → Genital",
+            "(C) Oral → Anal → Phallic → Latency → Genital",
+            "(D) Oral → Phallic → Anal → Genital → Latency"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Oral → Anal → Phallic → Latency → Genital",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Freud's Psychosexual Stages",
+          "concept": "Freud's psychosexual stages in order: Oral (0-1 year), Anal (1-3 years), Phallic (3-6 years), Latency (6-puberty), Genital (puberty onwards).",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 18,
+          "question": "Which one of the following is considered as a non-parametric alternative to one-way ANOVA for independent samples?",
+          "options": [
+            "(A) Kruskal - Wallis H test",
+            "(B) Mann - Whitney U test",
+            "(C) Kolmogorov - Smirnov test",
+            "(D) Friedman's ANOVA"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Kruskal - Wallis H test",
+          "unit": "Unit 2",
+          "topic": "2.2 Statistics",
+          "subtopic": "Non-parametric Tests",
+          "concept": "Kruskal-Wallis H test is the non-parametric equivalent of one-way ANOVA for independent samples. Mann-Whitney U is for two independent samples (alternative to t-test). Friedman's ANOVA is for repeated measures/related samples.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 19,
+          "question": "Read each of the following two statements - Assertion (A) and Reason (R) and indicate your answer using the codes given below:\n\n**Assertion (A):** Action potentials normally travel along axons in one direction.\n\n**Reason (R):** The portions of an axon over which an action potential has just travelled are left momentarily refractory.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+          "unit": "Unit 4",
+          "topic": "4.1 Biological Basis of Behaviour",
+          "subtopic": "Neural Conduction - Action Potential",
+          "concept": "Action potentials normally travel in one direction (from cell body to axon terminal) because the refractory period behind the action potential prevents it from travelling backward. The refractory period of recently activated membrane explains unidirectional propagation.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 20,
+          "question": "Match List-I with List-II and select the correct answer by choosing from the codes given below:\n\n| List-I (Cues) | List-II (Perception) |\n| --- | --- |\n| (a) Linear perspective | (i) Our two eyes observe objects from slightly different positions. |\n| (b) Aerial perspective | (ii) Parallel lines appears to converge at distance. |\n| (c) Atmospheric perspective | (iii) Objects below the horizon appear near. |\n| (d) Retinal disparity | (iv) Farther away objects are less distinctly seen. |",
+          "options": [
+            "(A) (a)→(i), (b)→(ii), (c)→(iii), (d)→(iv)",
+            "(B) (a)→(ii), (b)→(iii), (c)→(iv), (d)→(i)",
+            "(C) (a)→(iii), (b)→(iv), (c)→(i), (d)→(ii)",
+            "(D) (a)→(iv), (b)→(iii), (c)→(ii), (d)→(i)"
+          ],
+          "correct_answer": 2,
+          "correct_text": "(a)→(ii), (b)→(iii), (c)→(iv), (d)→(i)",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Monocular and Binocular Depth Cues",
+          "concept": "The official Dec 2015 answer key confirms (a)→(ii), (b)→(iii), (c)→(iv), (d)→(i) — option (2). Linear perspective = parallel lines converge. Aerial perspective = objects below horizon appear near (relative height cue). Atmospheric perspective = farther objects less distinct. Retinal disparity = two eyes see from different positions.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 21,
+          "question": "Read each of the following two statements - Assertion (A) and Reason (R) and indicate your answer using the codes given below:\n\n**Assertion (A):** A desirable behaviour of an individual can be effectively used as a reference for another less desirable activity.\n\n**Reason (R):** Premack has suggested that all responses should be thought of as potential reinforcers.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Premack Principle",
+          "concept": "The Premack Principle states that a more probable behaviour can be used to reinforce a less probable behaviour. Premack suggested all responses are potential reinforcers, which explains why desirable behaviours can reinforce less desirable ones.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 22,
+          "question": "Which memory is the result of instrumental/motor learning processes?",
+          "options": [
+            "(A) Semantic memory",
+            "(B) Episodic memory",
+            "(C) Sensory memory",
+            "(D) Procedural memory"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Procedural memory",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Types of Long-term Memory",
+          "concept": "Procedural memory (implicit memory) stores how to perform actions and skills. It results from instrumental/motor learning processes — knowing 'how' to do things (ride a bicycle, type) rather than knowing 'what' (semantic) or 'when/where' (episodic).",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 23,
+          "question": "If you begin with a problem and come up with many different solutions; you are using ______, which is a form of creative thinking; contrarily sometimes you come up with correct solution by using ______ thinking.",
+          "options": [
+            "(A) convergent, inductive",
+            "(B) convergent, deductive",
+            "(C) convergent, divergent",
+            "(D) divergent, convergent"
+          ],
+          "correct_answer": 4,
+          "correct_text": "divergent, convergent",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking and Reasoning",
+          "subtopic": "Divergent and Convergent Thinking",
+          "concept": "Divergent thinking (Guilford) generates many possible solutions from a single starting point — it is a key component of creative thinking. Convergent thinking narrows down to a single correct answer.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 24,
+          "question": "Choose the correct formula to measure Body Mass Index (BMI).",
+          "options": [
+            "(A) Weight in kg squared/height in meters",
+            "(B) Weight in kg squared/Height in meters squared",
+            "(C) Weight in kg/height in meters",
+            "(D) Weight in kg/height in meters squared"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Weight in kg/height in meters squared",
+          "unit": "Unit 10",
+          "topic": "10.1 Health Psychology",
+          "subtopic": "Body Mass Index",
+          "concept": "BMI = Weight (kg) / Height² (m²). It is a simple index used to classify underweight, normal weight, overweight, and obesity in adults.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 25,
+          "question": "Which of the following are not identified by Thurstone?\n\n(a) Induction\n(b) Spatial\n(c) Symbolic\n(d) Semantic",
+          "options": [
+            "(A) (a) and (b)",
+            "(B) (c) and (d)",
+            "(C) (a) and (c)",
+            "(D) (a), (b) and (c)"
+          ],
+          "correct_answer": 2,
+          "correct_text": "(c) and (d)",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Thurstone's Primary Mental Abilities",
+          "concept": "Thurstone identified seven primary mental abilities: Verbal comprehension, Word fluency, Number, Spatial, Memory, Induction, and Reasoning. 'Symbolic' and 'Semantic' are from Guilford's Structure of Intellect model, not Thurstone's.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 26,
+          "question": "Match the items of List-I with the items of List-II. Select the correct answer from the answer codes given below:\n\n| List-I (Concept) | List-II (Theorist) |\n| --- | --- |\n| (a) Rational Functions | (i) Freud |\n| (b) Impetus | (ii) Jung |\n| (c) Masculine Protest | (iii) Adler |\n| (d) Hyper competitiveness | (iv) Horney |",
+          "options": [
+            "(A) (a)→(i), (b)→(ii), (c)→(iii), (d)→(iv)",
+            "(B) (a)→(ii), (b)→(i), (c)→(iii), (d)→(iv)",
+            "(C) (a)→(iii), (b)→(ii), (c)→(iv), (d)→(i)",
+            "(D) (a)→(iv), (b)→(iii), (c)→(i), (d)→(ii)"
+          ],
+          "correct_answer": 2,
+          "correct_text": "(a)→(ii), (b)→(i), (c)→(iii), (d)→(iv)",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Psychodynamic Theories of Personality",
+          "concept": "Rational functions (thinking, feeling) are Jung's concepts. Impetus/psychic energy is Freud's concept. Masculine protest is Adler's concept. Hyper competitiveness is Horney's concept related to neurotic needs.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 27,
+          "question": "Match the items of List-I with the items of List-II. Select the correct answer from the answer codes given below:\n\n| List-I (Types of variable) | List-II (Examples) |\n| --- | --- |\n| (a) Continuous variable | (i) Examination results in terms of pass and fail |\n| (b) Real discrete variable | (ii) Voice pitch |\n| (c) Artificially discrete variable | (iii) Intelligence |\n| (d) Qualitative variable | (iv) Nationality |",
+          "options": [
+            "(A) (a)→(iii), (b)→(iv), (c)→(i), (d)→(ii)",
+            "(B) (a)→(iii), (b)→(i), (c)→(iv), (d)→(ii)",
+            "(C) (a)→(ii), (b)→(iv), (c)→(i), (d)→(iii)",
+            "(D) (a)→(ii), (b)→(i), (c)→(iv), (d)→(iii)"
+          ],
+          "correct_answer": 1,
+          "correct_text": "(a)→(iii), (b)→(iv), (c)→(i), (d)→(ii)",
+          "unit": "Unit 2",
+          "topic": "2.1 Research Methodology",
+          "subtopic": "Variables in Research",
+          "concept": "Intelligence is a continuous variable. Nationality is a real discrete variable (naturally distinct categories). Pass/fail is an artificially discrete variable (continuous data dichotomized). Voice pitch can be treated as a qualitative variable (high/low categories).",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 28,
+          "question": "In which lobe of the cerebral cortex, the primary olfactory cortex lies?",
+          "options": [
+            "(A) Frontal lobe",
+            "(B) Temporal lobe",
+            "(C) Occipital lobe",
+            "(D) Parietal lobe"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Temporal lobe",
+          "unit": "Unit 4",
+          "topic": "4.1 Biological Basis of Behaviour",
+          "subtopic": "Brain Structures - Cerebral Cortex",
+          "concept": "The primary olfactory cortex is located in the temporal lobe (medial temporal area, including the piriform cortex). Unlike other sensory systems, olfaction has direct projections to the cortex without going through the thalamus first.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 29,
+          "question": "\"Factor Analysis is used as a means of confirming a structured model than as a means of discovering a structural model\". This is true of which theory of intelligence?",
+          "options": [
+            "(A) Spearman",
+            "(B) Thurstone",
+            "(C) Jensen",
+            "(D) Guilford"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Guilford",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Guilford's Structure of Intellect Model",
+          "concept": "Guilford's SI model (Operations × Contents × Products = 150 factors) was a theory-driven model where factor analysis was used to confirm a predetermined structure rather than to discover one empirically, unlike Spearman or Thurstone who used factor analysis inductively.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 30,
+          "question": "Read each of the following two statements - Assertion (A) and Reason (R) and indicate your answer using the codes given below:\n\n**Assertion (A):** One focuses on the discovery of truth and interests that are empirical, critical and rational.\n\n**Reason (R):** A person high on economic values focuses on usefulness and practicality.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 2,
+          "correct_text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+          "unit": "Unit 7",
+          "topic": "7.2 Motivation and Values",
+          "subtopic": "Values (Allport, Vernon, Lindzey)",
+          "concept": "The assertion describes Theoretical values (discovery of truth, empirical, critical, rational) from Allport's value study. The reason describes Economic values (usefulness, practicality). Both are true but economic values do not explain theoretical values — they are different value orientations.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 31,
+          "question": "A supervisor, who was asked to rate his subordinates on the basis of his observations, found an employee who did not take a medical leave in that year. On the basis of this observation, the supervisor rated the employee as 'medically fit', 'highly efficient' and 'meticulous'. This is an example of:",
+          "options": [
+            "(A) lineancy error",
+            "(B) constant error",
+            "(C) tendency to give extreme rating",
+            "(D) halo effect"
+          ],
+          "correct_answer": 4,
+          "correct_text": "halo effect",
+          "unit": "Unit 3",
+          "topic": "3.1 Psychological Testing",
+          "subtopic": "Errors in Rating / Appraisal",
+          "concept": "Halo effect occurs when a rater's overall impression of a person (e.g., never taking leave) influences ratings on unrelated dimensions (efficiency, meticulousness). The supervisor generalized one positive observation to multiple unrelated traits.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 32,
+          "question": "Which of the following parts of the basal ganglia constitute the striatum?\n\n(a) Amygdala\n(b) Caudate\n(c) Putamen\n(d) Globus Pallidus",
+          "options": [
+            "(A) (a) and (b)",
+            "(B) (a) and (c)",
+            "(C) (b) and (c)",
+            "(D) (c) and (d)"
+          ],
+          "correct_answer": 3,
+          "correct_text": "(b) and (c)",
+          "unit": "Unit 4",
+          "topic": "4.1 Biological Basis of Behaviour",
+          "subtopic": "Basal Ganglia",
+          "concept": "The striatum is composed of the caudate nucleus and the putamen. Together with the globus pallidus, they form the basal ganglia. The amygdala is a separate structure in the limbic system.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 33,
+          "question": "Among the laws of perceptual grouping, the law of simplicity is a tendency to:",
+          "options": [
+            "(A) perceive simple patterns in terms of complex shapes",
+            "(B) perceive complex patterns in terms of simpler shapes",
+            "(C) perceive simpler shapes only",
+            "(D) perceive complex shapes only"
+          ],
+          "correct_answer": 2,
+          "correct_text": "perceive complex patterns in terms of simpler shapes",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Gestalt Principles of Perceptual Grouping",
+          "concept": "The law of simplicity (Prägnanz/good form) states that we tend to organize complex visual fields into the simplest possible configuration. We perceive complex patterns in terms of simpler, regular shapes.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 34,
+          "question": "What is the role of positive and negative reinforcement?",
+          "options": [
+            "(A) To increase the likelihood that responses preceding both will be repeated.",
+            "(B) To decrease the likelihood that responses preceding negative reinforcement will be repeated.",
+            "(C) To increase the likelihood that responses preceding only positive reinforcement will be repeated.",
+            "(D) To ensure that there are no negative consequences following the behaviour."
+          ],
+          "correct_answer": 1,
+          "correct_text": "To increase the likelihood that responses preceding both will be repeated.",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Reinforcement - Positive and Negative",
+          "concept": "Both positive reinforcement (adding a pleasant stimulus) and negative reinforcement (removing an aversive stimulus) increase the likelihood of the preceding response being repeated. Negative reinforcement is NOT punishment — punishment decreases behaviour, reinforcement increases it.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 35,
+          "question": "Match List-I with List-II and select the correct answer by choosing from the codes given below:\n\n| List-I | List-II |\n| --- | --- |\n| (a) Sensory memory | (i) Information that passes through a gate and transferred to short term memory |\n| (b) Attention | (ii) Information subjected to deep processing |\n| (c) Short term memory | (iii) Temporary storage of sensory information |\n| (d) Elaborative rehearsal | (iv) Brief storage of information |",
+          "options": [
+            "(A) (a)→(i), (b)→(ii), (c)→(iii), (d)→(iv)",
+            "(B) (a)→(iii), (b)→(i), (c)→(iv), (d)→(ii)",
+            "(C) (a)→(iii), (b)→(iv), (c)→(i), (d)→(ii)",
+            "(D) (a)→(iv), (b)→(iii), (c)→(ii), (d)→(i)"
+          ],
+          "correct_answer": 2,
+          "correct_text": "(a)→(iii), (b)→(i), (c)→(iv), (d)→(ii)",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Information Processing Model of Memory",
+          "concept": "Sensory memory = temporary storage of sensory information. Attention = the gate through which information transfers to STM. Short-term memory = brief storage of information. Elaborative rehearsal = deep processing that transfers information to LTM.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 36,
+          "question": "While forming a concept one chooses to take one hypothesis and selects many of its features to quickly form the concept at once :",
+          "options": [
+            "(A) Successive scanning",
+            "(B) Conservative focusing",
+            "(C) Focus gambling",
+            "(D) Simultaneous scanning"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Focus gambling",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking and Reasoning",
+          "subtopic": "Concept Formation Strategies",
+          "concept": "Focus gambling (Bruner) is a concept formation strategy where one selects a hypothesis and changes many features at once, gambling that the hypothesis is correct. It is riskier than conservative focusing (changing one feature at a time).",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 37,
+          "question": "Which among the following are the final outcome of curiosity?\n\n(a) Drives to explore\n(b) Increases arousal\n(c) Gains information and resources\n(d) Reduction in tension",
+          "options": [
+            "(A) (b) and (c)",
+            "(B) (b), (c) and (d)",
+            "(C) (a) and (d)",
+            "(D) (a), (b) and (c)"
+          ],
+          "correct_answer": 1,
+          "correct_text": "(b) and (c)",
+          "unit": "Unit 7",
+          "topic": "7.2 Motivation",
+          "subtopic": "Curiosity and Exploration",
+          "concept": "The final outcomes of curiosity per Berlyne's theory are increased arousal and gaining information/resources. Drives to explore is the motivating impetus (not an outcome), and reduction in tension is associated with drive-reduction theories, not specifically the endpoint of curiosity.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 38,
+          "question": "Read the statement and choose the correct answer out of given options :\n\n\"If one hand is placed in a container of hot water and other in cold water. Then both hands are placed in a container of lukewarm water.\" Most people experience :",
+          "options": [
+            "(A) The hand initially placed in hot water feels the lukewarm water as cool whereas hand initially placed in cold water feels it as hot.",
+            "(B) The hand initially placed in hot water feels the lukewarm water as hot whereas hand initially placed in cold water feels it as cold.",
+            "(C) Both the hands will have feeling of equal hotness but more than temperature of lukewarm water.",
+            "(D) Both the hands will have feeling of equal coldness lower than temperature of lukewarm water."
+          ],
+          "correct_answer": 1,
+          "correct_text": "The hand initially placed in hot water feels the lukewarm water as cool whereas hand initially placed in cold water feels it as hot.",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Sensory Adaptation and Contrast",
+          "concept": "This demonstrates sensory contrast. After adaptation to hot water, lukewarm feels cool. After adaptation to cold water, lukewarm feels hot. The same stimulus is perceived differently depending on the adaptation level — a classic example of perceptual contrast.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 39,
+          "question": "An accused is harassed and tortured until he confesses to the crime is an example of :",
+          "options": [
+            "(A) Negative reinforcement",
+            "(B) Punishment",
+            "(C) Primary reinforcement",
+            "(D) Secondary reinforcement"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Negative reinforcement",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Negative Reinforcement",
+          "concept": "Negative reinforcement involves removal of an aversive stimulus contingent on a response, increasing the likelihood of that response. Torture (aversive stimulus) ceases upon confession (desired behaviour), reinforcing confession. Punishment decreases behaviour; negative reinforcement increases it — a critical distinction confirmed by the official answer key.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 40,
+          "question": "Which of the following are not Mnemonic devices?\n\n(a) Categorical clustering\n(b) Pegword system\n(c) Consolidation\n(d) Rehearsal",
+          "options": [
+            "(A) (a) and (b)",
+            "(B) (b) and (c)",
+            "(C) (a) and (c)",
+            "(D) (c) and (d)"
+          ],
+          "correct_answer": 4,
+          "correct_text": "(c) and (d)",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Mnemonic Devices",
+          "concept": "Mnemonic devices are deliberate memory aids: categorical clustering (organizing into categories), pegword system, method of loci, keyword method, etc. Consolidation is the neurological process of stabilizing a memory trace. Rehearsal is a general maintenance process, not a specific mnemonic technique.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 41,
+          "question": "Read each of the following two statements - Assertion (A) and Reason (R) and indicate your answer using the codes given below :\n\n**Assertion (A):** Advertising and media campaigns are based frequently on the availability heuristic.\n\n**Reason (R):** Consumers recall instances of being satisfied and expect this outcome to recur.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking and Reasoning",
+          "subtopic": "Heuristics - Availability Heuristic",
+          "concept": "The availability heuristic refers to judging frequency/probability by how easily instances come to mind. Advertising makes brands easily recallable (A true). The reason advertising uses this is that consumers readily recall past satisfaction and expect recurrence (R true, explains A). The official answer key confirms R as the correct explanation.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 42,
+          "question": "Match List-I with List-II and select the correct answer by choosing from the codes given below:\n\n| List-I (Measures) | List-II (Body part) |\n| --- | --- |\n| (a) EMG | (i) Sweat glands |\n| (b) EEG | (ii) Iris |\n| (c) GSR | (iii) Muscles |\n| (d) Pupilometry | (iv) Cortical neurons |",
+          "options": [
+            "(A) (a)→(i), (b)→(ii), (c)→(iii), (d)→(iv)",
+            "(B) (a)→(ii), (b)→(iii), (c)→(iv), (d)→(i)",
+            "(C) (a)→(iii), (b)→(iv), (c)→(i), (d)→(ii)",
+            "(D) (a)→(iv), (b)→(iii), (c)→(ii), (d)→(i)"
+          ],
+          "correct_answer": 3,
+          "correct_text": "(a)→(iii), (b)→(iv), (c)→(i), (d)→(ii)",
+          "unit": "Unit 4",
+          "topic": "4.1 Biological Basis of Behaviour",
+          "subtopic": "Psychophysiological Measures",
+          "concept": "EMG (Electromyography) measures muscle activity. EEG (Electroencephalography) measures cortical neuron electrical activity. GSR (Galvanic Skin Response) measures sweat gland activity. Pupilometry measures changes in the iris/pupil size. The correct matching follows the pattern in option (3).",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 43,
+          "question": "Read each of the following two statements - Assertion (A) and Reason (R) and indicate your answer using the codes given below:\n\n**Assertion (A):** Value of h² (heritability) derived for a particular population is not the correct estimation for other populations.\n\n**Reason (R):** Different populations have similar genotypes but they experience different environment.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 3,
+          "correct_text": "(A) is true, but (R) is false.",
+          "unit": "Unit 2",
+          "topic": "2.2 Statistics",
+          "subtopic": "Heritability",
+          "concept": "A is true — heritability (h²) is population-specific; estimates from one population cannot be generalized to another. R is false — different populations do NOT have similar genotypes; they have different allele frequencies and genetic variance. The true reason heritability differs across populations is that both genetic AND environmental variances vary between populations, changing the h² ratio.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 44,
+          "question": "What is the correct sequence an auditory stimulus takes to reach the primary auditory cortex?",
+          "options": [
+            "(A) Cochlear nuclei - Superior olive - Inferior colliculus - Medial geniculate nucleus",
+            "(B) Cochlear nuclei - Inferior colliculus - Superior olive - Medial geniculate nucleus",
+            "(C) Superior olive - Cochlear nuclei - Inferior colliculus - Medial geniculate nucleus",
+            "(D) Medial geniculate nucleus - Inferior colliculus - Superior olive - Cochlear nucleus"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Cochlear nuclei - Superior olive - Inferior colliculus - Medial geniculate nucleus",
+          "unit": "Unit 4",
+          "topic": "4.1 Biological Basis of Behaviour",
+          "subtopic": "Auditory Pathway",
+          "concept": "The auditory pathway: Cochlea → Cochlear nuclei (brainstem) → Superior olive → Inferior colliculus (midbrain) → Medial geniculate nucleus (thalamus) → Primary auditory cortex (temporal lobe). This is the ascending auditory pathway.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 45,
+          "question": "Read each of the following two statements - Assertion (A) and Reason (R) and indicate your answer using the codes given below:\n\n**Assertion (A):** Non-equivalent control groups are often encountered in quasi-experimental research.\n\n**Reason (R):** Quasi-experimental designs are highly useful in policy and program evaluation research.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 2,
+          "correct_text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+          "unit": "Unit 2",
+          "topic": "2.1 Research Methodology",
+          "subtopic": "Quasi-Experimental Designs",
+          "concept": "A is true — quasi-experiments often use non-equivalent control groups because random assignment is typically impossible in field settings. R is also true — quasi-experimental designs are valuable in policy/program evaluation. However, R does not explain A: non-equivalent groups arise from lack of random assignment, not from the utility of quasi-experiments in policy contexts. The official key confirms both are true but R is not the correct explanation.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": null,
+          "table_ref": null
+        }
+      ]
+    },
+    {
+      "type": "passage",
+      "id": "passage_46",
+      "heading": "Passage (Questions 46–50)",
+      "text": "A psychometrician wanted to develop a new test of Abstract Thinking. He prepared eighty items, presumably assessing abstract thinking. Each item had five alternative answers, one of them being correct. The psychometrician carried out item analysis by using item-remainder correlations. Item analysis retained sixty items. To examine internal consistency among the items, inter-item correlations were inspected. Then the split-half reliability coefficient, Kuder - Richardson reliability coefficient, and Cronbach's alpha coefficient were obtained for the sixty item test. The analysis yielded the Cronbach's alpha coefficient of 0.90. Since the test was fairly long and the alpha coefficient was also quite high, an attempt was made to develop two short versions of equal length by randomly dividing the test items. The 60 item version was, then, correlated with the already established abstract reasoning test, using N = 500. The correlation between the new and an established test was 0.24, significant at .01 level."
+    },
+    {
+      "type": "questions_block",
+      "range": "Q46–Q50",
+      "passage_ref": "passage_46",
+      "questions": [
+        {
+          "id": 46,
+          "question": "In the above context, which one of the following correlation should be computed to obtain item-remainder correlations?",
+          "options": [
+            "(A) Point biserial correlation",
+            "(B) Phi-coefficient",
+            "(C) Rank difference correlation",
+            "(D) Tetrachoric correlation"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Point biserial correlation",
+          "unit": "Unit 3",
+          "topic": "3.1 Psychological Testing",
+          "subtopic": "Item Analysis",
+          "concept": "Item-remainder correlation correlates a dichotomous item score (right/wrong) with the total test score (continuous). Point biserial correlation is the appropriate measure for correlating one dichotomous and one continuous variable.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": "passage_46",
+          "table_ref": null
+        },
+        {
+          "id": 47,
+          "question": "Which one of the following statement would be true in the above context?",
+          "options": [
+            "(A) Kuder - Richardson reliability coefficient would also be .90, but the split-half reliability coefficient may differ from .90.",
+            "(B) Split-half reliability coefficient would also be .90, but the Kuder - Richardson reliability coefficient may differ from .90.",
+            "(C) Both Kuder - Richardson reliability coefficient and split-half reliability coefficient would be .90.",
+            "(D) The correlation between odd and even parts of the test would be .90."
+          ],
+          "correct_answer": 1,
+          "correct_text": "Kuder - Richardson reliability coefficient would also be .90, but the split-half reliability coefficient may differ from .90.",
+          "unit": "Unit 3",
+          "topic": "3.2 Reliability",
+          "subtopic": "Internal Consistency Reliability",
+          "concept": "KR-20 and Cronbach's alpha are equivalent for dichotomous items, so KR would also be .90. Split-half reliability depends on how items are divided — different splits yield different coefficients, so it may differ from .90. The Spearman-Brown corrected odd-even correlation would approach but not exactly equal .90.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": "passage_46",
+          "table_ref": null
+        },
+        {
+          "id": 48,
+          "question": "To obtain inter-item correlations, which one of the following correlation coefficient should be used in the above analysis?",
+          "options": [
+            "(A) Biserial correlation",
+            "(B) Point biserial correlation",
+            "(C) Phi-coefficient",
+            "(D) Rank difference correlation"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Phi-coefficient",
+          "unit": "Unit 3",
+          "topic": "3.1 Psychological Testing",
+          "subtopic": "Correlation Coefficients for Test Items",
+          "concept": "Inter-item correlations involve correlating two dichotomous variables (item A right/wrong with item B right/wrong). The phi-coefficient (φ) is the appropriate measure for the correlation between two dichotomous variables.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": "passage_46",
+          "table_ref": null
+        },
+        {
+          "id": 49,
+          "question": "What is the expected Cronbach alpha for the short versions, referred to in the paragraph?",
+          "options": [
+            "(A) 0.45",
+            "(B) 0.67",
+            "(C) 0.82",
+            "(D) 0.90"
+          ],
+          "correct_answer": 3,
+          "correct_text": "0.82",
+          "unit": "Unit 3",
+          "topic": "3.2 Reliability",
+          "subtopic": "Spearman-Brown Prophecy Formula",
+          "concept": "Using the Spearman-Brown formula: α_new = (k × α_old) / [1 + (k-1) × α_old]. Here k = 30/60 = 0.5 (halving the test). α_new = (0.5 × 0.90) / (1 + (0.5-1) × 0.90) = 0.45 / 0.55 ≈ 0.82.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": "passage_46",
+          "table_ref": null
+        },
+        {
+          "id": 50,
+          "question": "Which one of the following conclusion can be drawn from the data provided above?\n\nThe new Abstract Thinking Test has :",
+          "options": [
+            "(A) Satisfactory convergent validity",
+            "(B) Satisfactory divergent validity",
+            "(C) Satisfactory concurrent validity",
+            "(D) Unsatisfactory concurrent validity"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Unsatisfactory concurrent validity",
+          "unit": "Unit 3",
+          "topic": "3.3 Validity",
+          "subtopic": "Concurrent Validity",
+          "concept": "The correlation of 0.24 between the new test and an established abstract reasoning test is statistically significant (p < .01) due to large N (500), but practically very low. For concurrent validity (correlation with an established measure of the same construct), r = 0.24 indicates unsatisfactory validity — only about 5.8% shared variance.",
+          "era": "UGC",
+          "year": 2015,
+          "passage_ref": "passage_46",
+          "table_ref": null
+        }
+      ]
+    }
+  ]
+}

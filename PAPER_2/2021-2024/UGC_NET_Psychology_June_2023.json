@@ -1,0 +1,2041 @@
+{
+  "paper_metadata": {
+    "title": "UGC NET/JRF Examination, June 2023",
+    "date": "June 2023",
+    "subject": "Psychology — Paper II"
+  },
+  "content": [
+    {
+      "type": "questions_block",
+      "range": "Q51–Q140",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Vidya is the disciplined and systematic knowledge of the self and the environment attained through precise observation and critical reasoning.",
+          "options": [
+            "(A) Adhibhoulika",
+            "(B) Adhyatmika",
+            "(C) Bhoutika",
+            "(D) Atmika"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Adhyatmika",
+          "unit": "Unit 1",
+          "topic": "1.1 Eastern Psychological Systems",
+          "subtopic": "Indian Knowledge Systems",
+          "concept": "In Indian philosophy, Adhyatmika Vidya refers to disciplined, systematic knowledge of the self (Atman) and environment through precise observation and critical reasoning. It represents self-knowledge or spiritual knowledge, distinct from Adhibhautika (material/physical) and Adhidaivika (divine/supernatural) knowledge.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 2,
+          "question": "The Bhagvadgita has 18 chapters (Adhyaya) named after some form of Yoga. Which is not the correct adhyaya out of the following?",
+          "options": [
+            "(A) Dhyana Yoga",
+            "(B) Aksara-Brahma Yoga",
+            "(C) Purusottama Yoga",
+            "(D) Jagrata Yoga"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Jagrata Yoga",
+          "unit": "Unit 1",
+          "topic": "1.1 Eastern Psychological Systems",
+          "subtopic": "Bhagavad Gita",
+          "concept": "The 18 chapters of the Bhagavad Gita are each named after a form of Yoga. Dhyana Yoga (Chapter 6), Aksara-Brahma Yoga (Chapter 8), and Purusottama Yoga (Chapter 15) are actual chapters. Jagrata Yoga is not one of the 18 chapters of the Gita.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 3,
+          "question": "Pædocentrecism is:",
+          "options": [
+            "(A) Show the path of knowledge and guide the child to get knowledge",
+            "(B) Centre on child's skill and behaviour",
+            "(C) Involve child's behaviour with parents and teachers",
+            "(D) Focus how the child works and the progress he/she makes"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Centre on child's skill and behaviour",
+          "unit": "Unit 9",
+          "topic": "9.2 Major Developmental Theories",
+          "subtopic": "Piaget's Approach",
+          "concept": "Paedocentrism is the approach of centering educational and developmental focus on the child — their skills, behavior, and developmental needs. Piaget advocated for a child-centered approach where the child's active construction of knowledge is prioritized.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 4,
+          "question": "There are three types of post-modern therapies, Which out of the following is not a part of post-modern therapy.",
+          "options": [
+            "(A) Solution focused therapy",
+            "(B) Field based therapy",
+            "(C) Narrative therapy",
+            "(D) Collaborative therapy"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Field based therapy",
+          "unit": "Unit 9",
+          "topic": "9.5 Psychotherapies",
+          "subtopic": "Post-Modern Therapies",
+          "concept": "The three main post-modern therapies are: Solution-Focused Brief Therapy (de Shazer), Narrative Therapy (White & Epston), and Collaborative Therapy (Anderson). Field-based therapy is not recognized as a post-modern therapeutic approach.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 5,
+          "question": "To conduct a study on Anganwadi workers, the researcher randomly selected five districts out of 30 districts of a state and collected data from each and every Anganwadi worker from these five districts. This is an example of _____",
+          "options": [
+            "(A) Stratified sampling",
+            "(B) Cluster sampling",
+            "(C) Quota sampling",
+            "(D) Convenient sampling"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Cluster sampling",
+          "unit": "Unit 2",
+          "topic": "2.3 Sampling",
+          "subtopic": "Cluster Sampling",
+          "concept": "Cluster sampling involves randomly selecting groups (clusters — here, districts) and then studying all members within selected clusters. This differs from stratified sampling (random selection from each stratum) and convenience sampling (whoever is available).",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 6,
+          "question": "One sports psychologist wanted to carry out a biographical study by writing and recording the experiences of a hockey legend. This is an example of _____ approach.",
+          "options": [
+            "(A) Phenomenology",
+            "(B) Ethnography",
+            "(C) Narrative study",
+            "(D) Grounded theory approach"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Narrative study",
+          "unit": "Unit 2",
+          "topic": "2.4 Research Paradigms",
+          "subtopic": "Narrative Research",
+          "concept": "A narrative study involves writing and recording the life experiences and stories of individuals, creating a chronological account. Biographical research about a specific person's experiences is a classic example of narrative research methodology.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 7,
+          "question": "\"The present article describes a qualitative study of the career development of 16 prominent, highly achieving Indian women across six occupational fields. Our overall aim was to explore critical influences on the career development of these women, particularly those related to their attainment of professional success\".\n\nThe above mentioned purpose statement indicates a __________",
+          "options": [
+            "(A) Phenomenological study",
+            "(B) Grounded Theory Study",
+            "(C) Ethnographic study",
+            "(D) Case study"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Phenomenological study",
+          "unit": "Unit 2",
+          "topic": "2.4 Research Paradigms",
+          "subtopic": "Phenomenological Research",
+          "concept": "The study explores critical influences on career development — understanding the lived experiences and meaning-making of achieving women. This focus on exploring participants' experiences and the essence of their career development is characteristic of phenomenological research.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 8,
+          "question": "Standard deviation of sampling distribution is known as _____",
+          "options": [
+            "(A) Effect size",
+            "(B) Sampling error",
+            "(C) Parameter",
+            "(D) Transitivity"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Sampling error",
+          "unit": "Unit 2",
+          "topic": "2.6 Descriptive Statistics",
+          "subtopic": "Sampling Distribution",
+          "concept": "The standard deviation of the sampling distribution of the mean is called the Standard Error of the Mean (SEM), also known as sampling error. It quantifies how much sample means typically deviate from the population mean and decreases with larger sample sizes (SEM = σ/√n).",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 9,
+          "question": "The test requires someone to demonstrate his/her tailoring ability is best classified as:",
+          "options": [
+            "(A) Self report test",
+            "(B) Standardized test",
+            "(C) Test of maximal performance",
+            "(D) Objective test"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Test of maximal performance",
+          "unit": "Unit 3",
+          "topic": "3.1 Principles of Testing",
+          "subtopic": "Types of Tests",
+          "concept": "A test requiring demonstration of an ability (tailoring) measures maximal performance — what a person can do at their best. This contrasts with typical performance tests (self-report, personality inventories) that measure what a person usually does.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 10,
+          "question": "A basic set of beliefs that guide action is called:",
+          "options": [
+            "(A) Axiology",
+            "(B) Paradigm",
+            "(C) Rhetorical",
+            "(D) Ontology"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Paradigm",
+          "unit": "Unit 2",
+          "topic": "2.4 Research Paradigms",
+          "subtopic": "Paradigms",
+          "concept": "A paradigm (Kuhn) is a basic set of beliefs, assumptions, and concepts that guides action and inquiry within a discipline. It encompasses worldview, methodology, and standards for what constitutes legitimate knowledge. Axiology concerns values; ontology concerns the nature of reality.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 11,
+          "question": "A researcher carried out an analysis in which he looked for underlying theoretical structures in his construct. Which one of the following design he used?",
+          "options": [
+            "(A) Linear Regression",
+            "(B) Analysis of variance",
+            "(C) Exploratory factor analysis",
+            "(D) Confirmatory factor analysis"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Exploratory factor analysis",
+          "unit": "Unit 2",
+          "topic": "2.7 Inferential Statistics",
+          "subtopic": "Factor Analysis",
+          "concept": "Exploratory Factor Analysis (EFA) is used to discover underlying factor structures when the researcher does not have a prior theoretical model. It identifies the number and nature of latent factors. Confirmatory Factor Analysis (CFA) tests a pre-specified factor structure.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 12,
+          "question": "The formula used to estimate how many homogeneous test questions should be added to a test to raise its reliability to the described level is:",
+          "options": [
+            "(A) Coefficient alpha",
+            "(B) Spearman Brown formula",
+            "(C) Pearson product moment correlation",
+            "(D) KR-20"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Spearman Brown formula",
+          "unit": "Unit 3",
+          "topic": "3.3 Reliability",
+          "subtopic": "Spearman-Brown Prophecy Formula",
+          "concept": "The Spearman-Brown prophecy formula estimates how reliability changes when test length is increased or decreased. It predicts the reliability of a lengthened test given the current reliability and the factor by which the number of items is multiplied.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 13,
+          "question": "Which parts of the brain are connected by the cerebral Aqueduct?",
+          "options": [
+            "(A) Third and fourth ventricles of the brain",
+            "(B) Lateral ventricles of the brain",
+            "(C) Left and right frontal Lobe",
+            "(D) Frontal and Parietal Lobe"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Third and fourth ventricles of the brain",
+          "unit": "Unit 4",
+          "topic": "4.3 Nervous System",
+          "subtopic": "Brain Ventricular System",
+          "concept": "The cerebral aqueduct (aqueduct of Sylvius) is a narrow channel in the midbrain that connects the third ventricle to the fourth ventricle. Cerebrospinal fluid flows through this pathway. Blockage of the aqueduct can cause obstructive hydrocephalus.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 14,
+          "question": "A unipolar neuron found in the somato sensory system are sensitive to:",
+          "options": [
+            "(A) Visual sensations",
+            "(B) Auditory sensations",
+            "(C) Tactile sensations",
+            "(D) Olfactory sensations"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Tactile sensations",
+          "unit": "Unit 4",
+          "topic": "4.2 Neurons",
+          "subtopic": "Sensory Neurons",
+          "concept": "Unipolar (pseudounipolar) neurons in the somatosensory system carry tactile sensations — touch, pressure, temperature, and pain — from the body's surface and internal structures to the CNS. These are primarily found in the dorsal root ganglia of the spinal cord.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 15,
+          "question": "Amygdala, part of the Limbic system, is specifically responsible for one of the following functions:",
+          "options": [
+            "(A) Thinking",
+            "(B) Learning",
+            "(C) Memory",
+            "(D) Emotion"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Emotion",
+          "unit": "Unit 4",
+          "topic": "4.3 Nervous System",
+          "subtopic": "Limbic System",
+          "concept": "The amygdala is the key brain structure for emotion processing, particularly fear and threat detection. While the hippocampus (also in the limbic system) is primarily responsible for memory, and the amygdala does influence emotional memory, its primary and specific function is emotion.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 16,
+          "question": "Which one of the following areas is not located in the Temporal Lobe?",
+          "options": [
+            "(A) Area for perception of body sensations such as, heat, cold, touch, pressure, and pain",
+            "(B) Area for perception of movements, and recognition of faces",
+            "(C) Broca's speech area",
+            "(D) Primary auditory area"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Area for perception of body sensations such as, heat, cold, touch, pressure, and pain",
+          "unit": "Unit 4",
+          "topic": "4.3 Nervous System",
+          "subtopic": "Cerebral Cortex Lobes",
+          "concept": "The somatosensory cortex (body sensations: touch, temperature, pain) is located in the parietal lobe, not the temporal lobe. The temporal lobe contains the primary auditory area, areas for face recognition (fusiform face area), and Wernicke's area. Broca's area is in the frontal lobe.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 17,
+          "question": "What is meant by stroboscopic motion?",
+          "options": [
+            "(A) We perceive an object is in motion whenever its image moves across our retina",
+            "(B) Loss in sensitivity to motion",
+            "(C) Tracking objects only in darkness",
+            "(D) Tracking only the upward motion of objects"
+          ],
+          "correct_answer": 1,
+          "correct_text": "We perceive an object is in motion whenever its image moves across our retina",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Motion Perception",
+          "concept": "Stroboscopic motion (also called apparent motion) is the perception of movement from a series of slightly different static images presented in rapid succession (as in cinema or flip books). The moving image on the retina creates the perception of motion. This was studied by Wertheimer (1912) with the phi phenomenon.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 18,
+          "question": "What is Thorndike's law of effect?",
+          "options": [
+            "(A) Behaviour that operates on the environment producing consequences",
+            "(B) Behaviours followed by favourable consequences become more likely and that behaviours followed by unfavourable consequences become less likely to occur",
+            "(C) Learning that certain events occur together",
+            "(D) Behaviour that occurs as an automatic response to some stimulus."
+          ],
+          "correct_answer": 2,
+          "correct_text": "Behaviours followed by favourable consequences become more likely and that behaviours followed by unfavourable consequences become less likely to occur",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Thorndike's Law of Effect",
+          "concept": "Thorndike's Law of Effect (1905) states that responses followed by satisfying consequences (rewards) are strengthened and more likely to recur, while responses followed by unpleasant consequences are weakened. This principle laid the groundwork for Skinner's operant conditioning.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 19,
+          "question": "When a lighting flashes nearby, we wince and start to prepare ourselves for the thunder to follow. This response to impending thunder is known as:",
+          "options": [
+            "(A) Unconditioned stimulus",
+            "(B) Unconditioned response",
+            "(C) Conditioned stimulus",
+            "(D) Conditioned response"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Conditioned response",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Classical Conditioning",
+          "concept": "The thunder (UCS) naturally startles us (UCR). Lightning (NS) is repeatedly paired with thunder, becoming a CS. The wincing/preparation response to lightning alone — before the thunder arrives — is a conditioned response (CR) elicited by the conditioned stimulus (CS = lightning).",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 20,
+          "question": "Which among the following is true about process of extinction of behaviour in classical conditioning?",
+          "options": [
+            "(A) Increase in magnitude of CR",
+            "(B) Gradual diminishing of CR",
+            "(C) CS and UCS develop strong association",
+            "(D) UCS follows CS"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Gradual diminishing of CR",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Extinction",
+          "concept": "In classical conditioning, extinction occurs when the CS is repeatedly presented without the UCS. The conditioned response gradually diminishes in strength and frequency until it no longer occurs. Extinction does not erase the original association but suppresses it (spontaneous recovery may occur).",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 21,
+          "question": "What is meant by stroop effect?",
+          "options": [
+            "(A) The tendency to focus on a superficial feature of the problem at hand.",
+            "(B) Automaticity of the reading process",
+            "(C) Planning before acting",
+            "(D) Role of silence in language"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Automaticity of the reading process",
+          "unit": "Unit 5",
+          "topic": "5.1 Attention",
+          "subtopic": "Stroop Effect",
+          "concept": "The Stroop effect (1935) demonstrates the automaticity of reading. When color words are printed in incongruent ink colors (e.g., 'RED' printed in blue), naming the ink color is slowed because reading is so automatic that it interferes with color naming. This illustrates the conflict between automatic and controlled processing.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 22,
+          "question": "Which of the following is not a metacognitive activity?",
+          "options": [
+            "(A) Wondering how one could have been mistaken",
+            "(B) Reflecting on our own thinking process",
+            "(C) Theory of mind",
+            "(D) Communicating one's present postal address"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Communicating one's present postal address",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Metacognition",
+          "concept": "Metacognition (Flavell, 1979) is 'thinking about thinking' — monitoring and regulating one's own cognitive processes. Wondering about mistakes (1), reflecting on thinking (2), and theory of mind (3) all involve metacognitive processes. Stating one's postal address is simple factual recall without metacognitive monitoring.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 23,
+          "question": "Which of the following is true about the concept of heritability?",
+          "options": [
+            "(A) The heritability of a trait refers to differences in percentages of a trait within an individual",
+            "(B) Heritability refers to a population not to individual",
+            "(C) The heritability of a trait is a single and fixed number",
+            "(D) Heritability tells us about the source of mean differences between groups"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Heritability refers to a population not to individual",
+          "unit": "Unit 4",
+          "topic": "4.6 Genetics and Behavior",
+          "subtopic": "Heritability",
+          "concept": "Heritability is a population-level statistic that estimates the proportion of phenotypic variance attributable to genetic variance. It does not apply to individuals, is not a fixed number (varies by population and environment), and does not explain differences between groups.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 24,
+          "question": "Which of the following is not a chromosomal disorder characterized by subaverage intellectual functioning?",
+          "options": [
+            "(A) Down syndrome",
+            "(B) Fragile X syndrome",
+            "(C) Cerebral palsy",
+            "(D) Trisomy 13"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Cerebral palsy",
+          "unit": "Unit 4",
+          "topic": "4.6 Genetics and Behavior",
+          "subtopic": "Developmental Disorders",
+          "concept": "Down syndrome (Trisomy 21), Fragile X syndrome (FMR1 gene mutation), and Trisomy 13 (Patau syndrome) are all chromosomal/genetic disorders associated with intellectual disability. Cerebral palsy results from brain damage during prenatal development, birth, or early infancy — it is not a chromosomal disorder.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 25,
+          "question": "As per Values in Action (VIA), classification of character strengths and virtues are as under:",
+          "options": [
+            "(A) Character strengths - 20; Virtues - 06",
+            "(B) Character strengths - 24; Virtues - 06",
+            "(C) Character strengths - 18; Virtues - 06",
+            "(D) Character strengths - 24; Virtues - 04"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Character strengths - 24; Virtues - 06",
+          "unit": "Unit 10",
+          "topic": "10.6 Wellbeing and Positive Psychology",
+          "subtopic": "VIA Classification",
+          "concept": "The Values in Action (VIA) Classification of Strengths (Peterson & Seligman, 2004) identifies 24 character strengths organized under 6 core virtues: Wisdom, Courage, Humanity, Justice, Temperance, and Transcendence.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 26,
+          "question": "Three stage model of chronic stress formulated by Hans Selye is called",
+          "options": [
+            "(A) GAS - General Adjustment Syndrome",
+            "(B) GAS - General Adjustment System",
+            "(C) GAS - General Adaptation System",
+            "(D) GAS - General Adaptation Syndrome"
+          ],
+          "correct_answer": 4,
+          "correct_text": "GAS - General Adaptation Syndrome",
+          "unit": "Unit 7",
+          "topic": "7.4 Stress and Coping",
+          "subtopic": "General Adaptation Syndrome (Selye)",
+          "concept": "Hans Selye's General Adaptation Syndrome (GAS) describes the body's three-stage response to chronic stress: Alarm Reaction (fight-or-flight), Resistance (adaptation and coping), and Exhaustion (resource depletion and potential illness).",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 27,
+          "question": "The emergence of the Oedipus and Castration complexes are the chief events of which stage of development in the Freudian theory.",
+          "options": [
+            "(A) Oral stage",
+            "(B) Anal stage",
+            "(C) Phallic stage",
+            "(D) Genital stage"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Phallic stage",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Psychosexual Stages (Freud)",
+          "concept": "The Phallic stage (ages 3-6) is characterized by the Oedipus complex (boys' desire for mother, rivalry with father) and Electra complex (girls' desire for father). The castration complex and resulting identification with the same-sex parent resolve these conflicts.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 28,
+          "question": "Who is the author of the book \"Escape from Freedom\"?",
+          "options": [
+            "(A) Fromm",
+            "(B) Sullivan",
+            "(C) Adler",
+            "(D) Horney"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Fromm",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Neo-Freudian Theories",
+          "concept": "Erich Fromm wrote 'Escape from Freedom' (1941), which argues that modern freedom creates anxiety, leading people to seek authoritarianism, conformity, or destructiveness to escape the burden of individual freedom. Fromm integrated psychoanalytic and Marxist perspectives.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 29,
+          "question": "Women are likely to gain more number of valued positions during the time of crisis. This is referred as _____",
+          "options": [
+            "(A) Glass ceiling effect",
+            "(B) Glass-cliff effect",
+            "(C) Tokenism",
+            "(D) Singlism"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Glass-cliff effect",
+          "unit": "Unit 10",
+          "topic": "10.1 Gender Psychology",
+          "subtopic": "Gender and Leadership",
+          "concept": "The glass-cliff effect (Ryan & Haslam, 2005) describes the phenomenon where women and minorities are more likely to be appointed to leadership positions during times of organizational crisis or downturn, when the risk of failure is highest. This contrasts with the glass ceiling (invisible barrier to advancement).",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 30,
+          "question": "Efforts to cope with the knowledge that we will die is known as _____",
+          "options": [
+            "(A) Magical Thinking",
+            "(B) Terror Management",
+            "(C) Planning Fallacy",
+            "(D) Availability Heuristics"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Terror Management",
+          "unit": "Unit 8",
+          "topic": "8.6 Intergroup Relations",
+          "subtopic": "Terror Management Theory",
+          "concept": "Terror Management Theory (Greenberg, Pyszczynski, & Solomon) proposes that awareness of mortality creates existential terror, which humans manage through cultural worldviews, self-esteem striving, and close relationships. It explains various social behaviors as responses to death anxiety.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 31,
+          "question": "Which therapeutic approach to counselling is based on the premise 'You are the architect of your life'?",
+          "options": [
+            "(A) Gestalt",
+            "(B) Existential",
+            "(C) Adlerian",
+            "(D) Reality"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Existential",
+          "unit": "Unit 1",
+          "topic": "1.2 Western Schools of Psychology",
+          "subtopic": "Existential Therapy",
+          "concept": "The premise 'You are the architect of your life' reflects the existential emphasis on radical freedom, choice, and personal responsibility for creating meaning. Existential therapy (Yalom, Frankl, May) focuses on givens of existence: freedom, death, isolation, and meaninglessness. The individual is seen as the primary agent in constructing their own existence.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 32,
+          "question": "Late adulthood often involves a gradual withdrawal from the world on physical, psychological and social levels. Which theory supports this?",
+          "options": [
+            "(A) Disengagement Theory",
+            "(B) Activity theory",
+            "(C) Continuity theory",
+            "(D) Selective Isolation theory"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Disengagement Theory",
+          "unit": "Unit 9",
+          "topic": "9.2 Major Developmental Theories",
+          "subtopic": "Theories of Aging",
+          "concept": "Disengagement theory (Cumming & Henry, 1961) proposes that aging naturally involves mutual withdrawal between the individual and society. This contrasts with Activity theory (maintaining engagement leads to satisfaction) and Continuity theory (maintaining consistent patterns).",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 33,
+          "question": "Simple skills develop in infants separately and independently and later develop into more complex skills. Which governing principle of growth is applied here?",
+          "options": [
+            "(A) Proximodistal Principle",
+            "(B) Cephalocaudal principle",
+            "(C) Principle of hierarchical integration",
+            "(D) Principle of independence of the systems"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Principle of hierarchical integration",
+          "unit": "Unit 9",
+          "topic": "9.1 Principles of Development",
+          "subtopic": "Developmental Principles",
+          "concept": "The principle of hierarchical integration states that simple skills and responses develop independently first, then become integrated into more complex, coordinated patterns. This principle describes how individual movements combine into purposeful actions.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 34,
+          "question": "Which of the following is not correct about REBT?",
+          "options": [
+            "(A) REBT aims to help individuals think clearly, feel appropriately and act effectively.",
+            "(B) REBT uses the A-B-C theory of personality to identify client's problems.",
+            "(C) The focus of the therapist is on the feelings and behaviour of the individual than on the incident that induced the negative feelings",
+            "(D) REBT aims at a combination of philosophical change with cognitive emotional and behavioural strategies."
+          ],
+          "correct_answer": 3,
+          "correct_text": "The focus of the therapist is on the feelings and behaviour of the individual than on the incident that induced the negative feelings",
+          "unit": "Unit 9",
+          "topic": "9.5 Psychotherapies",
+          "subtopic": "REBT (Ellis)",
+          "concept": "In REBT, the therapist focuses on the client's irrational beliefs (B), not primarily on the activating event (A) or the emotional/behavioral consequence (C). The A-B-C model identifies that it is the belief about the event, not the event itself, that causes emotional disturbance. Option 3 incorrectly shifts focus away from beliefs.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 35,
+          "question": "Which of the following is correct about the impact of stress on immune system of an individual?",
+          "options": [
+            "(A) The immune system is weakened because of an increase in the blood pressure in the face of stress",
+            "(B) Increased release of glucose from the liver during stress neutralizes the immune functioning of the WBC",
+            "(C) Increased level of ACTH in blood destroys the T cells",
+            "(D) Increased level of cortisol in blood destroys the T cells."
+          ],
+          "correct_answer": 4,
+          "correct_text": "Increased level of cortisol in blood destroys the T cells.",
+          "unit": "Unit 10",
+          "topic": "10.7 Health Psychology",
+          "subtopic": "Psychoneuroimmunology",
+          "concept": "Psychoneuroimmunology (PNI) research demonstrates that chronic stress increases cortisol levels, which suppresses immune function including destruction/ suppression of T lymphocytes (T cells). This is why chronic stress increases vulnerability to illness. ACTH stimulates cortisol release but does not directly destroy T cells.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 36,
+          "question": "Which of the following contributes to maintaining a health risk behaviour ?",
+          "options": [
+            "(A) Lack of knowledge and the health risk behaviour helping the individual in avoidance of pain",
+            "(B) The incentive ingrained in health risk behaviour and availability of leisure time",
+            "(C) Avoidance of pain and need to spend money",
+            "(D) Avoidance of pain and high self-efficacy"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Lack of knowledge and the health risk behaviour helping the individual in avoidance of pain",
+          "unit": "Unit 10",
+          "topic": "10.7 Health Psychology",
+          "subtopic": "Health Risk Behavior",
+          "concept": "Health risk behaviors are maintained by: (1) lack of knowledge about health consequences, and (2) the immediate reinforcement the behavior provides (avoiding pain, reducing stress). These short-term benefits and knowledge deficits sustain behaviors like smoking, substance abuse, and sedentary lifestyle.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 37,
+          "question": "Which of the following describes resilience?",
+          "options": [
+            "(A) Individuals at risk whose performance is better than expected",
+            "(B) Individuals in enriched environment excelling in performance.",
+            "(C) Individuals with very good performance sliding down following a traumatic experience",
+            "(D) Individuals who avoid risks and are happy with their average performance"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Individuals at risk whose performance is better than expected",
+          "unit": "Unit 10",
+          "topic": "10.6 Wellbeing and Positive Psychology",
+          "subtopic": "Resilience",
+          "concept": "Resilience is defined as positive adaptation despite significant adversity or risk. Resilient individuals perform better than expected given their risk conditions, demonstrating the ability to bounce back from challenges. Protective factors include self-efficacy, social support, and optimism.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 38,
+          "question": "Which of the following does not come under Cardiovascular Disease (CVD)?",
+          "options": [
+            "(A) Myocardial Infarction",
+            "(B) Crohn's disease",
+            "(C) Angina Pectoris",
+            "(D) Cardiomyopathy"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Crohn's disease",
+          "unit": "Unit 10",
+          "topic": "10.7 Health Psychology",
+          "subtopic": "Chronic Diseases",
+          "concept": "Myocardial infarction (heart attack), angina pectoris (chest pain from reduced blood flow), and cardiomyopathy (heart muscle disease) are all cardiovascular diseases. Crohn's disease is a chronic inflammatory bowel disease affecting the gastrointestinal tract, not the cardiovascular system.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 39,
+          "question": "Which one of the following is not a principal characteristic of the REM sleep?",
+          "options": [
+            "(A) EEG desynchrony (Rapid Irregular Waves)",
+            "(B) Lack of muscle tonus",
+            "(C) Lack of genital activity",
+            "(D) Dreams"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Lack of genital activity",
+          "unit": "Unit 4",
+          "topic": "4.3 Nervous System",
+          "subtopic": "Sleep Stages",
+          "concept": "REM sleep is characterized by: rapid eye movements, EEG desynchrony (fast beta-like waves), muscle atonia (lack of muscle tone), and vivid dreaming. Importantly, REM sleep involves genital arousal (penile erections in males, clitoral engorgement in females), NOT lack of genital activity.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 40,
+          "question": "Which of the following behaviours is not a stage of observational learning?",
+          "options": [
+            "(A) Be motivated to reproduce the behaviour",
+            "(B) Remember what was observed",
+            "(C) Exploring the environment",
+            "(D) Pay attention to the model's behaviour"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Exploring the environment",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Observational Learning (Bandura)",
+          "concept": "Bandura's four stages of observational/social learning are: Attention (paying attention to the model), Retention (remembering what was observed), Reproduction (ability to reproduce the behavior), and Motivation (having reason to perform the behavior). Exploring the environment is not one of these stages.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 41,
+          "question": "The basic aspects of the philosophy of early Buddhism fall into\n\nA. Theory of Knowledge\nB. Theory of Society\nC. Theory of Reality\nD. Theory of Perception\n\nChoose the most appropriate answer from the options given below:",
+          "options": [
+            "(A) A, D only",
+            "(B) A, B, C only",
+            "(C) A, C, D only",
+            "(D) B, D only"
+          ],
+          "correct_answer": 3,
+          "correct_text": "A, C, D only",
+          "unit": "Unit 1",
+          "topic": "1.1 Eastern Psychological Systems",
+          "subtopic": "Buddhism",
+          "concept": "Early Buddhist philosophy encompasses: Theory of Knowledge (epistemology — how we know), Theory of Reality (ontology — the nature of existence including impermanence and dependent origination), and Theory of Perception (how we perceive and cognize). Theory of Society is not a fundamental aspect of early Buddhist philosophy.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 42,
+          "question": "Existentialism is associated with which of the following names.\n\nA. Soren Kierkegaard\nB. Vlademier\nC. Friedrich Nietzsche\nD. Husserl\n\nChoose the most appropriate from the options given below:",
+          "options": [
+            "(A) A, B only",
+            "(B) A, B, C only",
+            "(C) A, C, D only",
+            "(D) A, B, D only"
+          ],
+          "correct_answer": 3,
+          "correct_text": "A, C, D only",
+          "unit": "Unit 1",
+          "topic": "1.2 Western Schools of Psychology",
+          "subtopic": "Existentialism",
+          "concept": "Key existentialist thinkers include Soren Kierkegaard (considered the father of existentialism), Friedrich Nietzsche (will to power, nihilism), and Edmund Husserl (phenomenological method). 'Vlademier' is not a recognized existentialist philosopher. Heidegger, Sartre, and Camus are other major existentialists.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 43,
+          "question": "Which of the following should be assured before going for parametric analysis of variance?\n\nA. Independence of scores of the subjects\nB. Categorical dependent variable\nC. Random assignment of subjects to the treatments\nD. Homogeneity of variance of the subjects' scores\n\nChoose the most appropriate answer from the options given below:",
+          "options": [
+            "(A) A, B, C, D only",
+            "(B) A, B, C only",
+            "(C) A, C, D only",
+            "(D) B, C, D only"
+          ],
+          "correct_answer": 3,
+          "correct_text": "A, C, D only",
+          "unit": "Unit 2",
+          "topic": "2.7 Inferential Statistics",
+          "subtopic": "ANOVA Assumptions",
+          "concept": "Parametric ANOVA requires: (A) Independence of observations, (C) Random assignment to conditions, and (D) Homogeneity of variance across groups. The dependent variable must be continuous (interval/ratio), NOT categorical (B is incorrect — categorical DV violates the assumption). Normality of distributions is also assumed.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 44,
+          "question": "Which of the following are true about Multiple Regression?\n\nA. It is linear regression\nB. There are more than one criterion.\nC. There are more than one predictor\nD. It doesn't have intercept constant.\n\nChoose the most appropriate answer from the options given below:",
+          "options": [
+            "(A) B, C only",
+            "(B) A, C only",
+            "(C) A, B, D only",
+            "(D) B, C, D only"
+          ],
+          "correct_answer": 2,
+          "correct_text": "A, C only",
+          "unit": "Unit 2",
+          "topic": "2.7 Inferential Statistics",
+          "subtopic": "Multiple Regression",
+          "concept": "Multiple regression is a form of linear regression (A) with more than one predictor variable (C). It has one criterion/dependent variable (B is wrong — multiple criteria would be MANOVA or multivariate regression). It does include an intercept constant (D is wrong).",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 45,
+          "question": "Which of correct about Multitrait - Multimethod design?\n\nA. Investigates construct validity\nB. Associates with Coombs and Holladay\nC. Associates with Campbell and Fiske\nD. Investigates Composite reliability\n\nChoose the most appropriate answer from the options given below:",
+          "options": [
+            "(A) A, B only",
+            "(B) A, C only",
+            "(C) B, C only",
+            "(D) B, D only"
+          ],
+          "correct_answer": 2,
+          "correct_text": "A, C only",
+          "unit": "Unit 3",
+          "topic": "3.4 Validity",
+          "subtopic": "Construct Validity",
+          "concept": "The Multitrait-Multimethod (MTMM) matrix was developed by Campbell and Fiske (1959) to investigate construct validity. It assesses convergent validity (same trait, different methods should correlate) and discriminant validity (different traits should correlate less). It is not associated with Coombs or reliability assessment.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 46,
+          "question": "In the context of formula for Cohen's Kappa\n\nA. $K = \\frac{f_{0} - f_{c}}{N - f_{c}}$\nB. $f_{0} =$ observed frequency\nC. $f_{c} =$ expected frequency\nD. $N =$ Overall total of data points in the frequency matrix\n\nChoose the most appropriate answer from the options given below:",
+          "options": [
+            "(A) A, B only",
+            "(B) A, C only",
+            "(C) A, B, C only",
+            "(D) A, B, C, D only"
+          ],
+          "correct_answer": 4,
+          "correct_text": "A, B, C, D only",
+          "unit": "Unit 3",
+          "topic": "3.3 Reliability",
+          "subtopic": "Inter-Rater Reliability",
+          "concept": "Cohen's Kappa formula: K = (fo - fc)/(N - fc), where fo = observed agreement frequency, fc = expected chance agreement frequency, and N = total observations. All four statements correctly describe components of the Kappa formula for measuring inter-rater reliability for categorical data.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 47,
+          "question": "A specific brain region can be destroyed by some of the following methods. Choose the correct answer.\n\nA. Immunocytochemical method\nB. Radio frequency lesion method\nC. Extitotoxic lesion method\nD. Fluorogold method\nE. experimental ablation method.\n\nChoose the most appropriate answer from the options given below:",
+          "options": [
+            "(A) B, C, E only",
+            "(B) A, B, C only",
+            "(C) C, D, E only",
+            "(D) A, D, E only"
+          ],
+          "correct_answer": 1,
+          "correct_text": "B, C, E only",
+          "unit": "Unit 4",
+          "topic": "4.4 Methods of Physiological Psychology",
+          "subtopic": "Brain Lesion Methods",
+          "concept": "Methods for destroying brain regions: Radio frequency lesion (B) uses electrical current to destroy tissue; Excitotoxic lesion (C) uses chemicals (e.g., kainic acid) to kill cell bodies; Experimental ablation (E) surgically removes brain tissue. Immunocytochemical (A) and Fluorogold (D) methods are for visualization/tracing, not destruction.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 48,
+          "question": "Which of the following is true about negative reinforcement?\n\nA. It strengthens a response\nB. It works by reducing or removing something undesirable or unpleasant\nC. Fastening a seatbelt in car to turn off beeping sound is an example of negative reinforcement\nD. It weakens a response\nE. It works by increasing desirability and pleasantness of a stimulus\n\nChoose a most appropriate answer from the options given below:",
+          "options": [
+            "(A) D, B only",
+            "(B) A, B, C only",
+            "(C) A, E only",
+            "(D) D, B, C only"
+          ],
+          "correct_answer": 2,
+          "correct_text": "A, B, C only",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Negative Reinforcement",
+          "concept": "Negative reinforcement strengthens a response (A is true, D is false) by removing or avoiding an aversive stimulus (B is true). Fastening a seatbelt to stop the annoying beeping sound is a classic example (C is true). It does NOT increase pleasant stimuli (E describes positive reinforcement).",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 49,
+          "question": "Which of the following are true about perceptual constancy?\n\nA. It applies to perception of size and colour only\nB. Many visual illusions may be explained by the various constancies\nC. Constancies occur in all sensory modalities\nD. It keeps the appearance of objects the same inspite of large variations in the initial representation of the stimuli received by the sense organs that are engendered by various environmental factors.\n\nChoose the most appropriate answer from the options given below:",
+          "options": [
+            "(A) A, B, D only",
+            "(B) B, C, D only",
+            "(C) A, B only",
+            "(D) D only"
+          ],
+          "correct_answer": 2,
+          "correct_text": "B, C, D only",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Perceptual Constancy",
+          "concept": "Perceptual constancy is not limited to size and color (A is wrong) — it also includes shape, brightness, and other modalities. Visual illusions can be explained by constancy mechanisms (B is true). Constancy occurs across sensory modalities (C is true). Constancy maintains stable perception despite varying sensory input (D is true).",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 50,
+          "question": "What is meant by theory of mind?\n\nA. People's idea about feelings perceptions and thoughts of self and others, and the behaviour these might predict\nB. A term first coined by Daniel Goleman\nC. People's ideas about their own and other's mental states\nD. By the age of six months, children worldwide display an advanced level of theory of mind acquisition\nE. People with autism are said to have an impaired theory of mind.\n\nChoose the most appropriate answer from the options given below:",
+          "options": [
+            "(A) A, C only",
+            "(B) A, C, E only",
+            "(C) A, B only",
+            "(D) C, E only"
+          ],
+          "correct_answer": 2,
+          "correct_text": "A, C, E only",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Theory of Mind",
+          "concept": "Theory of Mind (ToM) refers to understanding that others have mental states (beliefs, desires, feelings) different from one's own (A and C are true). The term was coined by Premack and Woodruff (1978), not Goleman (B is false). ToM develops around age 4-5, not 6 months (D is false). Individuals with autism spectrum disorder show impaired ToM (E is true).",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 51,
+          "question": "Which of the following is true about a Phoneme?\n\nA. It refers to the disrupted language of a patient with aphasia\nB. Every language has its own set of phonemes\nC. A phonema is a category of speech sounds\nD. It is the smallest unit of language that carries meaning.\n\nChoose the most appropriate answer from the options given below:",
+          "options": [
+            "(A) A only",
+            "(B) B, D only",
+            "(C) B, C only",
+            "(D) D only"
+          ],
+          "correct_answer": 3,
+          "correct_text": "B, C only",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Language and Phonemes",
+          "concept": "A phoneme is the smallest unit of sound in a language that distinguishes meaning (not the smallest unit that carries meaning — that's a morpheme). Each language has its own phonemic inventory (B is true). A phoneme is a category of speech sounds (C is true). Disrupted language in aphasia (A) is not what a phoneme refers to. D confuses phoneme with morpheme.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 52,
+          "question": "Self-determination theory of Deci and Ryan focused on following basic needs to explain well being\n\nA. Creativity\nB. Engagement\nC. Competence\nD. Relatedness\nE. Autonomy\n\nChoose the most appropriate answer from the options given below:",
+          "options": [
+            "(A) A, B, C only",
+            "(B) C, D, E only",
+            "(C) B, D, E only",
+            "(D) A, C, D only"
+          ],
+          "correct_answer": 2,
+          "correct_text": "C, D, E only",
+          "unit": "Unit 7",
+          "topic": "7.2 Motivation",
+          "subtopic": "Self-Determination Theory (Deci & Ryan)",
+          "concept": "Self-Determination Theory (SDT) identifies three basic psychological needs: Autonomy (E) — need for self-direction, Competence (C) — need to master tasks, and Relatedness (D) — need for social connection. Satisfaction of these needs promotes intrinsic motivation and well-being. Creativity and Engagement are outcomes, not basic needs.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 53,
+          "question": "The structural components of the collective unconscious (Jung) are called by different names.\n\nA. Archetypes\nB. Imagoes\nC. Creative ego\nD. Libido\nE. Dominants\n\nChoose the most appropriate from the options given below:",
+          "options": [
+            "(A) A, E, C only",
+            "(B) B, C, D only",
+            "(C) A, B, C, D only",
+            "(D) A, B, E only"
+          ],
+          "correct_answer": 4,
+          "correct_text": "A, B, E only",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Jung's Analytical Psychology",
+          "concept": "Jung used several terms for the structural components of the collective unconscious: Archetypes (A) — universal primordial images; Imagoes (B) — internalized images of figures; Dominants (E) — powerful organizing patterns. Creative ego and Libido (C, D) are not structural components of the collective unconscious.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 54,
+          "question": "In late adulthood, retirement from job follows specific stages, as per Atchley (1982)\n\nA. Honeymoon\nB. Disenchantment\nC. Craving for money\nD. Reorientation\nE. Social withdrawal\n\nChoose the most appropriate answer from the options given below:",
+          "options": [
+            "(A) A, B, E only",
+            "(B) B, C, D only",
+            "(C) C, D, E only",
+            "(D) A, B, D only"
+          ],
+          "correct_answer": 4,
+          "correct_text": "A, B, D only",
+          "unit": "Unit 9",
+          "topic": "9.2 Major Developmental Theories",
+          "subtopic": "Retirement Stages (Atchley)",
+          "concept": "Atchley's (1982) model of retirement includes stages: Pre-retirement, Honeymoon (A — initial excitement), Disenchantment (B — reality sets in), Reorientation (D — finding new roles), and Routine (stable adjustment). Craving for money and social withdrawal are not stages in Atchley's model.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 55,
+          "question": "As indicated by reflexes, a new born baby responds to touch around the area of\n\nA. Head, Neck and mouth\nB. Belly, Foot and neck\nC. Mouth, Calf and head\nD. Mouth and foot\nE. Palm\n\nChoose the most appropriate answer from the options given below:",
+          "options": [
+            "(A) A, B only",
+            "(B) B, E only",
+            "(C) C, E only",
+            "(D) D, E only"
+          ],
+          "correct_answer": 4,
+          "correct_text": "D, E only",
+          "unit": "Unit 9",
+          "topic": "9.1 Principles of Development",
+          "subtopic": "Neonatal Reflexes",
+          "concept": "Newborn reflexes to touch include: rooting reflex (touch around mouth causes turning toward stimulus), Babinski reflex (stroking sole of foot causes toes to fan out), and palmar grasp reflex (touching palm causes fingers to close). Mouth, foot, and palm are the primary areas of touch-sensitive reflexes in newborns.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 56,
+          "question": "Etiological models of psychopathology includes :\n\nA. Nervous system going awry\nB. Social conflicts\nC. Intrapsychic conflicts\nD. Learning dysfunctional behaviour\nE. Indulgence in religion.\n\nChoose the most appropriate answer from the options given below:",
+          "options": [
+            "(A) A, B, C only",
+            "(B) B, C, D, E only",
+            "(C) A, C, D only",
+            "(D) A, C, D, E only"
+          ],
+          "correct_answer": 3,
+          "correct_text": "A, C, D only",
+          "unit": "Unit 9",
+          "topic": "9.3 Psychopathology",
+          "subtopic": "Models of Psychopathology",
+          "concept": "Major etiological models of psychopathology include: Biological (nervous system dysfunction, A), Psychodynamic (intrapsychic conflicts, C), and Behavioral (learned dysfunctional behavior, D). Social conflicts (B) is not a standard etiological category, and indulgence in religion (E) is not an etiological model.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 57,
+          "question": "Conflicts are readily kindled and fueled by\n\nA. Competition\nB. Conciliation\nC. Cooperation\nD. Misperception\nE. Social Dilemmas\n\nChoose the most appropriate answer from the options given below:",
+          "options": [
+            "(A) A, B, C only",
+            "(B) B, C, D only",
+            "(C) C, D, E only",
+            "(D) A, D, E only"
+          ],
+          "correct_answer": 4,
+          "correct_text": "A, D, E only",
+          "unit": "Unit 10",
+          "topic": "10.5 Peace Psychology",
+          "subtopic": "Conflict Escalation",
+          "concept": "Conflicts are fueled by Competition (A — rivalry over resources), Misperception (D — misreading others' intentions), and Social Dilemmas (E — situations where individual and collective interests conflict). Conciliation (B) and Cooperation (C) are conflict-reduction strategies, not conflict-fueling factors.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 58,
+          "question": "What is meant by bottom-up processing?\n\nA. It always distorts our observations\nB. Sensory analysis that starts at the entry level\nC. When our experience and expectations guide our perception\nD. Higher level mental processes are involved\nE. Helps to detect the lines, angles and colours\n\nChoose the most appropriate answer from the options given below:",
+          "options": [
+            "(A) A, B only",
+            "(B) A, C, D only",
+            "(C) B, E only",
+            "(D) C, E only"
+          ],
+          "correct_answer": 3,
+          "correct_text": "B, E only",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Bottom-Up Processing",
+          "concept": "Bottom-up (data-driven) processing starts with sensory input at the entry level (B) and involves detecting basic features like lines, angles, and colors (E). It does not always distort perception (A is wrong), nor does it rely on prior experience/expectations (C describes top-down). Higher-level processes are involved in top-down, not bottom-up (D is wrong).",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 59,
+          "question": "Robert Sternberg proposed a triarchic theory of following intelligence types\n\nA. Creative\nB. Analogical\nC. Analytical\nD. Emotional\nE. Practical\n\nChoose the most appropriate answer from the options given below:",
+          "options": [
+            "(A) A, C, E only",
+            "(B) A, B, D only",
+            "(C) A, B, C only",
+            "(D) A, C, D only"
+          ],
+          "correct_answer": 1,
+          "correct_text": "A, C, E only",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Sternberg's Triarchic Theory",
+          "concept": "Sternberg's Triarchic Theory (1985) identifies three types of intelligence: Analytical (C) — academic problem-solving; Creative (A) — generating novel ideas; and Practical (E) — adapting to real-world contexts (street smarts). Analogical and Emotional intelligence are not part of Sternberg's triarchic model.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 60,
+          "question": "Which of the following is/are related to Developmental screening Tests?\n\nA. Gesell Developmental Schedule\nB. Denver Developmental Screening Test\nC. Holland Developmental Schedule\nD. Bruner Developmental Screening Test\n\nChoose the most appropriate answer from the options given below:",
+          "options": [
+            "(A) A, C only",
+            "(B) B, D only",
+            "(C) A, B only",
+            "(D) C, D only"
+          ],
+          "correct_answer": 3,
+          "correct_text": "A, B only",
+          "unit": "Unit 9",
+          "topic": "9.1 Principles of Development",
+          "subtopic": "Developmental Assessment",
+          "concept": "The Gesell Developmental Schedule (A) assesses motor, language, and social development in children. The Denver Developmental Screening Test (B) is a widely used screening tool for developmental delays in young children. Holland Developmental Schedule and Bruner Developmental Screening Test are not recognized developmental assessment instruments.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 61,
+          "question": "Human personality is analyzed into five factors as viewed by Buddhism. Choose the correct factors included in personality\n\nA. Material, Perception, Feeling\nB. Disposition, Consciousness\nC. Thinking, Belief, Intelligence\nD. Memory, Attention\n\nChoose the most appropriate answer from the options given below:",
+          "options": [
+            "(A) A, B only",
+            "(B) B, C only",
+            "(C) C, D only",
+            "(D) A, D only"
+          ],
+          "correct_answer": 1,
+          "correct_text": "A, B only",
+          "unit": "Unit 1",
+          "topic": "1.1 Eastern Psychological Systems",
+          "subtopic": "Buddhist Psychology",
+          "concept": "Buddhism analyzes personality into five aggregates (Skandhas/Khandhas): Rupa (Material/Physical), Vedana (Feeling), Sanna (Perception), Sankhara (Mental formations/Disposition), and Vinnana (Consciousness). A (Material, Perception, Feeling) and B (Disposition, Consciousness) together represent the five skandhas.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 62,
+          "question": "Which of the following is true about stimulus generalization?\n\nA. People's emotional reactions to one stimulus generalize to similar stimuli\nB. With repeated exposure and reinforcement dogs can differentiate between types of sounds\nC. Normally desirable foods, such as cakes and pastries are unappealing when shaped to resemble dog's feces\nD. Sudden appearance of forgotten response.\n\nChoose the most appropriate answer from the options given below:",
+          "options": [
+            "(A) A, D only",
+            "(B) A, C only",
+            "(C) A, B only",
+            "(D) B, D only"
+          ],
+          "correct_answer": 2,
+          "correct_text": "A, C only",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Stimulus Generalization",
+          "concept": "Stimulus generalization occurs when a conditioned response extends to stimuli similar to the original CS (A is true). The food-cake example (C) demonstrates generalization — visual similarity to feces triggers disgust even for desirable foods. B describes stimulus discrimination (opposite of generalization). D describes spontaneous recovery, not generalization.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 63,
+          "question": "Which of the following does not come under the matrix reasoning subtest of WAIS IV\n\nA. Visuospatial reasoning\nB. Psychomotor speed\nC. Abstract reasoning\nD. Visual Organization\nE. Ability to follow directions.\n\nChoose the most appropriate answer from the options given below:",
+          "options": [
+            "(A) A, B, C only",
+            "(B) A, C, D only",
+            "(C) B, C, D only",
+            "(D) A, B, C, D only"
+          ],
+          "correct_answer": 2,
+          "correct_text": "A, C, D only",
+          "unit": "Unit 3",
+          "topic": "3.6 Types of Tests by Domain",
+          "subtopic": "WAIS-IV Subtests",
+          "concept": "Matrix Reasoning in WAIS-IV measures visuospatial reasoning (A), abstract reasoning (C), and visual organization (D) — these ARE components of the subtest. Psychomotor speed (B) and ability to follow directions (E) are NOT measured by Matrix Reasoning. The question asks what does NOT come under Matrix Reasoning, so B and E are the excluded ones. A, C, D are included.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 64,
+          "question": "Identify the components of the 'Ethical Decision Making'\n\nA. Moral Awareness\nB. Moral Anxiety\nC. Moral Intent\nD. Moral Judgement\nE. Moral Context\n\nChoose the most appropriate answer from the options given below:",
+          "options": [
+            "(A) A, B, C only",
+            "(B) B, C, D only",
+            "(C) C, D, E only",
+            "(D) A, C, D only"
+          ],
+          "correct_answer": 4,
+          "correct_text": "A, C, D only",
+          "unit": "Unit 2",
+          "topic": "2.8 Research Ethics",
+          "subtopic": "Ethical Decision Making",
+          "concept": "Rest's (1986) four-component model of ethical decision making includes: Moral Awareness (recognizing an ethical issue), Moral Judgment (determining right course of action), Moral Intent (prioritizing ethical values), and Moral Character/Action (courage to act). Moral Anxiety and Moral Context are not standard components.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 65,
+          "question": "Informed consent, as suggested by Diener and Crandall includes the components:\n\nA. Voluntarism\nB. Researcher's competence\nC. Information\nD. Comprehension\n\nChoose the most appropriate answer from the options given below:",
+          "options": [
+            "(A) A, C only",
+            "(B) A, B, C only",
+            "(C) A, C, D only",
+            "(D) B, C, D only"
+          ],
+          "correct_answer": 3,
+          "correct_text": "A, C, D only",
+          "unit": "Unit 2",
+          "topic": "2.8 Research Ethics",
+          "subtopic": "Informed Consent",
+          "concept": "According to Diener and Crandall, informed consent has three essential components: Information (disclosure of relevant study details), Comprehension (participant must understand the information), and Voluntarism (participation must be voluntary without coercion). Researcher's competence is not a component of informed consent.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 66,
+          "question": "Match List I with List II\n\n| List I | | List II | |\n|---|---|---|---|\n| A. | Samacariya | I. | Transformation wholeness |\n| B. | Tanha | II. | Desire |\n| C. | Satori | III. | Healthy virtuous |\n| D. | Sammadithhi | IV. | Thinking |\n\nChoose the correct answer from the options given below:",
+          "options": [
+            "(A) A-III, B-I, C-II, D-III",
+            "(B) A-IV, B-I, C-II, D-III",
+            "(C) A-III, B-II, C-I, D-IV",
+            "(D) A-II, B-III, C-I, D-IV"
+          ],
+          "correct_answer": 3,
+          "correct_text": "A-III, B-II, C-I, D-IV",
+          "unit": "Unit 1",
+          "topic": "1.1 Eastern Psychological Systems",
+          "subtopic": "Eastern Concepts",
+          "concept": "Samacariya (A-III) means healthy/virtuous conduct in Buddhist tradition. Tanha (B-II) is the Pali word for craving/desire, a key concept in the Second Noble Truth. Satori (C-I) is a Zen Buddhist term for sudden awakening/transformation toward wholeness. Sammadithhi (D-IV) means right view/thinking, part of the Noble Eightfold Path.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 67,
+          "question": "Match List I with List II\n\n| List I | | List II | |\n|---|---|---|---|\n| A. | Grounded Theory | I. | Lives of individual studied and retold to develop a chronology |\n| B. | Phenomenological Research | II. | Studying intact cultural group in natural setting |\n| C. | Narrative Research | III. | Deriving a general abstract theory through views of participants |\n| D. | Ethnography | IV. | Understanding lived experiences of a small number of participants |\n\nChoose the correct answer from the options given below:",
+          "options": [
+            "(A) A-III, B-I, C-IV, D-II",
+            "(B) A-II, B-IV, C-I, D-III",
+            "(C) A-II, B-I, C-IV, D-III",
+            "(D) A-III, B-IV, C-I, D-II"
+          ],
+          "correct_answer": 4,
+          "correct_text": "A-III, B-IV, C-I, D-II",
+          "unit": "Unit 2",
+          "topic": "2.4 Research Paradigms",
+          "subtopic": "Qualitative Research Methods",
+          "concept": "Grounded Theory (A-III): Derives a general abstract theory from participants' views (Glaser & Strauss). Phenomenological Research (B-IV): Explores lived experiences of a small number of participants. Narrative Research (C-I): Studies and retells individual lives as chronological stories. Ethnography (D-II): Studies intact cultural groups in natural settings.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 68,
+          "question": "Match List I with List II\n\n| List I | | List II | |\n|---|---|---|---|\n| A. | Preferred method for determining item bias | I. | Slope |\n| B. | Coefficient for correlating two absolutely dichotomous variables | II. | Intercept |\n| C. | The place where the regression line crosses the y axis | III. | Phi coefficient |\n| D. | The expected change in Y for every one unit change in X on the regression line | IV. | Item characteristic curve |\n\nChoose the correct answer from the options given below:",
+          "options": [
+            "(A) A-IV, B-III, C-II, D-I",
+            "(B) A-III, B-IV, C-II, D-I",
+            "(C) A-I, B-III, C-II, D-IV",
+            "(D) A-I, B-II, C-IV, D-III"
+          ],
+          "correct_answer": 1,
+          "correct_text": "A-IV, B-III, C-II, D-I",
+          "unit": "Unit 3",
+          "topic": "3.2 Test Construction",
+          "subtopic": "Item Analysis",
+          "concept": "Item Characteristic Curve (A-IV) is the preferred method for detecting item bias (DIF analysis). Phi coefficient (B-III) correlates two dichotomous variables. Intercept (C-II) is where the regression line crosses the Y-axis. Slope (D-I) is the expected change in Y per unit change in X (regression coefficient).",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 69,
+          "question": "Match List I with List II\n\n| List I | | List II | |\n|---|---|---|---|\n| A. | Effortful processing | I. | Associates new and old information and solves problem |\n| B. | Spacing Effect | II. | Encoding of space, time and word meanings |\n| C. | Working Memory | III. | Remembering the concepts of psychology |\n| D. | Automatic Processing | IV. | Better long term retention through distributed practice |\n\nChoose the correct answer from the options given below:",
+          "options": [
+            "(A) A-I, B-II, C-III, D-IV",
+            "(B) A-II, B-III, C-I, D-IV",
+            "(C) A-III, B-IV, C-I, D-II",
+            "(D) A-IV, B-II, C-III, D-I"
+          ],
+          "correct_answer": 3,
+          "correct_text": "A-III, B-IV, C-I, D-II",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Memory Processing",
+          "concept": "Effortful processing (A-III) involves deliberate encoding, such as consciously remembering psychology concepts. Spacing Effect (B-IV) shows distributed practice leads to better long-term retention than massed practice. Working Memory (C-I) actively associates new and old information to solve problems. Automatic Processing (D-II) encodes spatial, temporal, and semantic information without conscious effort.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 70,
+          "question": "Match List I with List II\n\n| List I | | List II | |\n|---|---|---|---|\n| A. | Young-Helmholtz theory | I. | Colour perception |\n| B. | Place theory | II. | High pitches |\n| C. | Touch sensations | III. | Rubber-hand illusion |\n| D. | Gate control theory | IV. | Pain |\n\nChoose the correct answer from the options given below:",
+          "options": [
+            "(A) A-IV, B-III, C-II, D-I",
+            "(B) A-I, B-II, C-III, D-IV",
+            "(C) A-II, B-I, C-III, D-IV",
+            "(D) A-III, B-IV, C-I, D-II"
+          ],
+          "correct_answer": 2,
+          "correct_text": "A-I, B-II, C-III, D-IV",
+          "unit": "Unit 4",
+          "topic": "4.1 Sensory Systems",
+          "subtopic": "Sensory Theories",
+          "concept": "Young-Helmholtz theory (A-I) explains color perception through three types of cone receptors. Place theory (B-II) explains high pitch perception based on where the basilar membrane vibrates. Rubber-hand illusion (C-III) demonstrates touch perception and body ownership. Gate control theory (D-IV) explains pain perception through neural gating mechanisms (Melzack & Wall).",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 71,
+          "question": "Match List I with List II\n\n| List I | | List II | |\n|---|---|---|---|\n| A. | Sigmund Freud | I. | Genetic view |\n| B. | B.F. Skinner | II. | Psychoanalytic view |\n| C. | Carl Rogers | III. | Behavioural view |\n| D. | Hans Eysenck | IV. | Humanistic view |\n\nChoose the correct answer from the options given below:",
+          "options": [
+            "(A) A-IV, B-I, C-II, D-III",
+            "(B) A-II, B-III, C-I, D-IV",
+            "(C) A-II, B-III, C-IV, D-I",
+            "(D) A-I, B-II, C-III, D-IV"
+          ],
+          "correct_answer": 3,
+          "correct_text": "A-II, B-III, C-IV, D-I",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Personality Theories",
+          "concept": "Freud (A-II) founded the Psychoanalytic view emphasizing unconscious conflicts. Skinner (B-III) represented the Behavioural view focusing on observable behavior and conditioning. Rogers (C-IV) was a key figure in the Humanistic view emphasizing self-actualization. Eysenck (D-I) advocated the Genetic/Biological view of personality (PEN model with biological basis).",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 72,
+          "question": "Match List I with List II\n\n| List I | | List II | |\n|---|---|---|---|\n| A. | Manic Disorder | I. | Frontal-striatal region of the brain implicated |\n| B. | Panic Disorder | II. | Elevated expansive mood and increased energy |\n| C. | Schizophrenia | III. | Heightened awareness of emotion specific stimulus |\n| D. | ADHD | IV. | Delusion, Hallucination, incoherent speech |\n\nChoose the correct answer from the options given below:",
+          "options": [
+            "(A) A-II, B-III, C-IV, D-I",
+            "(B) A-I, B-IV, C-II, D-III",
+            "(C) A-III, B-II, C-I, D-IV",
+            "(D) A-IV, B-III, C-II, D-I"
+          ],
+          "correct_answer": 1,
+          "correct_text": "A-II, B-III, C-IV, D-I",
+          "unit": "Unit 9",
+          "topic": "9.3 Psychopathology",
+          "subtopic": "Psychological Disorders",
+          "concept": "Manic Disorder (A-II) features elevated, expansive mood and increased energy. Panic Disorder (B-III) involves heightened awareness and reactivity to emotion-specific threat stimuli. Schizophrenia (C-IV) is characterized by delusions, hallucinations, and disorganized speech. ADHD (D-I) is associated with frontal-striatal brain region dysfunction.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 73,
+          "question": "Match List I with List II\n\n| List I | | List II | |\n|---|---|---|---|\n| A. | Object Permanence | I. | Pre Operation |\n| B. | Abstract thinking | II. | Sensory motor |\n| C. | Ego centrism | III. | Concrete operation |\n| D. | Conservation | IV. | Formal Operation |\n\nChoose the correct answer from the options given below:",
+          "options": [
+            "(A) A-II, B-IV, C-III, D-I",
+            "(B) A-II, B-IV, C-I, D-III",
+            "(C) A-II, B-I, C-IV, D-III",
+            "(D) A-IV, B-III, C-II, D-I"
+          ],
+          "correct_answer": 2,
+          "correct_text": "A-II, B-IV, C-I, D-III",
+          "unit": "Unit 9",
+          "topic": "9.2 Major Developmental Theories",
+          "subtopic": "Piaget's Cognitive Development",
+          "concept": "Object Permanence (A-II) develops in the Sensorimotor stage (0-2 yrs). Abstract thinking (B-IV) emerges in Formal Operational stage (12+ yrs). Egocentrism (C-I) characterizes the Preoperational stage (2-7 yrs). Conservation (D-III) is achieved in Concrete Operational stage (7-11 yrs).",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 74,
+          "question": "Match List I with List II\n\n| List I | | List II | |\n|---|---|---|---|\n| A. | Rosenstock | I. | Protective Motivation Theory |\n| B. | Rogers | II. | Health Belief Model |\n| C. | Fishbein | III. | Self-Regulation Model |\n| D. | Leventhal | IV. | Theory of Reasoned Action |\n\nChoose the correct answer from the options given below:",
+          "options": [
+            "(A) A-II, B-I, C-IV, D-III",
+            "(B) A-II, B-III, C-I, D-IV",
+            "(C) A-II, B-IV, C-I, D-III",
+            "(D) A-II, B-I, C-III, D-IV"
+          ],
+          "correct_answer": 1,
+          "correct_text": "A-II, B-I, C-IV, D-III",
+          "unit": "Unit 10",
+          "topic": "10.7 Health Psychology",
+          "subtopic": "Health Behavior Theories",
+          "concept": "Rosenstock (A-II) developed the Health Belief Model with perceived susceptibility, severity, benefits, and barriers. Rogers (B-I) proposed the Protective Motivation Theory. Fishbein (C-IV) developed the Theory of Reasoned Action. Leventhal (D-III) proposed the Self-Regulation Model of illness behavior.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 75,
+          "question": "Match List I with List II\n\n| List I | | List II | |\n|---|---|---|---|\n| A. | Pratyahara | I. | Concentration |\n| B. | Dharana | II. | Attaining Oneness or Integration |\n| C. | Dhyana | III. | Control over thoughts |\n| D. | Samadhi | IV. | Meditation |\n\nChoose the correct answer from the options given below:",
+          "options": [
+            "(A) A-II, B-I, C-IV, D-III",
+            "(B) A-III, B-II, C-I, D-IV",
+            "(C) A-III, B-I, C-IV, D-II",
+            "(D) A-II, B-I, C-III, D-IV"
+          ],
+          "correct_answer": 3,
+          "correct_text": "A-III, B-I, C-IV, D-II",
+          "unit": "Unit 1",
+          "topic": "1.1 Eastern Psychological Systems",
+          "subtopic": "Ashtanga Yoga",
+          "concept": "In Patanjali's Ashtanga Yoga: Pratyahara (A-III) is withdrawal of senses/control over thoughts. Dharana (B-I) is concentration/focused attention on a single point. Dhyana (C-IV) is meditation/sustained contemplation. Samadhi (D-II) is the state of oneness/absorption/integration with the object of meditation.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 76,
+          "question": "Arrange Erik Erikson's stages of psychosocial development and basic strengths:\n\nA. trust vs mistrust\nB. Initiative vs guilt\nC. Industriousness vs inferiority\nD. Autonomy vs doubt, shame\n\nChoose the correct answer from the options given below:",
+          "options": [
+            "(A) A, D, B, C",
+            "(B) A, C, B, D",
+            "(C) A, B, D, C",
+            "(D) B, C, A, D"
+          ],
+          "correct_answer": 1,
+          "correct_text": "A, D, B, C",
+          "unit": "Unit 9",
+          "topic": "9.2 Major Developmental Theories",
+          "subtopic": "Erikson's Psychosocial Stages",
+          "concept": "Erikson's stages in order: Stage 1 — Trust vs. Mistrust (A, infancy); Stage 2 — Autonomy vs. Shame/Doubt (D, early childhood); Stage 3 — Initiative vs. Guilt (B, preschool); Stage 4 — Industry vs. Inferiority (C, school age). Sequence: A, D, B, C.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 77,
+          "question": "Prepare the steps involved in Action Research in correct sequence with reference to behavioural science\n\nA. Action\nB. Observation\nC. Plan\nD. Reflection\n\nChoose the correct answer from the options given below:",
+          "options": [
+            "(A) A, B, C, D",
+            "(B) B, C, A, D",
+            "(C) C, A, B, D",
+            "(D) C, B, D, A"
+          ],
+          "correct_answer": 3,
+          "correct_text": "C, A, B, D",
+          "unit": "Unit 2",
+          "topic": "2.5 Methods of Research",
+          "subtopic": "Action Research",
+          "concept": "Action research follows Kurt Lewin's cyclical model: Plan (C) — identify the problem and plan intervention → Action (A) — implement the plan → Observation (B) — collect data on outcomes → Reflection (D) — evaluate results and plan next cycle. This iterative process continues until the problem is resolved.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 78,
+          "question": "Arrange the following statements in the correct sequence of the movement of ions during the action potential\n\nA. Na⁺ channels open, Na⁺ begins to enter cell\nB. K⁺ continues to leave cell, causes membrane potential to return to resting level\nC. K⁺ channels open, K⁺ begins to leave cell\nD. K⁺ channels close, Na⁺ channels reset\nE. Na⁺ channels become refractory, no more Na⁺ enters the cell\n\nChoose the correct answer from the options given below:",
+          "options": [
+            "(A) A, B, C, D, E",
+            "(B) A, C, E, B, D",
+            "(C) A, E, C, D, B",
+            "(D) D, E, A, C, B"
+          ],
+          "correct_answer": 2,
+          "correct_text": "A, C, E, B, D",
+          "unit": "Unit 4",
+          "topic": "4.2 Neurons",
+          "subtopic": "Action Potential",
+          "concept": "Action potential sequence: (A) Na⁺ channels open, Na⁺ floods in (depolarization) → (C) K⁺ channels open, K⁺ begins to leave (repolarization starts) → (E) Na⁺ channels become refractory → (B) K⁺ continues leaving, membrane returns to resting level → (D) K⁺ channels close, Na⁺ channels reset.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 79,
+          "question": "Correctly arrange the components of emotion as explained in the two-factor theory of Schachter and Singer, 1962.\n\nA. Stimulus\nB. Cognitive appraisal of arousal\nC. General physiological arousal\nD. Subjective experience of emotion\n\nChoose the correct answer from the options given below:",
+          "options": [
+            "(A) A, B, C, D",
+            "(B) A, C, B, D",
+            "(C) D, A, C, B",
+            "(D) C, B, D, A"
+          ],
+          "correct_answer": 2,
+          "correct_text": "A, C, B, D",
+          "unit": "Unit 7",
+          "topic": "7.3 Emotion",
+          "subtopic": "Schachter-Singer Two-Factor Theory",
+          "concept": "Schachter-Singer's Two-Factor Theory sequence: A stimulus (A) triggers general physiological arousal (C), which is then cognitively appraised and labeled (B) based on the situational context, resulting in the subjective experience of emotion (D). Emotion = arousal + cognitive label.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 80,
+          "question": "What would be the correct order of the steps involved in prosocial behaviour?\n\nA. Accept the responsibility for helping\nB. Noticing something unusual\nC. decision about possession of required knowledge or skills\nD. Interpreting the event as emergency\nE. deciding to actually help\n\nChoose the correct answer from the options given below:",
+          "options": [
+            "(A) A, C, B, D, E",
+            "(B) B, D, A, C, E",
+            "(C) B, D, C, A, E",
+            "(D) E, B, D, C, A"
+          ],
+          "correct_answer": 2,
+          "correct_text": "B, D, A, C, E",
+          "unit": "Unit 8",
+          "topic": "8.7 Prosocial Behavior and Aggression",
+          "subtopic": "Bystander Intervention (Latané & Darley)",
+          "concept": "Latané and Darley's decision model for helping: (B) Notice the event → (D) Interpret it as an emergency → (A) Accept personal responsibility for helping → (C) Decide if one has the required knowledge/skills → (E) Decide to actually implement the helping action.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 81,
+          "question": "Arrange the following in sequence as per Development model of Counselling\n\nA. Identification of blind spots\nB. Brain storming\nC. Developing possibilities\nD. Force-field analysis\n\nChoose the correct answer from the options given below:",
+          "options": [
+            "(A) A, C, B, D",
+            "(B) B, C, A, D",
+            "(C) A, C, D, B",
+            "(D) A, B, D, C"
+          ],
+          "correct_answer": 1,
+          "correct_text": "A, C, B, D",
+          "unit": "Unit 9",
+          "topic": "9.4 Guidance and Counseling",
+          "subtopic": "Development Model of Counseling",
+          "concept": "In the developmental model of counseling: First, identify blind spots (A) → Develop possibilities (C) → Brainstorming (B) to generate ideas → Force-field analysis (D) to evaluate driving and restraining forces.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 82,
+          "question": "Arrange the following physiological response to stress sequentially\n\nA. Release of Adrenocorticotropic hormone from pituitary gland\nB. Release of CRF from hypothalamus\nC. Perception of stress\nD. Suppression of immune system functioning\nE. Glorocorticoid release from Adrenal gland\n\nChoose the correct answer from the options given below:",
+          "options": [
+            "(A) B, C, E, A, D",
+            "(B) C, B, A, E, D",
+            "(C) A, C, D, B, E",
+            "(D) E, D, C, A, B"
+          ],
+          "correct_answer": 2,
+          "correct_text": "C, B, A, E, D",
+          "unit": "Unit 7",
+          "topic": "7.4 Stress and Coping",
+          "subtopic": "HPA Axis Stress Response",
+          "concept": "The stress response follows the HPA axis: Perception of stress (C) → CRF release from hypothalamus (B) → ACTH release from anterior pituitary (A) → Glucocorticoid (cortisol) release from adrenal cortex (E) → Suppression of immune system functioning (D).",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 83,
+          "question": "Arrange 'Pancha Kosha' in order :\n\nA. Annamaya Kosha\nB. Maanomaya Kosha\nC. Vijnanamaya Kosha\nD. Pranamaya Kosha\nE. Anandamaya Kosha\n\nChoose the correct answer from the options given below:",
+          "options": [
+            "(A) A, E, B, D, C",
+            "(B) A, D, B, C, E",
+            "(C) A, B, D, C, E",
+            "(D) A, C, B, E, D"
+          ],
+          "correct_answer": 2,
+          "correct_text": "A, D, B, C, E",
+          "unit": "Unit 1",
+          "topic": "1.1 Eastern Psychological Systems",
+          "subtopic": "Pancha Kosha",
+          "concept": "The Pancha Kosha (five sheaths) from outermost to innermost: Annamaya (A — physical/food sheath) → Pranamaya (D — vital energy sheath) → Manomaya (B — mental sheath) → Vijnanamaya (C — intellectual/wisdom sheath) → Anandamaya (E — bliss sheath).",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 84,
+          "question": "Arrange the emergence of following leadership approaches in a chronological order:\n\nA. Behavioural approach\nB. Transformational approach\nC. Trait approach\nD. Contingency Approach\n\nChoose the correct answer from the options given below:",
+          "options": [
+            "(A) A, C, B, D",
+            "(B) A, C, D, B",
+            "(C) C, A, B, D",
+            "(D) C, A, D, B"
+          ],
+          "correct_answer": 4,
+          "correct_text": "C, A, D, B",
+          "unit": "Unit 8",
+          "topic": "8.5 Group Dynamics",
+          "subtopic": "Leadership Theories",
+          "concept": "Chronological order of leadership approaches: Trait approach (C, early 1900s) → Behavioural approach (A, 1940s-1950s) → Contingency/Situational approach (D, 1960s-1970s) → Transformational approach (B, 1980s). This reflects the evolution from 'who leaders are' to 'what leaders do' to 'when approaches work' to 'how leaders inspire.' ",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 85,
+          "question": "Sequentially arrange the sections of the vertebrae of the spinal column from top to bottom.\n\nA. Thoracic vertebrae\nB. Sacral vertebrae\nC. Cernical vertebrae\nD. Lumbar vertebrae\n\nChoose the correct answer from the options given below:",
+          "options": [
+            "(A) A, D, B, C",
+            "(B) C, A, D, B",
+            "(C) A, C, B, D",
+            "(D) B, A, D, C"
+          ],
+          "correct_answer": 2,
+          "correct_text": "C, A, D, B",
+          "unit": "Unit 4",
+          "topic": "4.3 Nervous System",
+          "subtopic": "Spinal Column",
+          "concept": "The vertebral column from top to bottom: Cervical vertebrae (C, 7 vertebrae in the neck) → Thoracic vertebrae (A, 12 in the upper/mid back) → Lumbar vertebrae (D, 5 in the lower back) → Sacral vertebrae (B, 5 fused vertebrae forming the sacrum). Sequence: C, A, D, B.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 86,
+          "question": "Given below are two statements: One is labelled as Assertion A and the other is labelled as Reason R.\n\nAssertion A: There are five universal human needs according to reality therapy\n\nReason R: These needs are - survival, love & belonging, power, freedom and fun\n\nIn the light of the above statements, choose the most appropriate answer from the options given below:",
+          "options": [
+            "(A) Both A and R are correct and R is the correct explanation of A",
+            "(B) Both A and R are correct but R is not the correct explanation of A",
+            "(C) A is correct but R is not correct",
+            "(D) A is not correct but R is correct"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both A and R are correct and R is the correct explanation of A",
+          "unit": "Unit 9",
+          "topic": "9.5 Psychotherapies",
+          "subtopic": "Reality Therapy (Glasser)",
+          "concept": "William Glasser's Choice Theory (basis of Reality Therapy) identifies five basic needs: Survival, Love & Belonging, Power, Freedom, and Fun. Both A and R are correct, and R directly explains which five needs A refers to.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 87,
+          "question": "Given below are two statements: One is labelled as Assertion A and the other is labelled as Reason R.\n\nAssertion A: To eliminate the impact of an extraneous independent variable, the researcher can choose participants who are homogeneous on that independent variable.\n\nReason R: 'Matching' is one of the method to control extraneous variance.\n\nIn the light of the above statements, choose the most appropriate answer from the options given below:",
+          "options": [
+            "(A) Both A and R are correct and R is the correct explanation of A",
+            "(B) Both A and R are correct but R is not the correct explanation of A",
+            "(C) A is correct but R is not correct",
+            "(D) A is not correct but R is correct"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both A and R are correct and R is the correct explanation of A",
+          "unit": "Unit 2",
+          "topic": "2.5 Methods of Research",
+          "subtopic": "Controlling Extraneous Variables",
+          "concept": "Choosing homogeneous participants (A) is one technique for controlling extraneous variables. Matching (R) is indeed a method to control extraneous variance by equating groups on relevant variables. R correctly explains A — matching is the broader principle underlying the approach described in A.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 88,
+          "question": "Given below are two statements: One is labelled as Assertion A and the other is labelled as Reason R.\n\nAssertion A: Monozygotic twins are called fraternal twins, who share half of their genes. Both members of the twins may be males or females.\n\nReason R: Dizygotic twins develop from two different eggs and share the genes like a brother and sister. One of the twins may be a male and the other one may be a female.\n\nIn the light of the above statements, choose the most appropriate answer from the options given below:",
+          "options": [
+            "(A) Both A and R are correct and R is the correct explanation of A",
+            "(B) Both A and R are correct but R is not the correct explanation of A",
+            "(C) Statement A is correct but Statement R is not correct",
+            "(D) Statement A is incorrect but Statement R is correct"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Statement A is incorrect but Statement R is correct",
+          "unit": "Unit 4",
+          "topic": "4.6 Genetics and Behavior",
+          "subtopic": "Twin Studies",
+          "concept": "Statement A is WRONG — monozygotic (identical) twins share 100% of their genes and are always the same sex. Fraternal twins are dizygotic, not monozygotic. Statement R is CORRECT — dizygotic twins develop from two separate eggs, share ~50% of genes like siblings, and can be different sexes.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 89,
+          "question": "Given below are two statements: One is labelled as Assertion A and the other is labelled as Reason R.\n\nAssertion A: Project Head start and other preschool quality programme boost children's chances of success in future by increasing their school readiness.\n\nReason R: Genes and experience together determine cognitive and social skills.\n\nIn the light of the above statements, choose the most appropriate answer from the options given below:",
+          "options": [
+            "(A) Both A and R are true and R is the correct explanation of A",
+            "(B) Both A and R are true but R is not the correct explanation of A",
+            "(C) A is true but R is false",
+            "(D) A is false but R is true"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Both A and R are true but R is not the correct explanation of A",
+          "unit": "Unit 4",
+          "topic": "4.6 Genetics and Behavior",
+          "subtopic": "Gene-Environment Interaction",
+          "concept": "Project Head Start does boost school readiness (A is true). Genes and experience together determine development (R is true). However, R does not specifically explain why Head Start works — R is a general principle about nature-nurture interaction, while A is about a specific intervention's mechanism through enriched environment.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 90,
+          "question": "Given below are two statements:\n\nStatement I: Motivation is a condition that energizes behaviour but gives no direction.\n\nStatement II: Motivational States arise only from external incentive factors.\n\nIn the light of the above statements, choose the most appropriate answer from the options given below:",
+          "options": [
+            "(A) Both Statement I and Statement II are correct",
+            "(B) Both Statement I and Statement II are incorrect",
+            "(C) Statement I is correct but Statement II is not correct",
+            "(D) Statement I is incorrect but Statement II is correct"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Both Statement I and Statement II are incorrect",
+          "unit": "Unit 7",
+          "topic": "7.2 Motivation",
+          "subtopic": "Nature of Motivation",
+          "concept": "Both statements are incorrect. Motivation both energizes AND directs behavior (I is wrong — it gives direction). Motivational states arise from both internal (needs, drives) and external (incentives) factors, not only external (II is wrong). Motivation encompasses needs, drives, goals, and incentives from multiple sources.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": null,
+          "table_ref": null
+        }
+      ]
+    },
+    {
+      "type": "passage",
+      "id": "passage_141",
+      "heading": "Read the following passage and answer questions 141 to 145:",
+      "text": "A study was conducted to find out whether participation in meditation influences well-being in children. Hence a group of children who have not participated in meditation before but are now planning to begin participating in meditation were given a well being scale before they began meditation. The children were administered the same test again after 2 months of meditation. The well being was measured on an internal scale, with higher scores indicating higher well being. The scores on the scale were normally distributed. The scores are given below.\n\n| Before | After |\n| --- | --- |\n| 4 | 6 |\n| 8 | 5 |\n| 10 | 11 |\n| 12 | 10 |\n| 14 | 15 |\n| 16 | 17 |\n| 18 | 16 |"
+    },
+    {
+      "type": "questions_block",
+      "range": "Q141–Q145",
+      "passage_ref": "passage_141",
+      "questions": [
+        {
+          "id": 91,
+          "question": "What is the degrees of freedom for the test?",
+          "options": [
+            "(A) 10",
+            "(B) 11",
+            "(C) 6",
+            "(D) 5"
+          ],
+          "correct_answer": 3,
+          "correct_text": "6",
+          "unit": "Unit 2",
+          "topic": "2.7 Inferential Statistics",
+          "subtopic": "Degrees of Freedom",
+          "concept": "For a paired/correlated t-test with n pairs of observations, degrees of freedom = n - 1. With 7 pairs of scores (n = 7), df = 7 - 1 = 6.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": "passage_141",
+          "table_ref": null
+        },
+        {
+          "id": 92,
+          "question": "What statistical test should be used to analyze the data?",
+          "options": [
+            "(A) Mann-Whitney U test",
+            "(B) Wilcoxon signed Rank test",
+            "(C) Correlated 't' test",
+            "(D) Independent 't' test"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Correlated 't' test",
+          "unit": "Unit 2",
+          "topic": "2.7 Inferential Statistics",
+          "subtopic": "Paired t-test",
+          "concept": "The same children are measured before and after (repeated measures on the same subjects), making this a within-subjects/pre-post design. A correlated (paired/dependent) t-test is appropriate. The data is normally distributed, supporting a parametric test. Mann-Whitney and Wilcoxon are non-parametric alternatives.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": "passage_141",
+          "table_ref": null
+        },
+        {
+          "id": 93,
+          "question": "Rejection of null hypothesis indicates:",
+          "options": [
+            "(A) Participation in meditation leads to significant difference in well-being scores",
+            "(B) Participation in meditation leads to just above the well-being score after meditation",
+            "(C) Participation in meditation leads to lower well being scores",
+            "(D) Participation in meditation has no significant effect"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Participation in meditation leads to significant difference in well-being scores",
+          "unit": "Unit 2",
+          "topic": "2.7 Inferential Statistics",
+          "subtopic": "Hypothesis Testing Interpretation",
+          "concept": "Rejection of the null hypothesis (H₀: no difference between before and after scores) indicates that there is a statistically significant difference in well-being scores before and after meditation. It does not specify the direction (higher or lower) unless a directional hypothesis was used.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": "passage_141",
+          "table_ref": null
+        },
+        {
+          "id": 94,
+          "question": "Which of the following is correct about directional hypothesis?",
+          "options": [
+            "(A) Meditation has effect on well-being",
+            "(B) Meditation has positive effect on well being",
+            "(C) Meditation has both positive and negative effect on well being",
+            "(D) Meditation has direction for well being"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Meditation has positive effect on well being",
+          "unit": "Unit 2",
+          "topic": "2.2 Hypothesis",
+          "subtopic": "Directional Hypothesis",
+          "concept": "A directional (one-tailed) hypothesis specifies the expected direction of the effect. 'Meditation has a positive effect on well-being' (2) predicts improvement, which is directional. 'Meditation has an effect' (1) is non-directional. A directional hypothesis predicts the specific nature of the relationship.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": "passage_141",
+          "table_ref": null
+        },
+        {
+          "id": 95,
+          "question": "Which of the following is correct about interval scale?",
+          "options": [
+            "(A) Identity, Magnitude, equal unit size and absolute zero are the properties of this scale.",
+            "(B) Identity and equal unit size are its properties",
+            "(C) Identity, Magnitude and equal unit size are its properties",
+            "(D) Identity and magnitude are the properties of this scale"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Identity, Magnitude and equal unit size are its properties",
+          "unit": "Unit 2",
+          "topic": "2.6 Descriptive Statistics",
+          "subtopic": "Measurement Scales",
+          "concept": "Interval scale properties: Identity (each value has a unique meaning), Magnitude (values can be ordered — more/less), and Equal unit size (the difference between consecutive units is constant). It does NOT have absolute zero (that's a ratio scale property). Option 1 describes ratio scale. Option 4 describes ordinal scale.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": "passage_141",
+          "table_ref": null
+        }
+      ]
+    },
+    {
+      "type": "passage",
+      "id": "passage_146",
+      "heading": "Read the following passage and answer questions 146 to 150:",
+      "text": "Lev S. Vygotsky developed a theory of cognitive development. He explained that experienced adults help children with innate basic capabilities to attain more complex and higher order cognitive capabilities. To describe and assess this potential, he proposed the notion of ZPD. Based on Vygotskian thinking, an instructional process was developed in which the more knowledgeable partner adjusts the amount and type of support he offers to fit with the child's learning needs over the course of interaction. According to Vygotsky, psychological tools and signs facilitate and direct thinking process."
+    },
+    {
+      "type": "questions_block",
+      "range": "Q146–Q150",
+      "passage_ref": "passage_146",
+      "questions": [
+        {
+          "id": 96,
+          "question": "The theory of Vygotsky is called",
+          "options": [
+            "(A) Cultural theory of cognitive development",
+            "(B) Social theory of cognitive development",
+            "(C) Socio cultural theory of cognitive development",
+            "(D) Bio sociocultural theory of cognitive development"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Socio cultural theory of cognitive development",
+          "unit": "Unit 9",
+          "topic": "9.2 Major Developmental Theories",
+          "subtopic": "Vygotsky's Sociocultural Theory",
+          "concept": "Vygotsky's theory is called the Sociocultural Theory of Cognitive Development, emphasizing that cognitive development is fundamentally shaped by social interaction and cultural tools (language, symbols). Higher mental functions originate in social activity.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": "passage_146",
+          "table_ref": null
+        },
+        {
+          "id": 97,
+          "question": "The ZPD stands for",
+          "options": [
+            "(A) Zone of Postnatal development",
+            "(B) Zone of proximal development",
+            "(C) Zone of proximodistal development",
+            "(D) Zone of proximal distance"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Zone of proximal development",
+          "unit": "Unit 9",
+          "topic": "9.2 Major Developmental Theories",
+          "subtopic": "Zone of Proximal Development",
+          "concept": "ZPD stands for Zone of Proximal Development — the gap between what a learner can do independently and what they can achieve with guidance from a more knowledgeable other. It represents the range of tasks that are too difficult to master alone but can be learned with assistance.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": "passage_146",
+          "table_ref": null
+        },
+        {
+          "id": 98,
+          "question": "ZPD is defined by Vygotsky as",
+          "options": [
+            "(A) The region of sensitivity for learning characterized by the difference between the developmental level when the child is working alone and the level he/she is capable of reaching with the aid of an adult",
+            "(B) The region of difference between inability to use a known thing and benefit from the use of such a strategy",
+            "(C) The region of learning what a child has learnt from experience and knows about the world in general",
+            "(D) The region of ability to fit into change and choose environments that best fulfill the child's needs and desires to learn from society and culture."
+          ],
+          "correct_answer": 1,
+          "correct_text": "The region of sensitivity for learning characterized by the difference between the developmental level when the child is working alone and the level he/she is capable of reaching with the aid of an adult",
+          "unit": "Unit 9",
+          "topic": "9.2 Major Developmental Theories",
+          "subtopic": "Zone of Proximal Development",
+          "concept": "Vygotsky defined the ZPD as the distance between the actual developmental level (what the child can do independently) and the level of potential development (what the child can do with adult guidance or peer collaboration). This zone represents the optimal teaching range.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": "passage_146",
+          "table_ref": null
+        },
+        {
+          "id": 99,
+          "question": "The instructional process in which the more knowledgeable partner adjusts the amount and type of support he offers to fit with the child's learning needs over the course of interaction is called:",
+          "options": [
+            "(A) Tacit knowledge",
+            "(B) Social referencing",
+            "(C) Pragmatics",
+            "(D) Scaffolding"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Scaffolding",
+          "unit": "Unit 9",
+          "topic": "9.2 Major Developmental Theories",
+          "subtopic": "Scaffolding",
+          "concept": "Scaffolding (Wood, Bruner, & Ross, 1976) is the process where a more knowledgeable other provides adjustable support to help a learner accomplish tasks within their ZPD. As the learner gains competence, the support is gradually withdrawn. This is derived from Vygotsky's concept of the ZPD.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": "passage_146",
+          "table_ref": null
+        },
+        {
+          "id": 100,
+          "question": "The psychological tools and signs such as language, counting, mnemonics, algebraic symbols, art and writing that facilitate and direct thinking process is called by Vygotsky as:",
+          "options": [
+            "(A) Moderators",
+            "(B) Mediators",
+            "(C) Confounders",
+            "(D) Facilitators"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Mediators",
+          "unit": "Unit 9",
+          "topic": "9.2 Major Developmental Theories",
+          "subtopic": "Mediation in Vygotsky's Theory",
+          "concept": "Vygotsky called language, counting, mnemonics, symbols, and writing 'psychological tools' or 'mediators' that mediate between environmental stimuli and behavioral responses. These cultural tools transform and direct thinking processes, enabling higher mental functions. This is a central concept in Vygotsky's sociocultural theory.",
+          "era": "NTA",
+          "year": 2023,
+          "passage_ref": "passage_146",
+          "table_ref": null
+        }
+      ]
+    }
+  ]
+}

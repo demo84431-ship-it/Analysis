@@ -1,0 +1,1028 @@
+{
+  "paper_metadata": {
+    "title": "UGC NET/JRF Examination, December 2013",
+    "date": "December 2013",
+    "subject": "Psychology — Paper II"
+  },
+  "content": [
+    {
+      "type": "questions_block",
+      "range": "Q1–Q45",
+      "questions": [
+        {
+          "id": 1,
+          "question": "The visible spectrum wavelength ranges from",
+          "options": [
+            "(A) 380 to 760 nanometres",
+            "(B) 200 to 700 nanometres",
+            "(C) 400 to 1000 nanometres",
+            "(D) 100 to 1000 nanometres"
+          ],
+          "correct_answer": 1,
+          "correct_text": "380 to 760 nanometres",
+          "unit": "Unit 4",
+          "topic": "4.1 Sensory Systems",
+          "subtopic": "Vision",
+          "concept": "Visible light spectrum: approximately 380-760 nm wavelength range",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 2,
+          "question": "Shyam does not like to be in family gatherings but his mother has asked him to attend it. He decides to tell a lie that he has examination on that day however he finds it very distasteful. Shyam is experiencing",
+          "options": [
+            "(A) Double avoidance conflict",
+            "(B) Double approach conflict",
+            "(C) Approach-avoidance conflict",
+            "(D) Double approach-double avoidance conflict"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Double avoidance conflict",
+          "unit": "Unit 7",
+          "topic": "7.4 Stress and Coping",
+          "subtopic": "Types of Conflict (Lewin)",
+          "concept": "Double avoidance conflict: two undesirable alternatives (attending gathering vs displeasing mother)",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 3,
+          "question": "Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R). Indicate your answer using the code given below:\n\n**Assertion (A)** : Computational approach involves a rigorous, mathematically oriented analysis of certain aspects of visual perception derived largely from computer simulation and artificial intelligence.\n\n**Reason (R)** : Neurophysiological approach argues that sensory and perceptual phenomena are best explained by known neural and physiological mechanisms serving sensory structures.\n\n**Codes :**",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are correct, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 2,
+          "correct_text": "Both (A) and (R) are correct, but (R) is not the correct explanation of (A).",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Form Perception",
+          "concept": "Computational and neurophysiological approaches are both valid but independent perspectives on perception",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 4,
+          "question": "Having seen or heard a stimulus once may facilitate our recognizing it on a latter occasion, even if we are not aware that this is happening. This phenomena is referred to as",
+          "options": [
+            "(A) Primacy effect",
+            "(B) Recency effect",
+            "(C) Practice effect",
+            "(D) Priming effect"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Priming effect",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Stages and Types",
+          "concept": "Priming: implicit memory effect where prior exposure facilitates later recognition without awareness",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 5,
+          "question": "Given below are the two statements, the first labelled as Assertion (A) and the other labelled as Reason (R). Indicate your answer using the codes given below:\n\n**Assertion (A)** : Naturalistic observation is the highly preferred method in ethological research.\n\n**Reason (R)** : Naturalistic observation is free from observer-bias.\n\n**Codes :**",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation.",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 3,
+          "correct_text": "(A) is true, but (R) is false.",
+          "unit": "Unit 2",
+          "topic": "2.5 Methods of Research",
+          "subtopic": "Observational methods",
+          "concept": "Naturalistic observation is preferred in ethology BUT it is NOT free from observer bias",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 6,
+          "question": "There are various kinds of cells in human body. Which one of the following is not a neuron?",
+          "options": [
+            "(A) Sensory",
+            "(B) Glia",
+            "(C) Inter",
+            "(D) Motor"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Glia",
+          "unit": "Unit 4",
+          "topic": "4.2 Neurons",
+          "subtopic": "Types",
+          "concept": "Glia (glial cells) are support cells, not neurons; sensory, interneurons, and motor are neuron types",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 7,
+          "question": "Given below are two statements, the first labelled as Assertion (A) and the other labelled as Reason (R). Indicate your answer using the codes given below:\n\n**Assertion (A)** : During action potential, there is change in polarization of ions across neuronal membrane.\n\n**Reason (R)** : All the negative ions are transported outside the neuronal membrane.\n\n**Codes :**",
+          "options": [
+            "(A) Both (A) & (R) are true and (R) is the correct explanation of (A).",
+            "(B) Both (A) & (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 3,
+          "correct_text": "(A) is true, but (R) is false.",
+          "unit": "Unit 4",
+          "topic": "4.2 Neurons",
+          "subtopic": "Action potential",
+          "concept": "Action potential involves depolarization (change in polarization); but NOT all negative ions go outside — Na+ rushes IN during depolarization",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 8,
+          "question": "Individual differences in intelligence are due to",
+          "options": [
+            "(A) only genetic factors",
+            "(B) only environmental factors",
+            "(C) genetic and economic factors",
+            "(D) many factors including genetic and environmental"
+          ],
+          "correct_answer": 4,
+          "correct_text": "many factors including genetic and environmental",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Measurement of Intelligence",
+          "concept": "Intelligence is determined by multiple factors including genetic, environmental, nutritional, educational influences",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 9,
+          "question": "Put the parts of the Brain in sequence, going from higher to lower level of brain\n\nI. Metencephalon\nII. Mesencephalon\nIII. Diencephalon\nIV. Telencephalon\nV. Myelencephalon\n\n**Codes :**",
+          "options": [
+            "(A) I, II, III, IV, V",
+            "(B) II, IV, I, III, V",
+            "(C) IV, III, II, I, V",
+            "(D) III, II, I, V, IV"
+          ],
+          "correct_answer": 3,
+          "correct_text": "IV, III, II, I, V",
+          "unit": "Unit 4",
+          "topic": "4.3 Nervous System",
+          "subtopic": "Brain structures",
+          "concept": "Brain from higher to lower: Telencephalon → Diencephalon → Mesencephalon → Metencephalon → Myelencephalon",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 10,
+          "question": "Arrange the following layers of Retina in order of light travelling from environment to back of the eyeball:\n\nI. Ganglion cells\nII. Cone receptors\nIII. Horizontal cells\nIV. Bipolar cells\n\n**Codes :**",
+          "options": [
+            "(A) I, II, III, IV",
+            "(B) II, III, IV, I",
+            "(C) IV, II, III, I",
+            "(D) I, IV, III, II"
+          ],
+          "correct_answer": 4,
+          "correct_text": "I, IV, III, II",
+          "unit": "Unit 4",
+          "topic": "4.1 Sensory Systems",
+          "subtopic": "Vision",
+          "concept": "Retinal layers from front to back: Ganglion → Bipolar → Horizontal → Photoreceptors (cones/rods)",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 11,
+          "question": "The resting potential of a Neuron is",
+          "options": [
+            "(A) −95mv",
+            "(B) +85mv",
+            "(C) −70mv",
+            "(D) +70mv"
+          ],
+          "correct_answer": 3,
+          "correct_text": "−70mv",
+          "unit": "Unit 4",
+          "topic": "4.2 Neurons",
+          "subtopic": "Action potential",
+          "concept": "Resting membrane potential is approximately -70 mV",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 12,
+          "question": "The chi-square, computed for a contingency table, was based on six degrees of freedom. If the contingency table had three rows, how many columns would it have?",
+          "options": [
+            "(A) 2",
+            "(B) 3",
+            "(C) 4",
+            "(D) 6"
+          ],
+          "correct_answer": 3,
+          "correct_text": "4",
+          "unit": "Unit 2",
+          "topic": "2.7 Inferential Statistics",
+          "subtopic": "Non-Parametric Tests",
+          "concept": "Chi-square df = (r-1)(c-1); 6 = (3-1)(c-1), so c-1 = 3, c = 4 columns",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 13,
+          "question": "Given below are two statements, the first labelled as Assertion (A) and the second labelled as Reason (R). Indicate your answer using the codes given below:\n\n**Assertion (A)** : Test-Retest reliability of Psychometric tests is more than that of projective tests.\n\n**Reason (R)** : Trait approach presumes consistency of personality.\n\n**Codes :**",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 2,
+          "correct_text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+          "unit": "Unit 3",
+          "topic": "3.3 Reliability",
+          "subtopic": "Test-retest reliability",
+          "concept": "Both statements are true but R does NOT explain A — trait approach supports consistency but doesn't explain why psychometric tests have higher reliability than projective",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 14,
+          "question": "Match List - I with List - II and indicate your answer with the help of codes given below:\n\n| List – I (Measure of Intelligence) | List – II (Psychologist) |\n| --- | --- |\n| p. EEG | 1. Binet |\n| q. Reaction Time | 2. Eysenck |\n| r. Culture Fair Test | 3. Galton |\n| s. Verbal Test | 4. Horn |\n\n**Codes :**\n\n|   | p | q | r | s |\n| --- | --- | --- | --- | --- |\n| (A) | 1 | 2 | 3 | 4 |\n| (B) | 3 | 1 | 2 | 4 |\n| (C) | 2 | 3 | 4 | 1 |\n| (D) | 4 | 2 | 1 | 3 |",
+          "options": [
+            "(A) p-1, q-2, r-3, s-4",
+            "(B) p-3, q-1, r-2, s-4",
+            "(C) p-2, q-3, r-4, s-1",
+            "(D) p-4, q-2, r-1, s-3"
+          ],
+          "correct_answer": 3,
+          "correct_text": "p-2, q-3, r-4, s-1",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Measurement of Intelligence",
+          "concept": "Matching: EEG=Eysenck (biological approach), Reaction Time=Galton, Culture Fair=Horn (Gf-Gc), Verbal Test=Binet",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 15,
+          "question": "After the recent heavy catastrophic floods in a given state, a psychologist interviewed 120 participants to understand the psychological consequences of the event. This is an example of",
+          "options": [
+            "(A) Ex post facto field research",
+            "(B) Field experiment",
+            "(C) Controlled experiment",
+            "(D) Psychometric research"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Ex post facto field research",
+          "unit": "Unit 2",
+          "topic": "2.5 Methods of Research",
+          "subtopic": "Ex-post-facto research",
+          "concept": "Ex post facto: studying effects of event that already occurred (flood), no manipulation of IV",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 16,
+          "question": "Match the following List – I with List – II and indicate your answer using codes given below:\n\n| List – I (Parts of the Eye) | List – II (Description) |\n|---|---|\n| p. Rods and Cones | 1. Stable and unique in individual and can be used for identification better than finger prints. |\n| q. Iris | 2. Photoreceptors in retina |\n| r. Ciliary muscles | 3. The optic disc where optic nerve fibers leave the eye enroute to the brain |\n| s. Blind spot | 4. Control its curvature which varies depending on the distance of the object focussed. |\n\n**Codes :**\n\n| | p | q | r | s |\n|---|---|---|---|---|\n| (A) | 4 | 1 | 2 | 3 |\n| (B) | 2 | 1 | 4 | 3 |\n| (C) | 1 | 2 | 3 | 4 |\n| (D) | 3 | 4 | 1 | 2 |",
+          "options": [
+            "(A) p-4, q-1, r-2, s-3",
+            "(B) p-2, q-1, r-4, s-3",
+            "(C) p-1, q-2, r-3, s-4",
+            "(D) p-3, q-4, r-1, s-2"
+          ],
+          "correct_answer": 2,
+          "correct_text": "p-2, q-1, r-4, s-3",
+          "unit": "Unit 4",
+          "topic": "4.1 Sensory Systems",
+          "subtopic": "Vision",
+          "concept": "Rods/Cones=Photoreceptors, Iris=unique identification, Ciliary muscles=control lens curvature, Blind spot=optic disc",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 17,
+          "question": "Match List – I with List – II and indicate your answer using codes given below:\n\n| List – I (Visual variables) | List – II (Description) |\n|---|---|\n| p. Colour | 1. The effect of intensity of light on the observer |\n| q. Illuminance | 2. The intensity of light reflected from an illuminated surface. |\n| r. Luminance | 3. The amount of incident light. |\n| s. Brightness | 4. The subjective or psychological effect that different wavelengths of light on the observer |\n\n**Codes :**\n\n| | p | q | r | s |\n|---|---|---|---|---|\n| (A) | 1 | 2 | 3 | 4 |\n| (B) | 4 | 3 | 2 | 1 |\n| (C) | 2 | 1 | 3 | 4 |\n| (D) | 1 | 4 | 2 | 3 |",
+          "options": [
+            "(A) p-1, q-2, r-3, s-4",
+            "(B) p-4, q-3, r-2, s-1",
+            "(C) p-2, q-1, r-3, s-4",
+            "(D) p-1, q-4, r-2, s-3"
+          ],
+          "correct_answer": 2,
+          "correct_text": "p-4, q-3, r-2, s-1",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Visual perception concepts",
+          "concept": "Colour=subjective effect of wavelengths, Illuminance=amount of incident light, Luminance=reflected light intensity, Brightness=effect of intensity on observer",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 18,
+          "question": "Given below are the three types psychological investigations : (1) Field experiments, (2) Laboratory experiments, and (3) Ex post facto field studies. If the above investigations are arranged in descending order in terms of researcher's ability to control secondary variance, the typical order would be",
+          "options": [
+            "(A) 2, 1, 3",
+            "(B) 3, 1, 2",
+            "(C) 2, 3, 1",
+            "(D) 3, 2, 1"
+          ],
+          "correct_answer": 1,
+          "correct_text": "2, 1, 3",
+          "unit": "Unit 2",
+          "topic": "2.5 Methods of Research",
+          "subtopic": "Research paradigms",
+          "concept": "Descending order of control: Lab experiments (most control) → Field experiments → Ex post facto (least control)",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 19,
+          "question": "What is the correct sequence of events for hunger motivation? Indicate your answer using the codes given below:\n1. Energy level to its set point\n2. A bout of eating\n3. Presence of an energy deficit\n4. Satiation\n5. Hunger\n\n**Codes :**",
+          "options": [
+            "(A) 1, 2, 3, 4, 5",
+            "(B) 3, 5, 2, 1, 4",
+            "(C) 2, 1, 3, 5, 4",
+            "(D) 5, 4, 3, 1, 2"
+          ],
+          "correct_answer": 2,
+          "correct_text": "3, 5, 2, 1, 4",
+          "unit": "Unit 7",
+          "topic": "7.2 Motivation",
+          "subtopic": "Drive-Reduction Theory",
+          "concept": "Hunger sequence: Energy deficit → Hunger → Eating → Energy restored to set point → Satiation",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 20,
+          "question": "Persons high in achievement motivation tend to prefer tasks that are ______.",
+          "options": [
+            "(A) very easy",
+            "(B) extremely difficult",
+            "(C) moderately difficult",
+            "(D) all types of task"
+          ],
+          "correct_answer": 3,
+          "correct_text": "moderately difficult",
+          "unit": "Unit 7",
+          "topic": "7.2 Motivation",
+          "subtopic": "Need for Achievement",
+          "concept": "High nAch individuals prefer tasks of intermediate/moderate difficulty (Atkinson)",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 21,
+          "question": "Match List – I with List – II and indicate your answer with the help of the codes given below:\n\n| List – I (Definition) | List – II (Memory system) |\n|---|---|\n| p. Memory for factual information that we acquired at a specific time | 1. Procedural memory |\n| q. Memory for general, abstract knowledge that we cannot remember acquiring at a specific time | 2. Episodic memory |\n| r. Memory for information necessary to perform skilled motor activity | 3. Autobiographical memory |\n| s. Memory for events in our own life | 4. Semantic memory |\n\n**Codes :**\n\n| | p | q | r | s |\n|---|---|---|---|---|\n| (A) | 2 | 4 | 1 | 3 |\n| (B) | 4 | 1 | 3 | 2 |\n| (C) | 3 | 2 | 4 | 1 |\n| (D) | 1 | 3 | 2 | 4 |",
+          "options": [
+            "(A) p-2, q-4, r-1, s-3",
+            "(B) p-4, q-1, r-3, s-2",
+            "(C) p-3, q-2, r-4, s-1",
+            "(D) p-1, q-3, r-2, s-4"
+          ],
+          "correct_answer": 1,
+          "correct_text": "p-2, q-4, r-1, s-3",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Stages and Types",
+          "concept": "Episodic=factual at specific time, Semantic=general abstract knowledge, Procedural=motor skills, Autobiographical=events in own life",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 22,
+          "question": "Match the List – I with List – II and indicate your answer with the help of codes given below:\n\n| List – I (Phenomenon) | List – II (Psychologist) |\n| --- | --- |\n| p. Observational learning | 1. Skinner |\n| q. Cognitive Map | 2. Vygotsky |\n| r. Association of different stimuli | 3. Bandura |\n| s. Learning pulls to cognitive development | 4. Pavlov |\n\n**Codes :**\n\n|   | p | q | r | s |\n| --- | --- | --- | --- | --- |\n| (A) | 2 | 1 | 3 | 4 |\n| (B) | 3 | 1 | 4 | 2 |\n| (C) | 3 | 1 | 2 | 4 |\n| (D) | 2 | 3 | 1 | 4 |",
+          "options": [
+            "(A) p-2, q-1, r-3, s-4",
+            "(B) p-3, q-1, r-4, s-2",
+            "(C) p-3, q-1, r-2, s-4",
+            "(D) p-2, q-3, r-1, s-4"
+          ],
+          "correct_answer": 2,
+          "correct_text": "p-3, q-1, r-4, s-2",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Learning theories",
+          "concept": "Matching per UGC key: Observational learning=Bandura, Cognitive Map=Skinner (only option available), Association of stimuli=Pavlov, Learning→cognitive development=Vygotsky",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 23,
+          "question": "Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R). Indicate your answer using the codes given below:\n\n**Assertion (A)** : The minimum flicker rate of a light source that results in a perceptual shift from apparent flicker to apparent steady continuous light is known as Critical Flicker Frequency (CFF).\n\n**Reason (R)** : The CFF marks the border between seeing flicker and seeing fusion.\n\n**Codes :**",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A).",
+            "(B) (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 2,
+          "correct_text": "(A) and (R) are true, but (R) is not the correct explanation of (A).",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Visual processes",
+          "concept": "Both (A) and (R) are true statements about CFF, but R does not explain WHY A is true — it just restates the definition",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 24,
+          "question": "A person rattles the box of dog's biscuits before giving the biscuit to dog. As the person rattles the box the dog begins to salivate. Thus rattling of box is ______; and the salivation of dog is a kind of ______.",
+          "options": [
+            "(A) CS; CR",
+            "(B) CS; UCR",
+            "(C) UCS; CR",
+            "(D) UCS; UCR"
+          ],
+          "correct_answer": 1,
+          "correct_text": "CS; CR",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Classical Conditioning",
+          "concept": "Rattling box = Conditioned Stimulus (learned); Salivation to rattling = Conditioned Response",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 25,
+          "question": "In operant conditioning a schedule of reinforcement that reinforces a response at unpredictable time intervals is the case of",
+          "options": [
+            "(A) Fixed – ratio schedule",
+            "(B) Variable – ratio schedule",
+            "(C) Fixed – interval schedule",
+            "(D) Variable – interval schedule"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Variable – interval schedule",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Schedules of reinforcement",
+          "concept": "Variable interval: reinforcement after unpredictable time intervals",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 26,
+          "question": "Read each of the following two statements Assertion (A) and Reason(R) and indicate your answer using the codes given below:\n\n**Assertion (A)** : Learning refers to the modification of behaviour as a result of past experience.\n\n**Reason (R)** : Experience is achieved through observation.\n\n**Codes :**",
+          "options": [
+            "(A) Both (A) and (R) are correct and (R) is the correct explanation of (A).",
+            "(B) (A) and (R) are correct, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (R) is true, but (A) is false."
+          ],
+          "correct_answer": 2,
+          "correct_text": "(A) and (R) are correct, but (R) is not the correct explanation of (A).",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Nature of learning",
+          "concept": "Learning IS behavior modification from experience; experience CAN be through observation but also through other means",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 27,
+          "question": "A person had a blue car that was in the shop more than it was out. Since then the person could not think of owning a blue or green coloured car. The person's aversion even to green cars is an example of",
+          "options": [
+            "(A) Discrimination",
+            "(B) Generalization",
+            "(C) Latent learning",
+            "(D) The overjustification effect"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Generalization",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Classical Conditioning",
+          "concept": "Stimulus generalization: negative response to blue car generalized to similar green car",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 28,
+          "question": "Which of the following best describes the serial position curve?",
+          "options": [
+            "(A) Greater accuracy of recall of words in the beginning of the list and in the middle of the list.",
+            "(B) Greater accuracy of recall of words in the beginning of the list and gradual diminished accuracy by the end of the list.",
+            "(C) Greater accuracy of recall of words in beginning and at end of the list.",
+            "(D) Greater accuracy of recall of words in the middle and at the end of the list."
+          ],
+          "correct_answer": 3,
+          "correct_text": "Greater accuracy of recall of words in beginning and at end of the list.",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Retrieval",
+          "concept": "Serial position effect: Primacy effect (beginning items better recalled) + Recency effect (end items better recalled)",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 29,
+          "question": "The degree to which construct system allows new information to enter that will allow construct system to change is called",
+          "options": [
+            "(A) Individual Corollary",
+            "(B) Permeability",
+            "(C) Loose construing",
+            "(D) Constructive Alternativism"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Permeability",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Social-Cognitive Approach",
+          "concept": "Kelly's Personal Construct Theory: Permeability = degree to which construct system allows new information",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 30,
+          "question": "Who among the following has developed a test for personality assessment where the subject has to choose between a pair of jokes?",
+          "options": [
+            "(A) McCafe",
+            "(B) McCall",
+            "(C) J.M. Cattell",
+            "(D) R.B. Cattell"
+          ],
+          "correct_answer": 4,
+          "correct_text": "R.B. Cattell",
+          "unit": "Unit 3",
+          "topic": "3.6 Types of Tests by Domain",
+          "subtopic": "Personality Tests",
+          "concept": "R.B. Cattell developed the IPAT Humor Test of Personality where subjects choose the funnier from pairs of jokes to assess 13 personality dimensions",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 31,
+          "question": "Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R). Indicate your answer using the codes given below:\n\n**Assertion (A)** : Working memory can hold a large amount of information even though it can retain only seven to nine items.\n\n**Reason (R)** : Items in working memory contain several separate bits of information grouped together called chunks.\n\n**Codes :**",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Short-Term Memory",
+          "concept": "Chunking allows WM to hold large amounts despite 7±2 item limit — each chunk contains grouped information",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 32,
+          "question": "Who has emphasized the linguistic relativity hypothesis?",
+          "options": [
+            "(A) Noam Chomsky",
+            "(B) Jean Piaget",
+            "(C) Steven Pinker",
+            "(D) Whorf B.L."
+          ],
+          "correct_answer": 4,
+          "correct_text": "Whorf B.L.",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Language and Thought",
+          "concept": "Whorf-Sapir Linguistic Relativity Hypothesis: language shapes thought",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 33,
+          "question": "Telegraphic speech is typical of the ______ stage.",
+          "options": [
+            "(A) Babbling",
+            "(B) One-word",
+            "(C) Two-word",
+            "(D) Three-word"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Two-word",
+          "unit": "Unit 9",
+          "topic": "9.2 Major Developmental Theories",
+          "subtopic": "Language Development",
+          "concept": "Telegraphic speech (e.g., 'Milk gone') appears in two-word stage (~18-24 months)",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 34,
+          "question": "The sentence \"Blue Jeans wear false smiles\" has correct ______ but incorrect ______.",
+          "options": [
+            "(A) Morphemes; phonemes",
+            "(B) Phonemes; morphemes",
+            "(C) Semantics; syntax",
+            "(D) Syntax; semantics"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Syntax; semantics",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Language and Thought",
+          "concept": "Correct syntax (grammatical structure) but incorrect semantics (meaning — jeans can't 'wear' smiles)",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 35,
+          "question": "Read the following statements labelled as Assertion (A) and Reason (R) and indicate your answer by using the codes given below:\n\n**Assertion (A)** : In deduction, conclusion is derived from a premise.\n\n**Reason (R)** : People reason by using deduction as well as induction.\n\n**Codes :**",
+          "options": [
+            "(A) Both (A) and (R) are correct and (R) is the true explanation of (A).",
+            "(B) Both (A) and (R) are correct but (R) is not the correct explanation of (A).",
+            "(C) (A) is correct, but (R) is false.",
+            "(D) (A) is false, but (R) is correct."
+          ],
+          "correct_answer": 2,
+          "correct_text": "Both (A) and (R) are correct but (R) is not the correct explanation of (A).",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Reasoning",
+          "concept": "Deduction derives conclusions from premises; people use both deduction and induction, but R doesn't explain A",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 36,
+          "question": "Match the List – I with List – II and indicate your answer with the help of codes given below:\n\n| List – I (Phenomenon) | List – II (Psychological name) |\n| --- | --- |\n| p. Smallest unit that carries meaning | 1. Grammar |\n| q. Rules to communicate and understand others | 2. Semantics |\n| r. Rules for defining meanings | 3. Morphemes |\n| s. Rules for combining words | 4. Syntax |\n\n**Codes :**\n\n|   | p | q | r | s |\n| --- | --- | --- | --- | --- |\n| (A) | 3 | 1 | 4 | 2 |\n| (B) | 3 | 2 | 4 | 1 |\n| (C) | 3 | 1 | 2 | 4 |\n| (D) | 3 | 2 | 1 | 4 |",
+          "options": [
+            "(A) p-3, q-1, r-4, s-2",
+            "(B) p-3, q-2, r-4, s-1",
+            "(C) p-3, q-1, r-2, s-4",
+            "(D) p-3, q-2, r-1, s-4"
+          ],
+          "correct_answer": 3,
+          "correct_text": "p-3, q-1, r-2, s-4",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Language and Thought",
+          "concept": "Morphemes=smallest meaningful unit, Grammar=rules to communicate, Semantics=rules for meanings, Syntax=rules for combining words",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 37,
+          "question": "Three types of feature detector cells are",
+          "options": [
+            "(A) Simple cells, Glial cells, T-cells",
+            "(B) Simple cells, Complex cells, Glial cells",
+            "(C) Sensory cells, Hyper complex cells, T-cells",
+            "(D) Simple cells, Complex cells, Hyper complex cells"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Simple cells, Complex cells, Hyper complex cells",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Form Perception",
+          "concept": "Hubel & Wiesel's feature detectors: Simple cells, Complex cells, Hypercomplex cells in visual cortex",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 38,
+          "question": "Read the following two statements, Assertion (A) and Reason (R) and indicate your answer using the codes given below:\n\n**Assertion (A)** : Sleep fulfills a critical biological function.\n\n**Reason (R)** : Sleep is required to restore the homeostasis.\n\n**Codes :**",
+          "options": [
+            "(A) Both (A) and (R) are correct and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are correct, but (R) is not the correct explanation of (A).",
+            "(C) (A) is false, but (R) is true.",
+            "(D) (A) is true, but (R) is false."
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are correct and (R) is the correct explanation of (A).",
+          "unit": "Unit 4",
+          "topic": "4.3 Nervous System",
+          "subtopic": "Sleep",
+          "concept": "Sleep fulfills biological function; restoration of homeostasis is a key explanation",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 39,
+          "question": "Choose the odd one for pattern of sympathetic activation during emotions:",
+          "options": [
+            "(A) Increased heart rate",
+            "(B) Pupil constriction",
+            "(C) Lowered skin resistance",
+            "(D) Increased breathing rate"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Pupil constriction",
+          "unit": "Unit 7",
+          "topic": "7.3 Emotion",
+          "subtopic": "Physiological components",
+          "concept": "Sympathetic activation causes pupil DILATION (not constriction); constriction is parasympathetic",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 40,
+          "question": "Out of following who has not divided intelligence into two general components?",
+          "options": [
+            "(A) Cattell J.M.",
+            "(B) Jensen",
+            "(C) Hebb",
+            "(D) Thurstone"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Thurstone",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Theories of Intelligence",
+          "concept": "Cattell (Gf-Gc), Jensen (Level I-II), Hebb (intelligence A & B) all divided intelligence into two; Thurstone proposed 7 primary mental abilities",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 41,
+          "question": "Number of different factors as specified by Spearman to explain the performance on some tests:",
+          "options": [
+            "(A) One 's' factor and many 'g' factors.",
+            "(B) Many 's' factors and many 'g' factors.",
+            "(C) One 's' factor and one 'g' factor.",
+            "(D) Many 's' factors and one 'g' factor."
+          ],
+          "correct_answer": 4,
+          "correct_text": "Many 's' factors and one 'g' factor.",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Theories of Intelligence",
+          "concept": "Spearman's Two-Factor Theory: one general factor (g) + many specific factors (s), one per test",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 42,
+          "question": "Which set of three approaches is more relevant to study the impact of Genetic factors on intelligence?\n\n1. Correlation between siblings\n2. Correlation between identical twins reared apart.\n3. Adopted child studies.\n4. Correlation between parents and children.\n\n**Codes :**",
+          "options": [
+            "(A) 1, 2 and 3",
+            "(B) 2, 3 and 4",
+            "(C) 1, 2 and 4",
+            "(D) 1, 3 and 4"
+          ],
+          "correct_answer": 2,
+          "correct_text": "2, 3 and 4",
+          "unit": "Unit 4",
+          "topic": "4.6 Genetics and Behavior",
+          "subtopic": "Behavioral genetics",
+          "concept": "MZ twins reared apart, adoption studies, and parent-child correlations are most relevant for genetic influence; sibling correlation also includes shared environment",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 43,
+          "question": "Match List – I with List – II and indicate your answer with the help of codes given below:\n\n| List – I (Psychologist) | List – II (Concept) |\n| --- | --- |\n| p. Adler | 1. Basic anxiety |\n| q. Bandura | 2. Triadic Reciprocal causation |\n| r. Jung | 3. Fictional Finalism |\n| s. Horney | 4. Principle of Equivalence |\n\n**Codes :**\n\n|   | p | q | r | s |\n| --- | --- | --- | --- | --- |\n| (A) | 2 | 4 | 3 | 1 |\n| (B) | 1 | 3 | 2 | 4 |\n| (C) | 3 | 2 | 4 | 1 |\n| (D) | 3 | 4 | 2 | 1 |",
+          "options": [
+            "(A) p-2, q-4, r-3, s-1",
+            "(B) p-1, q-3, r-2, s-4",
+            "(C) p-3, q-2, r-4, s-1",
+            "(D) p-3, q-4, r-2, s-1"
+          ],
+          "correct_answer": 3,
+          "correct_text": "p-3, q-2, r-4, s-1",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Personality approaches",
+          "concept": "Adler=Fictional Finalism, Bandura=Triadic Reciprocal Causation, Jung=Principle of Equivalence, Horney=Basic anxiety",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 44,
+          "question": "Researchers have found different ways in which an individual's genotype shapes his or her environment. Which of the following is NOT one of them?",
+          "options": [
+            "(A) The genotype has a passive effect on environment resulting from genetic similarity between parents and children.",
+            "(B) The child's genotype evokes particular kinds of reactions from social and physical environment.",
+            "(C) The child's genotype plays an active role in shaping the environment.",
+            "(D) People with different genotypes are differentially sensitive or susceptible to their environment."
+          ],
+          "correct_answer": 4,
+          "correct_text": "People with different genotypes are differentially sensitive or susceptible to their environment.",
+          "unit": "Unit 4",
+          "topic": "4.6 Genetics and Behavior",
+          "subtopic": "Gene-environment interaction",
+          "concept": "Three genotype-environment effects: passive, evocative, active; differential susceptibility is gene-environment INTERACTION, not genotype shaping environment",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 45,
+          "question": "Match List – I with List – II and indicate your answer using the codes given below:\n\n| List – I (Types of Variable) | List – II (Example) |\n| --- | --- |\n| p. Continuous | 1. Selection test outcome in terms of selected/rejected |\n| q. Real discrete | 2. Voice pitch |\n| r. Artificially discrete | 3. Intelligence |\n| s. Qualitative | 4. Gender |\n\n**Codes :**\n\n|   | p | q | r | s |\n| --- | --- | --- | --- | --- |\n| (A) | 4 | 1 | 2 | 3 |\n| (B) | 2 | 4 | 1 | 3 |\n| (C) | 3 | 1 | 4 | 2 |\n| (D) | 3 | 4 | 1 | 2 |",
+          "options": [
+            "(A) p-4, q-1, r-2, s-3",
+            "(B) p-2, q-4, r-1, s-3",
+            "(C) p-3, q-1, r-4, s-2",
+            "(D) p-3, q-4, r-1, s-2"
+          ],
+          "correct_answer": 4,
+          "correct_text": "p-3, q-4, r-1, s-2",
+          "unit": "Unit 2",
+          "topic": "2.1 Foundations of Research",
+          "subtopic": "Variables",
+          "concept": "Continuous=Intelligence, Real discrete=Gender, Artificially discrete=Selected/Rejected, Qualitative=Voice pitch",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": null,
+          "table_ref": null
+        }
+      ]
+    },
+    {
+      "type": "passage",
+      "id": "passage_46",
+      "heading": "Read the following passage carefully and answer questions from 46 to 50:",
+      "text": "The Classical Test Theory (CTT) assumes that every obtained score is a sum of the true score and the error of measurement. The earlier versions of the CTT, in their reliability conceptualization, ambitiously addressed the random errors of measurement. Accordingly, reliability can be conceptualized as a consistency between the true score and the obtained score. Reliability can be studied through various perspectives. In the test construction phase, internal consistency reliability is given heavy emphasis. Various reliability coefficients such as split-half reliability, Kuder-Richardson reliability, Cronbach alpha etc. have been developed for this purpose. One of the earlier development in CTT is the Spearman-Brown formula. The other important types of reliabilities include test-retest reliability and interscorer reliability.\n\nIn addition to reliability, psychologists emphasize test validity. Content validity, concurrent validity, predictive validity, construct validity are some of the important types of validities in psychometric studies. Factor analysis has also been employed in evaluating the test validity. Once the reliability and validity are well established, the test constructor attempts to establish the representative and comprehensive norms."
+    },
+    {
+      "type": "questions_block",
+      "range": "Q46–Q50",
+      "passage_ref": "passage_46",
+      "questions": [
+        {
+          "id": 46,
+          "question": "Reliability is conceptualized as",
+          "options": [
+            "(A) Obtained variance / True variance",
+            "(B) True variance / (True variance + Error variance)",
+            "(C) True variance / Error variance",
+            "(D) Obtained variance / Error variance"
+          ],
+          "correct_answer": 2,
+          "correct_text": "True variance / (True variance + Error variance)",
+          "unit": "Unit 3",
+          "topic": "3.3 Reliability",
+          "subtopic": "Classical Test Theory",
+          "concept": "Reliability = True score variance / Total (obtained) variance = True variance / (True variance + Error variance)",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": "passage_46",
+          "table_ref": null
+        },
+        {
+          "id": 47,
+          "question": "Cronbach alpha is\n\n1. larger than split half reliability coefficient\n2. smaller than reliability coefficient\n3. average of all possible split-half reliability coefficients\n4. equal to Kuder-Richardson reliability for dichotomous items\n\n**Codes :**",
+          "options": [
+            "(A) 1 only",
+            "(B) 2 only",
+            "(C) 3 and 4 only",
+            "(D) 1 and 4 only"
+          ],
+          "correct_answer": 3,
+          "correct_text": "3 and 4 only",
+          "unit": "Unit 3",
+          "topic": "3.3 Reliability",
+          "subtopic": "Internal consistency",
+          "concept": "Cronbach's alpha equals average of all possible split-half coefficients; equals KR-20 for dichotomous items",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": "passage_46",
+          "table_ref": null
+        },
+        {
+          "id": 48,
+          "question": "The interscorer reliability is especially important for\n\n1. Projective tests\n2. Achievement tests with short answers\n3. Multiple choice tests\n4. Judgements by multiple raters\n\n**Codes :**",
+          "options": [
+            "(A) 1 only",
+            "(B) 2 and 3 only",
+            "(C) 1 and 4 only",
+            "(D) 1, 2 and 4 only"
+          ],
+          "correct_answer": 4,
+          "correct_text": "1, 2 and 4 only",
+          "unit": "Unit 3",
+          "topic": "3.3 Reliability",
+          "subtopic": "Inter-rater reliability",
+          "concept": "Interscorer reliability important for subjective scoring: projective tests, descriptive achievement tests, multiple raters; NOT for objective MCQ tests",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": "passage_46",
+          "table_ref": null
+        },
+        {
+          "id": 49,
+          "question": "Consider that a newly developed test for assessing abstract reasoning and a well established test of abstract reasoning are administered to a sample of 350 and a correlation of 0.25, significant at .01 level is obtained. It will be inferred that the new test has",
+          "options": [
+            "(A) unsatisfactory concurrent validity",
+            "(B) satisfactory concurrent validity",
+            "(C) unsatisfactory predictive validity",
+            "(D) satisfactory predictive validity"
+          ],
+          "correct_answer": 1,
+          "correct_text": "unsatisfactory concurrent validity",
+          "unit": "Unit 3",
+          "topic": "3.4 Validity",
+          "subtopic": "Criterion-related validity",
+          "concept": "r=0.25 significant due to large N but practically too low for satisfactory concurrent validity",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": "passage_46",
+          "table_ref": null
+        },
+        {
+          "id": 50,
+          "question": "Factor analysis is best suited for studying",
+          "options": [
+            "(A) Concurrent validity",
+            "(B) Predictive Validity",
+            "(C) Content validity",
+            "(D) Construct validity"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Construct validity",
+          "unit": "Unit 3",
+          "topic": "3.4 Validity",
+          "subtopic": "Construct validity",
+          "concept": "Factor analysis examines underlying constructs and their relationships — best suited for construct validity assessment",
+          "era": "UGC",
+          "year": 2013,
+          "passage_ref": "passage_46",
+          "table_ref": null
+        }
+      ]
+    }
+  ]
+}

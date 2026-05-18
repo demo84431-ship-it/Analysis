@@ -1,0 +1,1017 @@
+{
+  "paper_metadata": {
+    "title": "UGC NET/JRF Examination, July 2016",
+    "date": "July 2016",
+    "subject": "Psychology — Paper II"
+  },
+  "content": [
+    {
+      "type": "questions_block",
+      "questions": [
+    {
+      "id": 1,
+      "question": "A procedure that establishes a sequence of responses which lead to a reward following the final response and then working backwards is called",
+      "options": [
+        "(A) Shaping",
+        "(B) Stimulus control",
+        "(C) Chaining",
+        "(D) Stimulus generalization"
+      ],
+      "correct_answer": 3,
+      "correct_text": "Chaining",
+      "unit": "Unit 5",
+      "topic": "5.3 Learning",
+      "subtopic": "Operant Conditioning",
+      "concept": "Chaining involves linking a series of individual responses into a complex sequence, where each response serves as a stimulus for the next, and only the final response is reinforced. The procedure often works backward from the last response.",
+      "era": "UGC",
+      "year": 2016,
+      "passage_ref": null,
+      "table_ref": null
+    },
+    {
+      "id": 2,
+      "question": "In a study on scaling of attitude items, eleven statements were included. What would be the number of pairs of attitude statements?",
+      "options": [
+        "(A) 21",
+        "(B) 55",
+        "(C) 110",
+        "(D) 121"
+      ],
+      "correct_answer": 2,
+      "correct_text": "55",
+      "unit": "Unit 3",
+      "topic": "3.4 Attitude Scaling",
+      "subtopic": "Paired Comparison Method",
+      "concept": "In paired comparison scaling, the number of pairs is calculated using the combination formula C(n,2) = n(n-1)/2. For 11 items: 11×10/2 = 55 pairs.",
+      "era": "UGC",
+      "year": 2016,
+      "passage_ref": null,
+      "table_ref": null
+    },
+    {
+      "id": 3,
+      "question": "Who first attempted to describe personality traits in terms of Lexical descriptors?",
+      "options": [
+        "(A) Ross Stagner",
+        "(B) Allport and Odbert",
+        "(C) R.B. Cattell",
+        "(D) Coasta and McCrae"
+      ],
+      "correct_answer": 2,
+      "correct_text": "Allport and Odbert",
+      "unit": "Unit 7",
+      "topic": "7.1 Personality",
+      "subtopic": "Trait Approach",
+      "concept": "Allport and Odbert (1936) were the first to systematically identify personality descriptors from the dictionary (lexical approach), listing approximately 17,953 personality-describing words. This laid the foundation for later trait theories by Cattell and the Five-Factor Model.",
+      "era": "UGC",
+      "year": 2016,
+      "passage_ref": null,
+      "table_ref": null
+    },
+    {
+      "id": 4,
+      "question": "Read each of the following two statements – Assertion (A) and Reason (R) and indicate your answer using codes given below:\n\n**Assertion (A)**: Classical conditioning is quick when UCS is presented immediately after CS rather than before.\n\n**Reason (R)**: According to cognitive perspective, classical conditioning occurs because CS provides expectancy about the coming of UCS.\n\n**Codes :**",
+      "options": [
+        "(A) Both (A) and (R) are true and (R) is the correct explanation of (A).",
+        "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+        "(C) (A) is true, but (R) is false.",
+        "(D) (A) is false, but (R) is true."
+      ],
+      "correct_answer": 1,
+      "correct_text": "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+      "unit": "Unit 5",
+      "topic": "5.3 Learning",
+      "subtopic": "Classical Conditioning",
+      "concept": "The assertion is true — forward conditioning (CS→UCS) is more effective than backward conditioning (UCS→CS). The reason is also true — the cognitive perspective (Rescorla) holds that the CS must provide expectancy/predictive information about the UCS. The reason correctly explains the assertion: the CS signals the impending UCS, creating an expectancy that facilitates learning.",
+      "era": "UGC",
+      "year": 2016,
+      "passage_ref": null,
+      "table_ref": null
+    },
+    {
+      "id": 5,
+      "question": "Which of the following have been explained by Freud in his psycho-analytic theory of motivation?\n\na. Homeostasis\nb. Drives\nc. Hedonism\nd. Instincts\n\n**Codes :**",
+      "options": [
+        "(A) a, b and d only.",
+        "(B) a, c and d only.",
+        "(C) b, c and d only.",
+        "(D) a, b and c only."
+      ],
+      "correct_answer": 2,
+      "correct_text": "a, c and d only",
+      "unit": "Unit 7",
+      "topic": "7.2 Motivation",
+      "subtopic": "Psychoanalytic Theory of Motivation",
+      "concept": "Freud's psychoanalytic theory of motivation explained Homeostasis (tension reduction/constancy principle), Hedonism (pleasure principle), and Instincts (Eros and Thanatos) as fundamental motivational forces. 'Drives' is more specifically associated with Hull's drive-reduction theory, not Freud's psychoanalytic framework.",
+      "era": "UGC",
+      "year": 2016,
+      "passage_ref": null,
+      "table_ref": null
+    },
+    {
+      "id": 6,
+      "question": "Match List – I with List – II and select the correct answer by choosing from the codes given below:\n\n| List – I (Concept) | List – II (Explanation) |\n|---|---|\n| a. Trait | i. Specific emotional and behavioural qualities of personality that are thought to be biologically based |\n| b. Type | ii. A collection of highly interconnected traits or dispositions which determine personality integration |\n| c. System | iii. Clustering of many stable and enduring dispositions or qualities. |\n| d. Temperament | iv. Consistent pattern of emotional and behavioural reactions a person displays across variety of situations. |\n\n**Codes :**\n\n| | a | b | c | d |\n|---|---|---|---|---|\n| (1) | i | ii | iii | iv |\n| (2) | ii | i | iii | iv |\n| (3) | iii | ii | iv | i |\n| (4) | iv | iii | ii | i |",
+      "options": [
+        "(A) a→i, b→ii, c→iii, d→iv",
+        "(B) a→ii, b→i, c→iii, d→iv",
+        "(C) a→iii, b→ii, c→iv, d→i",
+        "(D) a→iv, b→iii, c→ii, d→i"
+      ],
+      "correct_answer": 4,
+      "correct_text": "a→iv, b→iii, c→ii, d→i",
+      "unit": "Unit 7",
+      "topic": "7.1 Personality",
+      "subtopic": "Personality Concepts",
+      "concept": "Trait = consistent pattern across situations; Type = clustering of stable dispositions; System = collection of interconnected traits for personality integration; Temperament = biologically based emotional/behavioural qualities.",
+      "era": "UGC",
+      "year": 2016,
+      "passage_ref": null,
+      "table_ref": null
+    },
+    {
+      "id": 7,
+      "question": "Which of the following is correctly arranged?",
+      "options": [
+        "(A) Encoding – retrieval – storage",
+        "(B) Encoding – storage – retrieval",
+        "(C) Storage – encoding – retrieval",
+        "(D) Retrieval – encoding – storage"
+      ],
+      "correct_answer": 2,
+      "correct_text": "Encoding – storage – retrieval",
+      "unit": "Unit 5",
+      "topic": "5.4 Memory",
+      "subtopic": "Information Processing Model",
+      "concept": "In the information processing model of memory, the correct sequence is: Encoding (processing information into memory) → Storage (maintaining information over time) → Retrieval (accessing stored information when needed).",
+      "era": "UGC",
+      "year": 2016,
+      "passage_ref": null,
+      "table_ref": null
+    },
+    {
+      "id": 8,
+      "question": "Which one of the following does not contribute to memory?",
+      "options": [
+        "(A) Interesting / disinteresting learning material",
+        "(B) Goal behind learning",
+        "(C) Gender",
+        "(D) Some rest after learning"
+      ],
+      "correct_answer": 3,
+      "correct_text": "Gender",
+      "unit": "Unit 5",
+      "topic": "5.4 Memory",
+      "subtopic": "Factors Affecting Memory",
+      "concept": "Gender is generally not a consistent contributor to memory performance. Interest in material, motivation/goals behind learning, and rest after learning (reminiscence effect) all have well-documented effects on memory.",
+      "era": "UGC",
+      "year": 2016,
+      "passage_ref": null,
+      "table_ref": null
+    },
+    {
+      "id": 9,
+      "question": "In terms of efficiency in scanning information, which one of the following strategies is considered to be the best?",
+      "options": [
+        "(A) Conservative focusing",
+        "(B) Focus gambling",
+        "(C) Simultaneous scanning",
+        "(D) Successive scanning"
+      ],
+      "correct_answer": 1,
+      "correct_text": "Conservative focusing",
+      "unit": "Unit 6",
+      "topic": "6.1 Thinking",
+      "subtopic": "Concept Formation Strategies",
+      "concept": "Bruner identified four concept attainment strategies. Conservative focusing is considered the most efficient because it changes only one attribute at a time, systematically testing each hypothesis, thereby avoiding errors from changing multiple attributes simultaneously.",
+      "era": "UGC",
+      "year": 2016,
+      "passage_ref": null,
+      "table_ref": null
+    },
+    {
+      "id": 10,
+      "question": "In retrograde amnesia, which of the following kind of problem is seen:",
+      "options": [
+        "(A) Problems with recalling previously learned material",
+        "(B) Problems with face recognition.",
+        "(C) Difficulty finding routes.",
+        "(D) Poor encoding of verbal material."
+      ],
+      "correct_answer": 1,
+      "correct_text": "Problems with recalling previously learned material",
+      "unit": "Unit 5",
+      "topic": "5.4 Memory",
+      "subtopic": "Amnesia",
+      "concept": "Retrograde amnesia involves the loss of memories formed before the onset of amnesia (injury/disease). The person cannot recall previously learned information, as opposed to anterograde amnesia which impairs formation of new memories.",
+      "era": "UGC",
+      "year": 2016,
+      "passage_ref": null,
+      "table_ref": null
+    },
+    {
+      "id": 11,
+      "question": "Read each of the following two statements – Assertion (A) and Reason (R) and indicate your answer using codes given below:\n\n**Assertion (A)**: Extraverted individuals are sociable, impulsive and like excitement.\n\n**Reason (R)**: Brains of extraverts react more slowly and weakly to stimuli which cause them to seek excitement by approaching the environment.\n\n**Codes :**",
+      "options": [
+        "(A) Both (A) and (R) are true and (R) is the correct explanation of (A).",
+        "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+        "(C) (A) is true, but (R) is false.",
+        "(D) (A) is false, but (R) is true."
+      ],
+      "correct_answer": 1,
+      "correct_text": "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+      "unit": "Unit 7",
+      "topic": "7.1 Personality",
+      "subtopic": "Biological Theories of Personality",
+      "concept": "According to Eysenck's arousal theory, extraverts have lower baseline cortical arousal, causing their brains to react more slowly/weakly to stimuli. This leads them to seek external stimulation and excitement, explaining their sociable, impulsive behaviour.",
+      "era": "UGC",
+      "year": 2016,
+      "passage_ref": null,
+      "table_ref": null
+    },
+    {
+      "id": 12,
+      "question": "Match List – I with List – II and select the correct answer by choosing from the codes given below:\n\n| List – I (Concepts) | List – II (Explanation) |\n|---|---|\n| a. Personality Structure | i. Psychological reactions and motives that change dynamically over relatively brief periods. |\n| b. Personality Process | ii. Stable and enduring qualities that define the individual and distinguish individuals from one another. |\n| c. Personality Development | iii. People sometimes change and sometimes resist change or are unable to change accordingly |\n| d. Psychopathology and Change | iv. Everybody comes up to be an unique individual by adulthood |\n\n**Codes :**\n| | a | b | c | d |\n|---|---|---|---|---|\n| (1) | i | ii | iii | iv |\n| (2) | ii | iii | iv | i |\n| (3) | ii | i | iv | iii |\n| (4) | iii | i | ii | iv |",
+      "options": [
+        "(A) a→i, b→ii, c→iii, d→iv",
+        "(B) a→ii, b→iii, c→iv, d→i",
+        "(C) a→ii, b→i, c→iv, d→iii",
+        "(D) a→iii, b→i, c→ii, d→iv"
+      ],
+      "correct_answer": 3,
+      "correct_text": "a→ii, b→i, c→iv, d→iii",
+      "unit": "Unit 7",
+      "topic": "7.1 Personality",
+      "subtopic": "Personality Framework",
+      "concept": "Personality Structure refers to stable, enduring qualities. Personality Process involves dynamic psychological reactions changing over brief periods. Personality Development is about becoming a unique individual over time. Psychopathology and Change relates to resistance to or inability to change.",
+      "era": "UGC",
+      "year": 2016,
+      "passage_ref": null,
+      "table_ref": null
+    },
+    {
+      "id": 13,
+      "question": "Match List – I with List – II and indicate your answer using the codes given below:\n\n| List – I (Concepts) | List – II (Explanation) |\n|---|---|\n| a. Artificial concepts | i. Representation of objects |\n| b. Natural concepts | ii. Clearest objects in the physical world |\n| c. Prototypes | iii. Defined by set of rules |\n| d. Visual images | iv. Not based on precise properties |\n\n**Codes :**\n| | a | b | c | d |\n|---|---|---|---|---|\n| (1) | ii | iii | iv | i |\n| (2) | iii | iv | ii | i |\n| (3) | iii | ii | iv | i |\n| (4) | iv | iii | i | ii |",
+      "options": [
+        "(A) a→ii, b→iii, c→iv, d→i",
+        "(B) a→iii, b→iv, c→ii, d→i",
+        "(C) a→iii, b→ii, c→iv, d→i",
+        "(D) a→iv, b→iii, c→i, d→ii"
+      ],
+      "correct_answer": 2,
+      "correct_text": "a→iii, b→iv, c→ii, d→i",
+      "unit": "Unit 6",
+      "topic": "6.1 Thinking",
+      "subtopic": "Concept Types",
+      "concept": "Artificial concepts are defined by explicit rules (e.g., mathematical definitions). Natural concepts are formed through experience without precise defining properties. Prototypes are the clearest or best examples of a concept. Visual images are mental representations of objects.",
+      "era": "UGC",
+      "year": 2016,
+      "passage_ref": null,
+      "table_ref": null
+    },
+    {
+      "id": 14,
+      "question": "According to Master and Johnson following is the correct sequence of human sexual response :",
+      "options": [
+        "(A) Excitement → Orgasm → Plateau → Resolution",
+        "(B) Excitement → Plateau → Orgasm → Resolution",
+        "(C) Excitement → Arousal → Orgasm → Resolution",
+        "(D) Arousal → Excitement → Orgasm → Resolution"
+      ],
+      "correct_answer": 2,
+      "correct_text": "Excitement → Plateau → Orgasm → Resolution",
+      "unit": "Unit 7",
+      "topic": "7.2 Motivation",
+      "subtopic": "Human Sexual Response",
+      "concept": "Masters and Johnson (1966) proposed the four-stage model of human sexual response: Excitement (initial arousal), Plateau (sustained high arousal), Orgasm (climax), and Resolution (return to unaroused state).",
+      "era": "UGC",
+      "year": 2016,
+      "passage_ref": null,
+      "table_ref": null
+    },
+    {
+      "id": 15,
+      "question": "In graphical representations showing stress levels on X axis and performance on Y axis, best performance can be expected at",
+      "options": [
+        "(A) Lower end of X axis",
+        "(B) Middle portion of X axis",
+        "(C) Higher end of X axis",
+        "(D) None of the above"
+      ],
+      "correct_answer": 2,
+      "correct_text": "Middle portion of X axis",
+      "unit": "Unit 7",
+      "topic": "7.4 Stress",
+      "subtopic": "Yerkes-Dodson Law",
+      "concept": "The Yerkes-Dodson Law states that performance increases with arousal/stress up to an optimal point (moderate level), after which further increases in stress lead to declining performance. This creates an inverted-U relationship.",
+      "era": "UGC",
+      "year": 2016,
+      "passage_ref": null,
+      "table_ref": null
+    },
+    {
+      "id": 16,
+      "question": "Lesions of the ventromedial nuclei in the hypothalamus produce",
+      "options": [
+        "(A) Anorexia",
+        "(B) Obesity",
+        "(C) Low level of Leptin",
+        "(D) Hypoinsulinemia"
+      ],
+      "correct_answer": 2,
+      "correct_text": "Obesity",
+      "unit": "Unit 4",
+      "topic": "4.2 Nervous System",
+      "subtopic": "Hypothalamus and Eating Behaviour",
+      "concept": "The ventromedial hypothalamus (VMH) acts as a 'satiety centre.' Lesions to the VMH result in overeating (hyperphagia) and obesity. Conversely, lesions to the lateral hypothalamus produce anorexia (loss of appetite).",
+      "era": "UGC",
+      "year": 2016,
+      "passage_ref": null,
+      "table_ref": null
+    },
+    {
+      "id": 17,
+      "question": "Match List – I with List – II and select the correct answer by choosing from the codes given below :\n\n| List – I (Attitude Scaling Technique) | List – II (Computational Feature) |\n|---|---|\n| a. Paired comparison | i. Computes median category as scale values |\n| b. Scalogram | ii. Computes Z-scores as estimates of scale values |\n| c. Equal appearing intervals | iii. Computes coefficient of reproducibility |\n| d. Summated ratings | iv. Computes routine measures of item analysis like item-remainder correlation to select items |\n\n**Codes :**\n\n| | a | b | c | d |\n|---|---|---|---|---|\n| (1) | iii | ii | i | iv |\n| (2) | i | iv | ii | iii |\n| (3) | ii | iii | i | iv |\n| (4) | ii | iii | iv | i |",
+      "options": [
+        "(A) a→iii, b→ii, c→i, d→iv",
+        "(B) a→i, b→iv, c→ii, d→iii",
+        "(C) a→ii, b→iii, c→i, d→iv",
+        "(D) a→ii, b→iii, c→iv, d→i"
+      ],
+      "correct_answer": 3,
+      "correct_text": "a→ii, b→iii, c→i, d→iv",
+      "unit": "Unit 3",
+      "topic": "3.4 Attitude Scaling",
+      "subtopic": "Scaling Techniques",
+      "concept": "Paired Comparison computes Z-scores as scale value estimates. Scalogram (Guttman) computes coefficient of reproducibility. Equal Appearing Intervals (Thurstone) uses median category as scale value. Summated Ratings (Likert) uses item-remainder correlation for item selection.",
+      "era": "UGC",
+      "year": 2016,
+      "passage_ref": null,
+      "table_ref": null
+    },
+    {
+      "id": 18,
+      "question": "When the action potential reaches the end of the axon terminals, it causes the release of",
+      "options": [
+        "(A) An electric spark that sets off the next neuron",
+        "(B) Positively charged ions that excite the next cell",
+        "(C) Negatively charged ions that inhibit the next cell.",
+        "(D) Neurotransmitters that excite or inhibit the next cell."
+      ],
+      "correct_answer": 4,
+      "correct_text": "Neurotransmitters that excite or inhibit the next cell",
+      "unit": "Unit 4",
+      "topic": "4.1 Biological Basis",
+      "subtopic": "Synaptic Transmission",
+      "concept": "When the action potential reaches the axon terminal, it triggers the release of neurotransmitters into the synaptic cleft. These neurotransmitters can be excitatory (e.g., glutamate) or inhibitory (e.g., GABA), binding to receptors on the postsynaptic neuron.",
+      "era": "UGC",
+      "year": 2016,
+      "passage_ref": null,
+      "table_ref": null
+    },
+    {
+      "id": 19,
+      "question": "According to Freud following are the characteristics of instinct :\n\na. A source in some bodily deficit.\nb. An aim that focuses on gratification of need.\nc. An impetus that propels the person to act.\nd. An object through which instinct achieves its aim.\n\n**Codes :**",
+      "options": [
+        "(A) a and b only",
+        "(B) a, b and d only",
+        "(C) b, c and d only",
+        "(D) a, b, c and d"
+      ],
+      "correct_answer": 4,
+      "correct_text": "a, b, c and d",
+      "unit": "Unit 7",
+      "topic": "7.2 Motivation",
+      "subtopic": "Freud's Instinct Theory",
+      "concept": "Freud described four characteristics of instincts (Trieb): Source (bodily need/deficit), Aim (gratification/need reduction), Impetus (force/energy propelling action), and Object (specific means through which the instinct achieves its aim).",
+      "era": "UGC",
+      "year": 2016,
+      "passage_ref": null,
+      "table_ref": null
+    },
+    {
+      "id": 20,
+      "question": "Guilford initially started his work extending Thurston's theory of primary abilities but later on diverged on the grounds :\n\na. Obtained factors were not primary (independent) rather related to each other\nb. Thurston's factor analysis was mainly oriented to get simple structure\nc. It was difficult to name the abilities (factors)\nd. Guilford also found second-order and higher-order factors.\n\n**Codes :**",
+      "options": [
+        "(A) a and b only.",
+        "(B) b and c only.",
+        "(C) a, b and c only.",
+        "(D) a, b, c and d"
+      ],
+      "correct_answer": 4,
+      "correct_text": "a, b, c and d",
+      "unit": "Unit 6",
+      "topic": "6.2 Intelligence",
+      "subtopic": "Guilford's SOI Model",
+      "concept": "Guilford diverged from Thurstone because: (a) Thurstone's 'primary' factors were actually correlated; (b) Thurstone pursued simple structure; (c) naming factors was difficult; (d) Guilford discovered second and higher-order factors, leading to his Structure of Intellect model.",
+      "era": "UGC",
+      "year": 2016,
+      "passage_ref": null,
+      "table_ref": null
+    },
+    {
+      "id": 21,
+      "question": "AIDS attack a number of very different population; young gay men, intravenous drug users, haemophiliacs, Haitians, infants and recipients of blood transfusion, but commonly among them is the decrease in T lymphocytes, so it is an example of",
+      "options": [
+        "(A) Inductive reasoning",
+        "(B) Deductive reasoning",
+        "(C) Analogical reasoning",
+        "(D) Syllogism"
+      ],
+      "correct_answer": 1,
+      "correct_text": "Inductive reasoning",
+      "unit": "Unit 6",
+      "topic": "6.1 Thinking",
+      "subtopic": "Reasoning",
+      "concept": "Inductive reasoning moves from specific observations to a general principle. Here, observing decreased T lymphocytes across diverse AIDS-affected populations (young gay men, drug users, haemophiliacs, infants, etc.) leads to the general conclusion that AIDS is characterized by T lymphocyte decrease. This bottom-up reasoning from specific instances to a common principle is inductive.",
+      "era": "UGC",
+      "year": 2016,
+      "passage_ref": null,
+      "table_ref": null
+    },
+    {
+      "id": 22,
+      "question": "Match List – I with List – II and select the correct answer by choosing from the codes given below :\n\n**List – I**\n\na. Reintegrative memory\nb. Recall\nc. Recognition\nd. Relearning\n\n**List – II**\n\ni. Familiarity that we have met it before\nii. There is some residue from the past to learn easily\niii. Activity of some performance learned in the past\niv. To check details of the recovery of events in the personal past\n\n**Codes :**\n\n| | a | b | c | d |\n|---|---|---|---|---|\n| (1) | iv | iii | i | ii |\n| (2) | iv | i | iii | ii |\n| (3) | i | ii | iv | iii |\n| (4) | i | iv | ii | iii |",
+      "options": [
+        "(A) a→iv, b→iii, c→i, d→ii",
+        "(B) a→iv, b→i, c→iii, d→ii",
+        "(C) a→i, b→ii, c→iv, d→iii",
+        "(D) a→i, b→iv, c→ii, d→iii"
+      ],
+      "correct_answer": 1,
+      "correct_text": "a→iv, b→iii, c→i, d→ii",
+      "unit": "Unit 5",
+      "topic": "5.4 Memory",
+      "subtopic": "Types of Memory Retrieval",
+      "concept": "Reintegrative memory involves recovering detailed events from personal past. Recall is the reproduction of previously learned material/performance. Recognition is the sense of familiarity. Relearning (savings method) shows residual learning from past, making relearning easier.",
+      "era": "UGC",
+      "year": 2016,
+      "passage_ref": null,
+      "table_ref": null
+    },
+    {
+      "id": 23,
+      "question": "A 40 years old person is having the mental age of 20 years. What would be his IQ?",
+      "options": [
+        "(A) 100",
+        "(B) 50",
+        "(C) 80",
+        "(D) 125"
+      ],
+      "correct_answer": 2,
+      "correct_text": "50",
+      "unit": "Unit 6",
+      "topic": "6.2 Intelligence",
+      "subtopic": "IQ Calculation",
+      "concept": "Using the IQ ratio formula: IQ = (Mental Age / Chronological Age) × 100 = (20/40) × 100 = 50. This is a ratio IQ from Binet's approach, later replaced by deviation IQ by Wechsler.",
+      "era": "UGC",
+      "year": 2016,
+      "passage_ref": null,
+      "table_ref": null
+    },
+    {
+      "id": 24,
+      "question": "Muller-Lyer illusion is likely to occur more in cultures characterised by",
+      "options": [
+        "(A) People living in rectangular and square buildings",
+        "(B) People living in buildings which are round and have few corners",
+        "(C) People living in open spaces",
+        "(D) People living in caves"
+      ],
+      "correct_answer": 1,
+      "correct_text": "People living in rectangular and square buildings",
+      "unit": "Unit 5",
+      "topic": "5.2 Perception",
+      "subtopic": "Perceptual Illusions and Culture",
+      "concept": "Cross-cultural research (Segall, Campbell, & Herskovits) showed the Müller-Lyer illusion is more pronounced in 'carpentered world' cultures where rectangular buildings and right angles are common, as people learn to interpret angles as depth cues.",
+      "era": "UGC",
+      "year": 2016,
+      "passage_ref": null,
+      "table_ref": null
+    },
+    {
+      "id": 25,
+      "question": "Read each of the following two statements – Assertion (A) and Reason (R) and indicate your answer using codes given below:\n\n**Assertion (A)**: According to Classical Test Theory (CTT), reliability can be conceptualized as the ratio of true score variance to the observed score variance.\n\n**Reason (R)**: According to the CTT, the random error of measurement is assumed to be uncorrelated with the true score.\n\n**Codes :**",
+      "options": [
+        "(A) Both (A) and (R) are true and (R) is the correct explanation of (A).",
+        "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+        "(C) (A) is true, but (R) is false.",
+        "(D) (A) is false, but (R) is true."
+      ],
+      "correct_answer": 1,
+      "correct_text": "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+      "unit": "Unit 3",
+      "topic": "3.2 Reliability",
+      "subtopic": "Classical Test Theory",
+      "concept": "In CTT, reliability = σ²t/σ²o (true score variance/observed variance). This formula is derived from the assumption that error is uncorrelated with the true score, so observed variance = true variance + error variance, making rxx = σ²t/(σ²t + σ²e).",
+      "era": "UGC",
+      "year": 2016,
+      "passage_ref": null,
+      "table_ref": null
+    },
+    {
+      "id": 26,
+      "question": "Match List – I with List – II and select the correct answer by choosing from the codes given below:\n\n| List – I (System) | List – II (Components) |\n|---|---|\n| a. Visual system | i. Hammer, pinna, oval window |\n| b. Auditory system | ii. Cornea, vitreous humour, aqueous humour |\n| c. Neural system | iii. GABA, Serotonin, Dopamine |\n| d. Messenger System | iv. Glial cells, myelin, Neurillemma |\n\n**Codes :**\n\n| a | b | c | d |\n|---|---|---|---|\n| (1) i | ii | iii | iv |\n| (2) ii | iii | iv | i |\n| (3) iii | ii | i | iv |\n| (4) ii | i | iv | iii |",
+      "options": [
+        "(A) a→i, b→ii, c→iii, d→iv",
+        "(B) a→ii, b→iii, c→iv, d→i",
+        "(C) a→iii, b→ii, c→i, d→iv",
+        "(D) a→ii, b→i, c→iv, d→iii"
+      ],
+      "correct_answer": 4,
+      "correct_text": "a→ii, b→i, c→iv, d→iii",
+      "unit": "Unit 4",
+      "topic": "4.1 Biological Basis",
+      "subtopic": "Body Systems",
+      "concept": "Visual system components include cornea, vitreous humour, aqueous humour. Auditory system includes hammer (malleus), pinna, oval window. Neural system includes glial cells, myelin, neurilelemma. Messenger (chemical) system includes neurotransmitters like GABA, serotonin, dopamine.",
+      "era": "UGC",
+      "year": 2016,
+      "passage_ref": null,
+      "table_ref": null
+    },
+    {
+      "id": 27,
+      "question": "Read each of the following two statements – Assertion (A) and Reason (R) and indicate your answer using codes given below:\n\n**Assertion (A)**: Organisms learn to perform responses that produce positive reinforcers.\n\n**Reason (R)**: Positive reinforcement strengthens responses that permit escape from or avoidance of stimulus.\n\n**Codes :**",
+      "options": [
+        "(A) Both (A) and (R) are true and (R) is the correct explanation of (A).",
+        "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+        "(C) (A) is true, but (R) is false.",
+        "(D) (A) is false, but (R) is true."
+      ],
+      "correct_answer": 3,
+      "correct_text": "(A) is true, but (R) is false",
+      "unit": "Unit 5",
+      "topic": "5.3 Learning",
+      "subtopic": "Reinforcement Types",
+      "concept": "The assertion is true — organisms learn responses that produce positive reinforcers. The reason is false because it describes negative reinforcement (escape/avoidance), not positive reinforcement. Positive reinforcement strengthens behaviour by presenting a rewarding stimulus after the response.",
+      "era": "UGC",
+      "year": 2016,
+      "passage_ref": null,
+      "table_ref": null
+    },
+    {
+      "id": 28,
+      "question": "One prominent class of theorists of deductive reasoning believe that deduction depends on ______ of inference akin to those of ______.",
+      "options": [
+        "(A) informal rules; logical calculus",
+        "(B) formal rules; analytical calculus",
+        "(C) procedural rules; logical calculus",
+        "(D) formal rules; logical calculus"
+      ],
+      "correct_answer": 4,
+      "correct_text": "formal rules; logical calculus",
+      "unit": "Unit 6",
+      "topic": "6.1 Thinking",
+      "subtopic": "Deductive Reasoning",
+      "concept": "The formal rules (or rule-based) theory of deductive reasoning holds that deduction depends on formal rules of inference analogous to those used in logical calculus, similar to how a computer follows formal logical operations.",
+      "era": "UGC",
+      "year": 2016,
+      "passage_ref": null,
+      "table_ref": null
+    },
+    {
+      "id": 29,
+      "question": "Read each of the following two statements – Assertion (A) and Reason (R) and indicate your answer using codes given below:\n\n**Assertion (A)**: Ideas lose their original identity in fusion into more complex ideas.\n\n**Reason (R)**: Mind sometimes is analogous to chemical laws.\n\n**Codes :**",
+      "options": [
+        "(A) Both (A) and (R) are true and (R) is the correct explanation of (A).",
+        "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+        "(C) (A) is true, but (R) is false.",
+        "(D) (A) is false, but (R) is true."
+      ],
+      "correct_answer": 1,
+      "correct_text": "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+      "unit": "Unit 1",
+      "topic": "1.1 Emergence of Psychology",
+      "subtopic": "Structuralism and Associationism",
+      "concept": "This refers to the 'mental chemistry' analogy from associationist psychology (John Stuart Mill). The mind is analogous to chemical laws where elements fuse to form new compounds that differ from their components. Ideas fuse and lose their original identity in complex ideas.",
+      "era": "UGC",
+      "year": 2016,
+      "passage_ref": null,
+      "table_ref": null
+    },
+    {
+      "id": 30,
+      "question": "What type of cell is responsible for the reproduction of other cells of the body?\n\na. Blood cells\nb. Stem cells\nc. Neurons\nd. Basal cells\n\n**Codes :**",
+      "options": [
+        "(A) a only",
+        "(B) b only",
+        "(C) c & d only",
+        "(D) d & a only"
+      ],
+      "correct_answer": 2,
+      "correct_text": "b only",
+      "unit": "Unit 4",
+      "topic": "4.1 Biological Basis",
+      "subtopic": "Cell Types",
+      "concept": "Stem cells are undifferentiated cells capable of dividing and differentiating into various cell types. They are responsible for the reproduction and replacement of other cells in the body through cell division and differentiation.",
+      "era": "UGC",
+      "year": 2016,
+      "passage_ref": null,
+      "table_ref": null
+    },
+    {
+      "id": 31,
+      "question": "If the bones of the middle ear begins to deteriorate, the person will suffer difficulty in\n\na. Loudness\nb. Timbre\nc. Conduction\nd. Stimulation\n\n**Codes :**",
+      "options": [
+        "(A) a only",
+        "(B) b and c",
+        "(C) c only",
+        "(D) c and d"
+      ],
+      "correct_answer": 3,
+      "correct_text": "c only",
+      "unit": "Unit 5",
+      "topic": "5.1 Attention and Perception",
+      "subtopic": "Auditory System",
+      "concept": "The middle ear bones (ossicles: malleus, incus, stapes) are responsible for conducting and amplifying sound vibrations from the eardrum to the oval window. Deterioration primarily affects conduction (conductive hearing loss).",
+      "era": "UGC",
+      "year": 2016,
+      "passage_ref": null,
+      "table_ref": null
+    },
+    {
+      "id": 32,
+      "question": "What is the correct sequence of products in Guilford's Struct of Intellect Model (SOI)?",
+      "options": [
+        "(A) Unit → Class → System → Relations → Implication → Transformation",
+        "(B) Class → Unit → Systems → Relation → Transformation → Implication",
+        "(C) Unit → Class → Relation → System → Transformation → Implication",
+        "(D) Unit → Relation → Class → System → Transformation → Implication"
+      ],
+      "correct_answer": 3,
+      "correct_text": "Unit → Class → Relation → System → Transformation → Implication",
+      "unit": "Unit 6",
+      "topic": "6.2 Intelligence",
+      "subtopic": "Guilford's SOI Model",
+      "concept": "In Guilford's Structure of Intellect model, the Products dimension has six levels in ascending complexity: Units (single items), Classes (sets with common properties), Relations (connections between items), Systems (organized structures), Transformations (changes in information), and Implications (predictions/extrapolations).",
+      "era": "UGC",
+      "year": 2016,
+      "passage_ref": null,
+      "table_ref": null
+    },
+    {
+      "id": 33,
+      "question": "The light passes through the eye in which of the following sequence?",
+      "options": [
+        "(A) Cornea, Pupil, Lens, Retina",
+        "(B) Cornea, Lens, Pupil, Retina",
+        "(C) Lens, Cornea, Pupil, Retina",
+        "(D) Pupil, Cornea, Lens, Retina"
+      ],
+      "correct_answer": 1,
+      "correct_text": "Cornea, Pupil, Lens, Retina",
+      "unit": "Unit 5",
+      "topic": "5.1 Attention and Perception",
+      "subtopic": "Visual System",
+      "concept": "Light enters the eye through the cornea (transparent outer layer), passes through the pupil (opening in the iris), is focused by the lens, and reaches the retina (photoreceptor layer) at the back of the eye.",
+      "era": "UGC",
+      "year": 2016,
+      "passage_ref": null,
+      "table_ref": null
+    },
+    {
+      "id": 34,
+      "question": "Which one of the following statement is true in the context of item analysis?",
+      "options": [
+        "(A) Item-total correlation = Item-remainder correlation",
+        "(B) Item-total correlation is greater than or equal to item-remainder correlation.",
+        "(C) Item-total correlation is smaller than or equal to item-remainder correlation.",
+        "(D) Item-total correlation cannot be negative."
+      ],
+      "correct_answer": 2,
+      "correct_text": "Item-total correlation is greater than or equal to item-remainder correlation",
+      "unit": "Unit 3",
+      "topic": "3.1 Test Construction",
+      "subtopic": "Item Analysis",
+      "concept": "Item-total correlation includes the item score in the total, inflating the correlation. Item-remainder correlation excludes the item score from the total (partial correlation). Since the item contributes positively to its own total, item-total correlation ≥ item-remainder correlation.",
+      "era": "UGC",
+      "year": 2016,
+      "passage_ref": null,
+      "table_ref": null
+    },
+    {
+      "id": 35,
+      "question": "Match List – I with List – II and select the correct answer by choosing from the codes given below :\n\n| List – I (Concept) | List – II (Psychologists) |\n|---|---|\n| a. Mental Age | i. Stern |\n| b. Intelligence Quotient | ii. Binet |\n| c. Mental Tests | iii. Spearman |\n| d. Tetrad Equation | iv. J.M. Cattell |\n\n**Codes :**\n\n| a | b | c | d |\n|---|---|---|---|\n| (1) i | ii | iii | iv |\n| (2) ii | i | iv | iii |\n| (3) iii | ii | i | iv |\n| (4) iv | iii | ii | i |",
+      "options": [
+        "(A) a→i, b→ii, c→iii, d→iv",
+        "(B) a→ii, b→i, c→iv, d→iii",
+        "(C) a→iii, b→ii, c→i, d→iv",
+        "(D) a→iv, b→iii, c→ii, d→i"
+      ],
+      "correct_answer": 2,
+      "correct_text": "a→ii, b→i, c→iv, d→iii",
+      "unit": "Unit 6",
+      "topic": "6.2 Intelligence",
+      "subtopic": "Intelligence Testing History",
+      "concept": "Binet introduced the concept of Mental Age. Stern proposed the Intelligence Quotient (IQ = MA/CA × 100). J.M. Cattell coined 'Mental Tests.' Spearman developed the tetrad equation for demonstrating g-factor.",
+      "era": "UGC",
+      "year": 2016,
+      "passage_ref": null,
+      "table_ref": null
+    },
+    {
+      "id": 36,
+      "question": "The difference in images in the two eyes is greater for objects that are close and smaller for distant objects is an example of",
+      "options": [
+        "(A) Binocular Disparity",
+        "(B) Convergence",
+        "(C) Accommodation",
+        "(D) Relative Size"
+      ],
+      "correct_answer": 1,
+      "correct_text": "Binocular Disparity",
+      "unit": "Unit 5",
+      "topic": "5.2 Perception",
+      "subtopic": "Depth Perception",
+      "concept": "Binocular disparity refers to the slight difference in images projected on each retina due to the horizontal separation of the eyes. Objects closer to the viewer produce greater disparity, while distant objects produce less, providing depth information.",
+      "era": "UGC",
+      "year": 2016,
+      "passage_ref": null,
+      "table_ref": null
+    },
+    {
+      "id": 37,
+      "question": "Read each of the following two statements – Assertion (A) and Reason (R) and indicate your answer using codes given below:\n\n**Assertion (A)**: Information is transferred from STM to LTM.\n**Reason (R)**: Information maintained in the rehearsal buffer is prevented from decaying in STM.\n\n**Codes :**",
+      "options": [
+        "(A) Both (A) and (R) are true and (R) is the correct explanation of (A).",
+        "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+        "(C) (A) is true, but (R) is false.",
+        "(D) (A) is false, but (R) is true."
+      ],
+      "correct_answer": 2,
+      "correct_text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A)",
+      "unit": "Unit 5",
+      "topic": "5.4 Memory",
+      "subtopic": "Multi-Store Model",
+      "concept": "Both statements are true — information is transferred from STM to LTM, and rehearsal prevents decay in STM. However, R is not the correct explanation of A because merely preventing decay (maintenance rehearsal) does not itself cause transfer to LTM; transfer requires elaborative rehearsal and deeper encoding processes.",
+      "era": "UGC",
+      "year": 2016,
+      "passage_ref": null,
+      "table_ref": null
+    },
+    {
+      "id": 38,
+      "question": "Arrange the parts of C.N.S. in ascending order :\nI. Thalamus\nII. Medulla oblongata\nIII. Spinal cord\nIV. Frontal lobe\n\n**Codes :**",
+      "options": [
+        "(A) I, II, III, IV",
+        "(B) II, I, III, IV",
+        "(C) IV, II, I, III",
+        "(D) III, II, I, IV"
+      ],
+      "correct_answer": 4,
+      "correct_text": "III, II, I, IV",
+      "unit": "Unit 4",
+      "topic": "4.2 Nervous System",
+      "subtopic": "Central Nervous System Structure",
+      "concept": "Ascending order from lower to higher CNS structures: Spinal cord (lowest) → Medulla oblongata (brainstem) → Thalamus (diencephalon) → Frontal lobe (cerebral cortex, highest).",
+      "era": "UGC",
+      "year": 2016,
+      "passage_ref": null,
+      "table_ref": null
+    },
+    {
+      "id": 39,
+      "question": "Shaping in instrumental conditioning means",
+      "options": [
+        "(A) Teaching a complex sequence of behaviours by first shaping the final response in the sequence and then working backwards",
+        "(B) A continuous reinforcement schedule is used for establishing new behaviours.",
+        "(C) It involves reinforcing successive approximations of the final desired behaviour.",
+        "(D) Consistent occurrence of a behaviour in the presence of discriminative stimulus."
+      ],
+      "correct_answer": 3,
+      "correct_text": "It involves reinforcing successive approximations of the final desired behaviour",
+      "unit": "Unit 5",
+      "topic": "5.3 Learning",
+      "subtopic": "Operant Conditioning",
+      "concept": "Shaping, developed by Skinner, involves reinforcing behaviours that progressively approximate the desired target behaviour. Rather than waiting for the exact behaviour, any response closer to the goal is reinforced (successive approximation).",
+      "era": "UGC",
+      "year": 2016,
+      "passage_ref": null,
+      "table_ref": null
+    },
+    {
+      "id": 40,
+      "question": "According to Trichromatic theory of colour vision, which of the following are the three types of cones?",
+      "options": [
+        "(A) Red, Yellow and Blue",
+        "(B) Red, Blue and Green",
+        "(C) Yellow, Blue and Green",
+        "(D) Yellow, Red and Blue"
+      ],
+      "correct_answer": 2,
+      "correct_text": "Red, Blue and Green",
+      "unit": "Unit 5",
+      "topic": "5.1 Attention and Perception",
+      "subtopic": "Colour Vision",
+      "concept": "The Young-Helmholtz Trichromatic Theory proposes three types of cones sensitive to different wavelengths: Red (long), Green (medium), and Blue (short). All perceived colours result from combinations of these three cone responses.",
+      "era": "UGC",
+      "year": 2016,
+      "passage_ref": null,
+      "table_ref": null
+    },
+    {
+      "id": 41,
+      "question": "Read each of the following two statements – Assertion (A) and Reason (R) and indicate your answer using codes given below:\n\n**Assertion (A)**: gf and gc correlate positively across the age levels with moderate magnitude.\n\n**Reason (R)**: gf being neural energy is invested in the cultivation of gc and both are having different growth patterns.\n\n**Codes :**",
+      "options": [
+        "(A) Both (A) and (R) are true and (R) is the correct explanation of (A).",
+        "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+        "(C) (A) is true, but (R) is false.",
+        "(D) (A) is false, but (R) is true."
+      ],
+      "correct_answer": 1,
+      "correct_text": "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+      "unit": "Unit 6",
+      "topic": "6.2 Intelligence",
+      "subtopic": "Cattell-Horn Theory (gf-gc)",
+      "concept": "According to Cattell's Investment Theory, fluid intelligence (gf) represents raw neural processing capacity that is 'invested' in developing crystallized intelligence (gc). They correlate positively at moderate levels but have different developmental trajectories — gf peaks earlier, gc continues to grow.",
+      "era": "UGC",
+      "year": 2016,
+      "passage_ref": null,
+      "table_ref": null
+    },
+    {
+      "id": 42,
+      "question": "Read each of the following two statements – Assertion (A) and Reason (R) and indicate your answer using codes given below:\n\n**Assertion (A)**: The creators of three dimensional movies simulate convergence by photographing a scene with two cameras placed a few inches apart.\n\n**Reason (R)**: Convergence is a binocular cue for perceiving depth by the extent to which the eyes converge inwards when looking at an object.\n\n**Codes :**",
+      "options": [
+        "(A) Both (A) and (R) are true and (R) is the correct explanation of (A).",
+        "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+        "(C) (A) is true, but (R) is false.",
+        "(D) (A) is false, but (R) is true."
+      ],
+      "correct_answer": 2,
+      "correct_text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A)",
+      "unit": "Unit 5",
+      "topic": "5.2 Perception",
+      "subtopic": "Depth Perception Cues",
+      "concept": "Both statements are true — 3D movies use two cameras placed apart to create different images for each eye (simulating how our two eyes see the world), and convergence is indeed a binocular depth cue. However, R is not the correct explanation because the two-camera technique primarily simulates binocular disparity (stereopsis), not convergence. The cameras capture slightly different perspectives; convergence is the viewer's response, not what the cameras simulate.",
+
+      "era": "UGC",
+      "year": 2016,
+      "passage_ref": null,
+      "table_ref": null
+    },
+    {
+      "id": 43,
+      "question": "In heightened emotional states, the following functions are NOT triggered by sympathetic Nervous System activity:\n\na. perspiration\nb. heightened pulse rate\nc. digestion\nd. pupillary dilation\n\n**Codes :**",
+      "options": [
+        "(A) c alone",
+        "(B) both c and d",
+        "(C) a, b and c",
+        "(D) a, c and d"
+      ],
+      "correct_answer": 1,
+      "correct_text": "c alone",
+      "unit": "Unit 7",
+      "topic": "7.3 Emotion",
+      "subtopic": "Autonomic Nervous System",
+      "concept": "The sympathetic nervous system (fight-or-flight) triggers perspiration, heightened pulse rate, and pupillary dilation. Digestion is inhibited by the sympathetic system and instead promoted by the parasympathetic system (rest-and-digest).",
+      "era": "UGC",
+      "year": 2016,
+      "passage_ref": null,
+      "table_ref": null
+    },
+    {
+      "id": 44,
+      "question": "Match List – I with List – II and select the correct answer by choosing from the codes given below :\n\n| List – I (Type of Conditioning) | List – II (Explanation) |\n|---|---|\n| a. Delayed conditioning | i. The onset of CS precedes the onset of the UCS and the CS remains on for the initial part of UCS |\n| b. Trace conditioning | ii. The onset of CS precedes the onset of the UCS and the CS goes off before the onset of UCS |\n| c. Simultaneous conditioning | iii. The CS and UCS come on and go off at the same time |\n| d. Backward conditioning | iv. The onset of UCS precedes the onset of the CS and the UCS goes off before CS comes on |\n\n**Codes :**\n\n| | a | b | c | d |\n|---|---|---|---|---|\n| (1) | i | ii | iv | iii |\n| (2) | iv | ii | iii | i |\n| (3) | iv | iii | i | ii |\n| (4) | iv | iii | ii | i |",
+      "options": [
+        "(A) a→i, b→ii, c→iv, d→iii",
+        "(B) a→iv, b→ii, c→iii, d→i",
+        "(C) a→iv, b→iii, c→i, d→ii",
+        "(D) a→iv, b→iii, c→ii, d→i"
+      ],
+      "correct_answer": 4,
+      "correct_text": "a→iv, b→iii, c→ii, d→i",
+      "unit": "Unit 5",
+      "topic": "5.3 Learning",
+      "subtopic": "Types of Classical Conditioning",
+      "concept": "Note: In the original UGC NET paper, List–II items were ordered differently (iv=Delayed, iii=Trace, ii=Simultaneous, i=Backward), making option (4) the correct answer. With the List–II ordering in this transcription, the correct conceptual mapping is: Delayed conditioning — CS precedes UCS and overlaps with it; Trace conditioning — CS precedes UCS with a gap (CS ends before UCS begins); Simultaneous conditioning — CS and UCS occur together; Backward conditioning — UCS precedes CS (least effective).",
+      "era": "UGC",
+      "year": 2016,
+      "passage_ref": null,
+      "table_ref": null
+    },
+    {
+      "id": 45,
+      "question": "Which of the following statement/s is/are true, when the Eysenck Personality Questionnaire (EPQ or EPQ-R) and Costa and McCrae's NEO-PI-3 are compared?\na. EPQ-R Psychoticism (P) scale is uncorrelated with Five-Factor Agreeableness (A) and Consentiousness (C) Scale.\nb. P scale is positively correlated with A and C scales.\nc. P scale is negatively correlated with A and C scales.\nd. EPQ-R has Lie scale, NEO-PI-3 has no lie scale.\ne. Both EPQ-R and NEO-PI-3 have lie scale.\n\nCodes :",
+      "options": [
+        "(A) a and d only",
+        "(B) b and e only",
+        "(C) c and d only",
+        "(D) a and e only"
+      ],
+      "correct_answer": 3,
+      "correct_text": "c and d only",
+      "unit": "Unit 3",
+      "topic": "3.3 Psychological Tests",
+      "subtopic": "Personality Inventories",
+      "concept": "EPQ-R Psychoticism is negatively correlated with Agreeableness and Conscientiousness (high P = low A and C). The EPQ-R includes a Lie (L) scale for social desirability, while the NEO-PI-R does not have a separate lie scale.",
+      "era": "UGC",
+      "year": 2016,
+      "passage_ref": null,
+      "table_ref": null
+    },
+    {
+      "id": 46,
+      "question": "Instructions (Questions 46 to 50):\nRead the following paragraph and answer the five questions which follow:\nAn environmental psychologist hypothesized that the noise would adversely affect the performance on mental tasks. One hundred and fifty subjects, 75 boys and 75 girls, studying in the twelfth standard, in the age range of 17 to 19 years and in the IQ range of 85 to 115, constituted the initial pool of subjects. Three groups of equal size were formed by random assignment. Group I performed under high noise condition (75 decibels), Group II performed under moderate noise condition (60 decibels), and Group III performed under silent condition. Each subject was instructed to solve 45 simple numerical problems in the allotted time of 90 minutes. The mean number of correctly solved problems were twenty-four, twenty and fifteen respectively. The intergroup mean differences were statistically significant.\n\nThe variable 'intelligence', in the above study, can be labelled as\na. Behavioural variable\nb. Organismic variable\nc. Continuous variable\nd. Controlled variable\n\nCodes :",
+      "options": [
+        "(A) a and d only",
+        "(B) b and c only",
+        "(C) a, c and d only",
+        "(D) b, c and d only"
+      ],
+      "correct_answer": 4,
+      "correct_text": "b, c and d only",
+      "unit": "Unit 2",
+      "topic": "2.1 Research Methodology",
+      "subtopic": "Variables",
+      "concept": "Intelligence is an organismic variable (a characteristic of the organism), a continuous variable (measured on a continuous scale), and a controlled variable (restricted to IQ range 85-115). It is not a behavioural variable (which refers to measured behaviours as dependent variables).",
+      "era": "UGC",
+      "year": 2016,
+      "passage_ref": "passage_46",
+      "table_ref": null
+    },
+    {
+      "id": 47,
+      "question": "Which one of the following conclusion can be drawn on the basis of the above study?",
+      "options": [
+        "(A) The researcher's hypothesis has been accepted.",
+        "(B) The researcher's hypothesis has been rejected.",
+        "(C) The researcher's hypothesis has been partially accepted.",
+        "(D) Inadequate data to evaluate researcher's hypothesis."
+      ],
+      "correct_answer": 2,
+      "correct_text": "The researcher's hypothesis has been rejected",
+      "unit": "Unit 2",
+      "topic": "2.1 Research Methodology",
+      "subtopic": "Hypothesis Testing",
+      "concept": "The hypothesis stated noise would adversely affect (decrease) performance. However, results show: High noise = 24 correct, Moderate = 20, Silent = 15. Performance was HIGHEST under high noise, directly contradicting the hypothesis. The hypothesis is therefore rejected.",
+      "era": "UGC",
+      "year": 2016,
+      "passage_ref": "passage_46",
+      "table_ref": null
+    },
+    {
+      "id": 48,
+      "question": "Read each of the following two statements – Assertion (A) and Reason (R) and indicate your answer using codes given below:\n\n**Assertion (A)**: In the above study, the subjects have been randomly assigned to the three groups.\n\n**Reason (R)**: Random assignment of the subjects enables the experimenter to manipulate the independent variable effectively.\n\n**Codes :**",
+      "options": [
+        "(A) Both (A) and (R) are true and (R) is the correct explanation of (A).",
+        "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+        "(C) (A) is true, but (R) is false.",
+        "(D) (A) is false, but (R) is true."
+      ],
+      "correct_answer": 3,
+      "correct_text": "(A) is true, but (R) is false",
+      "unit": "Unit 2",
+      "topic": "2.1 Research Methodology",
+      "subtopic": "Experimental Design",
+      "concept": "The assertion is true — the passage states subjects were randomly assigned to three groups. The reason is false because random assignment does not enable manipulation of the independent variable; rather, it controls extraneous variables and ensures group equivalence. The experimenter manipulates the IV by deciding which group receives which noise condition; random assignment helps ensure valid causal inference by equalizing groups.",
+
+      "era": "UGC",
+      "year": 2016,
+      "passage_ref": "passage_46",
+      "table_ref": null
+    },
+    {
+      "id": 49,
+      "question": "Match List – I with List – II in the context of the above study, select the correct answer by choosing from the codes given below:\n\n| List – I (Types of Variable) | List – II (Variables) |\n|---|---|\n| a. Independent variable | i. Subject's education |\n| b. Dependent variable | ii. Subject's gender |\n| c. Controlled variable | iii. Noise level |\n| d. Discrete variable | iv. Number of numerical problems correctly solved by subject |\n\n**Codes :**\n\n| | a | b | c | d |\n|---|---|---|---|---|\n| (1) | iii | iv | i | ii |\n| (2) | iv | iii | i | ii |\n| (3) | iv | iii | ii | i |\n| (4) | iii | iv | ii | i |",
+      "options": [
+        "(A) a→iii, b→iv, c→i, d→ii",
+        "(B) a→iv, b→iii, c→i, d→ii",
+        "(C) a→iv, b→iii, c→ii, d→i",
+        "(D) a→iii, b→iv, c→ii, d→i"
+      ],
+      "correct_answer": 1,
+      "correct_text": "a→iii, b→iv, c→i, d→ii",
+      "unit": "Unit 2",
+      "topic": "2.1 Research Methodology",
+      "subtopic": "Variables Classification",
+      "concept": "Independent variable = Noise level (manipulated across conditions). Dependent variable = Number of problems correctly solved (measured outcome). Controlled variable = Subject's education (all were 12th standard — held constant). Discrete variable = Subject's gender (a categorical/binary variable with two discrete levels — male/female).",
+
+      "era": "UGC",
+      "year": 2016,
+      "passage_ref": "passage_46",
+      "table_ref": null
+    },
+    {
+      "id": 50,
+      "question": "In the above study, the researcher's hypothesis would be labelled as\n\na. directional\nb. non-directional\nc. Causal\nd. correlational\n\n**Codes :**",
+      "options": [
+        "(A) a only",
+        "(B) a and c only",
+        "(C) b and c only",
+        "(D) b and d only"
+      ],
+      "correct_answer": 2,
+      "correct_text": "a and c only",
+      "unit": "Unit 2",
+      "topic": "2.1 Research Methodology",
+      "subtopic": "Hypothesis Types",
+      "concept": "The hypothesis is directional because it specifies the direction of the effect ('adversely affect' — noise will decrease performance). It is causal because the study is an experiment designed to establish a cause-effect relationship between noise and performance. It is not correlational or non-directional.",
+      "era": "UGC",
+      "year": 2016,
+"passage_ref": "passage_46",
+      "table_ref": null
+    }
+  ]
+    }
+  ]
+}

@@ -1,0 +1,1028 @@
+{
+  "paper_metadata": {
+    "title": "UGC NET/JRF Examination, June 2011",
+    "date": "June 2011",
+    "subject": "Psychology — Paper II"
+  },
+  "content": [
+    {
+      "type": "questions_block",
+      "range": "Q1-Q47",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Match List – I with List – II :\n\n| List – I | List – II |\n| --- | --- |\n| (a) Linguistic Intelligence | 1. Use of body parts to solve problems including control over motor actions |\n| (b) Musical Intelligence | 2. Engage in abstract thought, that is, use of appropriate relationships in the absence of action or objects. |\n| (c) Mathematical Intelligence | 3. Capacity related to phonology, syntax, semantics and pragmatics |\n| (d) Kinesthetic Intelligence | 4. Ability to create, communicate and understand meanings from pitch, rhythm and timber qualities of sound |\n\nCodes :\n\n| (a) | (b) | (c) | (d) |\n| --- | --- | --- | --- |\n| (A) | 4 | 1 | 2 | 3 |\n| (B) | 3 | 4 | 2 | 1 |\n| (C) | 4 | 3 | 1 | 2 |\n| (D) | 1 | 2 | 3 | 4 |",
+          "options": [
+            "(A) (a)→4, (b)→1, (c)→2, (d)→3",
+            "(B) (a)→3, (b)→4, (c)→2, (d)→1",
+            "(C) (a)→4, (b)→3, (c)→1, (d)→2",
+            "(D) (a)→1, (b)→2, (c)→3, (d)→4"
+          ],
+          "correct_answer": 2,
+          "correct_text": "(a)→3, (b)→4, (c)→2, (d)→1",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Theories of Intelligence",
+          "concept": "Gardner's Multiple Intelligences: Linguistic-phonology/syntax, Musical-pitch/rhythm, Mathematical-abstract thought, Kinesthetic-body/motor control",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 2,
+          "question": "Choose the correct answer :\n\n**Assertion (A):** Colour sensation is the effect of certain wavelengths on the nervous system.\n\n**Reason (R):** Colour is a product of the visual system, not an inherent property of the visible spectrum.",
+          "options": [
+            "(A) (A) is correct but (R) is wrong.",
+            "(B) (A) is not correct but (R) is correct.",
+            "(C) Both (A) and (R) are correct but (R) is not the correct explanation of (A).",
+            "(D) Both (A) and (R) are correct and (R) is the correct explanation of (A)."
+          ],
+          "correct_answer": 4,
+          "correct_text": "Both (A) and (R) are correct and (R) is the correct explanation of (A).",
+          "unit": "Unit 4",
+          "topic": "4.1 Sensory Systems",
+          "subtopic": "Vision",
+          "concept": "Color perception — wavelength-neural response relationship; color as psychological construct",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 3,
+          "question": "Choose the correct answer :\n\n**Assertion (A):** Psychological tests when properly used serve an important function in preventing unfair discrimination of the minorities.\n\n**Reason (R):** Psychological tests can indeed be misused with minorities or anyone else.",
+          "options": [
+            "(A) (A) is correct but (R) is wrong.",
+            "(B) Both (A) and (R) are correct but (R) is not the correct explanation of (A).",
+            "(C) Both (A) and (R) are wrong.",
+            "(D) (A) is wrong but (R) is right."
+          ],
+          "correct_answer": 2,
+          "correct_text": "Both (A) and (R) are correct but (R) is not the correct explanation of (A).",
+          "unit": "Unit 3",
+          "topic": "3.7 Applications",
+          "subtopic": "Ethical Use of Tests",
+          "concept": "Psychological tests prevent unfair discrimination when properly used; misuse potential exists",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 4,
+          "question": "Choose the correct answer :\n\n**Assertion (A):** Equal number of 'yes' and 'no' keyed answers are included in tests to nullify acquiesce or the tendency to answer 'yes' or 'true'.\n\n**Reason (R):** Social desirability can be reduced in forced choice items but cannot be eliminated completely.",
+          "options": [
+            "(A) Both (A) and (R) are wrong.",
+            "(B) (A) is correct but (R) is wrong.",
+            "(C) (A) is wrong but (R) is correct.",
+            "(D) Both (A) and (R) are correct but (R) is not the correct explanation of (A)."
+          ],
+          "correct_answer": 4,
+          "correct_text": "Both (A) and (R) are correct but (R) is not the correct explanation of (A).",
+          "unit": "Unit 3",
+          "topic": "3.2 Test Construction",
+          "subtopic": "Response Sets",
+          "concept": "Acquiescence bias controlled by balanced yes/no items; social desirability reduced by forced-choice format",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 5,
+          "question": "The apparent motion of stationary point of light in darkness is called",
+          "options": [
+            "(A) Biological motion",
+            "(B) Binocular rivalry",
+            "(C) Auto stereogram",
+            "(D) Autokinetic movement"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Autokinetic movement",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Perception of Motion",
+          "concept": "Autokinetic effect — apparent motion of stationary light in dark room",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 6,
+          "question": "Aniseikonia means",
+          "options": [
+            "(A) A form of Agnosia in which an individual cannot recognise tunes or melodies.",
+            "(B) A tendency to perceive a form or surface as having distinct contours.",
+            "(C) An optical anomaly in which the image in one eye is larger than in the other.",
+            "(D) Lack of sense of smell."
+          ],
+          "correct_answer": 3,
+          "correct_text": "An optical anomaly in which the image in one eye is larger than in the other.",
+          "unit": "Unit 4",
+          "topic": "4.1 Sensory Systems",
+          "subtopic": "Vision",
+          "concept": "Aniseikonia — unequal image size between eyes",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 7,
+          "question": "Among the following which one is not a theory of intelligence?",
+          "options": [
+            "(A) Coci's biological theory",
+            "(B) Anderson's theory",
+            "(C) James-Lange theory",
+            "(D) Gardner's theory"
+          ],
+          "correct_answer": 3,
+          "correct_text": "James-Lange theory",
+          "unit": "Unit 7",
+          "topic": "7.3 Emotion",
+          "subtopic": "Theories of Emotion",
+          "concept": "James-Lange is a theory of emotion, not intelligence",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 8,
+          "question": "The tendency of the eyes to turn towards each other in a co-ordinated action to fixate on targets located nearby is called",
+          "options": [
+            "(A) Equipotentiality",
+            "(B) Consonance",
+            "(C) Dichromatism",
+            "(D) Convergence"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Convergence",
+          "unit": "Unit 4",
+          "topic": "4.1 Sensory Systems",
+          "subtopic": "Vision",
+          "concept": "Convergence — binocular cue for depth perception where eyes turn inward",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 9,
+          "question": "The number of cycles or frequency of sound wave per second determines",
+          "options": [
+            "(A) Pitch",
+            "(B) Loudness",
+            "(C) Timbre",
+            "(D) Amplitude"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Pitch",
+          "unit": "Unit 4",
+          "topic": "4.1 Sensory Systems",
+          "subtopic": "Audition",
+          "concept": "Pitch determined by frequency of sound wave",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 10,
+          "question": "The minimum amount of physical intensity of a stimulus required for its detection is called",
+          "options": [
+            "(A) Potentiation",
+            "(B) Absolute Limen",
+            "(C) Differential Threshold",
+            "(D) Terminal Threshold"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Absolute Limen",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Psychophysics",
+          "concept": "Absolute threshold (limen) — minimum stimulus intensity for detection",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 11,
+          "question": "Out of the following which one is not a method of measuring reliability?",
+          "options": [
+            "(A) Test-Retest",
+            "(B) Alternate-form",
+            "(C) Predictive",
+            "(D) Split-Half"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Predictive",
+          "unit": "Unit 3",
+          "topic": "3.3 Reliability",
+          "subtopic": "Methods of Measuring Reliability",
+          "concept": "Predictive is a type of validity, not reliability",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 12,
+          "question": "Among the following which one is not a projective test?",
+          "options": [
+            "(A) Minnesota Multiphasic Personality Inventory",
+            "(B) Somatic Ink Blot Systems",
+            "(C) Thematic Apperception Test",
+            "(D) Rorschach Ink Blot Test"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Minnesota Multiphasic Personality Inventory",
+          "unit": "Unit 3",
+          "topic": "3.6 Types of Tests by Domain",
+          "subtopic": "Personality Tests",
+          "concept": "MMPI is an objective personality test, not projective",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 13,
+          "question": "Inability to break out of a pattern which really leads to the solution of a problem is called",
+          "options": [
+            "(A) Functional Variability",
+            "(B) Functional Fixedness",
+            "(C) Functional Storming",
+            "(D) Functional Orientation"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Functional Fixedness",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Problem Solving",
+          "concept": "Functional fixedness — inability to see alternative uses for objects (Duncker candle problem)",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 14,
+          "question": "The correct sequence of different stages of psycho-sexual development is",
+          "options": [
+            "(A) Anal, Oral, Phallic, Genital, Latency",
+            "(B) Anal, Phallic, Oral, Genital, Latency",
+            "(C) Oral, Anal, Latency, Phallic, Genital",
+            "(D) Oral, Anal, Phallic, Latency, Genital"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Oral, Anal, Phallic, Latency, Genital",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Psychoanalytic Approach",
+          "concept": "Freud's psychosexual stages: Oral → Anal → Phallic → Latency → Genital",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 15,
+          "question": "According to Carl Jung, collective unconscious is a common reservoir of images derived from",
+          "options": [
+            "(A) our early repressed desires.",
+            "(B) our unfulfilled desires.",
+            "(C) our ancestors' universal experiences.",
+            "(D) our early sexual tensions."
+          ],
+          "correct_answer": 3,
+          "correct_text": "our ancestors' universal experiences.",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Neo-Freudian Theories",
+          "concept": "Jung's collective unconscious — inherited archetypes from ancestral experience",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 16,
+          "question": "All our thoughts and feelings about ourselves is an answer to the question \"What can I do\" are referred to as",
+          "options": [
+            "(A) Self-Concept",
+            "(B) Self-Esteem",
+            "(C) Self-Worth",
+            "(D) Self-Efficacy"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Self-Efficacy",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Social-Cognitive Approach",
+          "concept": "Bandura's self-efficacy — beliefs about what one can do in specific situations",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 17,
+          "question": "In Rorschach Ink Blot Test, responses reflect",
+          "options": [
+            "(A) our inner conflicts",
+            "(B) our inner experience",
+            "(C) our inner feelings",
+            "(D) our inner conflicts and feelings"
+          ],
+          "correct_answer": 4,
+          "correct_text": "our inner conflicts and feelings",
+          "unit": "Unit 3",
+          "topic": "3.6 Types of Tests by Domain",
+          "subtopic": "Projective Tests",
+          "concept": "Rorschach Inkblot Test reveals inner conflicts and feelings through projective responses",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 18,
+          "question": "The lasting behaviours, thoughts and emotions that specify how do we react and adapt to other people and situations make up our",
+          "options": [
+            "(A) Attitudes",
+            "(B) Beliefs",
+            "(C) Personality",
+            "(D) Intelligence"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Personality",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Definitions and Determinants",
+          "concept": "Definition of personality — lasting patterns of behavior, thought, and emotion",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 19,
+          "question": "Match List – I with List – II :\n\n| List – I | List – II |\n| --- | --- |\n| (a) Person is driven by unconscious forces, primarily sexual urges | 1. Trait-Approach |\n| (b) Person has a tendency to fulfil his potential | 2. Social-Learning Approach |\n| (c) Person's ideas, thoughts and belief lead to behaviour | 3. Humanistic Approach |\n| (d) Person's trait develops in a tendency to behave in a particular way | 4. Psychoanalytic Approach |\n\nCodes :\n\n| (a) | (b) | (c) | (d) |\n| --- | --- | --- | --- |\n| (A) | 1 | 2 | 3 | 4 |\n| (B) | 2 | 3 | 4 | 1 |\n| (C) | 3 | 2 | 4 | 1 |\n| (D) | 4 | 3 | 2 | 1 |",
+          "options": [
+            "(A) (a)→1, (b)→2, (c)→3, (d)→4",
+            "(B) (a)→2, (b)→3, (c)→4, (d)→1",
+            "(C) (a)→3, (b)→2, (c)→4, (d)→1",
+            "(D) (a)→4, (b)→3, (c)→2, (d)→1"
+          ],
+          "correct_answer": 4,
+          "correct_text": "(a)→4, (b)→3, (c)→2, (d)→1",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Personality Approaches",
+          "concept": "Matching personality approaches: Unconscious forces-Psychoanalytic, Potential-Humanistic, Ideas/cognition-Social-Learning, Traits-Trait approach",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 20,
+          "question": "A child's beginning sentences differ from adult's sentences. Such sentences of children are called",
+          "options": [
+            "(A) Phonology",
+            "(B) Language",
+            "(C) Communication",
+            "(D) Telegraphic"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Telegraphic",
+          "unit": "Unit 9",
+          "topic": "9.2 Major Developmental Theories",
+          "subtopic": "Language Development",
+          "concept": "Telegraphic speech — early child sentences with content words but missing function words",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 21,
+          "question": "Language is a special form of",
+          "options": [
+            "(A) Thinking",
+            "(B) Communication",
+            "(C) Problem solving",
+            "(D) Heuristics"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Communication",
+          "unit": "Unit 9",
+          "topic": "9.2 Major Developmental Theories",
+          "subtopic": "Language Development",
+          "concept": "Language as a specialized form of communication",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 22,
+          "question": "Choose the correct answer :\n\n**Assertion (A):** Non-Parametric tests are called distribution free tests.\n\n**Reason (R):** Assumptions about the nature of distribution of population are made in Parametric tests.",
+          "options": [
+            "(A) Neither (A) is correct nor (R) is correct.",
+            "(B) Both (A) and (R) are correct and (R) is the correct explanation of (A).",
+            "(C) Both (A) and (R) are correct but (R) is not the correct explanation of (A).",
+            "(D) (A) is false but (R) is correct."
+          ],
+          "correct_answer": 2,
+          "correct_text": "Both (A) and (R) are correct and (R) is the correct explanation of (A).",
+          "unit": "Unit 2",
+          "topic": "2.7 Inferential Statistics",
+          "subtopic": "Non-Parametric Tests",
+          "concept": "Non-parametric tests are distribution-free because they don't assume normal distribution",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 23,
+          "question": "Choose the correct answer :\n\n**Assertion (A):** A test having items of high discriminative value shall have high validity Index.\n\n**Reason (R):** Item discrimination means that the item evokes differential responses from two individuals known to be different on the variable being measured.",
+          "options": [
+            "(A) Both (A) and (R) are correct and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are correct but (R) is not the correct explanation of (A).",
+            "(C) (A) is correct but (R) is false.",
+            "(D) (A) is false but (R) is correct."
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are correct and (R) is the correct explanation of (A).",
+          "unit": "Unit 3",
+          "topic": "3.2 Test Construction",
+          "subtopic": "Item Analysis",
+          "concept": "Item discrimination index and its relationship to test validity",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 24,
+          "question": "Arrange the following research methods in order of their increasing potential to find causal relationships :\n\n1. Experiments\n2. Field Studies\n3. Surveys\n4. Quasi-Experiments",
+          "options": [
+            "(A) 1 2 3 4",
+            "(B) 3 2 4 1",
+            "(C) 3 4 2 1",
+            "(D) 1 3 2 4"
+          ],
+          "correct_answer": 2,
+          "correct_text": "3 2 4 1",
+          "unit": "Unit 2",
+          "topic": "2.5 Methods of Research",
+          "subtopic": "Research Methods",
+          "concept": "Causal potential: Surveys < Field Studies < Quasi-Experiments < True Experiments",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 25,
+          "question": "Arrange in chronological order from earlier to recent the publication of following tests of personality :\n\n1. Eysenck's Personality Inventory\n2. Eysenck's Personality Profiler\n3. Eysenck's Personality Questionnaire\n4. Maudsley Personality Inventory",
+          "options": [
+            "(A) 1 2 3 4",
+            "(B) 3 2 1 4",
+            "(C) 4 3 2 1",
+            "(D) 4 1 3 2"
+          ],
+          "correct_answer": 4,
+          "correct_text": "4 1 3 2",
+          "unit": "Unit 3",
+          "topic": "3.6 Types of Tests by Domain",
+          "subtopic": "Personality Tests",
+          "concept": "Chronological order: Maudsley PI (1959) → EPI (1964) → EPQ (1975) → EPP (1991)",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 26,
+          "question": "Match List – I with List – II :\n\n| List – I | List – II |\n| --- | --- |\n| (a) Time sampling | 1. Ex-Post Facto Studies |\n| (b) Double Blind | 2. Case studies |\n| (c) Natural Settings | 3. Observation |\n| (d) Biographic Records | 4. Experiment |\n\nCodes :\n\n| (a) | (b) | (c) | (d) |\n| --- | --- | --- | --- |\n| (A) | 4 | 1 | 3 | 2 |\n| (B) | 2 | 4 | 1 | 3 |\n| (C) | 3 | 4 | 1 | 2 |\n| (D) | 4 | 3 | 2 | 1 |",
+          "options": [
+            "(A) (a)→4, (b)→1, (c)→3, (d)→2",
+            "(B) (a)→2, (b)→4, (c)→1, (d)→3",
+            "(C) (a)→3, (b)→4, (c)→1, (d)→2",
+            "(D) (a)→4, (b)→3, (c)→2, (d)→1"
+          ],
+          "correct_answer": 3,
+          "correct_text": "(a)→3, (b)→4, (c)→1, (d)→2",
+          "unit": "Unit 2",
+          "topic": "2.5 Methods of Research",
+          "subtopic": "Research Methods Classification",
+          "concept": "Matching methods with techniques: Time sampling-Observation, Double blind-Experiment, Natural settings-Ex-post facto, Biographic records-Case studies",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 27,
+          "question": "Event sampling is characteristic of",
+          "options": [
+            "(A) Quasi-Experiments",
+            "(B) Case Study",
+            "(C) Observation",
+            "(D) Interview"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Observation",
+          "unit": "Unit 2",
+          "topic": "2.5 Methods of Research",
+          "subtopic": "Observation Methods",
+          "concept": "Event sampling is an observation technique for recording specific behaviors",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 28,
+          "question": "There is a direct relationship between the reliability of a test and its length :",
+          "options": [
+            "(A) This statement is always true.",
+            "(B) This statement is false.",
+            "(C) This statement is true under certain conditions.",
+            "(D) This relationship does not hold."
+          ],
+          "correct_answer": 3,
+          "correct_text": "This statement is true under certain conditions.",
+          "unit": "Unit 3",
+          "topic": "3.3 Reliability",
+          "subtopic": "Reliability and Test Length",
+          "concept": "Spearman-Brown prophecy formula — reliability increases with length under certain conditions",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 29,
+          "question": "Parameter is",
+          "options": [
+            "(A) Characteristic of a sample.",
+            "(B) Characteristic of a population.",
+            "(C) Assumption of a Parametric tests.",
+            "(D) Characteristic of a Parametric test."
+          ],
+          "correct_answer": 2,
+          "correct_text": "Characteristic of a population.",
+          "unit": "Unit 2",
+          "topic": "2.6 Descriptive Statistics",
+          "subtopic": "Basic Concepts",
+          "concept": "Parameter is a population characteristic; statistic describes a sample",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 30,
+          "question": "Intelligence Quotient (I.Q.) is a",
+          "options": [
+            "(A) Norm",
+            "(B) Raw score",
+            "(C) Score of Verbal Intelligence",
+            "(D) Score of Non-Verbal Intelligence"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Norm",
+          "unit": "Unit 3",
+          "topic": "3.5 Norms and Standardization",
+          "subtopic": "Derived Scores",
+          "concept": "IQ is a norm-referenced derived/standard score indicating relative standing, not a raw score",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 31,
+          "question": "Choose the correct answer :\n\n**Assertion (A):** Interlocking of internal personal factors and environment influence individual's behaviour.\n\n**Reason (R):** Behaviour is determined only by innate factors.",
+          "options": [
+            "(A) Both (A) and (R) are correct and (R) is the correct explanation of (A).",
+            "(B) (A) is correct but (R) is not.",
+            "(C) Both (A) and (R) are incorrect.",
+            "(D) Both (A) and (R) are correct but (R) is not the correct explanation of (A)."
+          ],
+          "correct_answer": 2,
+          "correct_text": "(A) is correct but (R) is not.",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Social-Cognitive Approach",
+          "concept": "Bandura's reciprocal determinism — behavior shaped by person-environment interaction, not innate factors alone",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 32,
+          "question": "Match List – I with List – II :\n\n| List – I | List – II |\n| --- | --- |\n| (a) Method of Loci | 1. Miller |\n| (b) Information Processing | 2. Cicero |\n| (c) Method of Chunking | 3. Murdoc |\n| (d) Recurrency Effect | 4. Atkinson |\n\nCodes :\n\n| (a) | (b) | (c) | (d) |\n| --- | --- | --- | --- |\n| (A) | 2 | 4 | 1 | 3 |\n| (B) | 3 | 4 | 1 | 2 |\n| (C) | 3 | 1 | 4 | 2 |\n| (D) | 4 | 2 | 1 | 3 |",
+          "options": [
+            "(A) (a)→2, (b)→4, (c)→1, (d)→3",
+            "(B) (a)→3, (b)→4, (c)→1, (d)→2",
+            "(C) (a)→3, (b)→1, (c)→4, (d)→2",
+            "(D) (a)→4, (b)→2, (c)→1, (d)→3"
+          ],
+          "correct_answer": 1,
+          "correct_text": "(a)→2, (b)→4, (c)→1, (d)→3",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Memory Techniques and Models",
+          "concept": "Matching: Method of Loci-Cicero, Information Processing-Atkinson, Chunking-Miller, Recency Effect-Murdoc",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 33,
+          "question": "Match List – I with List – II :\n\n| List – I | List – II |\n| --- | --- |\n| (a) Variable Ratio Schedule | 1. Reinforcement is given after a predetermined number of responses. |\n| (b) Variable Interval schedule | 2. Reinforcement is given at the end of predetermined time periods. |\n| (c) Fixed Interval Schedule | 3. Reinforcement is given after any number of responses. |\n| (d) Fixed Ratio Schedule | 4. Reinforcement is given at the end of varying time periods. |\n\nCodes :\n\n| (a) | (b) | (c) | (d) |\n| --- | --- | --- | --- |\n| (A) | 3 | 2 | 4 | 1 |\n| (B) | 3 | 4 | 1 | 2 |\n| (C) | 3 | 4 | 2 | 1 |\n| (D) | 4 | 3 | 2 | 1 |",
+          "options": [
+            "(A) (a)→3, (b)→2, (c)→4, (d)→1",
+            "(B) (a)→3, (b)→4, (c)→1, (d)→2",
+            "(C) (a)→3, (b)→4, (c)→2, (d)→1",
+            "(D) (a)→4, (b)→3, (c)→2, (d)→1"
+          ],
+          "correct_answer": 3,
+          "correct_text": "(a)→3, (b)→4, (c)→2, (d)→1",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Schedules of Reinforcement",
+          "concept": "Reinforcement schedules: VR-varying number of responses (3), VI-varying time periods (4), FI-predetermined time periods (2), FR-predetermined number of responses (1)",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 34,
+          "question": "Choose the correct answer :\n\n**Assertion (A):** The probability of recall of individual items is a function of their position in the learning list.\n\n**Reason (R):** Free recall is the most frequently used method of testing memory.",
+          "options": [
+            "(A) (A) is correct but (R) is wrong.",
+            "(B) Both (A) and (R) are wrong.",
+            "(C) Both (A) and (R) are correct but (R) is not the correct explanation of (A).",
+            "(D) Both (A) and (R) are correct and (R) is the correct explanation of (A)."
+          ],
+          "correct_answer": 3,
+          "correct_text": "Both (A) and (R) are correct but (R) is not the correct explanation of (A).",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Serial Position Effect",
+          "concept": "Serial position effect (primacy and recency) — position affects recall probability",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 35,
+          "question": "Choose the correct answer :\n\n**Assertion (A):** It is easier to learn the word COW as compared to the word WOC.\n\n**Reason (R):** Meaningful words are easier to learn as compared to non-sense syllables.",
+          "options": [
+            "(A) Both (A) and (R) are correct and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are correct but (R) is not the correct explanation of (A).",
+            "(C) (A) is true but (R) is false.",
+            "(D) (A) is false but (R) is true."
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are correct and (R) is the correct explanation of (A).",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Verbal Learning",
+          "concept": "Meaningfulness effect — meaningful words (COW) easier to learn than nonsense syllables (WOC)",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 36,
+          "question": "The correct sequence of different forms of defense mechanism in terms of their increasing frequencies of use is",
+          "options": [
+            "(A) Repression, reaction formation, regression, projection, rationalization, displacement.",
+            "(B) Repression, regression, projection, rationalization, reaction formation, displacement",
+            "(C) Repression, regression, reaction formation, projection rationalization, displacement",
+            "(D) Repression, regression, reaction formation, rationalization, projection, displacement."
+          ],
+          "correct_answer": 3,
+          "correct_text": "Repression, regression, reaction formation, projection, rationalization, displacement",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Psychoanalytic Approach",
+          "concept": "Defense mechanisms in increasing frequency of use (least → most): Repression → Regression → Reaction Formation → Projection → Rationalization → Displacement",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 37,
+          "question": "Choose the correct answer :\n\n**Assertion (A):** Episodic memory consists of long-term memories of specific things that occurred at specific times, places or occasions.\n\n**Reason (R):** The episodes have logical organizations.",
+          "options": [
+            "(A) (A) is correct but (R) is wrong.",
+            "(B) Both (A) and (R) are wrong.",
+            "(C) Both (A) and (R) are correct and (R) is the correct explanation of (A).",
+            "(D) Both (A) and (R) are correct but (R) is not the correct explanation of (A)."
+          ],
+          "correct_answer": 1,
+          "correct_text": "(A) is correct but (R) is wrong.",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Types of Long-Term Memory",
+          "concept": "Episodic memory (Tulving) — autobiographical events at specific times and places; episodes not necessarily logically organized",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 38,
+          "question": "Which of the following is an indication of over learning?",
+          "options": [
+            "(A) Speed of Response",
+            "(B) Accuracy of Response",
+            "(C) Resistance to Decay",
+            "(D) All of the above"
+          ],
+          "correct_answer": 4,
+          "correct_text": "All of the above",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Overlearning",
+          "concept": "Overlearning leads to faster, more accurate responses and greater resistance to forgetting",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 39,
+          "question": "A stimulus or event, when its termination is contingent to a response increases the likelihood of the occurrence of the response, is a",
+          "options": [
+            "(A) Primary Reinforcer",
+            "(B) Negative Reinforcer",
+            "(C) Secondary Reinforcer",
+            "(D) Positive Reinforcer"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Negative Reinforcer",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Operant Conditioning",
+          "concept": "Negative reinforcement — removal of aversive stimulus increases response",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 40,
+          "question": "When Raju was thirteen months old he could not walk properly. But now at the age of two, he walks around with ease. This is result of",
+          "options": [
+            "(A) Growth",
+            "(B) Practice",
+            "(C) Learning",
+            "(D) Maturation"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Maturation",
+          "unit": "Unit 9",
+          "topic": "9.1 Principles of Development",
+          "subtopic": "Maturation",
+          "concept": "Maturation — biological unfolding of development enabling walking without explicit training",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 41,
+          "question": "Which of these is the most sensitive measure of memory?",
+          "options": [
+            "(A) Recognition",
+            "(B) Cued-Recall",
+            "(C) Re-learning (Saving)",
+            "(D) Recall"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Re-learning (Saving)",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Measures of Memory",
+          "concept": "Ebbinghaus's savings method (relearning) is the most sensitive measure of memory",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 42,
+          "question": "In emotional response ________ shall occur.",
+          "options": [
+            "(A) increase in sweat gland activity",
+            "(B) lowering of skin resistance",
+            "(C) rise in skin conductance",
+            "(D) all the above"
+          ],
+          "correct_answer": 4,
+          "correct_text": "all the above",
+          "unit": "Unit 7",
+          "topic": "7.3 Emotion",
+          "subtopic": "Physiology of Emotion",
+          "concept": "Physiological indicators of emotion: sweat gland activity, skin resistance decrease, skin conductance increase",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 43,
+          "question": "Choose the correct sequencing of 'States of Being' as per decreasing level of arousal :",
+          "options": [
+            "(A) Coma, Relaxed, Drowsy, Mania",
+            "(B) Mania, Relaxed, Drowsy, Coma",
+            "(C) Coma, Mania, Drowsy, Relaxed",
+            "(D) Relaxed, Coma, Drowsy, Mania"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Mania, Relaxed, Drowsy, Coma",
+          "unit": "Unit 7",
+          "topic": "7.3 Emotion",
+          "subtopic": "Arousal",
+          "concept": "Decreasing arousal levels: Mania (highest) → Relaxed → Drowsy → Coma (lowest)",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 44,
+          "question": "Choose the correct answer :\n\n**Assertion (A):** Brain is the most important organ for sex motivation.\n\n**Reason (R):** People with spinal cord injury with a loss of genital stimulation do have sex motivation.",
+          "options": [
+            "(A) Neither (A) is correct nor (R) is correct.",
+            "(B) Both (A) and (R) are correct and (R) is the correct explanation of (A).",
+            "(C) Both (A) and (R) are correct but (R) is not the correct explanation of (A).",
+            "(D) (A) is correct but (R) is not."
+          ],
+          "correct_answer": 2,
+          "correct_text": "Both (A) and (R) are correct and (R) is the correct explanation of (A).",
+          "unit": "Unit 4",
+          "topic": "4.3 Nervous System",
+          "subtopic": "Brain and Motivation",
+          "concept": "Brain as primary organ for sex motivation — spinal cord injured individuals retain motivation",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 45,
+          "question": "Arrange as per their temporal occurrence the following four processes as per James-Lange theory of emotion and choose the correct answer :\n\n1. Viscera to Neocortex.\n2. Skeletal muscle to Neocortex.\n3. Receptor to Neocortex.\n4. Neocortex to skeletal muscle and viscera.",
+          "options": [
+            "(A) 3 1 2 4",
+            "(B) 4 2 1 3",
+            "(C) 3 4 2 1",
+            "(D) 3 2 1 4"
+          ],
+          "correct_answer": 3,
+          "correct_text": "3 4 2 1",
+          "unit": "Unit 7",
+          "topic": "7.3 Emotion",
+          "subtopic": "Theories of Emotion",
+          "concept": "James-Lange theory sequence: Receptor → Neocortex → Muscles/Viscera → Muscle feedback → Visceral feedback",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 46,
+          "question": "Match List – I with List – II :\n\n| List – I | List – II |\n| --- | --- |\n| (a) Alertness | 1. Alpha and Delta waves |\n| (b) Relaxed | 2. Beta waves |\n| (c) Drowsiness | 3. Delta waves |\n| (d) Deep sleep | 4. Alpha waves |\n\nCodes :\n\n| (a) | (b) | (c) | (d) |\n| --- | --- | --- | --- |\n| (A) | 1 | 2 | 3 | 4 |\n| (B) | 4 | 3 | 2 | 1 |\n| (C) | 1 | 3 | 2 | 4 |\n| (D) | 2 | 4 | 1 | 3 |",
+          "options": [
+            "(A) (a)→1, (b)→2, (c)→3, (d)→4",
+            "(B) (a)→4, (b)→3, (c)→2, (d)→1",
+            "(C) (a)→1, (b)→3, (c)→2, (d)→4",
+            "(D) (a)→2, (b)→4, (c)→1, (d)→3"
+          ],
+          "correct_answer": 4,
+          "correct_text": "(a)→2, (b)→4, (c)→1, (d)→3",
+          "unit": "Unit 4",
+          "topic": "4.3 Nervous System",
+          "subtopic": "Brain Waves",
+          "concept": "EEG waves: Alertness-Beta, Relaxed-Alpha, Drowsiness-Alpha and Delta, Deep sleep-Delta",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 47,
+          "question": "Choose the correct answer :\n\n**Assertion (A):** A neuron can generate action potentials with a maximum of 1000 frequencies per second under optional conditions.\n\n**Reason (R):** Action potential follows all-or-none law in respect of its strength.",
+          "options": [
+            "(A) Both (A) and (R) are correct and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are incorrect.",
+            "(C) Both (A) and (R) are correct and (R) is not the correct explanation of (A).",
+            "(D) (A) is correct but (R) is not."
+          ],
+          "correct_answer": 3,
+          "correct_text": "Both (A) and (R) are correct and (R) is not the correct explanation of (A).",
+          "unit": "Unit 4",
+          "topic": "4.2 Neurons",
+          "subtopic": "Action Potential",
+          "concept": "Neuron firing rate (~1000 Hz max) and all-or-none law are both true but independently correct",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": null,
+          "table_ref": null
+        }
+      ]
+    },
+    {
+      "type": "passage",
+      "id": "passage_48",
+      "heading": "### Passage (Questions 48–50)",
+      "text": "\"Like a three dimensional world the nervous system has been given three axes of its own which help in understanding the spatial relationships among various neural structures. One axis goes from the back or the dorsal to the front or the ________. Another goes from the nose or head of the animal to the tail or ________. The third axis capitalizes on the fact that many gross structures are duplicated on either side of the animal, so that we can establish a midline axis. Areas close to this are ________ portions, and those areas to each side of it ________ portions.\""
+    },
+    {
+      "type": "questions_block",
+      "range": "Q48-Q50",
+      "passage_ref": "passage_48",
+      "questions": [
+        {
+          "id": 48,
+          "question": "Fill the blank for appropriate space :",
+          "options": [
+            "(A) anterior",
+            "(B) medial",
+            "(C) ventral",
+            "(D) posterior"
+          ],
+          "correct_answer": 3,
+          "correct_text": "ventral",
+          "unit": "Unit 4",
+          "topic": "4.3 Nervous System",
+          "subtopic": "Neuroanatomy Terminology",
+          "concept": "Dorsal-ventral axis in neuroanatomy — dorsal is back, ventral is front",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": "passage_48",
+          "table_ref": null
+        },
+        {
+          "id": 49,
+          "question": "Fill the blank at 49th mark in paragraph :",
+          "options": [
+            "(A) dorsal",
+            "(B) lateral",
+            "(C) anterior",
+            "(D) posterior"
+          ],
+          "correct_answer": 4,
+          "correct_text": "posterior",
+          "unit": "Unit 4",
+          "topic": "4.3 Nervous System",
+          "subtopic": "Neuroanatomy Terminology",
+          "concept": "Anterior-posterior axis — anterior (head/nose) to posterior (tail)",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": "passage_48",
+          "table_ref": null
+        },
+        {
+          "id": 50,
+          "question": "Fill the paired spaces at marked 50 :",
+          "options": [
+            "(A) dorsal, ventral",
+            "(B) medial, lateral",
+            "(C) anterior, medial",
+            "(D) anterior, posterior"
+          ],
+          "correct_answer": 2,
+          "correct_text": "medial, lateral",
+          "unit": "Unit 4",
+          "topic": "4.3 Nervous System",
+          "subtopic": "Neuroanatomy Terminology",
+          "concept": "Medial-lateral axis — medial near midline, lateral toward sides",
+          "era": "UGC",
+          "year": 2011,
+          "passage_ref": "passage_48",
+          "table_ref": null
+        }
+      ]
+    }
+  ]
+}

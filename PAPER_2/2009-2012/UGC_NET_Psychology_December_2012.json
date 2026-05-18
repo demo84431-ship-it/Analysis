@@ -1,0 +1,1028 @@
+{
+  "paper_metadata": {
+    "title": "UGC NET/JRF Examination, December 2012",
+    "date": "December 2012",
+    "subject": "Psychology — Paper II"
+  },
+  "content": [
+    {
+      "type": "questions_block",
+      "range": "Q1–Q45",
+      "questions": [
+        {
+          "id": 1,
+          "question": "In an experiment the stimuli were presented to the subjects in certain order and after the presentation of stimuli their order was disturbed. In the test phase the subjects were needed to set them in the presented order. Which of the following methods was used in this experiment?",
+          "options": [
+            "(A) Recognition",
+            "(B) Relearning",
+            "(C) Reconstruction",
+            "(D) Recall"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Reconstruction",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Retrieval",
+          "concept": "Reconstruction method: rearranging items in original order (as opposed to recall, recognition, or relearning)",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 2,
+          "question": "Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R). Indicate your answer using the codes given below:\n\n**Assertion (A)**: If your teacher embarrasses you for asking a question in class, it is less likely that you would ask questions in class in future.\n\n**Reason (R)**: Negative reinforcement reduces the occurrence of a behaviour.\n\n**Codes**:\n\n(A) Both (A) and (R) are true and (R) is the correct explanation of (A).\n(B) Both (A) and (R) are true but (R) is not the correct explanation of (A).\n(C) (A) is true, but (R) is false.\n(D) (A) is false, but (R) is true.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 3,
+          "correct_text": "(A) is true, but (R) is false.",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Punishment",
+          "concept": "Embarrassment is punishment (decreases behavior); (R) is false — it's PUNISHMENT that reduces behavior, not negative reinforcement (which INCREASES behavior by removing aversive)",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 3,
+          "question": "What is the correct sequence of sympathetic and parasympathetic division given below?",
+          "options": [
+            "(A) Thoracic – Sacral – Cranial – Cervical – Lumbar",
+            "(B) Cranial – Lumbar – Thoracic – Cervical – Sacral",
+            "(C) Sacral – Cervical – Thoracic – Cranial – Lumbar",
+            "(D) Sacral – Cranial – Cervical – Thoracic – Lumbar"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Sacral – Cervical – Thoracic – Cranial – Lumbar",
+          "unit": "Unit 4",
+          "topic": "4.3 Nervous System",
+          "subtopic": "Autonomic nervous system",
+          "concept": "ANS sequence (as per UGC answer key): Sacral (parasympathetic) → Cervical (sympathetic chain) → Thoracic (sympathetic) → Cranial (parasympathetic) → Lumbar (sympathetic)",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 4,
+          "question": "The human ear can generally hear sounds ranging from",
+          "options": [
+            "(A) 20 – 1000 Hz",
+            "(B) 10 – 2000 Hz",
+            "(C) 20 – 2000 Hz",
+            "(D) 1000 – 5000 Hz"
+          ],
+          "correct_answer": 3,
+          "correct_text": "20 – 2000 Hz",
+          "unit": "Unit 4",
+          "topic": "4.1 Sensory Systems",
+          "subtopic": "Audition",
+          "concept": "Human audible range is approximately 20 Hz to 20,000 Hz; among given options, 20-2000 Hz (option C) is the closest and most appropriate answer",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 5,
+          "question": "Match List – I with List – II and indicate your answer using codes given below:\n\n| List – I (Personality Theories) | List – II (Focus) |\n| --- | --- |\n| p. Behaviourists | 1. Self-concepts |\n| q. Psychodynamic | 2. Habits |\n| r. Biological | 3. Childhood fixations |\n| s. Humanistic | 4. Inheritance of genes |\n\n**Codes**:\n\n| | p | q | r | s |\n| --- | --- | --- | --- | --- |\n| (A) | 1 | 3 | 4 | 2 |\n| (B) | 2 | 4 | 3 | 1 |\n| (C) | 2 | 3 | 4 | 1 |\n| (D) | 1 | 4 | 2 | 3 |",
+          "options": [
+            "(A) p-1, q-3, r-4, s-2",
+            "(B) p-2, q-4, r-3, s-1",
+            "(C) p-2, q-3, r-4, s-1",
+            "(D) p-1, q-4, r-2, s-3"
+          ],
+          "correct_answer": 3,
+          "correct_text": "p-2, q-3, r-4, s-1",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Personality approaches",
+          "concept": "Matching: Behaviourists=Habits, Psychodynamic=Childhood fixations, Biological=Inheritance of genes, Humanistic=Self-concepts",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 6,
+          "question": "The chronological age that most typically corresponds to a given level of performance is called",
+          "options": [
+            "(A) Intelligence Quotient",
+            "(B) Maturation",
+            "(C) Mental age",
+            "(D) None of the above"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Mental age",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Measurement of Intelligence",
+          "concept": "Mental Age (MA): the chronological age that most typically corresponds to a given level of performance on an intelligence test (e.g., Binet's concept)",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 7,
+          "question": "The role of unconscious in creative thinking is known as the process of",
+          "options": [
+            "(A) Verification",
+            "(B) Illumination",
+            "(C) Inoculation",
+            "(D) Incubation"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Incubation",
+          "unit": "Unit 6",
+          "topic": "6.3 Creativity",
+          "subtopic": "Wallas's Stages",
+          "concept": "Incubation stage: unconscious processing during creative thinking, where the mind works on the problem below awareness",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 8,
+          "question": "Which factor is not much related to happiness?",
+          "options": [
+            "(A) High self-esteem",
+            "(B) Educational level",
+            "(C) Close friendship or satisfactory marriage",
+            "(D) Meaningful religious faith"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Educational level",
+          "unit": "Unit 10",
+          "topic": "10.6 Wellbeing and Positive Psychology",
+          "subtopic": "Happiness/Subjective Wellbeing",
+          "concept": "Research shows education level has weak correlation with happiness; self-esteem, relationships, and religious faith are stronger predictors",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 9,
+          "question": "Which is the correct order of 'Products' given by Guilford?",
+          "options": [
+            "(A) Units, Relations, Classes, Systems, Implications, Transformations",
+            "(B) Units, Classes, Systems, Relations, Implications, Transformations",
+            "(C) Units, Classes, Relations, Systems, Transformations, Implications",
+            "(D) Units, Classes, Systems, Relations, Transformations, Implications"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Units, Classes, Relations, Systems, Transformations, Implications",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Theories of Intelligence",
+          "concept": "Guilford's SOI Products (6): Units, Classes, Relations, Systems, Transformations, Implications (increasing complexity from discrete to inferred)",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 10,
+          "question": "Which is not the obstacle to problem solving?",
+          "options": [
+            "(A) Confirmation bias",
+            "(B) Fixation",
+            "(C) Mental Set",
+            "(D) Heuristics"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Heuristics",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Problem Solving",
+          "concept": "Heuristics are PROBLEM-SOLVING STRATEGIES (mental shortcuts), not obstacles; confirmation bias, fixation, and mental set are obstacles",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 11,
+          "question": "Given below are two statements, one labelled as Assertion (A), and the other labelled as Reason (R). Indicate your answer using the codes given below:\n\n**Assertion (A)**: Algorithm is a logical rule that guarantees solving a particular problem.\n\n**Reason (R)**: One can find the solution even to complex problems by following step by step procedure.\n\n**Codes**:\n(A) Both (A) and (R) are true, but (R) is not the correct explanation of (A).\n(B) Both (A) and (R) are true and (R) is the correct explanation of (A).\n(C) (A) is true, but (R) is false.\n(D) (A) is false, but (R) is true.",
+          "options": [
+            "(A) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(B) Both (A) and (R) are true and (R) is the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 2,
+          "correct_text": "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Problem Solving",
+          "concept": "Algorithm guarantees solution through exhaustive step-by-step procedure; (R) explains WHY algorithms work",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 12,
+          "question": "Which of the following statements concerning reinforcement is correct?",
+          "options": [
+            "(A) Learning is most rapid with partial reinforcement, but continuous reinforcement produces the greatest resistance to extinction.",
+            "(B) Learning is most rapid with continuous reinforcement but partial reinforcement produces the greatest resistance to extinction.",
+            "(C) Learning is the fastest and resistance to extinction is the greatest after continuous reinforcement.",
+            "(D) Learning is the fastest and resistance to extinction is the greatest following partial reinforcement."
+          ],
+          "correct_answer": 2,
+          "correct_text": "Learning is most rapid with continuous reinforcement but partial reinforcement produces the greatest resistance to extinction.",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Schedules of reinforcement",
+          "concept": "Continuous reinforcement: fastest acquisition but least resistance to extinction; Partial reinforcement: slower acquisition but greatest resistance to extinction (Partial Reinforcement Extinction Effect)",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 13,
+          "question": "The sentence \"Blue Jeans wear false smiles\" has correct ______ but incorrect ______.",
+          "options": [
+            "(A) Morphemes; phonemes",
+            "(B) Phonemes; morphemes",
+            "(C) Semantics; syntax",
+            "(D) Syntax; semantics"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Syntax; semantics",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Language and Thought",
+          "concept": "Sentence has correct syntax (grammatical structure) but incorrect semantics (meaning) — jeans cannot 'wear' smiles",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 14,
+          "question": "Match the following lists according to the types and characteristics of thinking:\n\n| List – I (Types of Thinking) | List – II (Characteristics) |\n| --- | --- |\n| p. Autistic thinking | 1. Reasoning |\n| q. Realistic thinking | 2. Drawing facts |\n| r. Convergent thinking | 3. Unusual uses |\n| s. Creative thinking | 4. Fantasy |\n\n**Codes**:\n| | p | q | r | s |\n| --- | --- | --- | --- | --- |\n| (A) | 1 | 3 | 4 | 2 |\n| (B) | 3 | 1 | 2 | 4 |\n| (C) | 2 | 1 | 3 | 4 |\n| (D) | 4 | 1 | 2 | 3 |",
+          "options": [
+            "(A) p-1, q-3, r-4, s-2",
+            "(B) p-3, q-1, r-2, s-4",
+            "(C) p-2, q-1, r-3, s-4",
+            "(D) p-4, q-1, r-2, s-3"
+          ],
+          "correct_answer": 4,
+          "correct_text": "p-4, q-1, r-2, s-3",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Nature and Types",
+          "concept": "Autistic=Fantasy/daydreaming, Realistic=Reasoning/logical, Convergent=Drawing facts (single answer), Creative=Unusual uses (divergent)",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 15,
+          "question": "The main function of autoclitic behaviour is to\n\n1. Qualify responses\n2. Express relations\n3. Providing a grammatical framework for verbal behaviour\n\n**Codes**:\n\n(A) 1 only\n(B) 2 and 3 only\n(C) 1 and 3 only\n(D) 1, 2 and 3",
+          "options": [
+            "(A) 1 only",
+            "(B) 2 and 3 only",
+            "(C) 1 and 3 only",
+            "(D) 1, 2 and 3"
+          ],
+          "correct_answer": 4,
+          "correct_text": "1, 2 and 3",
+          "unit": "Unit 6",
+          "topic": "6.1 Thinking",
+          "subtopic": "Language and Thought",
+          "concept": "Skinner's autoclitic behavior: verbal behavior that modifies/qualifies responses, expresses relations, and provides grammatical framework",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 16,
+          "question": "The phi-phenomenon, stroboscopic motion, induced motion and autokinetic motion are all",
+          "options": [
+            "(A) Pictorial cues",
+            "(B) Apparent motion",
+            "(C) Double images",
+            "(D) Non-verbal cues"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Apparent motion",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Motion Perception",
+          "concept": "All four are types of apparent motion: phi-phenomenon, stroboscopic, induced, and autokinetic motion create perception of movement where none exists",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 17,
+          "question": "Which one of the following is the most important feature of the defense mechanism of Rationalization?",
+          "options": [
+            "(A) Going back to an earlier stage of development.",
+            "(B) Justifying one's actions.",
+            "(C) Magically atoning for certain acts that give rise to guilt.",
+            "(D) Attributing one's emotions to other persons."
+          ],
+          "correct_answer": 2,
+          "correct_text": "Justifying one's actions.",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Psychoanalytic Approach",
+          "concept": "Rationalization: providing logical/acceptable reasons for unacceptable behaviors or feelings (justifying actions)",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 18,
+          "question": "\"People control basic anxiety by moving toward, away from, and against others.\"\n\nWhich group of personality psychologists theorized this statement?",
+          "options": [
+            "(A) Psychoanalytic",
+            "(B) Neo-Freudian",
+            "(C) Social learning",
+            "(D) Cognitive"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Neo-Freudian",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Neo-Freudian Theories",
+          "concept": "Karen Horney (Neo-Freudian): basic anxiety → three neurotic strategies — moving toward, against, or away from people",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 19,
+          "question": "A psychotic person would probably score the highest on which MMPI-2 scale?",
+          "options": [
+            "(A) Depression",
+            "(B) Hysteria",
+            "(C) Schizophrenia",
+            "(D) Mania"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Schizophrenia",
+          "unit": "Unit 3",
+          "topic": "3.6 Types of Tests by Domain",
+          "subtopic": "Personality Tests",
+          "concept": "MMPI-2 Scale 8 (Sc/Schizophrenia): psychotic individuals would score highest on this clinical scale",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 20,
+          "question": "Match List – I with List – II and indicate your answer by using the codes given below the lists:\n\n| List – I (Part of eye) | List – II (Function) |\n| --- | --- |\n| p. Pupil | 1. Focus images on the retina. |\n| q. Iris | 2. Begin the processing of visual information. |\n| r. Lens | 3. Allows light to enter. |\n| s. Retina | 4. Controls the size of the pupil. |\n\n**Codes**:\n\n| | p | q | r | s |\n| --- | --- | --- | --- | --- |\n| (A) | 1 | 2 | 3 | 4 |\n| (B) | 3 | 4 | 1 | 2 |\n| (C) | 1 | 3 | 4 | 2 |\n| (D) | 4 | 2 | 1 | 3 |",
+          "options": [
+            "(A) p-1, q-2, r-3, s-4",
+            "(B) p-3, q-4, r-1, s-2",
+            "(C) p-1, q-3, r-4, s-2",
+            "(D) p-4, q-2, r-1, s-3"
+          ],
+          "correct_answer": 2,
+          "correct_text": "p-3, q-4, r-1, s-2",
+          "unit": "Unit 4",
+          "topic": "4.1 Sensory Systems",
+          "subtopic": "Vision",
+          "concept": "Eye parts: Pupil=allows light entry, Iris=controls pupil size, Lens=focuses on retina, Retina=begins visual processing",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 21,
+          "question": "Learning by imitating others' behaviour is called ______ learning. The researcher best known for studying this type of learning is",
+          "options": [
+            "(A) Observational : Bandura",
+            "(B) Secondary : Pavlov",
+            "(C) Observational : Watson",
+            "(D) Secondary : Skinner"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Observational : Bandura",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Observational/Social Learning",
+          "concept": "Observational learning (modeling): Albert Bandura's social learning theory and Bobo doll experiments",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 22,
+          "question": "As we enter a movie theatre from bright light the visual sensitivity increases and within 5-10 minutes we are able to see under low levels of illumination. This is due to",
+          "options": [
+            "(A) Visual acuity",
+            "(B) Dark adaptation",
+            "(C) Saturation",
+            "(D) Transduction"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Dark adaptation",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Visual processes",
+          "concept": "Dark adaptation: increased visual sensitivity in low light due to rhodopsin regeneration in rod cells",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 23,
+          "question": "Which of the following internal conditions determine perceptual process?\n\n1. Intelligence\n2. Emotion\n3. Motivation\n4. Information\n\n(A) 1 and 2 only\n(B) 2 and 3 only\n(C) 2 and 4 only\n(D) 1 and 4 only",
+          "options": [
+            "(A) 1 and 2 only",
+            "(B) 2 and 3 only",
+            "(C) 2 and 4 only",
+            "(D) 1 and 4 only"
+          ],
+          "correct_answer": 2,
+          "correct_text": "2 and 3 only",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Perceptual Set",
+          "concept": "Internal factors affecting perception: Emotion and Motivation are internal conditions; Intelligence is a trait and Information is external/data-driven",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 24,
+          "question": "Wechsler Adult Intelligence Scale has eleven subtests out of which",
+          "options": [
+            "(A) five are verbal and six are performance.",
+            "(B) six are verbal and five are performance.",
+            "(C) seven are verbal and four are performance.",
+            "(D) four are verbal and seven are performance."
+          ],
+          "correct_answer": 2,
+          "correct_text": "six are verbal and five are performance.",
+          "unit": "Unit 3",
+          "topic": "3.6 Types of Tests by Domain",
+          "subtopic": "Intelligence Tests",
+          "concept": "WAIS (original): 11 subtests — 6 Verbal (Information, Comprehension, Arithmetic, Similarities, Digit Span, Vocabulary) and 5 Performance",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 25,
+          "question": "What is the correct sequence of memory processes? Indicate your answer using the codes given below:\n\n1. Encoding\n2. Storage\n3. Attention\n4. Retrieval\n\n**Codes**:\n\n(A) 3, 1, 2, 4\n(B) 2, 3, 1, 4\n(C) 1, 3, 2, 4\n(D) 3, 2, 1, 4",
+          "options": [
+            "(A) 3, 1, 2, 4",
+            "(B) 2, 3, 1, 4",
+            "(C) 1, 3, 2, 4",
+            "(D) 3, 2, 1, 4"
+          ],
+          "correct_answer": 1,
+          "correct_text": "3, 1, 2, 4",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Memory Models",
+          "concept": "Memory process sequence: Attention → Encoding → Storage → Retrieval (Atkinson-Shiffrin model)",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 26,
+          "question": "Match the monocular cues with their explanations and select the correct answer using the code given below:\n\n| List – I (Cues) | List – II (Explanation) |\n| --- | --- |\n| p. Relative size | 1. Straight lines seem to join together as they become more distant. |\n| q. Linear perspective | 2. An object changes position on the retina as the head moves. |\n| r. Motion Parallax | 3. If two objects are of same size, the one producing the smaller retinal image is farther away. |\n| s. Texture gradient | 4. The texture of a surface appears smoother as distance increases. |\n\n**Codes**:\n\n| | p | q | r | s |\n| --- | --- | --- | --- | --- |\n| (A) | 3 | 1 | 2 | 4 |\n| (B) | 1 | 3 | 4 | 2 |\n| (C) | 4 | 2 | 3 | 1 |\n| (D) | 2 | 4 | 1 | 3 |",
+          "options": [
+            "(A) p-3, q-1, r-2, s-4",
+            "(B) p-1, q-3, r-4, s-2",
+            "(C) p-4, q-2, r-3, s-1",
+            "(D) p-2, q-4, r-1, s-3"
+          ],
+          "correct_answer": 1,
+          "correct_text": "p-3, q-1, r-2, s-4",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Depth Perception",
+          "concept": "Monocular cues: Relative size=smaller retinal image=farther, Linear perspective=lines converge, Motion parallax=retinal position change with head movement, Texture gradient=smoother with distance",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 27,
+          "question": "Read the following two statements, Assertion (A) and Reason (R) and indicate your answer using the codes given below:\n\n**Assertion (A)**: Biederman's 'recognition by components' theory states that objects can be thought of as being composed of basic building blocks called Geons.\n\n**Reason (R)**: The relationship between features and geons does not exist. Geons are not composed of features such as edges, corners etc.\n\n**Codes**:\n\n(A) (A) and (R) are false.\n(B) (A) is false, but (R) is true.\n(C) Both (A) and (R) are true, but (R) is not the correct explanation of (A).\n(D) (A) is true, but (R) is false.",
+          "options": [
+            "(A) (A) and (R) are false.",
+            "(B) (A) is false, but (R) is true.",
+            "(C) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(D) (A) is true, but (R) is false."
+          ],
+          "correct_answer": 4,
+          "correct_text": "(A) is true, but (R) is false.",
+          "unit": "Unit 5",
+          "topic": "5.2 Perception",
+          "subtopic": "Form Perception",
+          "concept": "Biederman's RBC: objects composed of geons (geometric ions); (R) is FALSE — geons ARE composed of features like edges, corners, curves",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 28,
+          "question": "Read each of the following two statements – Assertion (A) and Reason (R) and indicate your answer using the codes given below:\n\n**Assertion (A)**: People just coldly store and retrieve bits of data.\n\n**Reason (R)**: Psychologists recognize that people reconstruct their own version of the past.\n\n**Codes**:\n\n(A) Both (A) and (R) are correct and (R) is the correct explanation of (A).\n(B) Both (A) and (R) are correct, but (R) is not the correct explanation of (A).\n(C) (A) is false, but (R) is true.\n(D) (A) is true, but (R) is false.",
+          "options": [
+            "(A) Both (A) and (R) are correct and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are correct, but (R) is not the correct explanation of (A).",
+            "(C) (A) is false, but (R) is true.",
+            "(D) (A) is true, but (R) is false."
+          ],
+          "correct_answer": 3,
+          "correct_text": "(A) is false, but (R) is true.",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Memory Models",
+          "concept": "Memory is reconstructive (Bartlett), NOT a cold storage/retrieval system; (A) describes the false computer metaphor; (R) describes the correct reconstructive view",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 29,
+          "question": "Ventromedial nucleus, a central area on the underside of the hypothalamus, lead to",
+          "options": [
+            "(A) Excessive eating",
+            "(B) Stop-eating",
+            "(C) Stop sex",
+            "(D) Excessive obesity"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Stop-eating",
+          "unit": "Unit 4",
+          "topic": "4.3 Nervous System",
+          "subtopic": "Hypothalamus",
+          "concept": "Ventromedial hypothalamus (VMH) is the satiety center — damage leads to overeating/obesity; stimulation causes stop-eating",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 30,
+          "question": "Read each of the following two statements – Assertion (A) and Reason (R) and indicate your answer using the codes given below:\n\n**Assertion (A)**: According to interference theory of forgetting, forgetting is caused due to the intervening task which occurs between original task and its recall.\n\n**Reason (R)**: The intervening task weaken the memory trace.\n\n**Codes**:\n\n(A) Both (A) and (R) are true and (R) is the correct explanation of (A).\n(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).\n(C) (A) is true, but (R) is false.\n(D) (A) is false, but (R) is true.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 2,
+          "correct_text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+          "unit": "Unit 5",
+          "topic": "5.5 Forgetting",
+          "subtopic": "Interference Theory",
+          "concept": "Interference theory: intervening tasks cause forgetting; but the mechanism is competition between memories, not simply 'weakening the trace' (that's decay theory)",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 31,
+          "question": "Match List – I with List – II and indicate your answer using the codes given below:\n\n| List – I (Emotion) | List – II (Nerves Activity) |\n| --- | --- |\n| p. Fear | 1. Parasympathetic arousal |\n| q. Anger | 2. Sympathetic arousal |\n| r. Depression | 3. Sympathetic and parasympathetic arousal |\n| | 4. Psychosomatic |\n\n**Codes**:\n\n| | p | q | r |\n| --- | --- | --- | --- |\n| (A) | 2 | 3 | 1 |\n| (B) | 1 | 2 | 3 |\n| (C) | 2 | 1 | 3 |\n| (D) | 3 | 2 | 1 |",
+          "options": [
+            "(A) p-2, q-3, r-1",
+            "(B) p-1, q-2, r-3",
+            "(C) p-2, q-1, r-3",
+            "(D) p-3, q-2, r-1"
+          ],
+          "correct_answer": 1,
+          "correct_text": "p-2, q-3, r-1",
+          "unit": "Unit 7",
+          "topic": "7.3 Emotion",
+          "subtopic": "Physiological components",
+          "concept": "Emotion-ANS: Fear=primarily sympathetic arousal, Anger=mixed sympathetic and parasympathetic, Depression=parasympathetic dominance",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 32,
+          "question": "Read the following two statements, Assertion (A) and Reason (R) and indicate your answer using the codes given below:\n\n**Assertion (A)**: The high achievement motivation displayed by children has emotional roots.\n\n**Reason (R)**: Highly motivated children often have parents who encourage their independence from an early age and praise and reward them for their successes.\n\n**Codes**:\n\n(A) Both (A) and (R) are true and (R) is the correct explanation of (A).\n(B) Both (A) and (R) are true and (R) is not the correct explanation of (A).\n(C) (A) is true, but (R) is false.\n(D) (A) is false, but (R) is true.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true and (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 1,
+          "correct_text": "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+          "unit": "Unit 7",
+          "topic": "7.2 Motivation",
+          "subtopic": "Need for Achievement",
+          "concept": "McClelland's nAch: achievement motivation has emotional roots in childhood parenting practices — early independence training and praise for success",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 33,
+          "question": "A person, otherwise limited in mental ability, has amazing specific skills. This is because of",
+          "options": [
+            "(A) Academic under-achievement",
+            "(B) Practical Intelligence",
+            "(C) Academic over-achievement",
+            "(D) Savant Syndrome"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Savant Syndrome",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Intelligence concepts",
+          "concept": "Savant Syndrome: individuals with intellectual disability who demonstrate extraordinary skills in specific domains (music, calculation, art)",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 34,
+          "question": "A man borrows money and forgets to pay it back because paying back is painful. This is an example of",
+          "options": [
+            "(A) Repression",
+            "(B) Reaction Formation",
+            "(C) Regression",
+            "(D) Rationalization"
+          ],
+          "correct_answer": 1,
+          "correct_text": "Repression",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Psychoanalytic Approach",
+          "concept": "Repression: motivated forgetting — pushing anxiety-provoking thoughts (repaying debt is painful) into the unconscious",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 35,
+          "question": "Whenever daughter performs well in her studies she receives a chocolate from parents but her brother is given a chocolate only when he gets the highest marks in the class. This is a paradigm of",
+          "options": [
+            "(A) Positive and negative reinforcement.",
+            "(B) Primary and secondary reinforcement.",
+            "(C) Continuous and secondary reinforcement.",
+            "(D) Continuous and partial reinforcement."
+          ],
+          "correct_answer": 4,
+          "correct_text": "Continuous and partial reinforcement.",
+          "unit": "Unit 5",
+          "topic": "5.3 Learning",
+          "subtopic": "Schedules of reinforcement",
+          "concept": "Daughter gets chocolate every time (continuous reinforcement); brother gets chocolate only for highest marks (partial/intermittent reinforcement)",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 36,
+          "question": "The location of the optic nerve exit point from the retina of the eye is called as",
+          "options": [
+            "(A) Bipolar cell",
+            "(B) Fovea",
+            "(C) Blind spot",
+            "(D) Cone"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Blind spot",
+          "unit": "Unit 4",
+          "topic": "4.1 Sensory Systems",
+          "subtopic": "Vision",
+          "concept": "Blind spot (optic disc): point where optic nerve exits retina — no photoreceptors present, creating a gap in visual field",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 37,
+          "question": "For an intelligence test, while computing item-remainder correlations for item analysis, we compute",
+          "options": [
+            "(A) Phi-coefficient",
+            "(B) Spearman rho",
+            "(C) Tetrachoric correlation",
+            "(D) Point-biserial correlation"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Point-biserial correlation",
+          "unit": "Unit 3",
+          "topic": "3.2 Test Construction",
+          "subtopic": "Item analysis",
+          "concept": "Point-biserial correlation: used for item-remainder correlations when one variable is dichotomous (item correct/incorrect) and other is continuous (total score)",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 38,
+          "question": "Which of the following personality psychologist does not fall in the group of humanistic approaches of personality?",
+          "options": [
+            "(A) Carl Rogers",
+            "(B) Rollo May",
+            "(C) Martin Seligman",
+            "(D) Abraham Maslow"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Martin Seligman",
+          "unit": "Unit 7",
+          "topic": "7.1 Personality",
+          "subtopic": "Humanistic/Existential Approach",
+          "concept": "Rogers, May, and Maslow are humanistic/existential psychologists; Seligman is known for learned helplessness and positive psychology, not humanistic approach",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 39,
+          "question": "A subject has a T score (Mean = 50; SD = 10) of 40 on an abstract reasoning test. The corresponding percentile rank would be",
+          "options": [
+            "(A) 16",
+            "(B) 34",
+            "(C) 40",
+            "(D) 84"
+          ],
+          "correct_answer": 1,
+          "correct_text": "16",
+          "unit": "Unit 3",
+          "topic": "3.5 Norms and Standardization",
+          "subtopic": "Derived scores",
+          "concept": "T=40 means z=-1.0 (one SD below mean); z=-1 corresponds to approximately PR=16",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 40,
+          "question": "Which of the following tests are considered to be culture-fair tests of intelligence?\n\n1. Cattell's Culture-Fair Test of Intelligence\n2. Raven's Progressive Matrices\n3. Wechsler's Intelligence Scale for Children\n4. Goodenough-Harris Test\n\n**Codes**:\n\n(A) 1 only\n(B) 1 and 2 only\n(C) 1, 2 and 3 only\n(D) 1, 2 and 4 only",
+          "options": [
+            "(A) 1 only",
+            "(B) 1 and 2 only",
+            "(C) 1, 2 and 3 only",
+            "(D) 1, 2 and 4 only"
+          ],
+          "correct_answer": 4,
+          "correct_text": "1, 2 and 4 only",
+          "unit": "Unit 3",
+          "topic": "3.6 Types of Tests by Domain",
+          "subtopic": "Intelligence Tests",
+          "concept": "Culture-fair tests: Cattell's Culture-Fair, Raven's Progressive Matrices, Goodenough-Harris Draw-a-Person; WISC is culture-loaded",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 41,
+          "question": "The information in terms of sound is maintained in",
+          "options": [
+            "(A) Semantic code",
+            "(B) Acoustic code",
+            "(C) Iconic code",
+            "(D) Information code"
+          ],
+          "correct_answer": 2,
+          "correct_text": "Acoustic code",
+          "unit": "Unit 5",
+          "topic": "5.4 Memory",
+          "subtopic": "Short-Term Memory",
+          "concept": "STM primarily uses acoustic (sound-based) coding — Conrad's study showed visual stimuli are recoded acoustically in STM",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 42,
+          "question": "Which of the following personality tests are considered to be the projective in nature?\n\n1. Thematic Apperception Test\n2. Kent-Rosenoff Word Association Test\n3. NEO Five-Factor Inventory\n4. Rotter's Incomplete Sentence Blank\n\n(A) 1 only\n(B) 1 and 2 only\n(C) 1, 2 and 4 only\n(D) 2, 3 and 4 only",
+          "options": [
+            "(A) 1 only",
+            "(B) 1 and 2 only",
+            "(C) 1, 2 and 4 only",
+            "(D) 2, 3 and 4 only"
+          ],
+          "correct_answer": 3,
+          "correct_text": "1, 2 and 4 only",
+          "unit": "Unit 3",
+          "topic": "3.6 Types of Tests by Domain",
+          "subtopic": "Personality Tests",
+          "concept": "Projective tests: TAT, Kent-Rosenoff Word Association, Rotter's ISB; NEO-FFI is an objective/self-report inventory (Big Five)",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 43,
+          "question": "Read each of the following two statements – Assertion (A) and Reason (R) and indicate your answer using the codes given below:\n\n**Assertion (A)**: Thalamus and Hypothalamus play an important role in emotions.\n\n**Reason (R)**: Thalamus and Hypothalamus anatomically lie close each other.\n\n**Codes**:\n\n(A) Both (A) and (R) are true and (R) is the correct explanation of (A).\n(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).\n(C) (A) is true, (R) is false.\n(D) (A) is false, (R) is true.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, (R) is false.",
+            "(D) (A) is false, (R) is true."
+          ],
+          "correct_answer": 2,
+          "correct_text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+          "unit": "Unit 7",
+          "topic": "7.3 Emotion",
+          "subtopic": "Theories of Emotion",
+          "concept": "Thalamus (Cannon-Bard) and Hypothalamus play key roles in emotion; anatomical proximity is true but doesn't explain their emotional functions",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 44,
+          "question": "Taylor conceptualized anxiety as a drive and hypothesized that subjects scoring higher on her anxiety scale would be conditioned faster than the low-scoring subjects. The experimental studies confirmed this hypothesis for eyelid conditioning. The results provide evidence for the",
+          "options": [
+            "(A) predictive validity of the anxiety scale.",
+            "(B) construct validity of the anxiety scale.",
+            "(C) concurrent validity of the anxiety scale.",
+            "(D) content validity of the anxiety scale."
+          ],
+          "correct_answer": 2,
+          "correct_text": "construct validity of the anxiety scale.",
+          "unit": "Unit 3",
+          "topic": "3.4 Validity",
+          "subtopic": "Construct validity",
+          "concept": "Construct validity: confirming a theoretically derived hypothesis (anxiety as drive → faster conditioning) provides evidence that the scale measures the intended construct—NOT merely predicts a criterion (predictive validity)",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        },
+        {
+          "id": 45,
+          "question": "Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R). Indicate your answer using the codes given below:\n\n**Assertion (A)**: According to Flynn, performance on IQ tests has substantially increased around the world at all age levels.\n\n**Reason (R)**: Performance on IQ tests is because of the interaction between genetics and environment.\n\n**Codes**:\n\n(A) Both (A) and (R) are true and (R) is the correct explanation of (A).\n(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).\n(C) (A) is true, but (R) is false.\n(D) (A) is false, but (R) is true.",
+          "options": [
+            "(A) Both (A) and (R) are true and (R) is the correct explanation of (A).",
+            "(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+            "(C) (A) is true, but (R) is false.",
+            "(D) (A) is false, but (R) is true."
+          ],
+          "correct_answer": 2,
+          "correct_text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+          "unit": "Unit 6",
+          "topic": "6.2 Intelligence",
+          "subtopic": "Measurement of Intelligence",
+          "concept": "Flynn Effect: rising IQ scores worldwide; (R) is true (gene-environment interaction) but doesn't specifically explain the Flynn Effect (which is attributed to environmental factors like nutrition, education, test sophistication)",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": null,
+          "table_ref": null
+        }
+      ]
+    },
+    {
+      "type": "passage",
+      "id": "passage_46",
+      "heading": "### Passage (Questions 46–50)",
+      "text": "The concept of variable is of central importance in research. In psychological research, variables can be classified in several ways. Edwards has classified variables in three types – stimulus variables, behavioural variables and organismic variables. From another perspective, variables have been classified into two types – the continuous variables and discrete variables. The discrete variables are further subclassified as real discrete variables and artificially discrete variables.\n\nThe variables in research can be defined in various ways, the two common types of definitions being – constitutive definitions and operational definitions. The operationalization of variables is of crucial importance in carrying out actual research. The tentative statements of expected relationship between two or more variables are called hypotheses. The research hypotheses may be directional or non-directional. Needless to say that the hypotheses constitute to be the powerful tools in psychological research."
+    },
+    {
+      "type": "questions_block",
+      "range": "Q46–Q50",
+      "passage_ref": "passage_46",
+      "questions": [
+        {
+          "id": 46,
+          "question": "Which of the following variable/s can be labelled as organismic variable/s?\n\n1. Task complexity\n2. Intelligence\n3. Errors made while learning task\n4. Heart rate\n\n**Codes**:\n\n(A) 4 only\n(B) 2 and 4 only\n(C) 1, 2 and 4 only\n(D) 2, 3 and 4 only",
+          "options": [
+            "(A) 4 only",
+            "(B) 2 and 4 only",
+            "(C) 1, 2 and 4 only",
+            "(D) 2, 3 and 4 only"
+          ],
+          "correct_answer": 2,
+          "correct_text": "2 and 4 only",
+          "unit": "Unit 2",
+          "topic": "2.1 Foundations of Research",
+          "subtopic": "Variables",
+          "concept": "Organismic variables: inherent to organism — Intelligence (2) and Heart rate (4); Task complexity (1) is stimulus variable; Errors (3) is behavioral variable",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": "passage_46",
+          "table_ref": null
+        },
+        {
+          "id": 47,
+          "question": "Which one of the following is an example of an artificially discrete variable?",
+          "options": [
+            "(A) Number of children in a family",
+            "(B) Nationality",
+            "(C) Sex",
+            "(D) Examination results in terms of pass and fail"
+          ],
+          "correct_answer": 4,
+          "correct_text": "Examination results in terms of pass and fail",
+          "unit": "Unit 2",
+          "topic": "2.1 Foundations of Research",
+          "subtopic": "Variables",
+          "concept": "Artificially discrete: continuous variable (exam scores) artificially categorized into discrete groups (pass/fail); number of children, nationality, sex are naturally discrete",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": "passage_46",
+          "table_ref": null
+        },
+        {
+          "id": 48,
+          "question": "Which of the following is/are operational definitions of intelligence?\n\n1. Intelligence ratings by an observing psychologist.\n2. Intelligence as an ability to think critically, solve problems and adapt to the novel situations.\n3. Intelligence as a score on Raven's Progressive matrices.\n\n**Codes**:\n\n(A) 2 only\n(B) 3 only\n(C) 1 and 3 only\n(D) 1, 2, 3",
+          "options": [
+            "(A) 2 only",
+            "(B) 3 only",
+            "(C) 1 and 3 only",
+            "(D) 1, 2, 3"
+          ],
+          "correct_answer": 3,
+          "correct_text": "1 and 3 only",
+          "unit": "Unit 2",
+          "topic": "2.1 Foundations of Research",
+          "subtopic": "Operational definition",
+          "concept": "Operational definitions specify HOW to measure: ratings by psychologist (1) and Raven's score (3); (2) is a constitutive/theoretical definition",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": "passage_46",
+          "table_ref": null
+        },
+        {
+          "id": 49,
+          "question": "'Males are more extraverted than females' is an example of",
+          "options": [
+            "(A) Null hypothesis",
+            "(B) Non-directional hypothesis",
+            "(C) Directional hypothesis",
+            "(D) Unverifiable hypothesis"
+          ],
+          "correct_answer": 3,
+          "correct_text": "Directional hypothesis",
+          "unit": "Unit 2",
+          "topic": "2.2 Hypothesis",
+          "subtopic": "Hypothesis types",
+          "concept": "Directional hypothesis: specifies the direction of expected difference (males MORE extraverted than females)",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": "passage_46",
+          "table_ref": null
+        },
+        {
+          "id": 50,
+          "question": "Which of the following represent/s stylistically correct version/s of a hypothesis?\n\n1. To study the relationship between intelligence and academic achievement.\n2. Is there a relationship between intelligence and academic achievement?\n3. Intelligence and academic achievement are positively correlated.\n4. Intelligence and academic achievement are unrelated.\n\n**Codes**:\n\n(A) 1 only\n(B) 3 only\n(C) 1 and 2 only\n(D) 3 and 4 only",
+          "options": [
+            "(A) 1 only",
+            "(B) 3 only",
+            "(C) 1 and 2 only",
+            "(D) 3 and 4 only"
+          ],
+          "correct_answer": 4,
+          "correct_text": "3 and 4 only",
+          "unit": "Unit 2",
+          "topic": "2.2 Hypothesis",
+          "subtopic": "Hypothesis formulation",
+          "concept": "Proper hypotheses are declarative statements of expected relationships (3, 4); (1) is a research objective, (2) is a research question — neither is a hypothesis",
+          "era": "UGC",
+          "year": 2012,
+          "passage_ref": "passage_46",
+          "table_ref": null
+        }
+      ]
+    }
+  ]
+}
